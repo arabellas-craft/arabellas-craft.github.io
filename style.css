@@ -13,6 +13,16 @@ body {
   height: 100vh;
 }
 
+a {
+  text-decoration-color: #beb339;
+  text-decoration-thickness: 0.2rem;
+  color: #fff;
+}
+
+a:hover {
+ text-decoration-color: #6c819c;
+}
+
 header {
   display: flex;
   flex-direction: row;
@@ -28,14 +38,11 @@ header h1 {
 
 header a {
   font-size: 1.5rem;
-  text-decoration-color: #beb339;
-  text-decoration-thickness: 0.2rem;
-  color: #fff;
   padding-left: 5rem;
 }
 
-header a:hover {
-  text-decoration-color: #6c819c;
+menu {
+  padding: 0;
 }
 
 main h1 {
@@ -48,4 +55,30 @@ p {
   font-size: 1.75rem;
   padding-bottom: 1rem;
   line-height: 2;
+}
+
+@media (max-width: 1024px) {
+  body {
+    grid-template-columns:1fr;
+  }
+
+  header {
+    flex-direction: column;
+  }
+
+  menu {
+    text-align: center;
+  }
+
+  header h1 {
+    text-align: center;
+    margin-bottom: 0;
+  }
+
+  header a {
+    display: inline-block;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    text-align: center;
+  }
 }
