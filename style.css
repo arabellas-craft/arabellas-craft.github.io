@@ -4,7 +4,7 @@ body {
   background-size: cover;
   font-family: 'Benne', serif;
   font-size: 16px;
-  color: #fff;
+  color: #fbfcfe;
   padding: 0 2.75rem;
   display: grid;
   grid-gap: 1.375rem;
@@ -14,13 +14,16 @@ body {
 }
 
 a {
-  text-decoration-color: #beb339;
+  text-decoration-color: #6c819c;
   text-decoration-thickness: 0.2rem;
-  color: #fff;
+  color: #fbfcfe;
+  transition: 0.25s;
+  text-underline-offset: 0.75rem;
 }
 
 a:hover {
- text-decoration-color: #6c819c;
+  color: #6c819c;
+  text-decoration: none;
 }
 
 header {
@@ -29,6 +32,17 @@ header {
   align-items: center;
   justify-content: space-between;
    grid-column: 1 / -1;
+}
+
+.brand {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.logo img {
+  height: 100px;
+  margin-right: 8px;
 }
 
 header h1, header h6 {
@@ -58,7 +72,7 @@ menu {
 main h1 {
   font-family: 'Gloria Hallelujah', cursive;
   font-size: 2rem;
-  color: #beb339;
+  color: #6c819c;
 }
 
 p {
