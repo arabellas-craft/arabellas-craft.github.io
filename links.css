@@ -19,6 +19,7 @@ a {
 }
 
 a:hover {
+  background: #fbfcfe;
   color: #6c819c;
   text-decoration: none;
 }
