@@ -67,3 +67,11 @@ p {
   line-height: 2;
   text-align: center;
 }
+
+.explainer {
+  padding-bottom: 1rem;
+}
+
+small {
+  font-size: 65%;
+}
