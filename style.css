@@ -84,6 +84,21 @@ p {
   line-height: 2;
 }
 
+.button {
+  background: #6c819c;
+  text-decoration: none;
+  color: #fbfcfe;
+  padding: 0.5rem 2rem;
+  border-radius: 0.25rem;
+  transition: 0.25s;
+}
+
+.button:hover {
+  background: #fbfcfe;
+  color: #6c819c;
+  text-decoration: none;
+}
+
 @media (max-width: 1024px) {
   body {
     grid-template-columns:1fr;
