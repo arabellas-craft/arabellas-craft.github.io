@@ -116,7 +116,12 @@ p {
     padding: 0;
   }
 
+  menu {
+    margin-top: 2rem;
+  }
+
   main {
     padding: 0 1rem;
+    grid-column: 1/-1;
   }
 }
