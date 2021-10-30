@@ -26,6 +26,8 @@ This one is a classic, but for good reason! Pollack goes more in-depth than almo
 Systems of oppression thrive off our inability to make peace with difference and injure the relationship we have with our own bodies. Taylor's solution of radical self-love offers us a chance to heal. Learning to love yourself as you are is one of the most powerful things you can do for yourself.
 <br>
 
+![](/assets/img/divider.svg){:.divider}
+
 ![](/assets/img/article/recommendations/placebo_magick.jpg){:.book}
 ## [Placebo Magick](https://www.farmcodegary.com/)
 
