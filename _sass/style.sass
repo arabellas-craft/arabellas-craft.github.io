@@ -44,6 +44,13 @@ header
   align-items: center
   grid-column: 1 / 4
 
+  &.minimal
+    flex-direction: column
+    grid-column: 1 / -1
+
+    img
+      max-width: 125px
+
   h1, h6
     font-family: 'Beth Ellen', cursive
   h1
@@ -68,10 +75,14 @@ menu
 main
   margin-top: 4rem
   grid-column: 2 / 5
+  &.minimal
+    margin: auto
+    text-align: center
 
   h1
     font-family: 'Beth Ellen', cursive
     font-size: 2rem
+    line-height: 1.25
     color: $blue
     margin-bottom: 1rem
 
@@ -79,6 +90,8 @@ main
     font-size: 1.75rem
     padding-bottom: 3rem
     line-height: 1.5
+    > a.button
+      display: inline
 
   .explainer
     line-height: 1.2
@@ -103,10 +116,10 @@ main
   header
     flex-direction: column
 
-    &, menu
-      text-align: center
-      grid-column: 1 / -1
-      padding: 0
+  menu
+    text-align: center
+    grid-column: 1 / -1
+    padding: 0
 
   menu
     margin-top: 2rem
