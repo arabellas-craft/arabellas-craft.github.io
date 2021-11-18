@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Asking the Right Questions to get the Most Out of Your Tarot Reading"
+title:  "Asking the Right Questions to Get the Most Out of Your Tarot Reading"
 date:   2021-10-21 20:51:01 -0700
 short-description: "The way you formulate your questions in tarot can have a big effect on the answers you get."
 categories: tarot questions
