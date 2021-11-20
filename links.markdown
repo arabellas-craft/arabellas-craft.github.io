@@ -6,7 +6,9 @@ permalink: /links/
 
 [Book a Reading](https://etsy.me/303ggt1){: .button }
 
-[Recommendations](/recommendations/){: .button }
+[Tarot Spread Packs](https://etsy.me/3FvOdSe){: .button }
+
+[Witchy Recommendations](/recommendations/){: .button }
 
 [Tarot Reading Tips](/good-questions-for-tarot-readings/){: .button }
 
