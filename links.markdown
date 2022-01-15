@@ -8,6 +8,6 @@ permalink: /links/
 
 [Tarot Spread Packs](https://etsy.me/3FvOdSe){: .button }
 
-[Ko-Fi](https://ko-fi.com/arabellascraft){: .button }
+[Blog](https://ko-fi.com/arabellascraft){: .button }
 
 [ArabellasCraft.com](https://www.ArabellasCraft.com){: .button }
