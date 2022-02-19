@@ -4,11 +4,12 @@ title:  "5 Ways to Prepare for Your First Tarot Reading"
 date:   2021-11-09 05:13:01 -0700
 short-description: "What to expect when you're getting your tarot cards read."
 categories: tarot questions
+img: "first-tarot-reading.jpg"
 permalink: /5-Tips-to-Prepare-for-Your-Tarot-Card-Reading/
 ---
 
 ## 1. Find the right reader
-Finding a good tarot reader can be difficult! Before [booking a reading](/tarot-reading) with someone you'll want to read their [about](/about) page to how they view themselves and tarot and make sure your views on tarot align. Some people see tarot as more of a self-reflection tool, and others are more into the fortune telling side of things.
+Finding a good tarot reader can be difficult! Before [booking a reading](https://shop.arabellascraft.com/?sort=page_layout&tags=tarot%20card%20reading) with someone you'll want to read their [about](/about) page to how they view themselves and tarot and make sure your views on tarot align. Some people see tarot as more of a self-reflection tool, and others are more into the fortune telling side of things.
 
 You'll also want to double check their policies to make sure they do the kind of reading you're looking for. Lots of readers won't do readings about health, legal matters, or fertility.
 
@@ -23,4 +24,4 @@ Making sure you're in the right headspace for a reading is important. Make sure 
 
 
 ## 5. Record the reading or take notes
-If you're getting a live reading you may think you'll remember everything, but you'd be surprised by how quickly things fade from memory! Asking the reader if you can record the session is the easiest way to be able to reference it later, although some readers may prefer that you don't, in which case you'll have to take notes. This is a bit easier to deal with when the reader isn't reading live as they'll give you a record of the reading generally either by [email](/tarot-reading), audio or video.
+If you're getting a live reading you may think you'll remember everything, but you'd be surprised by how quickly things fade from memory! Asking the reader if you can record the session is the easiest way to be able to reference it later, although some readers may prefer that you don't, in which case you'll have to take notes. This is a bit easier to deal with when the reader isn't reading live as they'll give you a record of the reading generally either by [email](https://shop.arabellascraft.com/?sort=page_layout&tags=tarot%20reading), audio or video.

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    {% include article-head.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    <main>
+      <img src="/assets/img/article/{{ page.img }}" alt="{{ post.title }}" title="{{ post.title }}">
+      <br>
+      <h3>{{page.title}}</h3>
+      <br>
+      {{ content }}
+    </main>
+    <footer>
+      {% include article-footer.html %}
+    </footer>
+  </body>
+</html>

@@ -1,11 +1,9 @@
-$black: #2D2724
-$blue: #6c819c
-$white: #fbfcfe
-$tan: #E5A378
+@import colors
+@import gumroad
 
 // General
 body
-  background: rgba($tan, 0.25)
+  background: rgba($orange, 0.25)
   background-attachment: fixed
   background-size: cover
   font-family: 'Fjord One', serif
@@ -32,12 +30,13 @@ a
   background: $blue
   text-decoration: none
   color: $white
+  line-height: 1.75
   padding: 0.5rem 1rem
   transition: 0.25s
-  border-radius: 4px
+  border-radius: 0.25rem
   &:hover
-    background: $white
-    color: $blue
+    background: $orange
+    color: $white
     text-decoration: none
 
 // Header
@@ -62,6 +61,7 @@ header
     line-height: 1.55
   h6
     font-size: 1rem
+    line-height: 1.25
 
   .logo img
     height: 80px
@@ -168,7 +168,7 @@ main
   h1
     font-family: 'Beth Ellen', cursive
     font-size: 2rem
-    line-height: 1.25
+    line-height: 1.75
     color: $blue
     margin-bottom: 1rem
 
@@ -178,7 +178,12 @@ main
     line-height: 1.5
     > a.button
       display: inline
-      font-size: 1.5rem
+      font-size: 1.15rem
+      padding: 0.75rem
+  img
+    display: block
+    max-width: 100%
+    margin: auto
 
   .explainer
     line-height: 1.2
@@ -188,6 +193,12 @@ main
 
   small
     font-size: 65%
+
+  article
+    a
+      text-decoration: none
+      &:hover
+        color: $black
 
 .divider
   width: 1024px
@@ -205,6 +216,7 @@ main
     text-align: center
     h1
       font-size: 2rem
+
   .hamburger
     top: 1rem
     left: 5%
@@ -215,3 +227,11 @@ main
   main
     padding: 0 1rem
     grid-column: 1 / -1
+
+    h1
+      font-size: 1.35rem
+    p
+      font-size: 1.15rem
+
+    .hide-on-mobile
+      display: none

@@ -13,3 +13,11 @@ permalink: /links/
 [Blog](https://arabellascraft.com/articles/){: .button }
 
 [ArabellasCraft.com](https://www.ArabellasCraft.com){: .button }
+
+<img src="/assets/img/divider.svg">
+
+<form action="https://app.gumroad.com/follow_from_embed_form" class="form gumroad-follow-form-embed" method="post">
+<input name="seller_id" type="hidden" value="3221571659806">
+<input name="email" placeholder="Your email address" type="email">
+<button data-custom-highlight-color="" type="submit">Stay In Touch</button>
+</form>

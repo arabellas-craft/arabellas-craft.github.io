@@ -7,6 +7,8 @@
     {% include header.html %}
     <main>
       <h1 class="title">{{page.title}}</h1>
+      <img src="/assets/img/article/{{ page.img }}" alt="{{ post.title }}" title="{{ post.title }}">
+      <br>
       {{ content }}
     </main>
     <footer>

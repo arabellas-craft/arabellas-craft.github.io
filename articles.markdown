@@ -6,12 +6,15 @@ permalink: /articles/
 
 {% for post in site.posts %}
   <article>
+    <img src="/assets/img/article/{{post.img}}">
+    <a href="{{ post.url }}">
     <h1>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.title }}
     </h1>
-    <br>
+    <br class="hide-on-mobile">
     <p class="no-padding-bottom">{{ post.short-description }}</p>
-    <p><small><a href="{{ post.url }}">Read more</a></small></p>
+    </a>
   </article>
-  <br>
+<br>
+<img src="/assets/img/divider.svg">
 {% endfor %}
