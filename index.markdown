@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Arabella's Craft | Tarot Readings | Online Tarot Card Reading
 ---
 
