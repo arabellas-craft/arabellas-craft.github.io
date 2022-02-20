@@ -19,5 +19,59 @@
 - title: "3 Card Daily Tarot Spread"
   name: 3-card-daily-tarot-spread
   img: "3-card-daily-tarot-spread.jpg"
-  category: Daily
+  category: Simple
   description: "Daily tarot card pulls can be really helpful for new readers and for anyone who just wants a quick overview about their day. Here's a spread I use when I feel like I need a little 'extra' for my day. I hope you find it useful!"
+
+- title: "Staying Grounded Tarot Spread"
+  name: grounding-earthing-tarot-spread
+  img: "grounding-earthing-tarot-spread.jpg"
+  category: Healing and Health
+  description: "A simple tarot spread for when you're feeling a bit frazzled and need to get grounded.⁠"
+
+- title: "Imbolc Tarot Spread"
+  name: imbolc-tarot-spread
+  img: "imbolc-tarot-spread.jpg"
+  category: Holidays
+  description: "Imbolg/Imbolc now is a great time to divine what you should grow in your life this spring and what can be cleared away.⁠"
+
+- title: "Love Tarot Reading for Single People"
+  name: love-tarot-reading-for-single-people
+  img: "love-tarot-reading-for-single-people.jpg"
+  category: Love and Relationships
+  description: "Get a deep look into your love life and potential relationships with this tarot card spread. Discover what you need to find a partner, what's holding you back from relationships and what you should be looking for.⁠"
+
+- title: "New Moon Tarot Spread"
+  name: new-moon-tarot-spread
+  img: "new-moon-tarot-spread.jpg"
+  category: Lunar
+  description: "The new moon is a great time to get started on some shadow work if you're feeling up to it, which is why I made this quick spread."
+
+- title: Samhain Tarot Spread
+  name: samhain-tarot-spread
+  img: "samhain-tarot-spread.jpg"
+  category: Holidays
+  description: "Samhain is associated with the thinning veil between the worlds and can be an especially powerful time to do tarot readings.⁠"
+
+- title: Tarot for Connecting with Spirit Guides
+  name: tarot-for-connecting-with-spirit-guides
+  img: "tarot-for-connecting-with-spirit-guides.jpg"
+  category: Spirit Communication
+  description: "A spread to connect with your guides. It's great for guidance and clarification."
+
+- title: Triple Moon Tarot Spread for Personal Growth
+  name: triple-moon-tarot-spread-for-personal-development-and-growth
+  img: "triple-moon-tarot-spread-for-personal-development-and-growth.jpg"
+  category: Simple
+  description: "Tarot cards can be an amazing tool for growth and self-discovery. Doing shadow work is so important!"
+
+- title: Waxing Moon for Manifestation
+  name: waxing-moon-tarot-for-manifestation
+  img: "waxing-moon-tarot-for-manifestation.jpg"
+  category: Lunar
+  description: "The waxing moon is a great time to see what is growing and changing in your life!⁠"
+
+- title: What Do I Need to Know Tarot Spread
+  name: what-do-i-need-to-know-tarot-spread
+  img: "what-do-i-need-to-know-tarot-spread.jpg"
+  category: Simple
+  description: "A four card tarot spread for finding out what you need to know. I've found this spread very helpful when going into situations where I'm not sure I'm seeing the full picture.⁠"

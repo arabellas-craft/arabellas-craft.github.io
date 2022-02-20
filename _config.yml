@@ -36,9 +36,12 @@ sass:
   sass_dir: _sass
 
 categories-order:
+ - Simple
  - Lunar
- - Daily
+ - Healing and Health
+ - Love and Relationships
  - Holidays
+ - Spirit Communication
 
 page_gen_dirs: false
 
