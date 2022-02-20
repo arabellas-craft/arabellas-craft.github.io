@@ -4,23 +4,13 @@ title: Book a Reading | Arabella's Craft | Tarot Readings | Online Tarot Card Re
 permalink: /tarot-reading/
 ---
 
-# Blind Tarot Reading
-
-Let the cards give you guidance and clarity on your life, or advice on a situation you are struggling with. A blind tarot reading means there will be no questions asked. You will receive a guidance message that is meant for you in this moment.
-
-[Book Reading](https://etsy.me/3C6RLsX){: .button }
-
-<br/>
-<br/>
-
-
 # Questions Answered Tarot Reading
 
 To help you make a choice between to paths. Whatever your issue, we can dive deep to get a better understand of your situation and how you should react to it.
 
-[Book a Reading](https://etsy.me/3jssx0J){: .button}
+[Book Reading](https://shop.arabellascraft.com/l/TarotReading){: .button}
 
-<br/>
+![divider](/assets/img/divider.svg)
 <br/>
 
 
@@ -29,13 +19,34 @@ To help you make a choice between to paths. Whatever your issue, we can dive dee
 What message do you need to hear right now? What are your guides trying to tell you?
 I will use a 5 card tarot spread to help you find out. Our guides, higher self and intuition are always trying to guide us in life, but sometimes they an be hard to hear. This reading will help you cut through the noise.
 
-[Book Reading](https://etsy.me/3b2w4OS){: .button}
+[Book Reading](https://shop.arabellascraft.com/l/SpiritGuideTarotReading){: .button}
 
+![divider](/assets/img/divider.svg)
 <br/>
+
+# Love Reading for Singles
+
+Get a deep look into your love life and potential relationships with a 6 card tarot card reading. Discover what you need to find a partner, what's holding you back from relationships and what you should be looking for.
+
+[Book Reading](https://shop.arabellascraft.com/l/LoveReadingForSingles){: .button}
+
+![divider](/assets/img/divider.svg)
 <br/>
 
-# Month Ahead Full Moon Tarot Reading
 
-The full moon is a time of heightened energy and manifestation. It is a time to release what does not serve you and to harvest what you have nourished and grown. This reading is intended to look at what you should embrace and let go of over the next lunar month.
+# Love Reading for Couples
 
-[Book Reading](https://etsy.me/3prlo4I){: .button}
+Get a deep look into your relationship with a 6 card tarot card relationship reading. Discover new and hidden perspectives on how you are both feeling and what you both bring to the relationship. Get advice on the potential outcome of the relationship.
+
+[Book Reading](https://shop.arabellascraft.com/l/LoveReadingForCouples){: .button}
+
+![divider](/assets/img/divider.svg)
+<br/>
+
+# Career Reading
+
+Is your current current path is right for you? Is it time for a change? Should you get a new job? Start your own business? What should you do after you graduate?
+
+In this 6 card reading I will help you with any career or job related question you may have. Using my intuition, and tarot and cards I will answer your questions about your education, career, job, business and wealth.
+
+[Book Reading](https://shop.arabellascraft.com/l/CareerTarotReading){: .button}

@@ -29,9 +29,28 @@ url: "arabellascraft.com" # the base hostname & protocol for your site, e.g. htt
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-datapage-generator
+  - jekyll-seo-tag
 sass:
   implementation: sass-embedded
   sass_dir: _sass
+
+categories-order:
+ - Lunar
+ - Daily
+ - Holidays
+
+page_gen_dirs: false
+
+page_gen:
+- data: free-tarot-spreads
+  template: free-tarot-spread
+  dir: free-tarot-spreads
+  name: name
+  title: title
+  img: img
+  category: category
+  description: description
 
 # Exclude from processing.
 # The following items will not be processed, by default.

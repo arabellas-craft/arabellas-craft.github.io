@@ -1,12 +1,19 @@
-
 <img src="/assets/img/divider.svg" alt="" class="divider">
-<h2>Sign up to get the lastest articles and free tarot spreads</h2>
+<h2>Get the Latest Free Tarot Spreads in Your Email</h2>
 <form action="https://app.gumroad.com/follow_from_embed_form" class="form gumroad-follow-form-embed" method="post">
 <input name="seller_id" type="hidden" value="3221571659806">
 <input name="email" placeholder="Your email address" type="email">
 <button data-custom-highlight-color="" type="submit">Sign Up</button>
 </form>
-<p>or</p>
 <br>
-<p><a href="https://shop.arabellascraft.com/?sort=page_layout&tags=tarot%20card%20reading" class="button">Book a Reading</a></p>
-<br><br>
+<br>
+<h2>More Tarot Spreads</h2>
+<div class="gumroad-gallery">
+  {% for product in site.data.tarot-spread-packs %}
+    <a href="{{ product.url }}" target="_blank">
+      <img src="/assets/img/gumroad-tarot-spreads/{{product.img}}">
+    </a>
+  {% endfor %}
+</div>
+<br>
+<br>

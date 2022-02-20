@@ -6,14 +6,13 @@
   <body>
     {% include header.html %}
     <main>
-      <img src="/assets/img/article/{{ page.img }}" alt="{{ post.title }}" title="{{ post.title }}">
+      <img src="/assets/img/tarot-spread/{{ page.img }}" alt="{{ page.title }}" title="{{ page.title }}">
       <br>
-      <h3>{{page.title}}</h3>
-      <br>
-      {{ content }}
+      <h1>{{page.title}}</h1>
+      <p>{{ page.description }}</p>
     </main>
     <footer>
-      {% include article-footer.html %}
+      {% include upsell-footer.html  %}
     </footer>
   </body>
 </html>
