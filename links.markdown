@@ -4,9 +4,9 @@ title: Links | Arabella's Craft | Tarot Readings | Online Tarot Card Reading
 permalink: /links/
 ---
 
-[Free Major Arcana Cheatsheet](https://shop.arabellascraft.com/l/TheFoolsJourney/insta){: .button }
-
 [Book a Reading](http://shop.arabellascraft.com/?sort=page_layout&tags=tarot%20card%20reading){: .button }
+
+[Free Major Arcana Cheatsheet](https://shop.arabellascraft.com/l/TheFoolsJourney/insta){: .button }
 
 [Tarot Spread Packs](https://shop.arabellascraft.com/?sort=page_layout&tags=tarot%20spreads){: .button }
 
