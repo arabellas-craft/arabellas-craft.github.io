@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Full Mooon Journal Prompts"
+title:  "Full Moon Journal Prompts"
 date:   2022-03-12 05:13:01 -0700
 short-description: "During the full moon we have the chance to step back and reflect on all that's been created during this past lunar cycle. It’s important to also take time to pause, reflect, and let go of what you no longer need."
 categories: journal prompts
