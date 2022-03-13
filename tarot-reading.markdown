@@ -4,7 +4,7 @@ title: Book a Reading | Arabella's Craft | Tarot Readings | Online Tarot Card Re
 permalink: /tarot-reading/
 ---
 
-# Questions Answered Tarot Reading
+## Questions Answered Tarot Reading
 
 To help you make a choice between to paths. Whatever your issue, we can dive deep to get a better understand of your situation and how you should react to it.
 
@@ -14,7 +14,7 @@ To help you make a choice between to paths. Whatever your issue, we can dive dee
 <br/>
 
 
-# Spirit Guide Tarot Reading
+## Spirit Guide Tarot Reading
 
 What message do you need to hear right now? What are your guides trying to tell you?
 I will use a 5 card tarot spread to help you find out. Our guides, higher self and intuition are always trying to guide us in life, but sometimes they an be hard to hear. This reading will help you cut through the noise.
@@ -24,7 +24,7 @@ I will use a 5 card tarot spread to help you find out. Our guides, higher self a
 ![divider](/assets/img/divider.svg)
 <br/>
 
-# Love Reading for Singles
+## Love Reading for Singles
 
 Get a deep look into your love life and potential relationships with a 6 card tarot card reading. Discover what you need to find a partner, what's holding you back from relationships and what you should be looking for.
 
@@ -34,7 +34,7 @@ Get a deep look into your love life and potential relationships with a 6 card ta
 <br/>
 
 
-# Love Reading for Couples
+## Love Reading for Couples
 
 Get a deep look into your relationship with a 6 card tarot card relationship reading. Discover new and hidden perspectives on how you are both feeling and what you both bring to the relationship. Get advice on the potential outcome of the relationship.
 
@@ -43,7 +43,7 @@ Get a deep look into your relationship with a 6 card tarot card relationship rea
 ![divider](/assets/img/divider.svg)
 <br/>
 
-# Career Reading
+## Career Reading
 
 Is your current current path is right for you? Is it time for a change? Should you get a new job? Start your own business? What should you do after you graduate?
 
