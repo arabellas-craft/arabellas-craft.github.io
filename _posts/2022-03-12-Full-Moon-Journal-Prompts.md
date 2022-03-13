@@ -17,6 +17,7 @@ The full moon is a time to:
 * Reflect on what you've accomplished this past lunar cycle
 * Reflect on what has been illuminated for you this lunar cycle
 * Release what no longer serves you
+* Do [your own tarot reading](/free-tarot-spreads/full-moon-tarot-spread) or [get a tarot reading](https://shop.arabellascraft.com/l/MonthAheadTarotReading) for the month ahead
 
 ![](/assets/img/divider.svg){:.divider}
 
