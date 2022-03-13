@@ -43,7 +43,7 @@ categories-order:
  - Holidays
  - Spirit Communication
 
-page_gen_dirs: false
+page_gen_dirs: true
 
 page_gen:
 - data: free-tarot-spreads
