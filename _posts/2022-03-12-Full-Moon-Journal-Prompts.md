@@ -5,7 +5,7 @@ date:   2022-03-12 05:13:01 -0700
 short-description: "During the full moon we have the chance to step back and reflect on all that's been created during this past lunar cycle. It’s important to also take time to pause, reflect, and let go of what you no longer need."
 categories: journal prompts
 img: "full-moon-journal-prompts.jpg"
-permalink: /Full-Moon-Journal-Prompts/
+permalink: /full-moon-journal-prompts/
 ---
 ## Working with the Full Moon
 During the full moon we have the chance to step back and reflect on all that's been created during this past lunar cycle. It’s important to also take time to pause, reflect, and let go of what you no longer need.
