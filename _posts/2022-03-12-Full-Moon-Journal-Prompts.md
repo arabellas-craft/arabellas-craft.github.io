@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Full Moon Journal Prompts"
+title:  "Full Moon Ritual Ideas and Journal Prompts"
 date:   2022-03-12 05:13:01 -0700
 short-description: "During the full moon we have the chance to step back and reflect on all that's been created during this past lunar cycle. It’s important to also take time to pause, reflect, and let go of what you no longer need."
 categories: journal prompts
@@ -59,4 +59,4 @@ The last step of my full moon ritual is releasing what I no longer need. As we m
 ## 6. Closing
 After releasing I normally like to do something small to close my ritual. This will vary from month to month, but anoint myself with ritual oils, or take a ritual bath to cleanse and recharge myself until the New Moon.
 
-I hope these full moon ritual ideas and journal prompts have given you some ideas for your own full moon ritual. Working with the full moon can be extremely powerful and rewarding! Let your intuition guide you! 
+I hope these full moon ritual ideas and journal prompts have given you some ideas for your own full moon ritual. Working with the full moon can be extremely powerful and rewarding! Let your intuition guide you!
