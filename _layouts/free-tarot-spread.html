@@ -6,10 +6,11 @@
   <body>
     {% include header.html %}
     <main>
-      <img src="/assets/img/tarot-spread/{{ page.img }}" alt="{{ page.title }}" title="{{ page.title }}">
+      <img src="/assets/img/tarot-spread/{{ page.img }}" alt="{{ page.title }}" title="{{ page.title }}" class="tarot-spread">
       <br>
       <h1>{{page.title}}</h1>
       <p>{{ page.description }}</p>
+      <p><a href="/free-tarot-spread">See More Tarot Spreads</a></p>
     </main>
     <footer>
       {% include upsell-footer.html  %}
