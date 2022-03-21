@@ -3,7 +3,7 @@ layout: article
 title:  "5 Ways to Prepare for Your First Tarot Reading"
 date:   2021-11-09 05:13:01 -0700
 short-description: "What to expect when you're getting your tarot cards read."
-categories: tarot questions
+categories: tarot questions, tarot
 img: "first-tarot-reading.jpg"
 permalink: /5-Tips-to-Prepare-for-Your-Tarot-Card-Reading/
 ---

@@ -3,7 +3,7 @@ layout: article
 title:  "Recommended Books and Podcasts"
 date:   2021-10-21 20:35:01 -0700
 short-description: "Books and podcasts that I've found useful in my journey."
-categories: books recommendations
+categories: books recommendations, witchcraft, pagan
 img: "books.jpg"
 permalink: /recommendations/
 ---

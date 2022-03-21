@@ -3,7 +3,7 @@ layout: article
 title:  "Full Moon Ritual Ideas and Journal Prompts"
 date:   2022-03-12 05:13:01 -0700
 short-description: "During the full moon we have the chance to step back and reflect on all that's been created during this past lunar cycle. It’s important to also take time to pause, reflect, and let go of what you no longer need."
-categories: journal prompts
+categories: journal prompts, full moon, ritual, witchcraft
 img: "full-moon-journal-prompts.jpg"
 permalink: /full-moon-ritual-ideas-and-journal-prompts/
 ---
