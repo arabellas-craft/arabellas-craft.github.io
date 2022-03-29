@@ -44,10 +44,10 @@ After grounding myself I generally start my ritual with journaling. Journaling c
 * What are some of the first signs that I need self-care?
 
 ## 4. Tarot Card Reading
-After journaling I like to give myself a tarot reading, and during the new moon I like to give myself a reading related to shadow work. You can [see the spread I use](/free-tarot-spreads/full-moon-tarot-spread) to try on your own, or [get a reading from me](https://shop.arabellascraft.com/l/MonthAheadTarotReading). Make sure to record your reading and your thoughts in your tarot journal to reference later!
+After journaling I like to give myself a tarot reading, and during  the new moon I like to give myself a reading related to shadow work. To me the stillness and darkness of this time really tunes me into my inner self. You can [see the spread I use](/free-tarot-spreads/full-moon-tarot-spread) to try on your own, or [get a reading from me](https://shop.arabellascraft.com/l/MonthAheadTarotReading). If you do give yourself a reading, make sure to record your reading and your thoughts in your tarot journal to reference later!
 
 ## 5. Set Intentions
-The last step of my new moon ritual is setting intentions. As the  moon grows, our ideas and intentions grow as well. There are really no  wrong ways to do this! For some people simply writing them down in a  special place or with a special pen or ink is sufficient. Other people  like to meditate on their intentions, and sigil making (and charging)  is also a popular option. (I’m hoping to have a how-to for that soon!)
+The biggest part of my new moon ritual is setting intentions. As the moon grows, our ideas and intentions grow as well. There are really no wrong ways to do this! For some people simply writing their intentions down in a special place or with a special pen or ink is sufficient. Other people  like to meditate on their intentions, and sigil making (and charging) is also a popular option. Do whatever feels right to you.
 
 ## 6. Closing
 After declaring my intentions for the upcoming month I normally like to do something small to close my ritual. Exactly what that that is will vary from month to month, but I may anoint myself with ritual oils, or simply thank all the entities who have helped me with my working and snuff my candles.
