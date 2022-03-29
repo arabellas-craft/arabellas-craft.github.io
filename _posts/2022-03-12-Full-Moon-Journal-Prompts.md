@@ -51,7 +51,7 @@ After grounding myself I generally start my ritual with journaling. Journaling c
 * Which relationships in your life no longer serve you?
 
 ## 4. Tarot Card Reading
-After journaling I like to give myself a tarot reading for the month ahead. You can [see the spread I use]((/free-tarot-spreads/full-moon-tarot-spread)) to try on your own, or [get a reading from me](https://shop.arabellascraft.com/l/MonthAheadTarotReading). Make sure to record your reading and your thoughts in your tarot journal to reference later!
+After journaling I like to give myself a tarot reading for the month ahead. You can [see the spread I use](/free-tarot-spreads/full-moon-tarot-spread) to try on your own, or [get a reading from me](https://shop.arabellascraft.com/l/MonthAheadTarotReading). Make sure to record your reading and your thoughts in your tarot journal to reference later!
 
 ## 5. Release
 The last step of my full moon ritual is releasing what I no longer need. As we move towards the waning moon, this is a great time to let go of the old to make room for the new. The simplest version of this ritual is writing what you wish to release on a piece of paper and then burning or burying it. Adding sigils to your paper or burning it with banishing herbs is a great way to enhance this ritual.
