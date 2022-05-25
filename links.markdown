@@ -3,7 +3,6 @@ layout: minimal
 title: Links | Arabella's Craft | Tarot Readings | Online Tarot Card Reading
 permalink: /links/
 ---
-[Spring Equinox Tarot Spread](https://arabellascraft.com/free-tarot-spreads/spring-equinox-tarot-spread){: .button }
 
 [Book a Reading](http://shop.arabellascraft.com/?sort=page_layout&tags=tarot%20card%20reading){: .button }
 
@@ -12,6 +11,8 @@ permalink: /links/
 [Tarot Spread Packs](https://shop.arabellascraft.com/?sort=page_layout&tags=tarot%20spreads){: .button }
 
 [Blog](https://arabellascraft.com/articles/){: .button }
+
+[Tumblr](https://arabellascraft-tarotreading.tumblr.com/){: .button }
 
 [ArabellasCraft.com](https://www.ArabellasCraft.com){: .button }
 
