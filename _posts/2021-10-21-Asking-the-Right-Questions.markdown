@@ -1,23 +1,32 @@
 ---
 layout: article
-title:  "Asking the Right Questions to Get the Most Out of Your Tarot Reading"
+title:  "Asking the Right Questions - How to Get Useful Answers That You Can Interpret From Your Tarot Cards (Even As a Beginner)"
 date:   2021-10-21 20:51:01 -0700
-short-description: "The way you formulate your questions in tarot can have a big effect on the answers you get."
+short-description: "The way you formulate your questions in tarot can have a big effect on the answers you get. Here are 4 guidelines I use when asking questions in a tarot reading."
 categories: tarot questions, tarot
 img: "asking-questions.jpg"
 permalink: /good-questions-for-tarot-readings/
 ---
 
-The best way I've found to get the most of a tarot reading is by asking good questions. How can you ask good questions in tarot readings? Here's 4 things that have helped me.
+I've been reading tarot for nearly 20 years and I've found that asking the right questions can make all the difference in a tarot reading.
 
-## 1. Ask Open Ended Questions
-Try to avoid asking yes or not questions. There are lots of other divination styles that are better suited to yes/no questions (pendulums are great for this). Allow the cards to have a conversation with you.
+About half the time I encounter a newbie looking for help interpreting a reading the problem can be traced back to the way they asked their question.
 
-## 2. Focus on yourself
-You're the only person you can change. Instead ask about how you should react to other people, not what they'll do to you. It's tempting to ask if your ex will come back to you, but you'll get a better reading if you ask what you need
+These are 4 guidelines I try to stick to when formatting a question for tarot.
 
-## 3. Watch your language
-The way you phrase your questions can shut down or open up a reading. Instead of asking "Who is.." or "When will.." questions try "What do I need to know about..." or "How can I..."
+## Rephrase yes/no questions
+This one is probably the problem I see the most often. People ask a yes/no question, pull a few cards, and then they're unsure of how to interpret the response. While there are lists online of which card means "yes" and "no." I've never found one that really worked for most people.
+Tarot cards work best when you allow the cards to have a conversation with you. They need a question that can be answered with more than a single word.
+If you absolutely must ask a yes/no question, consider a different method of divination. Pendulums work well for this as well as different types of bone-throwing. And if you're just interested in a straightforward "just the facts ma'am" future reading Lenormand might be a better option.
 
-## 4. Stay positive!
-Positive questions will give you more productive answers. Asking how you can get what you want will give you a game plan, just asking why you don't have it can invite a pity party or a pile on.
+## Focus on the person you're reading for
+It's tempting to ask if your/your querent’s ex will come back to you, or why your/your querent’s friend is mad at you, but I’ve found you’ll generally get a better reading if you focus on how you should respond to situations rather than trying to look into other people's heads.
+If you could answer your question by talking to the person you’d be doing the reading about, that might be a better option than asking tarot cards.
+As a side note, some people consider asking about third parties to be unethical and do not read about third parties for that reason. I think that can totally depend on a number of variables, in terms of getting actionable and useful advice from tarot cards, I don’t find it to be a good line of questioning ethical or not.
+
+## Open up your questions
+The way you phrase your questions can shut down or open up a reading. There are lots of questions that aren't quite yes/no questions but come pretty close. “Who is..” or “When will..” questions tend to shut things down. Try “What do I need to know about…” or “How can I…” instead.
+
+## Frame your questions positively
+I’ve found that positive questions will give you more productive answers. Asking how you can get what you want will give you a game plan. Asking why you don’t have it yet can invite a pity party or a pile on.
+This one is probably the squishiest of these guidelines as there are times when asking about something in a negative manner works out just fine, but I think for new readers especially, positive phrasing can give you a reading that's easier to interpret.
