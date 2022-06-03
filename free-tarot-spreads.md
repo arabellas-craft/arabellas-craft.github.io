@@ -10,9 +10,11 @@ These tarot card spreads can be used with any combination of tarot, oracle, or a
 <br>
 <br>
 
+<div class="categories">
 {% assign spreads_by_category = site.data.free-tarot-spreads | group_by: "category" %}
 {% for cat in site.categories-order %}
   {% assign currentCat = spreads_by_category | where: 'name', cat | first %}
+  <div>
   <h2>{{ currentCat.name }} Tarot Spreads</h2>
   <ul>
   {% for item in currentCat.items %}
@@ -24,4 +26,6 @@ These tarot card spreads can be used with any combination of tarot, oracle, or a
   {% endfor %}
   </ul>
   <br>
+  </div>
 {% endfor %}
+</div>
