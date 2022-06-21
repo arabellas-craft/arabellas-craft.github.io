@@ -12,10 +12,15 @@ permalink: /ogham-an-introduction
 # What is ogham?
 Ogham (pronounced OH-mm) is a writing system that dates from (probably) the 4th century CE that is used today as both a writing and magical system. Each letter in the Ogham alphabet is called a fid (pronounced fee) and a group of letters is called a feda (pronounced fed-ah).
 
-Stones with ogham inscriptions are found all around Ireland and areas surrounding the Irish Sea and are generally read from bottom to top when the text is arranged vertically (as it often is on stone inscriptions) or from left to right if it is arranged horizontally.
+Stones with ogham inscriptions are found all around Ireland and areas surrounding the Irish Sea.
 
 Each letter has many associated lists that may have been used as mnemonic devices as well as bríatharogaim or kennings which are phrases that are associated with each letter.
 As a quick aside: Often when people have heard of ogham it’s through Robert Graves’ The White Goddess and his “Celtic tree calendar” or “Celtic astrology.” Ogham is not a calendar or time-keeping system and has many associations beyond just trees.
+
+# What do the ogham letters look like?
+The ogham letters are formed by tally marks that come off of a central line. They are generally read from bottom to top when the text is arranged vertically (as it often is on stone inscriptions) or from left to right if it is arranged horizontally.
+
+![](/assets/img/article/ogham-alphabet.jpg){:.book}
 
 # Where did ogham come from?
 There are 2 main theories on where ogham comes from. The first is that ogham was created by the Irish to be a written language that could not be understood by Latin speakers (primarily for political. religious, and military purposes).
