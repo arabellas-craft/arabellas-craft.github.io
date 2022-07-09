@@ -16,7 +16,7 @@ Stones with ogham inscriptions are found all around Ireland and areas surroundin
 
 You may also see it spelled ogham spelled as ogam, which is the Old Irish spelling (the version of Irish that came after Primitive Irish).
 
-The original alphabet has 20 letters and is divided into four groups of five letters called aicme ([hear pronuncation](https://www.teanglann.ie/en/fuaim/Aicme)). An additional five letters were added to the ogham in the Old Irish period (600CE to 900CE) and these are known as the forfeda and are less commonly used today.
+The original alphabet has 20 letters and is divided into four groups of five letters called aicme ([hear pronunciation](https://www.teanglann.ie/en/fuaim/Aicme)). An additional five letters were added to the ogham in the Old Irish period (600CE to 900CE) and these are known as the forfeda and are less commonly used today.
 
 Each letter has many associated lists that may have been used as mnemonic devices as well as bríatharogaim or kennings which are phrases that are associated with each letter which we can date back to the Old Irish period.
 
