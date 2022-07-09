@@ -1,0 +1,115 @@
+*, *:before, *:after { box-sizing: border-box; }
+
+html, body, div, span, object, iframe, figure, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, code, em, img, small, strike, strong, sub, sup, tt, b, u, i, ol, ul, li, fieldset, form, label, table, caption, tbody, tfoot, thead, tr, th, td, main, canvas, embed, footer, header, nav, section, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; text-size-adjust: none; }
+
+footer, header, nav, section, main { display: block; }
+
+body { line-height: 1; }
+
+ol, ul { list-style: none; }
+
+blockquote, q { quotes: none; }
+
+blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+
+table { border-collapse: collapse; border-spacing: 0; }
+
+input { -webkit-appearance: none; border-radius: 0; }
+
+.gumroad-follow-form-embed { display: flex; margin-bottom: 2rem; }
+
+.gumroad-follow-form-embed input { flex: 1; margin-right: .75rem; outline: none; padding: 0.875rem 1rem; font-size: 1rem; line-height: 1.3; border: solid 0.1rem #6c819c; border-radius: 0.25rem; display: block; width: 100%; background-color: #ffffff; color: #000; }
+
+.gumroad-follow-form-embed button { background: #6c819c; color: #fff; font-size: 1.15rem; line-height: 1.3; padding: 0.5rem 1rem; border-radius: 0.25rem; border: 0; font-family: 'Fjord One', serif; cursor: pointer; width: -webkit-fit-content; width: -moz-fit-content; width: fit-content; transition: all 0.25s ease-out; }
+
+.gumroad-follow-form-embed button:hover { background-color: #DC854B; color: #fbfcfe; }
+
+.gumroad-gallery { display: flex; gap: 0.5rem; }
+
+.gumroad-gallery img { width: 100%; }
+
+@media (max-width: 667px) { .gumroad-follow-form-embed { flex-direction: column; } .gumroad-follow-form-embed button { width: 100%; margin-top: 0.25rem; padding: 0.75rem; } .gumroad-gallery { flex-direction: column; } }
+
+main article { display: flex; margin-top: 0 !important; }
+
+main article img { max-width: 30%; margin-right: 1rem; margin-left: 0; }
+
+main article h1 { font-family: 'Fjord One', serif; margin-bottom: 0.5rem; line-height: 1.5; }
+
+@media (max-width: 1224px) { main article { flex-direction: column; } main article img { max-width: 100%; } }
+
+body { background: rgba(220, 133, 75, 0.25); background-attachment: fixed; background-size: cover; font-family: 'Fjord One', serif; font-size: 16px; color: #2D2724; padding: 2.75rem; display: grid; grid-template-rows: auto 1fr; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; height: 100vh; }
+
+a { text-decoration-color: #6c819c; text-decoration-thickness: 0.2rem; color: #2D2724; transition: 0.25s; text-underline-offset: 0.25rem; }
+
+a:hover { color: #6c819c; text-decoration: none; }
+
+.button { display: block; background: #6c819c; text-decoration: none; font-size: 1.25rem; color: #fbfcfe; line-height: 1.75; padding: 0.5rem 1rem; transition: 0.25s; border-radius: 0.25rem; }
+
+.button:hover { background: #DC854B; color: #fbfcfe; text-decoration: none; }
+
+header { display: flex; flex-direction: row; align-items: center; grid-column: 1 / 3; }
+
+header.minimal { flex-direction: column; grid-column: 1 / -1; margin-bottom: 3rem; }
+
+header.minimal img { max-width: 125px; }
+
+header h1 { font-family: 'Beth Ellen', cursive; font-size: 2rem; line-height: 2; }
+
+header h6 { font-size: 0.85rem; line-height: 1.25; }
+
+header .logo img { height: 80px; margin-top: 0.5rem; }
+
+#toggle, .hamburger { display: none; }
+
+menu { grid-column: 3/6; align-self: end; }
+
+menu nav { display: flex; justify-content: space-between; }
+
+menu nav a { font-weight: 800; font-size: 1.25rem; }
+
+main { margin-top: 2rem; grid-column: 2 / 5; }
+
+main.minimal { margin: auto; text-align: center; }
+
+main h1 { font-family: 'Beth Ellen', cursive; font-size: 1.5rem; line-height: 1.75; color: #6c819c; margin-bottom: 1rem; font-weight: 900; }
+
+main h2 { font-weight: bold; font-family: 'Fjord One', serif; font-size: 1.5rem; margin-bottom: 1rem; }
+
+main p, main li { font-size: 1.15rem; padding-bottom: 2rem; line-height: 1.5; }
+
+main p > a.button, main li > a.button { display: inline; padding: 0.75rem; }
+
+main img { display: block; max-width: 100%; margin: auto; }
+
+main .explainer { line-height: 1.2; }
+
+main .no-padding-bottom { padding-bottom: 0; }
+
+main small { font-size: 65%; }
+
+main article { margin-top: 4rem; }
+
+main article:first-of-type { margin-top: 0; }
+
+main article img { margin-bottom: 1rem; }
+
+main article a { text-decoration: none; }
+
+main article a:hover { color: #2D2724; }
+
+footer { margin: 0 auto; text-align: center; grid-column: 1 / -1; max-width: 60%; }
+
+footer h2 { font-weight: bold; font-family: 'Fjord One', serif; font-size: 1.5rem; margin-bottom: 1rem; }
+
+.divider { width: 1024px; max-width: 80%; margin: 4rem auto; display: block; }
+
+.categories { display: flex; flex-wrap: wrap; gap: 1rem; }
+
+.categories div { width: 49%; }
+
+@media (max-width: 1224px) { body { grid-template-columns: 1fr; padding: 0 0.5rem; } header { flex-direction: column; text-align: center; } header h1 { font-size: 2rem; } .hamburger { display: block; position: absolute; top: 1rem; left: 5%; right: 0; margin-right: -2rem; width: 2rem; height: 3rem; z-index: 5; } .hamburger div { position: relative; width: 2.5rem; height: 3px; background-color: #6c819c; margin-top: 0.5rem; transition: all 0.3s ease-in-out; } menu { position: fixed; width: 100%; height: 100%; background-color: #6c819c; top: -100%; left: 0; right: 0; bottom: 0; overflow: hidden; transition: all 0.3s ease-in-out; transform: scale(0); margin: 0; } menu .nav-wrapper { position: relative; overflow: hidden; height: 100%; } menu nav { text-align: left; margin-left: 15%; margin-top: 5.5rem; flex-direction: column; } menu nav a { position: relative; text-decoration: none; color: #fbfcfe; font-size: 2rem; display: block; margin-top: 1.25em; } menu nav a:hover { color: #fbfcfe; } .categories div { width: auto; } #toggle:checked + .hamburger div { background-color: #fbfcfe; } #toggle:checked + .hamburger .top-bun { transform: rotate(-45deg); margin-top: 25px; } #toggle:checked + .hamburger .bottom-bun { opacity: 0; transform: rotate(45deg); } #toggle:checked + .hamburger .meat { transform: rotate(45deg); margin-top: -0.15rem; } #toggle:checked + .hamburger + menu { top: 0; transform: scale(1); } main { padding: 0 1rem; grid-column: 1 / -1; } main h1 { font-size: 1.35rem; } main p { font-size: 1.15rem; } }
+
+@media (max-width: 667px) { .hide-on-mobile { display: none; } footer { max-width: 90%; } }
+
+/*# sourceMappingURL=style.css.map */
