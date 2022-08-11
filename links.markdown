@@ -6,7 +6,7 @@ permalink: /links/
 
 [Book a Reading](http://shop.arabellascraft.com/?sort=page_layout&tags=tarot%20card%20reading){: .button }
 
-[Free Major Arcana Cheatsheet](https://shop.arabellascraft.com/l/TheFoolsJourney/){: .button }
+[Major Arcana Cheatsheet](https://shop.arabellascraft.com/l/TheFoolsJourney/){: .button }
 
 [Beginner Witch Reading List](https://bookshop.org/lists/beginner-witch-reading-list-and-recommendations){: .button }
 
