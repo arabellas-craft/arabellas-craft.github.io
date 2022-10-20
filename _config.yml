@@ -34,6 +34,7 @@ plugins:
 sass:
   implementation: sass-embedded
   sass_dir: _sass
+  style: compressed
 
 categories-order:
  - Simple
