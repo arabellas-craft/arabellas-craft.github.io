@@ -1,13 +1,13 @@
 ---
 layout: article
-title:  "Full Moon Ritual Ideas and Journal Prompts"
+title:  "Full moon ritual ideas and journal prompts"
 date:   2022-03-12 05:13:01 -0700
 short-description: "During the full moon we have the chance to step back and reflect on all that's been created during this past lunar cycle. It’s important to also take time to pause, reflect, and let go of what you no longer need."
 categories: journal prompts, full moon, ritual, witchcraft
 img: "full-moon-journal-prompts.jpg"
 permalink: /full-moon-ritual-ideas-and-journal-prompts/
 ---
-## Working with the Full Moon
+## Working with the full moon
 During the full moon we have the chance to step back and reflect on all that's been created during this past lunar cycle. It’s important to also take time to pause, reflect, and let go of what you no longer need.
 
 The full moon is a time to embrace gratitude for what you have been given and what you have accomplished. Even if you’re not where you'd like to be, and even if you've had setbacks, you likely still have something you can find gratitude for and something you've done that you can be proud of. Appreciate your own resilience and strength.
@@ -26,10 +26,10 @@ Here are some ideas to try when putting together your own full moon ritual. You 
 ## 1. Make a Sacred Space
 For me, this is a vital step to get me into the right headspace for ritual. Surround yourself with things that taste, sound, smell, look and feel good to you and help you relax. I have certain incense and music that I only use during my moon rituals, just hearing that music or smelling that incense can instantly get me ready for ritual.
 
-## 2. Ground Yourself
+## 2. Ground yourself
 Grounding yourself can be done in lots of different ways, but my favorite is doing a simple [body scan meditation](https://stopbreathethink.com/anxiety/body-scan/) where you feel into each part of your body one after another. Another great grounding technique is the [5-4-3-2-1 technique](https://www.mondaycampaigns.org/wp-content/uploads/2021/06/destress-monday-infographic-54321-grounding-technique.png) where you name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste.
 
-## 3. Journaling Prompts
+## 3. Journaling prompts
 After grounding myself I generally start my ritual with journaling. Journaling can be a great way to connect with your gratitude, challenges and make peace with what you need to release and let go of. Every full moon I create a sacred space (even if it's just in my house!) and spend some time journaling, with some of the following prompts:
 
 * What am I grateful for right now?

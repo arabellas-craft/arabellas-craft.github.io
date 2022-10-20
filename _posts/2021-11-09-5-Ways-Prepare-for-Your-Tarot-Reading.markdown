@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "5 Ways to Prepare for Your First Tarot Reading"
+title:  "5 Ways to prepare for your first tarot reading"
 date:   2021-11-09 05:13:01 -0700
 short-description: "What to expect when you're getting your tarot cards read."
 categories: tarot questions, tarot
@@ -13,7 +13,7 @@ Finding a good tarot reader can be difficult! Before [booking a reading](https:/
 
 You'll also want to double check their policies to make sure they do the kind of reading you're looking for. Lots of readers won't do readings about health, legal matters, or fertility.
 
-## 2. Know Yourself
+## 2. Know yourself
 This step can sometimes be the hardest for people. When you're coming into a tarot reading it is important to take a minute to acknowledge what outcomes you're hoping for. Do you want your ex back? A new job to fall in your lap? The promise of success in a new business venture? The cards may not be able to give you the answer you're hoping for (although they might be able to give you some advice to work towards it if you phrase your question correctly). But, knowing the goals you want to work towards is the first step towards finding your question(s).
 
 ## 3. Come up with your question(s)

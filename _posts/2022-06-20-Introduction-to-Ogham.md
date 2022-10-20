@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "An Introduction to Ogham"
+title:  "An introduction to ogham"
 date:   2022-06-20 10:51:01 -0700
 short-description: "What is the ogham and where did it come from? Is it really a Celtic tree calendar? The aim of this article is to give a basic foundation of the ogham to provide context for later more in-depth articles."
 categories: ogham, divination, witchcraft
@@ -53,5 +53,5 @@ Today ogham is primarily used in Pagan circles as a writing and divinatory syste
 ## Courses
 [3 Truths About Ogham](https://irishpaganschool.com/p/ogham-truth) (Free!)
 
-## Primary Sources
+## Primary sources
 [The Ogham Tract](https://www.maryjones.us/ctexts/ogham.html)

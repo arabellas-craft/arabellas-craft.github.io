@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Asking the Right Questions - How to Get Useful Answers That You Can Interpret From Your Tarot Cards (Even As a Beginner)"
+title:  "Asking the right questions - How to get useful answers that you can interpret from your tarot cards (even as a beginner)"
 date:   2021-10-21 20:51:01 -0700
 short-description: "The way you formulate your questions in tarot can have a big effect on the answers you get. Here are 4 guidelines I use when asking questions in a tarot reading."
 categories: tarot questions, tarot
