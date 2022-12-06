@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Arabella's Craft | Witchcraft | Tarot Readings | Online Tarot Card Reading
+title: Juniper Divination | Witchcraft | Tarot Readings | Online Tarot Card Reading
 ---
 
-Tarot helps us navigate life’s transitions with grace and compassion. It illuminates the unconscious, encourages self-reflection, and aids us in making informed choices. 
+Divination helps us navigate life’s transitions with grace and compassion. It illuminates the unconscious, encourages self-reflection, and aids us in making informed choices. 
 
-I use this space to write about my journey with tarot and magical practices.
+I use this space to write about my journey with divination and magical practices.
 
 
 <form action="https://app.gumroad.com/follow_from_embed_form" class="form gumroad-follow-form-embed" method="post">

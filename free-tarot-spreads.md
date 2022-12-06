@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Free Tarot Spreads | Arabella's Craft | Tarot Readings | Online Tarot Card Reading
+title: Free Tarot Spreads | Juniper Divination and Witchery | Tarot Readings | Online Tarot Card Reading
 permalink: /free-tarot-spreads/
 ---
 # Free Tarot Spreads

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Articles | Arabella's Craft | Tarot Readings | Online Tarot Card Reading
+title: Articles | Juniper Divination and Witchery | Tarot Readings | Online Tarot Card Reading
 permalink: /articles/
 ---
 

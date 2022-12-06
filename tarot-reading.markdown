@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Book a Reading | Arabella's Craft | Tarot Readings | Online Tarot Card Reading
+title: Book a Reading | Juniper Divination and Witchery | Tarot Readings | Online Tarot Card Reading
 permalink: /tarot-reading/
 ---
 
