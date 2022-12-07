@@ -8,13 +8,13 @@ permalink: /about/
 
 Thank you for taking the time to learn about me! My name is Arabella and I am a queer woman living on the unceded ancestral homeland of the Ramaytush Ohlone (present day San Francisco).
 
-I am passionate about environmental justice, living sustainably, and reducing disparities within our society. I have been a practicing hedge witch and tarot reader for over 2 decades. Check out [instagram](https://www.instagram.com/arabellas.craft/) for a better look into my daily life.
+I am passionate about environmental justice, living sustainably, and reducing disparities within our society. I have been a practicing hedge witch and tarot reader for over 2 decades. Check out [instagram](https://www.instagram.com/juniper.divination/) or [tumblr](https://juniper-divination-and-witchery.tumblr.com/) for a better look into my daily life.
 
 As an intuitive tarot reader, I combine my intuition with my understanding of the tarot to see your core self, what you are experiencing, and the most loving way for you to proceed.
 
 I am an eternal student, always pondering, questioning, and investigating. I hope to share this love of exploration with all those I read for. I will encourage you to think for yourself and connect with your own internal wisdom to help guide you to the answers you are seeking.
 
-If you’re interested in looking at your life with more clarity, [book a reading](http://shop.arabellascraft.com/?sort=page_layout&tags=tarot%20card%20reading) with me.
+If you’re interested in looking at your life with more clarity, [book a reading](http://shop.juniperdivination.com/?sort=page_layout&tags=tarot%20card%20reading) with me.
 
 # About Tarot
 

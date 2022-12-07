@@ -18,7 +18,7 @@ The new moon is a time to:
 * Look inward to see what needs to be attended to
 * Tune into stillness
 * Encourage new growth
-* Some people find that their intuition is heightened during the new moon which makes it a great time to do [your own tarot reading](/free-tarot-spreads/full-moon-tarot-spread) or [get a tarot reading](https://shop.arabellascraft.com/l/MonthAheadTarotReading)
+* Some people find that their intuition is heightened during the new moon which makes it a great time to do [your own tarot reading](/free-tarot-spreads/full-moon-tarot-spread) or [get a tarot reading](https://shop.juniperdivination.com/l/MonthAheadTarotReading)
 
 ![](/assets/img/divider.svg){:.divider}
 
@@ -44,7 +44,7 @@ After grounding myself I generally start my ritual with journaling. Journaling c
 * What are some of the first signs that I need self-care?
 
 ## 4. Tarot Card Reading
-After journaling I like to give myself a tarot reading, and during  the new moon I like to give myself a reading related to shadow work. To me the stillness and darkness of this time really tunes me into my inner self. You can [see the spread I use](/free-tarot-spreads/full-moon-tarot-spread) to try on your own, or [get a reading from me](https://shop.arabellascraft.com/l/MonthAheadTarotReading). If you do give yourself a reading, make sure to record your reading and your thoughts in your tarot journal to reference later!
+After journaling I like to give myself a tarot reading, and during  the new moon I like to give myself a reading related to shadow work. To me the stillness and darkness of this time really tunes me into my inner self. You can [see the spread I use](/free-tarot-spreads/full-moon-tarot-spread) to try on your own, or [get a reading from me](https://shop.juniperdivination.com/l/MonthAheadTarotReading). If you do give yourself a reading, make sure to record your reading and your thoughts in your tarot journal to reference later!
 
 ## 5. Set intentions
 The biggest part of my new moon ritual is setting intentions. As the moon grows, our ideas and intentions grow as well. There are really no wrong ways to do this! For some people simply writing their intentions down in a special place or with a special pen or ink is sufficient. Other people  like to meditate on their intentions, and sigil making (and charging) is also a popular option. Do whatever feels right to you.

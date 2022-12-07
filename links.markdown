@@ -4,19 +4,19 @@ title: Links | Juniper Divination and Witchery | Tarot Readings | Online Tarot C
 permalink: /links/
 ---
 
-[Book a Reading](http://shop.arabellascraft.com/?sort=page_layout&tags=tarot%20card%20reading){: .button }
+[Book a Reading](http://shop.juniperdivination.com/?sort=page_layout&tags=tarot%20card%20reading){: .button }
 
-[Major Arcana Cheatsheet](https://shop.arabellascraft.com/l/TheFoolsJourney/){: .button }
+[Major Arcana Cheatsheet](https://shop.juniperdivination.com/l/TheFoolsJourney/){: .button }
 
 [Beginner Witch Reading List](https://bookshop.org/lists/beginner-witch-reading-list-and-recommendations){: .button }
 
-[Tarot Spread Packs](https://shop.arabellascraft.com/?sort=page_layout&tags=tarot%20spreads){: .button }
+[Tarot Spread Packs](https://shop.juniperdivination.com/?sort=page_layout&tags=tarot%20spreads){: .button }
 
-[Blog](https://arabellascraft.com/articles/){: .button }
+[Blog](https://juniperdivination.com/articles/){: .button }
 
-[Tumblr](https://arabellascraft-tarotreading.tumblr.com/){: .button }
+[Tumblr](https://juniper-divination-and-witchery.tumblr.com/){: .button }
 
-[ArabellasCraft.com](https://www.ArabellasCraft.com){: .button }
+[juniperdivination.com](https://www.juniperdivination.com){: .button }
 
 <img src="/assets/img/divider.svg">
 

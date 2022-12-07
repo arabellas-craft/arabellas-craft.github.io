@@ -8,7 +8,7 @@ permalink: /tarot-reading/
 
 To help you make a choice between to paths. Whatever your issue, we can dive deep to get a better understand of your situation and how you should react to it.
 
-[Book Reading](https://shop.arabellascraft.com/l/TarotReading){: .button}
+[Book Reading](https://shop.juniperdivination.com/l/TarotReading){: .button}
 
 ![divider](/assets/img/divider.svg)
 <br/>
@@ -19,7 +19,7 @@ To help you make a choice between to paths. Whatever your issue, we can dive dee
 What message do you need to hear right now? What are your guides trying to tell you?
 I will use a 5 card tarot spread to help you find out. Our guides, higher self and intuition are always trying to guide us in life, but sometimes they an be hard to hear. This reading will help you cut through the noise.
 
-[Book Reading](https://shop.arabellascraft.com/l/SpiritGuideTarotReading){: .button}
+[Book Reading](https://shop.juniperdivination.com/l/SpiritGuideTarotReading){: .button}
 
 ![divider](/assets/img/divider.svg)
 <br/>
@@ -28,7 +28,7 @@ I will use a 5 card tarot spread to help you find out. Our guides, higher self a
 
 Get a deep look into your love life and potential relationships with a 6 card tarot card reading. Discover what you need to find a partner, what's holding you back from relationships and what you should be looking for.
 
-[Book Reading](https://shop.arabellascraft.com/l/LoveReadingForSingles){: .button}
+[Book Reading](https://shop.juniperdivination.com/l/LoveReadingForSingles){: .button}
 
 ![divider](/assets/img/divider.svg)
 <br/>
@@ -38,7 +38,7 @@ Get a deep look into your love life and potential relationships with a 6 card ta
 
 Get a deep look into your relationship with a 6 card tarot card relationship reading. Discover new and hidden perspectives on how you are both feeling and what you both bring to the relationship. Get advice on the potential outcome of the relationship.
 
-[Book Reading](https://shop.arabellascraft.com/l/LoveReadingForCouples){: .button}
+[Book Reading](https://shop.juniperdivination.com/l/LoveReadingForCouples){: .button}
 
 ![divider](/assets/img/divider.svg)
 <br/>
@@ -49,4 +49,4 @@ Is your current current path is right for you? Is it time for a change? Should y
 
 In this 6 card reading I will help you with any career or job related question you may have. Using my intuition, and tarot and cards I will answer your questions about your education, career, job, business and wealth.
 
-[Book Reading](https://shop.arabellascraft.com/l/CareerTarotReading){: .button}
+[Book Reading](https://shop.juniperdivination.com/l/CareerTarotReading){: .button}
