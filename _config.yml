@@ -23,7 +23,7 @@ email: arabella@juniperdivination.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tarot helps us navigate life’s transitions with grace and compassion. It illuminates the unconscious, encourages self-reflection, and aids us in making informed choices. As your intuitive tarot reader, I will combine my intuition with my understanding of the tarot to see your core self, your struggles, and the most loving way for you to proceed.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "juniperdivination.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://juniperdivination.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
