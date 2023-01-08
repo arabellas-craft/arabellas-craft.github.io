@@ -6,9 +6,7 @@ permalink: /links/
 
 [Book a Reading](http://shop.juniperdivination.com/?sort=page_layout&tags=tarot%20card%20reading){: .button }
 
-[Major Arcana Cheatsheet](https://shop.juniperdivination.com/l/TheFoolsJourney/){: .button }
-
-[Beginner Witch Reading List](https://bookshop.org/lists/beginner-witch-reading-list-and-recommendations){: .button }
+[Magpie Tarot Decks](https://juniperdivination.etsy.com/listing/1288443302/magpie-tarot-deck-o-chaos-tarot-deck-o){: .button }
 
 [Tarot Spread Packs](https://shop.juniperdivination.com/?sort=page_layout&tags=tarot%20spreads){: .button }
 

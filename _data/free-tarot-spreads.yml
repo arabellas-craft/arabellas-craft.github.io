@@ -1,6 +1,7 @@
 - title: "Giving Thanks Thanksgiving Tarot Spread"
   name: giving-thanks-tarot-spread
   img: "giving-thanks-tarot-spread.jpg"
+  alt: 
   category: Holidays
   description: "I'll admit to not being much of a Thanksgiving person, but study after study shows how important it is to our mental health to be grateful and express our gratitude. So while I don't love Thanksgiving and all its baggage, it is a nice reminder as the year winds down to take stock and notice all that we have to be grateful for."
 
@@ -98,10 +99,16 @@
   name: summer-solstice-tarot-spread
   img: "summer-solstice-tarot-spread.jpg"
   category: Holidays
-  description: "The summer solstice marks the longest day of the year. Let the light of midsummer illuminate your path into the coming season."
+  description: "The summer solstice marks the longest day of the year. Let the light of midsummer illuminate your path into the coming season. This tarot spread will tell you what to prioritize in your life right now, where you can find growth, what is ready to be harvested, what is ready to be brought into the life and a message that you need to hear."
 
 - title: Triple Spiral Tarot Spread
   name: triple-spiral-tarot-spread
   img: "triple-spiral-tarot-spread.jpg"
   category: Simple
-  description: "This is a simple spread to allow you to get a quick overview on three key areas of life using the Irish cosmological system of earth, sea and sky."
+  description: "This is a simple spread to allow you to get a quick overview on three key areas of life using the Irish cosmological system of earth, sea and sky. Earth representing the physical world and your physical body. The Sea tells you what you need to know about your emotional landscape. And finally the Sky, to see what you need to know spiritually."
+
+- title: New Moon Month Aheads Tarot Spread
+  name: new-moon-month-ahead-tarot-spread
+  img: "New-Moon-Month-Ahead-Tarot-Spread-Juniper-Divination.jpg"
+  category: Lunar
+  description: "The new moon is time for starting new cycles, planning for what you want to grow, and looking at what is coming during the coming lunar month. This spread uses four cards that help you find where in your life you should look towards growth, what in your life needs your attention, what you can leave behind, and what represents you during this month."
