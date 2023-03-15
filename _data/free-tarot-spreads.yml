@@ -69,7 +69,7 @@
   name: waxing-moon-tarot-for-manifestation
   img: "waxing-moon-tarot-for-manifestation.jpg"
   category: Lunar
-  description: "The waxing moon is a great time to see what is growing and changing in your life!⁠"
+  description: "The waxing moon is a great time to see what is growing and changing in your life!"
 
 - title: What Do I Need to Know Tarot Spread
   name: what-do-i-need-to-know-tarot-spread
@@ -81,13 +81,19 @@
   name: new-tarot-deck-interview-tarot-spread
   img: "new-tarot-deck-interview-tarot-spread.jpg"
   category: Simple
-  description: "Are you just getting started with reading tarot? Are you an expierenced reader who just purhcased a new tarot deck? These five free tarot spreads can help you get to know your neck deck! With five different spreads you can choose the level of complexity you feel comfortable with!⁠"
+  description: "Are you just getting started with reading tarot? Are you an expierenced reader who just purhcased a new tarot deck? These five free tarot spreads can help you get to know your neck deck! With five different spreads you can choose the level of complexity you feel comfortable with."
 
 - title: Spring Equinox Tarot Spread
   name: spring-equinox-tarot-spread
   img: "spring-equinox-tarot-spread.jpg"
   category: Holidays
-  description: "The spring equinox invites us to honor and acknowledge what is coming forth for each of us as the days get longer and warmer.⁠"
+  description: "The spring equinox invites us to honor and acknowledge what is coming forth for each of us as the days get longer and warmer."
+
+- title: Tarot for Ostara
+  name: spring-equinox-ostara-tarot-spread
+  img: "spring-equinox-ostara-tarot-spread-23.jpg"
+  category: Holidays
+  description: "Ostara, also known as the spring equinox, is a part of the Wiccan wheel of the year. The name Ostara comes from the Anglo-Saxon goddess Eostre, who was associated with new beginnings and the fertility of spring. This tarot spread helps you look forward to new beginnings and energies that await you int he coming months as we leave winter behind and begin our growing season again."
 
 - title: Bealtaine Tarot Spread
   name: bealtaine-tarot-spread
