@@ -26,15 +26,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://juniperdivination.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-coffeescript
   - jekyll-datapage-generator
   - jekyll-seo-tag
   - jekyll-sitemap
 sass:
-  implementation: sass-embedded
   sass_dir: _sass
+  implementation: sass-embedded
   style: compressed
 
 categories-order:
