@@ -1,18 +1,20 @@
 ---
 layout: article
-title:  "New moon ritual ideas and journal prompts"
+title:  "New Moon Ritual Ideas and Journal Prompts"
 date:   2022-03-26 05:13:01 -0700
 short-description: "The new moon is a time to set intentions, plan for your upcoming month, and also to honor this time of stillness and turn inward."
-categories: journal prompts, new moon, ritual, witchcraft
+categories: New moon rituals, New moon divination, Journal prompts for new moon, New moon energy, New moon intentions, New moon tarot reading, New moon scrying, Lunar cycle rituals, Manifesting with the new moon, New moon meditation, Divination during the new moon, Setting intentions for the new moon, New moon magic, Psychic insights during the new moon, New moon journaling, New moon candle magic, Harnessing new moon energy, New moon manifestation, New moon divination tools, New moon spiritual practice
 img: "new-moon-ritual-ideas.jpg"
 permalink: /new-moon-ritual-ideas-and-journal-prompts/
 ---
-## Working with the new moon
+The new moon marks a fresh beginning, making it an ideal time for divination and setting intentions. In this article, we'll explore creative ways to harness the energy of the new moon in your divination practices and provide journal prompts to deepen your connection with lunar cycles.
+
+## New Moon Ritual Ideas
 Around the world, there are lots of traditional beliefs and rituals that are tied to the new moon. For instance, in Ireland, it was believed that a person's behavior when they first caught sight of the new moon would influence their fate until the next new moon.
 
 In contrast to the [full moon](/full-moon-ritual-ideas-and-journal-prompts/) which is a time for ending cycles and gratitude, the new moon is about turning inward, starting new cycles, and planning for what you want to grow while we work our way back to the full moon. The new moon is a time of stillness before growth can begin again.
 
-The new moon is a time to:
+The new moon is generally seen as a time to:
 * Set intentions
 * Plan what you'd like to accomplish this lunar cycle
 * Look inward to see what needs to be attended to
@@ -44,7 +46,7 @@ After grounding myself I generally start my ritual with journaling. Journaling c
 * What are some of the first signs that I need self-care?
 
 ## 4. Tarot Card Reading
-After journaling I like to give myself a tarot reading, and during  the new moon I like to give myself a reading related to shadow work. To me the stillness and darkness of this time really tunes me into my inner self. You can [see the spread I use](/free-tarot-spreads/full-moon-tarot-spread) to try on your own, or [get a reading from me](https://shop.juniperdivination.com/l/MonthAheadTarotReading). If you do give yourself a reading, make sure to record your reading and your thoughts in your tarot journal to reference later!
+The new moon is a powerful time for divination. Explore our specially designed new moon tarot spread [here](/free-tarot-spreads/new-moon-month-ahead-tarot-spread), [get a personalized reading from me](https://shop.juniperdivination.com/l/MonthAheadTarotReading), or create your own tarot spread. Be sure to record your reading and insights in your tarot journal for future reference.
 
 ## 5. Set intentions
 The biggest part of my new moon ritual is setting intentions. As the moon grows, our ideas and intentions grow as well. There are really no wrong ways to do this! For some people simply writing their intentions down in a special place or with a special pen or ink is sufficient. Other people  like to meditate on their intentions, and sigil making (and charging) is also a popular option. Do whatever feels right to you.
@@ -52,4 +54,4 @@ The biggest part of my new moon ritual is setting intentions. As the moon grows,
 ## 6. Closing
 After declaring my intentions for the upcoming month I normally like to do something small to close my ritual. Exactly what that that is will vary from month to month, but I may anoint myself with ritual oils, or simply thank all the entities who have helped me with my working and snuff my candles.
 
-I hope these new moon ritual ideas and journal prompts have given you some ideas for your own new moon ritual. Working with the new moon can be extremely powerful and rewarding! Let your intuition guide you!
+Embrace the transformative power of the new moon by incorporating these ritual ideas and journal prompts into your divination practice. Whether you're a seasoned practitioner or new to the art of divination, the new moon offers a unique opportunity to deepen your intuitive connection and set intentions for personal growth. Start your journey of exploration and insight with Juniper Divination, and watch your divination skills flourish under the influence of the new moon's energy.

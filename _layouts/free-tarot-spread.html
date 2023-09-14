@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    {% include article-head.html %}
+    {% include head.html %}
+    <link  href="{{ site.baseurl }}/assets/css/article.css" rel="stylesheet">
   </head>
   <body>
     {% include header.html %}
@@ -9,7 +10,7 @@
       <img src="/assets/img/tarot-spread/{{ page.img }}" alt="{{ page.title }}" title="{{ page.title }}" class="tarot-spread">
       <br>
       <h1>{{page.title}}</h1>
-      <p>{{ page.description }}</p>
+      <p>{{ page.short-description }}</p>
       <p><a href="/free-tarot-spreads">See More Tarot Spreads</a></p>
     </main>
     <footer>

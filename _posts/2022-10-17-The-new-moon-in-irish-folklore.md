@@ -1,9 +1,9 @@
 ---
 layout: article
-title:  "The new moon in Irish folklore"
+title:  "The New Moon in Irish Folklore"
 date:   2022-10-16 10:51:01 -0700
 short-description: "The new moon in Irish folk practices is associated with many customs for gaining luck, setting intentions, and starting growth for the lunar cycle."
-categories: ireland, irish, folklore
+categories: New moon Irish folklore, Irish traditions for the new moon, Celtic beliefs about the new moon, New moon customs in Ireland, Irish mythology and the new moon, New moon rituals in Irish culture, Lunar folklore in Ireland, Irish superstitions about the new moon, New moon legends in Celtic folklore, New moon symbolism in Irish tradition, Irish folktales about the new moon, Lunar cycles in Irish folklore, Moon-related customs in Ireland, New moon stories from Ireland, Irish lunar traditions, Celestial beliefs in Irish culture, Irish moon phases and mythology, Lunar significance in Celtic heritage, New moon legends and myths, New moon practices in Irish history
 img: "new-moon-in-irish-folklore.jpg"
 img-text: "Photo by Lenstravelier on Unsplash"
 permalink: /new-moon-in-irish-folklore

@@ -56,7 +56,8 @@ page_gen:
   title: title
   img: img
   category: category
-  description: description
+  categories: categories
+  short-description: short-description
 
 # Exclude from processing.
 # The following items will not be processed, by default.

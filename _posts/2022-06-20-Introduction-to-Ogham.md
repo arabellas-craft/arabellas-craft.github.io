@@ -1,16 +1,20 @@
 ---
 layout: article
-title:  "An introduction to ogham"
+title:  "An Introduction to Ogham"
 date:   2022-06-20 10:51:01 -0700
 short-description: "What is the ogham and where did it come from? Is it really a Celtic tree calendar? The aim of this article is to give a basic foundation of the ogham to provide context for later more in-depth articles."
-categories: ogham, divination, witchcraft
+categories: Ogham script, Celtic tree alphabet, Ogham history, Ogham meanings, Ogham divination, Ogham symbols, Introduction to Ogham, Celtic script, Ogham alphabet, Ancient Celtic writing, Ogham symbols and meanings, Ogham history and origins, Ogham in Celtic culture, Ogham characters, Ogham divination methods, Ogham casting, Ogham staves, Using Ogham for divination, Ogham spiritual practice, Working with Ogham
 img: "ogham-stone.jpg"
 img-text: "Ogham stone from Emlagh Dingle Peninsula. Photo credit: Nora White at Dublin Institute for Advanced Studies"
 permalink: /ogham-an-introduction
 ---
 
+In this article, I will provide you with an introduction to Ogham, exploring its history, meanings, and its use in divination. Whether you're a beginner or already intrigued by this mystical script and divinatory system, this guide will help you gain a better understanding of Ogham and how it can enrich your spiritual journey.
+
 # What is ogham?
 Ogham (pronounced OH-mm) is a writing system that dates from the 4th century CE that was used to write Primitive Irish and is used today as both a writing and magical and divinatory system. Each letter in the Ogham alphabet is called a fid (pronounced fee) and a group of letters is called a feda (pronounced fed-ah). 
+
+Ogham feda are composed of a series of straight lines, typically inscribed vertically or horizontally on a surface. These lines are grouped into clusters, each representing a specific letter or character
 
 Stones with ogham inscriptions are found all around Ireland and areas surrounding the Irish Sea.
 
@@ -55,3 +59,5 @@ Today ogham is primarily used in Pagan circles as a writing and divinatory syste
 
 ## Primary sources
 [The Ogham Tract](https://www.maryjones.us/ctexts/ogham.html)
+
+Ogham is a unique and enchanting script that carries profound historical and spiritual significance. I hope that this guide has introduced you to its history, meanings, and its potential for divination. Whether you're drawn to its mystical allure or wish to deepen your understanding of Irish culture, Ogham has much to offer.
