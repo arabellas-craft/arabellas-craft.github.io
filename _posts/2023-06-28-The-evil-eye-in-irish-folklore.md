@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "The Evil Eye in Irish folklore"
+title: "The Evil Eye in Irish Folklore"
 date: 2023-06-29 10:51:01 -0700
 short-description: "In pre-modern Ireland the power of the gaze held immense significance. In this article, we delve into Irish folk traditions surrounding the evil eye, exploring its causes, cures, and preventive measures."
 categories: Evil eye in Irish folklore, Irish beliefs about the evil eye, Protection against the evil eye in Ireland, Irish superstitions and the evil eye, Folk remedies for the evil eye in Ireland, Warding off the evil eye in Irish culture, Evil eye charms in Irish tradition, Curses and hexes in Irish folklore, Historical accounts of the evil eye in Ireland, Evil eye legends and stories in Irish culture, Folk practices to counteract the evil eye, Irish folk magic and the evil eye, Symbolism of the evil eye in Celtic heritage, Eye-shaped talismans in Irish tradition, Irish folklore and the power of gaze, Protecting livestock from the evil eye in Ireland, Folk rituals against malevolent glares, Evil eye curses and their prevention in Irish lore, Folk beliefs surrounding the evil eye in Ireland, Irish cultural perspectives on the evil eye
