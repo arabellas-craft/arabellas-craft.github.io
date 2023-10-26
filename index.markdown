@@ -17,10 +17,12 @@ I use this space to write about my journey with divination and magical practices
 </form>
 <br>
 
-# Latest Articles
+# Latest Articles & Tarot Spreads
 {% for post in site.posts %}
   <article>
+  {% if post.layout == "article" %}
     <img src="/assets/img/article/{{post.img}}" alt="{{post.categories}}">
+  {% endif %}
     <a href="{{ post.url }}">
     <h1>
       {{ post.title }}

@@ -38,26 +38,26 @@ sass:
   implementation: sass-embedded
   style: compressed
 
-categories-order:
- - Simple
- - Lunar
- - Healing and Health
- - Love and Relationships
- - Holidays
- - Spirit Communication
+# categories-order:
+#  - Simple
+#  - Lunar
+#  - Healing and Health
+#  - Love and Relationships
+#  - Holidays
+#  - Spirit Communication
 
-page_gen_dirs: false
+# page_gen_dirs: false
 
-page_gen:
-- data: free-tarot-spreads
-  template: free-tarot-spread
-  dir: free-tarot-spreads
-  name: name
-  title: title
-  img: img
-  category: category
-  categories: categories
-  short-description: short-description
+# page_gen:
+# - data: free-tarot-spreads
+#   template: free-tarot-spread
+#   dir: free-tarot-spreads
+#   name: name
+#   title: title
+#   img: img
+#   category: category
+#   categories: categories
+#   short-description: short-description
 
 # Exclude from processing.
 # The following items will not be processed, by default.
