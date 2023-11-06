@@ -7,7 +7,7 @@ categories: Talking to the Dead tarot spread, Connecting with departed spirits, 
 short-description: Engage in the mystical ritual of tarot to foster a powerful connection with departed souls, allowing their timeless wisdom and guidance to resonate deeply within your being, bringing solace, understanding, and closure to both realms.
 img: "parting-the-veil-halloween-samhain-tarot-card-reading.jpg"
 img-text: "Parting the Veil - A tarot spread for Samhain"
-permalink: free-tarot-spreads//parting-the-veil-tarot-spread
+permalink: free-tarot-spreads/parting-the-veil-tarot-spread
 ---
 
 Embark on a profound journey of spiritual connection and guidance with the "Parting the Veil" tarot spread, designed to facilitate direct communication with departed souls. Each card drawn serves as a sacred vessel, carrying messages and wisdom from the realm beyond to illuminate the path of the living.
