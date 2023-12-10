@@ -7,7 +7,7 @@ categories: year ahead tarot, year ahead spread, free year ahead tarot spread, h
 short-description: The year ahead tarot spread can be a valuable tool for planning and navigating the coming year. By gaining insights into the opportunities and challenges that lie ahead, you can make informed choices and create a future that is aligned with your goals and aspirations.
 img: tarot-spread/year-ahead-tarot-spread.jpg
 img-text: tarot spread to help you plan the upcoming year
-permalink: free-tarot-spreads/emotional-healing-shadow-work-tarot-spread
+permalink: free-tarot-spreads/year-ahead-new-years-tarot-spread
 ---
 
 The year ahead tarot spread is a powerful tool for gaining insight into the opportunities, challenges, and themes that will shape your coming year. This spread provides a comprehensive overview of your journey, helping you to identify areas where you can grow, transform, and leave a lasting impact.
