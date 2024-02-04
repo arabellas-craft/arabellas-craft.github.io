@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About | Unique Tarot Decks & Intuitive Readings from Juniper Divination
-short-description: Seeking clarity and self-discovery? Explore the magic of tarot at Juniper Divination. I'm an intuitive reader and creator of  captivating magpie tarot decks.
+short-description: Seeking clarity and self-discovery? Explore the magic of tarot at Juniper Divination. I'm an intuitive reader and creator of captivating magpie tarot decks.
 categories: magpie tarot deck, unique tarot deck, intuitive tarot readings, online tarot readings, queer tarot reader, tarot card spreads, free tarot spreads, self-discovery tarot, personal empowerment tarot, environmental justice tarot
 permalink: /about/
 ---

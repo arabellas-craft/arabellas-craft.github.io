@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Articles | Juniper Divination and Witchery | Tarot Readings | Online Tarot Card Reading
+short-description: Explore a treasure trove of articles at Juniper Divination, where mystical wisdom meets modern living. Uncover the secrets of tarot card meanings, explore diverse divination practices, and discover spiritual guidance for your journey.
 permalink: /articles/
 ---
 
