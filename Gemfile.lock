@@ -42,7 +42,6 @@ GEM
     jekyll-coffeescript (2.0.0)
       coffee-script (~> 2.2)
       coffee-script-source (~> 1.12)
-    jekyll-datapage-generator (1.4.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.0.0)
@@ -101,7 +100,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3.2)
   jekyll-coffeescript
-  jekyll-datapage-generator
   jekyll-feed (~> 0.12)
   jekyll-seo-tag
   jekyll-sitemap
