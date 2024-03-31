@@ -15,7 +15,6 @@ gem "jekyll", "~> 4.3.2"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-datapage-generator"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-coffeescript"
