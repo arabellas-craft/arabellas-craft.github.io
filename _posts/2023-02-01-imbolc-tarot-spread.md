@@ -7,7 +7,7 @@ categories: Imbolc tarot reading, Celebrating Imbolc with tarot, Renewal and gro
 short-description: Uncover what's flourishing in your life, nurture essential aspects of your being, and learn how to make room for new growth and opportunities, all within the sacred context of the Imbolc celebration.
 img: "imbolc-tarot-spread.jpg"
 img-text: Embrace Renewal and Growth with the Imbolc Tarot Reading
-permalink: free-tarot-spreads/grounding-earthing-tarot-spread
+permalink: free-tarot-spreads/imbolc-tarot-spread
 ---
 Align yourself with the spirit of the Imbolc/Imbolg celebration, a time of new beginnings and burgeoning potential. Through this transformative tarot reading, you will embark on a profound exploration of the aspects that are flourishing and ready for nurturing in your life.
 
