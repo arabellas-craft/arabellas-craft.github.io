@@ -3,6 +3,7 @@ layout: free-tarot-spread
 title: Bealtaine Tarot Spread
 date: 2023-05-01 10:51:01 -0700
 category: Holidays
+tag: tarot-spread
 categories: Bealtaine Tarot Spread, May Day Tarot Reading Layout, Tarot Cards for Bealtaine, Celtic Fire Festival Tarot Spread, Celebrating Bealtaine with Tarot, Tarot for Fertility and Growth, Online Bealtaine Tarot Reading, Bealtaine Ritual with Tarot, Beltane Tarot Insights, Seasonal Tarot Divination
 short-description: Explore the transformative energy of the Beltaine tarot spread, designed to guide you on a journey of growth, protection, renewal, and release. Uncover the areas of your life primed for expansion, protection, and fresh beginnings, as well as the aspects ready to be relinquished for your personal growth and renewal.
 img: bealtaine-tarot-spread.jpg

@@ -3,6 +3,7 @@ layout: free-tarot-spread
 title: Waxing Moon Manifestation Tarot Spread
 date: 2022-08-01 10:51:01 -0700
 category: Lunar
+tag: tarot-spread
 categories: Waxing moon tarot spread, Harnessing growth with tarot, Manifesting desires with tarot, Nurturing growth during waxing moon, Tarot guidance for manifestation, Accessing inner magic with tarot, Enhancing life during waxing moon, Turning desires into reality with tarot, Tarot for personal growth during waxing moon, Embracing lunar energy with tarot, Waxing moon insights with tarot, Empowering rituals for waxing moon, Manifestation techniques with tarot guidance, Nurturing desires during waxing moon, Accessing intuition during waxing moon
 short-description: Harness the transformative energy of the waxing moon with the waxing moon tarot spread. Discover what is flourishing in your life, unlock the keys to manifesting your desires, and learn how to access your inner magic during this auspicious phase.
 img: waxing-moon-tarot-for-manifestation.jpg

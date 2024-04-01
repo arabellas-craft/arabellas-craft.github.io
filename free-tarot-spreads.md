@@ -14,44 +14,62 @@ Dive into the depths of the mystical realm with our user-friendly and intuitive 
 
 Explore our diverse collection of free tarot card spreads today, and let the ancient wisdom of the cards illuminate your path to a more empowered and enlightened existence.
 
-# Simple Tarot Spreads
+<div class="two-column-list">
+
+<h2>Simple Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Simple' %} 
-  [ {{post.title}} ]( {{ post.url | relative_url }} )
+  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
+<br><br>
 
-# Lunar Tarot Spreads
+<h2> Insight</h2>
+{% for post in site.posts %}
+  {% if post.category == 'Insight' %} 
+  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
+  {% endif %}
+{% endfor %}
+<br><br>
+
+<h2> Lunar Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Lunar' %} 
-  [ {{post.title}} ]( {{ post.url | relative_url }} )
+  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
+<br><br>
 
-# Healing and Health Tarot Spreads
+<h2>Healing and Health Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Healing and Health' %} 
-  [ {{post.title}} ]( {{ post.url | relative_url }} )
+  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
+<br><br>
 
-# Love and Relationships Tarot Spreads
+<h2>Love and Relationships Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Love and Relationships' %} 
-  [ {{post.title}} ]( {{ post.url | relative_url }} )
+  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
+<br><br>
 
-# Holidays Tarot Spreads
+<h2>Holidays Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Holidays' %} 
-  [ {{post.title}} ]( {{ post.url | relative_url }} )
+  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
+<br><br>
 
-# Spirit Communication Tarot Spreads
+<h2>Spirit Communication Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Spirit Communication' %} 
-  [ {{post.title}} ]( {{ post.url | relative_url }} )
+  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
+<br><br>
+
+</div>

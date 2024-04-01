@@ -3,6 +3,7 @@ layout: free-tarot-spread
 title: Year Ahead Tarot Spread - Discover Your Path for the New Year
 date: 2023-12-09 10:51:01 -0700
 category: Holidays
+tag: tarot-spread
 categories: year ahead tarot, year ahead spread, free year ahead tarot spread, how to do a year ahead tarot spread, meaning of year ahead tarot cards, year ahead tarot reading, best year ahead tarot spread, accurate year ahead tarot spread, tarot cards, reading, future, predictions, self-improvement, spirituality, personal development, new year, self-awareness, guidance, inspiration, spiritual growth, 
 short-description: The year ahead tarot spread can be a valuable tool for planning and navigating the coming year. By gaining insights into the opportunities and challenges that lie ahead, you can make informed choices and create a future that is aligned with your goals and aspirations.
 img: year-ahead-tarot-spread.jpg

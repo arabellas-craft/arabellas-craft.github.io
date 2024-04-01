@@ -3,7 +3,7 @@ layout: free-tarot-spread
 title: Tarot for Connecting with Spirit Guides
 date: 2023-2-01 10:51:01 -0700
 category: Spirit Communication
-categories: 
+tag: tarot-spread
 short-description: Discover profound insights and guidance from your spiritual guides with this spirit guide tarot spread. Uncover the messages from your spiritual guides, understand their assistance, and learn the necessary actions to enhance your spiritual journey and connection.
 img: tarot-for-connecting-with-spirit-guides.jpg
 img-text: Connect to Your Spirit Guides with the Spirit Guide Tarot Spread

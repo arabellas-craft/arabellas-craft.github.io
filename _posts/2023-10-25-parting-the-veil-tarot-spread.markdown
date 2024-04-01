@@ -3,6 +3,7 @@ layout: free-tarot-spread
 title: Parting the Veil - A tarot spread for Samhain
 date: 2023-10-25 10:51:01 -0700
 category: Spirit Communication
+tag: tarot-spread
 categories: Talking to the Dead tarot spread, Connecting with departed spirits, Spiritual communication with the deceased, Messages from the afterlife, Tarot guidance from the departed, Seeking advice from the spirit world, Closure in spiritual communication, Understanding the spirit's message, Mediumship tarot reading, Communicating with the deceased through tarot, Advice from beyond the grave, Guidance from departed loved ones, Tarot readings for spiritual connection, Messages from the other side, Seeking closure through tarot communication
 short-description: Engage in the mystical ritual of tarot to foster a powerful connection with departed souls, allowing their timeless wisdom and guidance to resonate deeply within your being, bringing solace, understanding, and closure to both realms.
 img: "parting-the-veil-halloween-samhain-tarot-card-reading.jpg"

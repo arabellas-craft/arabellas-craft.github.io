@@ -3,6 +3,7 @@ layout: free-tarot-spread
 title: Spring Equinox Tarot Spread
 date: 2023-2-01 10:51:01 -0700
 category: Holidays
+tag: tarot-spread
 categories: Spring Equinox Tarot Spread, Tarot Reading for Spring Equinox, Seasonal Tarot Layout, Tarot Cards for Spring Renewal, Equinox Ritual with Tarot, Spring Equinox Divination, Online Spring Tarot Reading, Celebrate the Equinox with Tarot, Balance and Renewal Tarot Spread, Springtime Tarot Insights
 short-description: Discover the transformative power of the Spring Equinox Tarot Spread, guiding you to plant the seeds of intention and foster their growth during this period of renewal. Uncover what aspects of your life are ready to bloom this spring and learn how to be present and nurture their development.
 img: spring-equinox-tarot-spread.jpg

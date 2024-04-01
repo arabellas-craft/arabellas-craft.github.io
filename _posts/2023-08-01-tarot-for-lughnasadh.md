@@ -3,9 +3,10 @@ layout: free-tarot-spread
 title: Lughnasadh Tarot Spread
 date: 2023-08-01 10:51:01 -0700
 category: Holidays
+tag: tarot-spread
 categories: Lughnasadh Tarot Spread, Tarot Reading for Lughnasadh, Harvest Season Tarot Layout, Tarot Cards for Lughnasadh, Celtic Festival Tarot Spread, Lughnasadh Ritual with Tarot, Online Lughnasadh Tarot Reading, Celebrate Lughnasadh with Tarot, Spiritual Insights for Harvest Season, Lughnasadh Blessings Tarot Spread
 short-description: Dive into the sacred celebration of Lughnasadh with the Lughnasadh Tarot Reading. Discover the bountiful harvest awaiting you, learn how to give back to the community, and gain insights into what needs to be released to make room for a transformative winter ahead.
-img: lughnasadh-tarot-spread.jpg
+img: tarot-for-lughnasadh.jpg
 img-text: Embrace the Spirit of Abundance with a Lughnasadh Tarot Reading
 permalink: free-tarot-spreads/lughnasadh-tarot-spread
 ---

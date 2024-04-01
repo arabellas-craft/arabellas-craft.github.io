@@ -21,6 +21,10 @@ a
   &:hover
     color: $blue
     text-decoration: none
+  &.fancy
+    color: $blue
+    text-decoration: none
+    font-size: 1.5rem
 
 .button
   display: block
@@ -36,6 +40,28 @@ a
     background: $orange
     color: $white
     text-decoration: none
+
+img
+  border-radius: 0.25rem
+
+.two-column-list
+  columns: 2 auto
+
+.article-list
+  .article
+    display: flex
+    gap: 2rem
+    margin-bottom: 4rem
+    img
+      object-fit: cover
+      width: 20em
+      height: 20em
+      max-width: 20em
+    a
+      text-decoration: none
+      &:hover
+        color: $black
+
 
 // Header
 header
@@ -115,15 +141,6 @@ main
   small
     font-size: 65%
 
-  article
-    margin-top: 4rem
-    &:first-of-type
-      margin-top: 0
-    a
-      text-decoration: none
-      &:hover
-        color: $black
-
 footer
   margin: 0 auto
   text-align: center
@@ -141,14 +158,6 @@ footer
   max-width: 80%
   margin: 4rem auto
   display: block
-
-// Gallery
-.categories
-  display: flex
-  flex-wrap: wrap
-  gap: 1rem
-  div
-    width: 49%
 
 @media (max-width: 1224px)
   body
@@ -253,3 +262,7 @@ footer
     display: none
   footer
     max-width: 90%
+
+  .article-list
+    .article
+      flex-direction: column

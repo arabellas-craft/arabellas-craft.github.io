@@ -24,7 +24,7 @@ Tarot empowers you to gain valuable new perspectives on situations and relations
 
 
 ## Take Your First Steps with Tarot
-For those drawn to vibrant art and unique symbolism, your very own[magpie tarot deck](https://juniperdivination.etsy.com/?section_id=39508269) awaits you (or learn how to [build your own](/magpie-tarot-deck-unleash-your-inner-mystic-unique-tarot)). Or if you're not quite sure, if tarot is for you, try an [at-home printable tarot card deck](https://shop.juniperdivination.com/l/printable-tarot-de-marseille). 
+For those drawn to vibrant art and unique symbolism, your very own [magpie tarot deck](https://juniperdivination.etsy.com/?section_id=39508269) awaits you (or learn how to [build your own](/magpie-tarot-deck-unleash-your-inner-mystic-unique-tarot)). Or if you're not quite sure, if tarot is for you, try an [at-home printable tarot card deck](https://shop.juniperdivination.com/l/printable-tarot-de-marseille). 
 
 Once you've got your deck you're ready to connect with the wisdom of the cards. Dive into [my collection of free tarot spreads](/free-tarot-spreads/.), each designed to illuminate specific aspects of your life. Whether you seek clarity on love, career, or personal growth, there's a spread waiting to guide you. 
 

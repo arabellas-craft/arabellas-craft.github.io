@@ -3,6 +3,7 @@ layout: free-tarot-spread
 title: Dark Moon Shadow Work Tarot Spread
 date: 2022-04-06 10:51:01 -0700
 category: Lunar
+tag: tarot-spread
 categories: Shadow work tarot, Exploring the shadow self, Healing through shadow work, Integrating the shadow with tarot, Understanding the shadow aspects, Resisting change in shadow work, Embracing the shadow for growth, Healing the shadow self with tarot, Shadow work insights and guidance, Navigating shadow elements with tarot, Inner healing through shadow work, Dark moon shadow work spread, Embracing the darkness with tarot, Healing and transformation with shadow work, Tarot guidance for shadow integration
 short-description: Uncover the hidden aspects of your shadow self, explore resistance to change, and learn powerful techniques for integrating and healing these shadow elements through the insightful guidance of tarot.
 img: dark-moon-shadow-work-tarot-spread.jpg

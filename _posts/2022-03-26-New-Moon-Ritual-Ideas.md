@@ -2,6 +2,7 @@
 layout: article
 title:  "New Moon Ritual Ideas and Journal Prompts"
 date:   2022-03-26 05:13:01 -0700
+tag: article
 short-description: "The new moon is a time to set intentions, plan for your upcoming month, and also to honor this time of stillness and turn inward."
 categories: New moon rituals, New moon divination, Journal prompts for new moon, New moon energy, New moon intentions, New moon tarot reading, New moon scrying, Lunar cycle rituals, Manifesting with the new moon, New moon meditation, Divination during the new moon, Setting intentions for the new moon, New moon magic, Psychic insights during the new moon, New moon journaling, New moon candle magic, Harnessing new moon energy, New moon manifestation, New moon divination tools, New moon spiritual practice
 img: "new-moon-ritual-ideas.jpg"

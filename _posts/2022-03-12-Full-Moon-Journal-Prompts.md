@@ -2,6 +2,7 @@
 layout: article
 title:  "Full Moon Ritual Ideas and Journal Prompts"
 date:   2022-03-12 05:13:01 -0700
+tag: article
 short-description: "During the full moon we have the chance to step back and reflect on all that's been created during this past lunar cycle. It’s important to also take time to pause, reflect, and let go of what you no longer need."
 categories: Full moon ritual ideas, Full moon journaling prompts, Connection with lunar cycle, Full moon magic, Full moon tarot reading, Gratitude journaling, Full moon divination, Full moon tarot spreads
 img: "full-moon-journal-prompts.jpg"

@@ -2,7 +2,8 @@
 layout: free-tarot-spread
 title: The Garden of Insights Spread - A Nine-Card Layout for Unearthing Hidden Wisdom
 date: 2024-03-04 10:51:01 -0700
-category: Simple
+category: Insight
+tag: tarot-spread
 categories: tarot spread, nine-card tarot spread, decision tarot spread, garden of insights, clarity tarot spread, self-discovery tarot spread, complex situation tarot spread, potential outcome tarot spread, hidden influences tarot spread, intuitive tarot spread
 short-description: Discover hidden insights and make informed choices with the Garden of Insights tarot spread.  This 9-card layout helps uncover root causes, influences, and potential outcomes.
 img: garden-of-insight-tarot-card-spread.jpg

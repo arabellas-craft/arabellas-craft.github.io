@@ -3,6 +3,7 @@ layout: free-tarot-spread
 title: The Path to Emotional Healing a Shadow Work Tarot Spread
 date: 2023-11-06 10:51:01 -0700
 category: Healing and Health
+tag: tarot-spread
 categories: Shadow work tarot spread, Emotional healing tarot reading, Inner turmoil resolution, Uncovering subconscious complexities, Resolving deep-seated emotional challenges, Self-discovery through tarot, Healing mindset and actions tarot, Resolving inner conflicts tarot, Emotional well-being tarot insights, Transformative perspective tarot reading
 short-description:  This spread is designed to illuminate the hidden corners of your psyche. Delve into the intricate layers of your consciousness, unraveling the complexities that hinder your emotional well-being.
 img: emotional-healing-shadow-work-tarot-spread.jpg

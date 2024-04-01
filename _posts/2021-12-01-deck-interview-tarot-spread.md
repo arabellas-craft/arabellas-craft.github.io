@@ -3,6 +3,7 @@ layout: free-tarot-spread
 title: Deck Interview Tarot Spread
 date: 2021-12-01 10:51:01 -0700
 category: Simple
+tag: tarot-spread
 categories:  New Tarot Deck Interview, Tarot Deck Exploration Spread, Interviewing a New Tarot Deck, Tarot Cards Unveiled, Welcoming a New Tarot Deck, Tarot Deck Connection Reading, Initiate with a New Tarot Deck, Online Tarot Deck Interview, Bonding with Your Tarot Cards, New Beginnings with Tarot
 short-description: Discover the unique energy and insights of your new tarot deck with the New Tarot Deck Interview Tarot Spread. Unveil the deck's teachings about yourself and understand its best use to unlock the full potential of your new tarot journey.
 img: new-tarot-deck-interview-tarot-spread.jpg

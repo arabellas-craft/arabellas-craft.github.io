@@ -3,6 +3,7 @@ layout: free-tarot-spread
 title: Three Card Daily Tarot Spread
 date: 2021-09-12 10:51:01 -0700
 category: Simple
+tag: tarot-spread
 categories: Daily tarot card spread, Daily guidance through tarot, Daily insights with tarot cards, Empowering daily tarot readings, Tarot for daily clarity, Daily intention setting with tarot, Daily tarot guidance and advice, Understanding daily challenges with tarot, Releasing negativity with daily tarot, Seizing daily opportunities through tarot, Daily tarot card meanings, Optimizing your day with tarot, Personal growth through daily tarot, Tarot for daily empowerment, Setting intentions for the day with tarot
 short-description: Start your day with clarity and intention using our Daily Tarot Card Spread. Discover what you need to know, what actions to take, and what to release for a more fulfilling and empowered daily journey.
 img: "3-card-daily-tarot-spread.jpg"
