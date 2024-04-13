@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Juniper Divination | Witchcraft | Tarot Readings | Online Tarot Card Reading
-short-description: Explore divination and tarot reading at Juniper Divination. Unlock spiritual insights, receive personalized guidance, and uncover the secrets of tarot cards with an experienced tarot card reader. Discover a wealth of resources, from tarot card meanings to intuitive insights, all designed to illuminate your path. Embrace the power of divination and start your transformative journey with Juniper Divination.
+title: Juniper Divination - Discover Your Truth with Tarot, Divination & Witchcraft Supplies 
+short-description: Discover the power of divination. Start your transformative tarot journey with Juniper Divination.
 categories: Divination, Tarot readings, Psychic readings, Tarot card meanings, Spiritual guidance, Fortune telling, Tarot card decks, Tarot card interpretations, Psychic services, Online tarot readings, Intuitive readings, Oracle cards, Tarot reading online, Tarot spreads, Psychic insights, Love tarot readings, Career tarot readings, Tarot reader profiles, Tarot blog, Divination tools
 ---
 
