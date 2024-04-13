@@ -12,7 +12,9 @@ permalink: la-sibylle-des-salons-card-meanings
 ---
 La Sibylle des Salons is a captivating fortune-telling deck with roots in the mid-19th century. Steeped in the playful symbolism of illustrator Jean-Jacques Grandville, its imagery blends human and animal characteristics for a touch of social commentary. Unlike the structured world of Tarot, La Sibylle des Salons has a unique dual purpose. Each card holds both divinatory meanings and standard playing card insets, allowing for both insightful readings and traditional card games.
 
-This duality makes the deck accessible yet profound.  Below you'll find an expansive list of the Sibylle des Salons card meanings. As you explore these cards, trust your intuition and pay close attention to the imagery – it holds subtle clues that will enhance your understanding.
+Curious about La Sibylle des Salons? I offer a [printable digital download of the original Grandville deck](https://juniperdivination.etsy.com/listing/1710963511) that lets you experience the magic. Simply download, print, and start exploring! It's the perfect way to dive into this unique divination system without a big investment.
+
+This duality makes the deck accessible yet profound. Below you'll find an expansive list of the Sibylle des Salons card meanings. As you explore these cards, trust your intuition and pay close attention to the imagery – it holds subtle clues that will enhance your understanding.
 
 ## Love 
 **Upright**
