@@ -14,7 +14,7 @@ In the world of tarot, understanding the symbolism behind cards is crucial. It n
 
 ![Two tarot cards, the two of spears and eight of](/assets/img/article/learn-to-read-tarot/learn-to-read-tarot-suits.jpg)
 
-# Tarot Card Suits and Their Themes
+## Tarot Card Suits and Their Themes
 
 When a single suit dominates or numbers a reading, it emphasizes the theme associated with that suit:
 **Cups:** Emotions, relationships, and matters of the heart
@@ -22,7 +22,7 @@ When a single suit dominates or numbers a reading, it emphasizes the theme assoc
 **Swords:** Thoughts, conflicts, and challenges related to ideas
 **Wands/Rods:** Inspiration, creativity, and actions or projects
 
-# Tarot Card Numbers and Their Significance
+## Tarot Card Numbers and Their Significance
 Repeating numbers can amplify the energy and significance of that number's symbolism.
 
 **Ace:** New beginnings, opportunities, or a fresh start
@@ -36,7 +36,7 @@ Repeating numbers can amplify the energy and significance of that number's symbo
 **Nine:** Completion, fulfillment, and reflection
 **Ten:** Endings, culmination, and a sense of closure
 
-# Interpretation of Repeating Symbols in Tarot Cards
+## Interpretation of Repeating Symbols in Tarot Cards
 When you spot recurring symbols, patterns, or themes in multiple cards, consider the following for interpretation:
 
 **Consider the Context:** Analyze the positions of the cards with repeated imagery. For example, a repeated symbol that appears in a past position could represent past experiences or influences being carried into the future.
@@ -47,7 +47,7 @@ When you spot recurring symbols, patterns, or themes in multiple cards, consider
 
 **Personal Significance:** Depending on the reader's intuition and the querent's personal connection to certain symbols, repeating imagery can have personal significance. It may trigger specific emotions or memories, offering a more personalized interpretation.
 
-# Card Orientation Patterns
+## Card Orientation Patterns
 If you choose to read reversals, the significance of card orientation in a tarot reading lies in its ability to add layers of interpretation to the cards.
 
 **Mostly upright cards:** When the majority of the cards in a reading are upright, it often signifies a sense of internal clarity and ease. It suggests that the primary influences on the situation come from external sources and are generally aligned with the card meanings in their traditional sense.
@@ -57,7 +57,7 @@ If you choose to read reversals, the significance of card orientation in a tarot
 **Mostly reversed cards:** When most of the cards in a reading are reversed, it typically indicates that the energy related to those cards is encountering obstacles or resistance. It can suggest that certain aspects of the situation are blocked and may require a closer look or adjustment. Reversed cards may also point to hidden facets of the situation.
 
 ![Two Major Arcana tarot cards](/assets/img/article/learn-to-read-tarot/learn-to-read-tarot-major-and-minor-arcana.jpg)
-# Major and Minor Arcana Placements in Tarot Readings
+## Major and Minor Arcana Placements in Tarot Readings
 The placement of Major and Minor Arcana cards often determines how the card's energy is expressed within the context of the reading.
 
 The Major Arcana cards represent significant life events, archetypal energies, and deep spiritual or psychological themes. The more Major Arcana cards that appear in a reading the most of these forces are at work in the situation.
