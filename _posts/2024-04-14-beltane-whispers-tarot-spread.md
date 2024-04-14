@@ -1,6 +1,6 @@
 ---
 layout: free-tarot-spread
-title: Beltane Whispers:\ A Tarot Spread for Ancestral Connection
+title: Beltane Whispers - A Tarot Spread for Ancestral Connection
 date: 2024-04-14 10:51:01 -0700
 category: Spirit Communication
 tag: tarot-spread
