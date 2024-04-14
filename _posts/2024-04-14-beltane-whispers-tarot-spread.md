@@ -4,10 +4,10 @@ title: Beltane Whispers:\ A Tarot Spread for Ancestral Connection
 date: 2024-04-14 10:51:01 -0700
 category: Spirit Communication
 tag: tarot-spread
-categories: tarot spread
-short-description: Discover hidden insights and make informed choices with the Garden of Insights tarot spread.  This 9-card layout helps uncover root causes, influences, and potential outcomes.
+categories: tarot spread, Beltane tarot, Bealtaine tarot, ancestor communication tarot, spirit communication tarot, ancestral connection, spirit communication, tarot spread, Beltane traditions, ancestor veneration
+short-description: Celebrate Beltane with an ancestral tarot spread. Connect with your lineage, receive guidance, and explore ancient traditions.
 img: beltane-whispers-spirit-communication-tarot-spread.jpg
-img-text: Garden of Insights, a nine-card tarot spread for decision-making, uncovering hidden influences, and predicting potential outcomes.
+img-text: Celebrate Beltane with an ancestral tarot spread. Connect with your lineage, receive guidance, and explore ancient traditions.
 permalink: free-tarot-spreads/beltane-whispers-ancestral-communication-tarot-spread
 ---
 
