@@ -56,6 +56,14 @@ Explore our diverse collection of free tarot card spreads today, and let the anc
 {% endfor %}
 <br><br>
 
+<h2>Work and Career Tarot Spreads</h2>
+{% for post in site.posts %}
+  {% if post.category == 'Work and Career' %} 
+  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
+  {% endif %}
+{% endfor %}
+<br><br>
+
 <h2>Holidays Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Holidays' %} 
