@@ -4,7 +4,7 @@ title: Finding Your Path - A Tarot Spread to Navigate Your Career
 date: 2024-05-12 11:32:01 -0700
 category: Work and Career
 tag: tarot-spread
-categories: tarot spread, Beltane tarot, Bealtaine tarot, ancestor communication tarot, spirit communication tarot, ancestral connection, spirit communication, tarot spread, Beltane traditions, ancestor veneration
+categories: career tarot spread, tarot spread for job, find your path and calling, career goals tarot, facing challenges career tarot
 short-description: Uncover your career strengths, overcome challenges, and find your calling with this insightful career tarot spread.
 img: finding-your-path-a-career-tarot-spread.jpg
 img-text: Career Tarot Spread:\ Four cards reveal your strengths, challenges, motivations, and next steps on your career path.
