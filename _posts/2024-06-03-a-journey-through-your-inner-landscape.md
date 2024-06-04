@@ -4,10 +4,10 @@ title: Journey Through Your Inner Landscape - A Tarot Spread for Shadow Work
 date: 2024-06-03 11:32:01 -0700
 category: Insight
 tag: tarot-spread
-categories: 
-short-description: Uncover your career strengths, overcome challenges, and find your calling with this insightful career tarot spread.
+categories: tarot spread for shadow work integration, shadow work tarot spread for beginners, how to do shadow work with tarot cards, tarot card spread for exploring the shadow self, best tarot spread for shadow work healing, free shadow work tarot spread online, in-depth shadow work tarot reading, tarot card spread for uncovering hidden emotions, using tarot to navigate shadow work journey, shadow work tarot spread for self-discovery
+short-description: Illuminate your shadow self and discover hidden truths with this transformative tarot spread for deep self-exploration and healing.
 img: journey-through-your-inner-landscape-a-tarot-spread-for-shadow-work.jpg
-img-text: 
+img-text: Illuminate your shadow self and discover hidden truths with this transformative tarot spread for deep self-exploration and healing.
 permalink: free-tarot-spreads/journey-through-your-inner-landscape-a-tarot-spread-for-shadow-work
 ---
 Uncover the hidden depths of your soul and embark on a transformative journey with this powerful shadow work tarot spread.
