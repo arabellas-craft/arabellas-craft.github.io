@@ -1,18 +1,48 @@
+.home
+  .logo, .title
+    display: none
+  .hero
+    display: flex
+    margin: 2rem 4rem 4rem 0rem
+    img
+    .hero-title
+      flex-grow: 1
+      align-content: center
+      h1
+        font-size: 4.125rem
+        line-height: 4.125rem
+        color: $black
+        margin-bottom: 0
+
 .gallery
   display: flex
   flex-wrap: wrap
-  justify-content: space-evenly
-  gap: 1rem
-  align-content: center
+  justify-content: space-between
+  align-items: center
+  row-gap: 1.5rem
+  column-gap: 1.5rem
   margin-bottom: 4rem
   img
     max-width: 17rem
+  .gallery-link
+    width: 17rem
+    height: 17rem
+    display: flex
+    align-items: center
+    justify-content: center
+    background: $blue
+    border-radius: 0.25rem
+    a
+      font-family: 'Playfair Display', serif
+      font-size: 1.75rem
+      color: $white
+      text-decoration: none
+      text-align: center
+      margin: 1rem
+      &:hover
+        color: $white
+        text-decoration: none
 
-.tarot-gallery
-  p
-    display: block
-    text-align: center
-    width: 100%
 
 .article-gallery 
   .article
@@ -35,7 +65,7 @@
     border-radius: 0.25rem
 
   h3
-    font-family: 'Cinzel Decorative', cursive
+    font-family: 'Playfair Display', serif
     font-size: 1.75rem
     color: $white
     margin: 1rem
@@ -43,6 +73,17 @@
 
 
 @media (max-width: 700px)
+  .home .hero
+    flex-direction: column-reverse
+    margin: 0 0 2rem
+    h1, p
+      text-align: center
+    img
+      max-width: 50%
   .gallery
     img
       max-width: 100%
+    .gallery-link
+      width: 100%
+  .article-gallery .article
+    width: 100%

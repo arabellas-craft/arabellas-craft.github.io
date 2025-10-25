@@ -3,10 +3,16 @@
   <head>
     {% include home-head.html %}
   </head>
-  <body>
+  <body class="home">
     {% include header.html %}
     <main>
-      <br>
+      <div class="hero">
+        <div class="hero-title">
+           <h1>Juniper Divination</h1>
+          <p>PRACTICAL TAROT & DIVINATION GUIDES FOR <br class="hide-on-mobile">MODERN PRACTITIONERS</p>
+        </div>
+        <img src="{{baseurl}}/assets/img/juniper-divination.svg" alt="Juniper Divination"></a>
+      </div>
       {{ content }}
     </main>
     <footer>
