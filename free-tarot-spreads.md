@@ -13,9 +13,7 @@ Our carefully curated selection of tarot card spreads is designed to cater to va
 Dive into the depths of the mystical realm with our user-friendly and intuitive tarot card spreads, each crafted to offer comprehensive and insightful interpretations. Uncover hidden truths, gain clarity, and find solace as you embark on a transformative journey with our powerful tarot card spreads.
 
 Explore our diverse collection of free tarot card spreads today, and let the ancient wisdom of the cards illuminate your path to a more empowered and enlightened existence.
-
-<div class="two-column-list">
-
+<br><br>
 <h2>Simple Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Simple' %} 
@@ -79,5 +77,3 @@ Explore our diverse collection of free tarot card spreads today, and let the anc
   {% endif %}
 {% endfor %}
 <br><br>
-
-</div>
