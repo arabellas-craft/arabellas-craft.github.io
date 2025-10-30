@@ -136,7 +136,7 @@ menu {
 
 main {
   margin-top: 2rem;
-  grid-column: 2 / 7;
+  grid-column: 3 / 6;
   &.minimal {
     margin: auto;
     text-align: center;
@@ -213,6 +213,7 @@ footer {
     grid-template-columns: 1fr;
     padding: 0 0.5rem;
   }
+
 
   header {
     text-align: center;

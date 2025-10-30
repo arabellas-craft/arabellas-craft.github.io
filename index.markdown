@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Juniper Divination - Discover Your Truth with Tarot, Divination & Witchcraft Supplies 
-short-description: Discover the power of divination. Start your transformative tarot journey with Juniper Divination.
+short-description: Free tarot guides, printable divination zines, and beginner-friendly witchcraft resources. Download tarot spreads, tea leaf reading guides & more from Juniper Divination.
 categories: Divination, Tarot readings, Psychic readings, Tarot card meanings, Spiritual guidance, Fortune telling, Tarot card decks, Tarot card interpretations, Psychic services, Online tarot readings, Intuitive readings, Oracle cards, Tarot reading online, Tarot spreads, Psychic insights, Love tarot readings, Career tarot readings, Tarot reader profiles, Tarot blog, Divination tools
 ---
 

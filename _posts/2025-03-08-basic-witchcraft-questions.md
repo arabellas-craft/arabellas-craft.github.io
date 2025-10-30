@@ -35,7 +35,7 @@ Start simple: notebook, date entries, record what you tried and what happened. I
 
 # Mindset and Philosophy
 
-## "What's the difference between Wicca and witchcraft?"**
+## "What's the difference between Wicca and witchcraft?"
 
 Wicca is a specific religion with deities, ethics (like the Rule of Three), and structured practices. Witchcraft is just the practice of using energy and intention to create change, it's a skill set, not a religion.
 
