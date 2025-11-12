@@ -89,6 +89,9 @@
 
 
 @media (max-width: 700px) {
+  .home main {
+    grid-column: 1 / -1;
+  }
   .home .hero {
     flex-direction: column-reverse;
     margin: 0 0 2rem;
