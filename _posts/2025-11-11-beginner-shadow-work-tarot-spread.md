@@ -1,6 +1,6 @@
 ---
 layout: free-tarot-spread
-title: The Beginner's Shadow Work Tarot Spread:\ A Gentle Introduction to Self-Discovery
+title: The Beginner's Shadow Work Tarot Spread - A Gentle Introduction to Self-Discovery
 date: 2025-11-11 11:32:01 -0700
 category: Healing and Health
 tag: tarot-spread
