@@ -9,7 +9,7 @@ categories: Divination, Tarot readings, Psychic readings, Tarot card meanings, S
 {% assign tarot-spreads = site.posts | where_exp:"post",
 "post.tag contains 'tarot-spread'" %}
 <div class="gallery tarot-gallery">
-{% for post in tarot-spreads limit:3 %}
+{% for post in tarot-spreads limit:4 %}
   <a href="{{ post.url }}"><img src="/assets/img/tarot-spread/thumbs/{{post.img}}" alt="{{post.title}}"></a>
 {% endfor %}
 <p class="gallery-link"><a href="/free-tarot-spreads">View All Tarot Spreads</a></p>
@@ -20,7 +20,7 @@ categories: Divination, Tarot readings, Psychic readings, Tarot card meanings, S
 {% assign articles = site.posts | where_exp:"post",
 "post.tag contains 'article'" %}
 <div class="gallery article-gallery">
-{% for post in articles limit:3 %}
+{% for post in articles limit:4 %}
 <a href="{{ post.url }}">
  <div class="article" style="background-image:url(/assets/img/article/{{post.img}});">
     <div class="white-overlay">
@@ -43,14 +43,6 @@ categories: Divination, Tarot readings, Psychic readings, Tarot card meanings, S
   <a href="https://ko-fi.com/s/71bb6a9240"><img src="/assets/img/zines/bibliomancy-ebook.jpg" alt="Learn Book Divination (Bibliomancy) eBook"></a>
   
 </div>
-
-<!-- ## Tarot Spreads
-<div class="gallery">
-{% for post in tarot-spreads limit:3 %}
-  <a href="{{ post.url }}"><img src="/assets/img/tarot-spread/thumbs/{{post.img}}" alt="{{post.title}}"></a>
-{% endfor %}
-<p class="gallery-link"><a href="/free-tarot-spreads">View All Tarot Spreads</a></p>
-</div> -->
 
 ## Tarot Decks
 <div class="gallery">
