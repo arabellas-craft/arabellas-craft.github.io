@@ -2,7 +2,7 @@
 layout: free-tarot-spread
 title: The Beginner's Shadow Work Tarot Spread - A Gentle Introduction to Self-Discovery
 date: 2025-11-11 11:32:01 -0700
-category: Healing and Health
+category: Insight
 tag: tarot-spread
 categories: shadow work tarot card spread
 short-description: Learn how to use shadow work tarot to explore hidden aspects of yourself. This beginner-friendly 5-card spread includes step-by-step instructions and journal prompts.

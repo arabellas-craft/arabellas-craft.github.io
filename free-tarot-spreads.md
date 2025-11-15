@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Free Tarot Card Spreads | Juniper Divination and Witchery | Tarot Readings | Online Tarot Card Reading
+title: Free Tarot Spreads - For Beginners, Shadow Work, Love & More | Juniper Divination
 permalink: /free-tarot-spreads/
 categories: Free tarot spreads, Tarot card reading, Divination tools, Tarot card interpretations, Tarot guidance, Tarot card spreads, Online tarot readings, Tarot for beginners, Daily tarot guidance, Tarot card meanings
-short-description: Explore our diverse collection of free tarot card spreads, designed to provide profound insights into various aspects of your life's journey. Uncover hidden truths and gain clarity with Juniper Divination's comprehensive tarot card spreads.
+short-description: Discover 40+ free tarot card spreads for beginners and experienced readers. Master shadow work, moon phases, love readings, and sabbat divination today.
 ---
 # Tarot for In-Depth Guidance and Clarity
 Are you seeking profound insights and clarity into different facets of your life's journey? Juniper Divination offers an extensive array of meticulously crafted free tarot card spreads, tailored to illuminate your path and provide deeper understanding.
@@ -14,7 +14,7 @@ Dive into the depths of the mystical realm with our user-friendly and intuitive 
 
 Explore our diverse collection of free tarot card spreads today, and let the ancient wisdom of the cards illuminate your path to a more empowered and enlightened existence.
 <br><br>
-<h2>Simple Tarot Spreads</h2>
+<h2>Beginner Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Simple' %} 
   <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
@@ -22,7 +22,7 @@ Explore our diverse collection of free tarot card spreads today, and let the anc
 {% endfor %}
 <br><br>
 
-<h2> Insight</h2>
+<h2>Shadow Work & Self-Discovery Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Insight' %} 
   <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
@@ -30,7 +30,7 @@ Explore our diverse collection of free tarot card spreads today, and let the anc
 {% endfor %}
 <br><br>
 
-<h2> Lunar Tarot Spreads</h2>
+<h2>Moon Phase Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Lunar' %} 
   <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
@@ -38,7 +38,7 @@ Explore our diverse collection of free tarot card spreads today, and let the anc
 {% endfor %}
 <br><br>
 
-<h2>Healing and Health Tarot Spreads</h2>
+<h2>Healing & Grounding Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Healing and Health' %} 
   <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
@@ -62,7 +62,7 @@ Explore our diverse collection of free tarot card spreads today, and let the anc
 {% endfor %}
 <br><br>
 
-<h2>Holidays Tarot Spreads</h2>
+<h2>Sabbat & Seasonal Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Holidays' %} 
   <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
@@ -70,7 +70,7 @@ Explore our diverse collection of free tarot card spreads today, and let the anc
 {% endfor %}
 <br><br>
 
-<h2>Spirit Communication Tarot Spreads</h2>
+<h2>Ancestral & Spirit Guide Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Spirit Communication' %} 
   <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
