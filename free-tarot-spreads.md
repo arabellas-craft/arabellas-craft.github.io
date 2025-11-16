@@ -5,14 +5,19 @@ permalink: /free-tarot-spreads/
 categories: Free tarot spreads, Tarot card reading, Divination tools, Tarot card interpretations, Tarot guidance, Tarot card spreads, Online tarot readings, Tarot for beginners, Daily tarot guidance, Tarot card meanings
 short-description: Discover 40+ free tarot card spreads for beginners and experienced readers. Master shadow work, moon phases, love readings, and sabbat divination today.
 ---
-# Tarot for In-Depth Guidance and Clarity
-Are you seeking profound insights and clarity into different facets of your life's journey? Juniper Divination offers an extensive array of meticulously crafted free tarot card spreads, tailored to illuminate your path and provide deeper understanding.
 
-Our carefully curated selection of tarot card spreads is designed to cater to various aspects of life, including love, career, personal growth, and spiritual development. Whether you're navigating complex relationships, seeking career guidance, or exploring your spiritual path, our tarot card spreads are here to guide you every step of the way.
+# Free Tarot Spreads for Every Situation
 
-Dive into the depths of the mystical realm with our user-friendly and intuitive tarot card spreads, each crafted to offer comprehensive and insightful interpretations. Uncover hidden truths, gain clarity, and find solace as you embark on a transformative journey with our powerful tarot card spreads.
+Looking for tarot spreads? You're in the right place. This collection includes beginner tarot spreads for those just starting out, simple 3-card layouts for daily guidance, and more complex spreads for shadow work, lunar cycles, and specific life situations.
 
-Explore our diverse collection of free tarot card spreads today, and let the ancient wisdom of the cards illuminate your path to a more empowered and enlightened existence.
+All of these tarot spreads are completely free - no sign-ups, no paywalls, just practical tools you can use right now. Whether you're working through a relationship question, need clarity on a career decision, or want to explore your inner landscape, there's a spread here that fits.
+
+I create these spreads as a gift to the tarot community. They're organized by category below so you can quickly find what you need: love and relationships, personal growth, lunar work, career guidance, and more. Pick a spread, grab your deck, and let's get to work.
+
+**Support This Work**
+
+If you've found these free tarot spreads helpful and feel called to support more resources like this, you can [donate on Ko-fi](https://ko-fi.com/juniperdivination/donate). Donations are never expected but always appreciated and help me keep creating accessible tarot content for the community.
+
 <br><br>
 <h2>Beginner Tarot Spreads</h2>
 {% for post in site.posts %}
