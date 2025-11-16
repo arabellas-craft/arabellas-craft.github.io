@@ -22,7 +22,7 @@ If you've found these free tarot spreads helpful and feel called to support more
 <h2>Beginner Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Simple' %} 
-  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
+  <p class="no-padding-bottom"><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
 <br><br>
@@ -30,7 +30,7 @@ If you've found these free tarot spreads helpful and feel called to support more
 <h2>Shadow Work & Self-Discovery Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Insight' %} 
-  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
+  <p class="no-padding-bottom"><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
 <br><br>
@@ -38,7 +38,7 @@ If you've found these free tarot spreads helpful and feel called to support more
 <h2>Moon Phase Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Lunar' %} 
-  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
+  <p class="no-padding-bottom"><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
 <br><br>
@@ -46,7 +46,7 @@ If you've found these free tarot spreads helpful and feel called to support more
 <h2>Healing & Grounding Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Healing and Health' %} 
-  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
+  <p class="no-padding-bottom"><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
 <br><br>
@@ -54,7 +54,7 @@ If you've found these free tarot spreads helpful and feel called to support more
 <h2>Love and Relationships Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Love and Relationships' %} 
-  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
+  <p class="no-padding-bottom"><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
 <br><br>
@@ -62,7 +62,7 @@ If you've found these free tarot spreads helpful and feel called to support more
 <h2>Work and Career Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Work and Career' %} 
-  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
+  <p class="no-padding-bottom"><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
 <br><br>
@@ -70,7 +70,7 @@ If you've found these free tarot spreads helpful and feel called to support more
 <h2>Sabbat & Seasonal Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Holidays' %} 
-  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
+  <p class="no-padding-bottom"><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
 <br><br>
@@ -78,7 +78,7 @@ If you've found these free tarot spreads helpful and feel called to support more
 <h2>Ancestral & Spirit Guide Tarot Spreads</h2>
 {% for post in site.posts %}
   {% if post.category == 'Spirit Communication' %} 
-  <p><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
+  <p class="no-padding-bottom"><a href=" {{ post.url | relative_url }} ">{{post.title}} </a></p>
   {% endif %}
 {% endfor %}
 <br><br>
