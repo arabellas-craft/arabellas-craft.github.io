@@ -13,7 +13,7 @@ main.article {
     margin-bottom: 0.75rem;
   }
 
-  p:has(+ ul) {
+  p:has(+ ul, + ol) {
     padding-bottom: 0.5rem;
   }
 
@@ -40,8 +40,7 @@ main.article {
     max-width: 75%;
   }
 
-  ul {
-    list-style-type: disc;
+  ul, ol {
     padding-left: 2rem;
     padding-bottom: 1rem;
     li {
