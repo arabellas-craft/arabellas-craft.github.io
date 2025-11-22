@@ -1,9 +1,9 @@
 ---
 layout: article
-title: Common Tea Leaf Symbols and Their Meanings
+title: "Tea Leaf Symbols Guide: Build Your Personal Dictionary (Don't Just Memorize Guidebooks)"
 date: 2025-10-26 12:51:01 -0700
 tag: article
-short-description: "Learn tea leaf reading symbols and meanings! Discover how to interpret birds, animals, trees & shapes in your cup. Beginner-friendly tasseography guide."
+short-description: "Traditional tea leaf symbol dictionaries tell you dog=loyalty, bird=news. But the readings that actually resonate? They come from YOUR intuition. Learn common symbols (birds, trees, shapes) as starting points, then discover how to build your personal tea leaf dictionary. For beginners."
 img: "common-tea-leaf-symbols-and-their-meanings.jpg"
 img-text: Photo by Jun Weng on Unsplash
 permalink: common-tea-leaf-symbols-and-their-meanings
