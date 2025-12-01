@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" {% if site.lang %}xml:lang="{{ site.lang }}"{% endif %}>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" {% if site.lang %}xml:lang="{{ site.lang }}"{% endif %}>
   <generator uri="https://jekyllrb.com/" version="{{ jekyll.version }}">Jekyll</generator>
   <link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self" type="application/atom+xml" />
   <link href="{{ site.url }}{{ site.baseurl }}/" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
@@ -47,37 +47,19 @@
         <summary type="html">{{ post.excerpt | strip_html | normalize_whitespace | xml_escape }}</summary>
       {% endif %}
 
-      <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">
-        <![CDATA[
-          {% if post.img %}
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ post.img }}" alt="{{ post.img-text | default: post.title | xml_escape }}" />
-          {% endif %}
+      {% if post.img %}
+        {% assign img_url = site.url | append: site.baseurl | append: "/assets/img/article/" | append: post.img %}
+        <link rel="enclosure" type="image/jpeg" href="{{ img_url }}" />
+        <media:content url="{{ img_url }}" medium="image">
+          <media:title type="html">{{ post.img-text | default: post.title | xml_escape }}</media:title>
+        </media:content>
+      {% endif %}
 
-          {% if post.short-description %}
-            <p><strong>{{ post.short-description | xml_escape }}</strong></p>
-          {% endif %}
-
-          {{ post.content }}
-        ]]>
-      </content>
+      <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}"><![CDATA[{% if post.img %}<img src="{{ site.url }}{{ site.baseurl }}/assets/img/article/{{ post.img }}" alt="{{ post.img-text | default: post.title }}" style="max-width: 100%; height: auto;" />{% endif %}{% if post.short-description %}<p><strong>{{ post.short-description }}</strong></p>{% endif %}{{ post.content }}]]></content>
 
       <author>
         <name>{{ post.author.name | default: post.author | default: site.author.name | default: site.author | xml_escape }}</name>
-        {% if post.author.email %}
-          <email>{{ post.author.email | xml_escape }}</email>
-        {% endif %}
-        {% if post.author.uri %}
-          <uri>{{ post.author.uri | xml_escape }}</uri>
-        {% endif %}
       </author>
-
-      {% if post.category %}
-        <category term="{{ post.category | xml_escape }}" />
-      {% endif %}
-
-      {% for tag in post.tags %}
-        <category term="{{ tag | xml_escape }}" />
-      {% endfor %}
     </entry>
   {% endfor %}
 </feed>

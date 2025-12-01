@@ -28,15 +28,9 @@ url: "https://juniperdivination.com" # the base hostname & protocol for your sit
 # Build settings
 
 plugins:
-  - jekyll-feed
   - jekyll-coffeescript
   - jekyll-seo-tag
   - jekyll-sitemap
-
-# Jekyll Feed Configuration
-feed:
-  excerpt_only: false
-  posts_limit: 100
 sass:
   sass_dir: _sass
   implementation: sass-embedded
