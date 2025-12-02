@@ -5,7 +5,6 @@
   <link href="{{ site.url }}{{ site.baseurl }}/" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ site.url }}{{ site.baseurl }}/</id>
-
   {% if site.title %}
     <title type="html">{{ site.title | smartify | xml_escape }}</title>
   {% elsif site.name %}
@@ -40,7 +39,7 @@
       <published>{{ post.date | date_to_xmlschema }}</published>
       <updated>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</updated>
       <id>{{ post.id | absolute_url | xml_escape }}</id>
-
+      <post_type>{{ post.layout }}</post_type>
       {% if post.short-description %}
         <summary type="html">{{ post.short-description | strip_html | normalize_whitespace | xml_escape }}</summary>
       {% elsif post.excerpt %}

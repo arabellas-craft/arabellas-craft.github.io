@@ -6,11 +6,6 @@
 @import 'general';
 
 main.article {
-  hr {
-    border: 0 none transparent;
-    border-top: 0.1rem solid $blue;
-    padding-bottom: 1rem;
-  }
   h3 {
     font-size: 1.5rem;
     font-weight: 600;

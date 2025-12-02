@@ -13,6 +13,12 @@ body {
   height: 100vh;
 }
 
+hr {
+    border: 0 none transparent;
+    border-top: 0.1rem solid $blue;
+    padding-bottom: 1rem;
+  }
+
 a {
   text-decoration-color: $blue;
   text-decoration-thickness: 0.2rem;
@@ -208,24 +214,23 @@ main {
 }
 
 footer {
+  grid-column: 3 / 6;
   margin: 0 auto;
   text-align: center;
-  grid-column: 1 / -1;
-  max-width: 60%;
 
-  h2 {
-    font-weight: bold;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1.5rem;
+  p {
+    font-size: 1.25rem;
+    padding-bottom: 2rem;
+    line-height: 1.5;
+  }
+
+  .kofi-callout {
+    background: rgba($blue, 0.25);
+    border-radius: 1rem;
+    padding: 1.5rem;
     margin-bottom: 1rem;
   }
-}
 
-.divider {
-  width: 1024px;
-  max-width: 80%;
-  margin: 4rem auto;
-  display: block;
 }
 
 @media (max-width: 1224px) {
@@ -370,7 +375,7 @@ footer {
     display: none;
   }
   footer {
-    max-width: 90%;
+    grid-column: 1 / -1;
   }
 
   .article-list {
