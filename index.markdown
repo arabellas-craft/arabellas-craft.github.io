@@ -10,7 +10,7 @@ categories: Divination, Tarot readings, Psychic readings, Tarot card meanings, S
 "post.tag contains 'tarot-spread'" %}
 <div class="gallery tarot-gallery">
 {% for post in tarot-spreads limit:4 %}
-  <a href="{{ post.url }}"><img src="/assets/img/tarot-spread/thumbs/{{post.img}}" alt="{{post.title}}"></a>
+  <a href="{{ post.url }}"><img src="/assets/img/free-tarot-spread/thumbs/{{post.img}}" alt="{{post.title}}"></a>
 {% endfor %}
 <p class="gallery-link"><a href="/free-tarot-spreads">View All Tarot Spreads</a></p>
 </div>

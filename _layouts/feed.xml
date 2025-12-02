@@ -47,7 +47,7 @@
       {% endif %}
 
       {% if post.img %}
-        {% assign img_url = site.url | append: site.baseurl | append: "/assets/img/article/" | append: post.img %}
+        {% capture img_url %}{{ site.url }}{{ site.baseurl }}/assets/img/{{ post.layout }}/{{ post.img }}{% endcapture %}
         <link rel="enclosure" type="image/jpeg" href="{{ img_url }}" />
         <media:content url="{{ img_url }}" medium="image">
           <media:title type="html">{{ post.img-text | default: post.title | xml_escape }}</media:title>
