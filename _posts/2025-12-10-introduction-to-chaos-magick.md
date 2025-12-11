@@ -62,7 +62,7 @@ Some people enjoy incorporating tools and aesthetics into their practice, and th
 
 If any of this sounds interesting, you're in the right place. This post is the first in a series covering the basics of chaos magic, written for people who are curious but maybe a little intimidated by where to start.
 
-The next post in the series covers the history of chaos magic: where it came from, who developed it, and how a handful of British occultists in the 1970s and 80s created a practice that's still growing today.
+Now that you have a sense of what chaos magic is and who it's for, you might be wondering where it actually came from. Unlike traditions that claim ancient or unknowable origins, chaos magic has a documented history. We know who started it, when, and why. [A Brief History of Chaos Magic](/history-of-chaos-magic) covers the founders, influences, and cultural moment that brought this practice into existence.
 
 Before you move on, you might try this brief reflection:
 
