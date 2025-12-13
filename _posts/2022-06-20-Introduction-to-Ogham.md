@@ -1,9 +1,9 @@
 ---
 layout: article
-title:  "An Introduction to Ogham"
+title:  "Ogham Alphabet Guide: Ancient Irish Writing System Explained"
 date:   2022-06-20 10:51:01 -0700
 tag: article
-short-description: "What is the ogham and where did it come from? Is it really a Celtic tree calendar? The aim of this article is to give a basic foundation of the ogham to provide context for later more in-depth articles."
+short-description: "Learn the Ogham alphabet, an ancient Irish writing system. Discover Ogham meanings, pronunciation, and how to read and write this Celtic script for divination."
 categories: Ogham script, Celtic tree alphabet, Ogham history, Ogham meanings, Ogham divination, Ogham symbols, Introduction to Ogham, Celtic script, Ogham alphabet, Ancient Celtic writing, Ogham symbols and meanings, Ogham history and origins, Ogham in Celtic culture, Ogham characters, Ogham divination methods, Ogham casting, Ogham staves, Using Ogham for divination, Ogham spiritual practice, Working with Ogham
 img: "ogham-stone.jpg"
 img-text: "Ogham stone from Emlagh Dingle Peninsula. Photo credit: Nora White at Dublin Institute for Advanced Studies"

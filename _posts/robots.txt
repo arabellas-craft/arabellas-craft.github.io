@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /*.json
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
