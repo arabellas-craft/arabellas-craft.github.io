@@ -18,6 +18,14 @@ I create these spreads as a gift to the tarot community. They're organized by ca
 
 If you've found these free tarot spreads helpful and feel called to support more resources like this, you can [donate on Ko-fi](https://ko-fi.com/juniperdivination/donate). Donations are never expected but always appreciated and help me keep creating accessible tarot content for the community.
 
+{% assign tarot-spreads = site.posts | where_exp:"post",
+"post.tag contains 'tarot-spread'" %}
+<div class="gallery tarot-gallery">
+{% for post in tarot-spreads limit: 24 %}
+  <a href="{{ post.url }}"><img src="/assets/img/free-tarot-spread/thumbs/{{post.img}}" alt="{{post.title}}"></a>
+{% endfor %}
+</div>
+
 <br><br>
 <h2>Beginner Tarot Spreads</h2>
 {% for post in site.posts %}

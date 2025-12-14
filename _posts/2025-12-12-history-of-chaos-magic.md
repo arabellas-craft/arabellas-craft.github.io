@@ -8,13 +8,11 @@ img: "history-of-chaos-magic.jpg"
 permalink: history-of-chaos-magic
 --- 
 
-Unlike magical traditions that claim ancient or unknowable origins, chaos magic has a documented history. We know who started it, when they started it, and what they were reacting against. This isn't a drawback. It's one of the most honest things about the practice.
+Unlike many magical traditions that claim ancient or unknowable origins, chaos magic has a documented history. We know who started it, when they started it, and what they were reacting against. This isn't a drawback. It's one of the most honest things about the practice.
 
 Chaos magic emerged in England during the late 1970s. It has founders with names and published works. It developed in a specific cultural context that shaped what it became. Understanding that context helps you understand what chaos magic is actually for.
 
 ## The 1970s Occult Landscape
-
-To understand why chaos magic emerged, you need to know what it was pushing against.
 
 By the 1970s, Western occultism was dominated by established traditions with formal structures. The Hermetic Order of the Golden Dawn had developed an elaborate system of grades, rituals, and correspondences in the late 1800s. Thelema, founded by Aleister Crowley in the early 1900s, offered its own complex framework. Wicca, formalized by Gerald Gardner in the 1950s, was growing rapidly and had its own initiatory degrees and required practices.
 
