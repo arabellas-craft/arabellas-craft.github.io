@@ -49,7 +49,11 @@ function createClient() {
 // Parse Jekyll post file
 async function parsePost(filePath) {
   try {
-    const content = await fs.readFile(filePath, 'utf8');
+    // Resolve path relative to repository root (two directories up from .github/scripts)
+    const repoRoot = path.resolve(__dirname, '../../');
+    const absolutePath = path.resolve(repoRoot, filePath);
+
+    const content = await fs.readFile(absolutePath, 'utf8');
     const { data: frontMatter, content: body } = matter(content);
 
     return {
