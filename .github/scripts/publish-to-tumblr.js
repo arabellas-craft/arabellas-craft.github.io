@@ -72,18 +72,8 @@ async function parsePost(filePath) {
 async function createArticlePost(client, post) {
   const { frontMatter, body } = post;
 
-  // Build tags array from categories field (comma-separated string)
-  let tags = [];
-  if (frontMatter.categories) {
-    // Split comma-separated categories and trim whitespace
-    tags = frontMatter.categories
-      .split(',')
-      .map(tag => tag.trim())
-      .filter(tag => tag.length > 0);
-  } else if (frontMatter.tag) {
-    // Fallback to tag field if no categories
-    tags = [frontMatter.tag];
-  }
+  // Use categories (comma-separated string) or tag field
+  const tags = frontMatter.categories || frontMatter.tag || '';
 
   const postData = {
     type: 'text',
@@ -110,18 +100,8 @@ async function createArticlePost(client, post) {
 async function createTarotSpreadPost(client, post) {
   const { frontMatter } = post;
 
-  // Build tags array from categories field (comma-separated string)
-  let tags = [];
-  if (frontMatter.categories) {
-    // Split comma-separated categories and trim whitespace
-    tags = frontMatter.categories
-      .split(',')
-      .map(tag => tag.trim())
-      .filter(tag => tag.length > 0);
-  } else if (frontMatter.tag) {
-    // Fallback to tag field if no categories
-    tags = [frontMatter.tag];
-  }
+  // Use categories (comma-separated string) or tag field
+  const tags = frontMatter.categories || frontMatter.tag || '';
 
   // Construct image URL
   const imageUrl = frontMatter.img
