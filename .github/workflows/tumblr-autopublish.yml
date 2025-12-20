@@ -1,0 +1,59 @@
+name: Publish to Tumblr
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/**'
+
+jobs:
+  publish-to-tumblr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # Need previous commit to detect new/modified files
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: '.github/scripts/package-lock.json'
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: .github/scripts
+
+      - name: Detect new or modified posts
+        id: detect-posts
+        run: |
+          # Get list of new or modified markdown files in _posts/
+          FILES=$(git diff --name-only --diff-filter=AM HEAD^ HEAD -- '_posts/*.md' || true)
+
+          if [ -z "$FILES" ]; then
+            echo "No new or modified posts found"
+            echo "has_posts=false" >> $GITHUB_OUTPUT
+          else
+            echo "New or modified posts detected:"
+            echo "$FILES"
+            echo "has_posts=true" >> $GITHUB_OUTPUT
+            # Convert newlines to commas for passing to script
+            FILES_COMMA=$(echo "$FILES" | tr '\n' ',' | sed 's/,$//')
+            echo "files=$FILES_COMMA" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Post to Tumblr
+        if: steps.detect-posts.outputs.has_posts == 'true'
+        env:
+          TUMBLR_CONSUMER_KEY: ${{ secrets.TUMBLR_CONSUMER_KEY }}
+          TUMBLR_CONSUMER_SECRET: ${{ secrets.TUMBLR_CONSUMER_SECRET }}
+          TUMBLR_OAUTH_TOKEN: ${{ secrets.TUMBLR_OAUTH_TOKEN }}
+          TUMBLR_OAUTH_TOKEN_SECRET: ${{ secrets.TUMBLR_OAUTH_TOKEN_SECRET }}
+          TUMBLR_BLOG_ID: juniperdivination
+          POST_FILES: ${{ steps.detect-posts.outputs.files }}
+        run: node publish-to-tumblr.js
+        working-directory: .github/scripts

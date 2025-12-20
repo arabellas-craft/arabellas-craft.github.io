@@ -7,3 +7,9 @@ vendor
 **/.DS_Store
 Gemfile.lock
 assets/img/.DS_Store
+
+# Tumblr auto-publisher
+.github/scripts/node_modules
+.github/scripts/.env
+.github/scripts/README.md
+.github/scripts/SETUP-CHECKLIST.md

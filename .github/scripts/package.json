@@ -1,0 +1,18 @@
+{
+  "name": "tumblr-autopublisher",
+  "version": "1.0.0",
+  "description": "Automatically publish Jekyll posts to Tumblr",
+  "private": true,
+  "scripts": {
+    "get-tokens": "node get-tumblr-tokens.js",
+    "publish": "node publish-to-tumblr.js"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "oauth": "^0.10.2",
+    "tumblr.js": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
