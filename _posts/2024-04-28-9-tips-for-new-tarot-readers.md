@@ -14,7 +14,7 @@ permalink: 9-tarot-tips-for-beginners
 Are you intrigued by the world of tarot but need help getting started? The ancient art of tarot reading is a powerful tool for self-discovery, tapping into your intuition, and gaining clarity on life's path. Whether you're a curious beginner or looking to deepen your connection with your deck, these ten tips will guide you.
 
 ## 1. Choose a Resonant Deck
-Finding a deck that speaks to you is the first step in learning to read tarot. There are two major styles of tarot deck: Rider-Waite-Smith (RWS) and Tarot de Marseille (TdM). Each holds unique symbolism and energy. Trust your instincts and select a deck that draws you in. If you're unsure where to start, [try a digital download version of each style](juniperdivination.etsy.com/?etsrc=sdt&section_id=39508269) to get a feel for them. 
+Finding a deck that speaks to you is the first step in learning to read tarot. There are two major styles of tarot deck: Rider-Waite-Smith (RWS) and Tarot de Marseille (TdM). Each holds unique symbolism and energy. Trust your instincts and select a deck that draws you in. If you're unsure where to start, [try a digital download version of each style](https://juniperdivination.etsy.com/?etsrc=sdt&section_id=39508269) to get a feel for them. 
 
 ## 2. Bond With Your Cards
 Build a relationship with your deck by handling them frequently. Shuffle them, feeling their weight and texture. Draw a daily card to meditate on or spend time studying each card individually. Observe its symbolism, colors, and the story it conveys.

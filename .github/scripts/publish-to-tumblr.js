@@ -18,7 +18,7 @@ const config = {
   consumerSecret: process.env.TUMBLR_CONSUMER_SECRET,
   token: process.env.TUMBLR_OAUTH_TOKEN,
   tokenSecret: process.env.TUMBLR_OAUTH_TOKEN_SECRET,
-  blogId: process.env.TUMBLR_BLOG_ID || 'juniperdivination.tumblr.com',
+  blogId: process.env.TUMBLR_BLOG_ID || 'juniper-divination-and-witchery.tumblr.com',
   siteUrl: 'https://juniperdivination.com',
   postFiles: process.env.POST_FILES || ''
 };

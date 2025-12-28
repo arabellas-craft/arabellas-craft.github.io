@@ -119,9 +119,9 @@ The problem is avoiding the decision.
 
 Sometimes a tarot reading leaves you with more questions than answers. 
 
-That's when [combining different divination methods](https://juniperdivination.com/combining-divination-methods) can help. Use tarot for the emotional landscape and dice for a yes/no confirmation, for example.
+That's when [combining different divination methods](/combine-tarot-divination-methods) can help. Use tarot for the emotional landscape and dice for a yes/no confirmation, for example.
 
-Or if you prefer divination without any tools at all, [bibliomancy](https://juniperdivination.com/bibliomancy-book-divination) offers perspective using books you already own. Open a meaningful text at random and see what wisdom appears.
+Or if you prefer divination without any tools at all, [bibliomancy](/bibliomancy-book-divination) offers perspective using books you already own. Open a meaningful text at random and see what wisdom appears.
 
 ## Making It Work for You
 

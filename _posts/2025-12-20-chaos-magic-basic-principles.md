@@ -88,4 +88,4 @@ Belief as a tool is the foundation everything else in chaos magic builds on.
 
 Once this concept clicks, the techniques make sense. Sigils work because you're encoding intention and then letting go of conscious attachment. Gnosis works because altered states bypass your normal filters. Paradigm shifting works because you're not locked into one framework.
 
-The next step is learning the vocabulary: [Key Terms and Concepts in Chaos Magic](/chaos-magic-key-terms) covers the language you'll need.
+The next step is learning the vocabulary: [Key Terms and Concepts in Chaos Magic](/chaos-magic-terms-explained) covers the language you'll need.

@@ -71,7 +71,7 @@ Debated. Most practitioners say yes for best results.
 
 Focus on results rather than analyzing the experience in the moment.
 
-Learn [practical gnosis techniques](#gnosis-article).
+Learn [practical gnosis techniques](/gnosis-techniques-chaos-magic).
 
 ### Servitor / Egregore / Tulpa
 
@@ -406,4 +406,4 @@ Chaos magic's anti-dogmatic philosophy means definitions vary between practition
 
 If a term still confuses you, you're not alone. The chaos magic community continues active discussions about these concepts across forums, Discord servers, and social media. The confusion is part of the learning process.
 
-Next: Learn [practical gnosis techniques](#gnosis-article) that make magic work.
+Next: Learn [practical gnosis techniques]( /gnosis-techniques-chaos-magic) that make magic work.
