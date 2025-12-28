@@ -53,7 +53,7 @@ jobs:
           TUMBLR_CONSUMER_SECRET: ${{ secrets.TUMBLR_CONSUMER_SECRET }}
           TUMBLR_OAUTH_TOKEN: ${{ secrets.TUMBLR_OAUTH_TOKEN }}
           TUMBLR_OAUTH_TOKEN_SECRET: ${{ secrets.TUMBLR_OAUTH_TOKEN_SECRET }}
-          TUMBLR_BLOG_ID: juniperdivination.tumblr.com
+          TUMBLR_BLOG_ID: juniper-divination-and-witchery.tumblr.com
           POST_FILES: ${{ steps.detect-posts.outputs.files }}
         run: node publish-to-tumblr.js
         working-directory: .github/scripts
