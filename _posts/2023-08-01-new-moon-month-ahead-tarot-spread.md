@@ -5,7 +5,7 @@ date: 2023-2-01 10:51:01 -0700
 category: Lunar
 tag: tarot-spread
 categories: New Moon Month Ahead Tarot Spread, Tarot Reading for the New Moon, Tarot Spread for Upcoming Month, New Moon Manifestation Tarot, Setting Intentions with Tarot, Online New Moon Tarot Reading, Lunar Cycle Tarot Insights, New Moon Divination Layout, New Moon Ritual with Tarot, Tarot Cards for New Beginnings
-short-description: Free new moon tarot spread for planning your month ahead. Simple 4-card reading to harness new moon energy. Includes card positions and interpretation guide.
+short-description: Use this free 4-card New Moon tarot spread to discover growth opportunities, what to release, and the empowering energy coming your way this month.
 img: New-Moon-Month-Ahead-Tarot-Spread-Juniper-Divination.jpg
 img-text: Unveil New Beginnings and Guidance with the New Moon Tarot Spread
 permalink: free-tarot-spreads/new-moon-month-ahead-tarot-spread
