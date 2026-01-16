@@ -1,8 +1,8 @@
 ---
 layout: free-tarot-spread
 title: "Body-Mind-Spirit Tarot Spread for Beginners 3-Card Wellness Check-In"
-date: 2025-12-19 11:32:01 -0700
-category: Holidays
+date: 2026-01-15 11:32:01 -0700
+category: Simple
 tag: tarot-spread
 short-description: Simple body mind spirit tarot spread for daily self-care. 3-card holistic check-in for beginners to assess physical, mental, and spiritual wellness. Free spread + meanings.
 categories: body mind spirit tarot spread, self-care tarot spread for beginners, wellness tarot spread, mental health check-in tarot, holistic tarot spread, 3-card tarot spread for beginners, daily check-in tarot, emotional wellness tarot, inner balance tarot spread, mindfulness tarot reading, stress management tarot, burnout recovery spread, overwhelm tarot reading, emotional check-in cards, physical wellness divination, simple tarot spread, easy tarot layout, beginner holistic reading, starting tarot practice, basic wellness spread, emotional fitness tarot, self-reflection cards, intentional wellness, holistic self-care, mind-body connection reading, tarot for beginners, wellness check-in, mental health tarot, body mind spirit check-in, holistic wellness tarot, beginner tarot spread, self-care ritual, daily tarot practice, emotional balance tarot, spiritual wellness spread, mindfulness practice, stress relief tarot, tarot self-care, wellness routine, holistic health reading, beginner divination, simple wellness spread, three card tarot, tarot for mental health, emotional healing tarot, self-awareness tarot
