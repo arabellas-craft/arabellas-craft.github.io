@@ -134,4 +134,4 @@ Optional. Some practitioners always banish before and after magical work. Others
 
 Sigils combine [belief-as-tool](/chaos-magic-belief-as-tool) with [gnosis](/gnosis-techniques-chaos-magic) to create change. The technique is simple enough to start immediately but deep enough that experienced practitioners still rely on it.
 
-Master this before moving to more complex work. Sigils teach you the fundamental rhythm of chaos magic: intention, altered state, release.S
+Master this before moving to more complex work. Sigils teach you the fundamental rhythm of chaos magic: intention, altered state, release. 
