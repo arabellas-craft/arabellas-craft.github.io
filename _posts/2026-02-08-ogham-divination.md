@@ -43,6 +43,8 @@ This layered approach to interpretation has historical roots. Irish literary tra
 
 You don't need special training to read ogham. Start with the meanings in the guide. Your intuition develops through practice as you work with the symbols and see how they show up in your life.
 
+{% include article-kofi-callout.html %}
+
 ## Making Your Own Ogham Divination Set
 
 Find twenty wooden sticks roughly the same size and carve or paint the ogham letters on them. Collect twenty smooth stones and mark them with permanent marker or paint. Cut twenty pieces of paper or cardstock and draw the symbols.

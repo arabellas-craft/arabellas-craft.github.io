@@ -31,7 +31,7 @@ It's your personal magical journal. It can contain spells that worked, correspon
 
 Start simple: notebook, date entries, record what you tried and what happened. It grows organically over time.
 
-![](/assets/img/divider.svg){:.divider}
+{% include article-kofi-callout.html %}
 
 # Mindset and Philosophy
 
@@ -67,7 +67,7 @@ Usually yes, since witchcraft is a practice, not a religion. Many Christians, Je
 
 Some conservative religious communities disagree, so consider your specific situation.
 
-![](/assets/img/divider.svg){:.divider}
+--- 
 
 # Core Practices
 ## "What is grounding?"
@@ -99,7 +99,7 @@ Be skeptical of correspondence lists you find online with no attribution or sour
 They're a timing tool, not magic requirements. New moon for new beginnings, full moon for power/manifestation, waning moon for banishing/releasing.
 Use them if they help you focus, ignore them if they don't. The moon's energy is subtle - your intention matters more than perfect timing.
 
-![](/assets/img/divider.svg){:.divider}
+---
 
 # Tools and Supplies
 
@@ -121,7 +121,7 @@ Absolutely. Visualization, meditation, energy work, and intention-setting need z
 
 Tools can help focus your mind, but they're not doing the actual magic - you are.
 
-![](/assets/img/divider.svg){:.divider}
+---
 
 # Basic Spellwork
 
@@ -159,7 +159,7 @@ Patterns, synchronicities, or unusual events that feel meaningful. Keep a journa
 
 Trust your intuition but stay grounded. Not everything is a sign.
 
-![](/assets/img/divider.svg){:.divider}
+{% include article-kofi-callout.html %}
 
 # Divination
 
@@ -199,7 +199,7 @@ There are more types of divination than I can list out here! But some of the mor
 
 Each system taps into intuition differently - find what resonates with you.
 
-![](/assets/img/divider.svg){:.divider}
+---
 
 # Learning and Resources
 

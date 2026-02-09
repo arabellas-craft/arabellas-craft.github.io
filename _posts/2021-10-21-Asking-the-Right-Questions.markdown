@@ -25,6 +25,8 @@ It's tempting to ask if your/your querent’s ex will come back to you, or why y
 If you could answer your question by talking to the person you’d be doing the reading about, that might be a better option than asking tarot cards.
 As a side note, some people consider asking about third parties to be unethical and do not read about third parties for that reason. I think that can totally depend on a number of variables, in terms of getting actionable and useful advice from tarot cards, I don’t find it to be a good line of questioning ethical or not.
 
+{% include article-kofi-callout.html %}
+
 ## Open up your questions
 The way you phrase your questions can shut down or open up a reading. There are lots of questions that aren't quite yes/no questions but come pretty close. “Who is..” or “When will..” questions tend to shut things down. Try “What do I need to know about…” or “How can I…” instead.
 

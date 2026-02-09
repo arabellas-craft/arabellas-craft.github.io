@@ -69,6 +69,8 @@ In West Limerick, the cake was rapped on the door with slightly different words:
 
 As is often the case with practices found of Duchas, Christian prayers have been grafted onto seemingly older hunger-banishment customs and are able to coexist.
 
+{% include article-kofi-callout.html %}
+
 ### First Footing Prep
 
 People believed the first person or creature to enter the house after midnight determined your luck for the year. Ideal first footer: dark-haired man. Black cats also counted as lucky.

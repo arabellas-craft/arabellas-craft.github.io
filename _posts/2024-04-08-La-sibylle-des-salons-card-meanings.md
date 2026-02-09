@@ -16,6 +16,8 @@ Curious about La Sibylle des Salons? I offer a [printable digital download of th
 
 This duality makes the deck accessible yet profound. Below you'll find an expansive list of the Sibylle des Salons card meanings. As you explore these cards, trust your intuition and pay close attention to the imagery – it holds subtle clues that will enhance your understanding.
 
+{% include article-kofi-callout.html %}
+
 ## Love 
 **Upright**
 Romance, connection, passion, desire, friendship, loyalty, affection, self-love

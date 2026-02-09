@@ -21,6 +21,8 @@ A deck interview is a reading you perform with a new deck to explore its strengt
 
 Here's the reframe that makes this practice click: you're not actually asking the cards questions. You're asking your own intuition how it responds to this particular visual language. Think of it like test-driving a car. You're not interrogating the vehicle about its personality; you're learning how it handles, where it excels, and how you need to adjust your driving style to work with it effectively.
 
+{% include article-kofi-callout.html %}
+
 ## Why Interview Your Deck: The Practical Benefits
 
 **Learn the Deck's Visual Language**

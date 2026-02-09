@@ -43,6 +43,8 @@ Plain wood crosses, simply tacked or tied together, appeared in County Clare, we
 
 Very localized cross types that were well made of traditional materials appeared in scattered areas. Danaher suggests these "may be survivals of more widespread use, or more recent products of local imagination and skill" (p. 18).
 
+{% include article-kofi-callout.html %}
+
 ## Making the Crosses: Southern Ireland
 
 In the southern half of Ireland, households usually made one cross of the local type. They sprinkled it with holy water and hung it above or close to the entrance door with a prayer: "May the blessing of God, Father, Son and Holy Spirit be on this cross and on the place where it hangs and on everyone who looks at it."

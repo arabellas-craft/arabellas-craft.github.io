@@ -27,6 +27,8 @@ Each letter has many associated lists that may have been used as mnemonic device
 
 As a quick aside: Often when people have heard of ogham it’s through Robert Graves’ The White Goddess and his “Celtic tree calendar” or “Celtic astrology.” Ogham is not a calendar or time-keeping system and has many associations beyond just trees.
 
+{% include article-kofi-callout.html %}
+
 # What do the ogham letters look like?
 The ogham letters are formed by tally marks that come off of a central line. They are generally read from bottom to top when the text is arranged vertically (as it often is on stone inscriptions) or from left to right if it is arranged horizontally.
 

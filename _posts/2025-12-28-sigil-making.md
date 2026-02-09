@@ -77,6 +77,8 @@ Some practitioners destroy the physical sigil after charging. Others keep them i
 
 Trust the process is complete.
 
+{% include article-kofi-callout.html %}
+
 ## Your First Sigil
 
 Let's work through a low-stakes example: "It is my will to have a productive week."

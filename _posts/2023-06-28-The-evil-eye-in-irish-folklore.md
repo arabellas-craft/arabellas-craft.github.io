@@ -30,6 +30,8 @@ There are numerous things that could cause someone to be born with the evil eye 
 * Babies seeing their baptismal towel before it was washed <cite>[10](https://www.duchas.ie/en/cbes/4427931/4358497/4457849)</cite>
 * Your Godparents omitting a word during your baptism <cite>[11](https://www.duchas.ie/en/cbes/4623000/4622359/4630274)</cite>
 
+{% include article-kofi-callout.html %}
+
 ## Prevention of the evil eye
 To protect themselves from the ill effects of being overlooked, people developed customs and rituals, the most popular of which included: 
 

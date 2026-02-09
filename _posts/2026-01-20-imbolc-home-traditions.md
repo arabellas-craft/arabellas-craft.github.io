@@ -43,6 +43,8 @@ Butter always formed part of the meal and fresh butter was churned on the same d
 
 The emphasis on food abundance held meaning beyond simple celebration. Even households with little made sure to have something special, marking the day as different from ordinary winter scarcity.
 
+{% include article-kofi-callout.html %}
+
 ## Offerings for St. Brigid's Visit
 
 People believed that St. Brigid travelled about the countryside on the Eve of her festival, bestowing her blessing on the people and on their livestock. Various ways indicated that her visit to house and farmyard was welcome.

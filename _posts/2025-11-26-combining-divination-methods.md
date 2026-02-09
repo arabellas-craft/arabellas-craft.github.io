@@ -24,6 +24,8 @@ That's what combining methods does. You're not asking the same question until yo
 
 The trick is knowing which combinations actually work.
 
+{% include article-kofi-callout.html %}
+
 ## Best Combinations
 
 ### Tarot + Dice: Story + Confirmation

@@ -217,6 +217,7 @@ main {
   .hide {
     display: none;
   }
+  
 }
 
 footer {
@@ -230,13 +231,17 @@ footer {
     line-height: 1.5;
   }
 
-  .kofi-callout {
-    background: rgba($blue, 0.25);
-    border-radius: 1rem;
-    padding: 1.5rem;
-    margin-bottom: 1rem;
-  }
+}
 
+.kofi-callout {
+  background: rgba($blue, 0.25);
+  border-radius: 1rem;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  p {
+    padding-bottom: 1rem;
+    text-align: center;
+  }
 }
 
 @media (max-width: 1224px) {

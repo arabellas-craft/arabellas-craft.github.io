@@ -20,6 +20,8 @@ Approach your tarot card reading with an open mind and heart. Tarot cards work b
 ## 3. Choose the Right Tarot Deck
 Tarot decks come in various styles and themes, each with its unique energy and symbolism. If you have a personal tarot deck, bring it with you to the reading. If not, don't worry; an experienced tarot readers have a variety of decks to choose from. You can also inquire about the reader's preferred deck and select one that resonates with you.
 
+{% include article-kofi-callout.html %}
+
 ## 4. Prepare Your Questions
 If you have specific questions or concerns, write them down before the reading (if you need help refining your questions see my article on [How to ask the Right Questions for Tarot Reading](/good-questions-for-tarot-readings/)). Organize your thoughts and prioritize the topics you'd like to explore. Clear, well-formulated questions lead to more focused and insightful readings. However, if you're seeking a general reading, that's perfectly fine too.
 

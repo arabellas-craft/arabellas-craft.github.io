@@ -30,6 +30,8 @@ Ray Sherwin published *The Book of Results* the same year. Where Carroll offered
 
 Together, Carroll and Sherwin founded the Illuminates of Thanateros (IOT) in 1978. The name was deliberately provocative, combining Thanatos (death) and Eros (sex) as fundamental drives. The IOT was structured as a "magical order," but one that explicitly rejected the dogmatism of earlier orders. It was meant to be a network for experimentation, not a hierarchy dispensing authorized truth.
 
+{% include article-kofi-callout.html %}
+
 ## Austin Osman Spare: The Grandfather of Sigils
 
 Carroll and Sherwin didn't invent sigil magic. They drew heavily on the work of Austin Osman Spare, a British artist and occultist who lived from 1886 to 1956.

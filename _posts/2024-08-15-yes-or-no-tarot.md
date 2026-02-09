@@ -25,6 +25,8 @@ While these methods offer a tempting shortcut to quick answers, they ultimately 
 - Free Will and Personal Agency: The future is not a predetermined path but a landscape of possibilities shaped by our choices. Tarot serves as a mirror, reflecting our current circumstances and potential outcomes, empowering us to make informed decisions and take ownership of our journey.
 - Deeper Insights: Instead of a simple "yes" or "no," tarot provides context, revealing underlying influences, potential challenges, and hidden opportunities. It encourages us to explore the "why" behind our questions, leading to deeper understanding and self-awareness.
 
+{% include article-kofi-callout.html %}
+
 ## Rephrasing the Question: The Power of "What If?"
 To unlock the true magic of tarot, consider rephrasing your "yes" or "no" questions into open-ended inquiries that invite exploration and reflection. Instead of asking, "Will I get the job?", try asking:
 

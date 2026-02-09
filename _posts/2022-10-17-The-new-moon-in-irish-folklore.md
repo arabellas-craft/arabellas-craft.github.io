@@ -16,6 +16,7 @@ Many of these customs are based off of what you are doing when you first see the
 
 The sources for these practices are all from [The School’s Collection](https://www.duchas.ie/en/cbes) and they come from all over Ireland. They were collected by school children in the 1930’s who were tasked with interviewing their parents, grandparents, and neighbors for what folklore they remembered from their childhoods.
 
+{% include article-kofi-callout.html %}
 
 ## Growth and good luck
 

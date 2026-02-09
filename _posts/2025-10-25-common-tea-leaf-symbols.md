@@ -15,6 +15,8 @@ If you're staring at a jumble of wet leaves thinking "this just looks like a mes
 
 Here's what you need to know: traditional symbol meanings are helpful starting points, but they're not gospel. Think of them like a compass, useful for general direction, but *your intuition* is the map. That weird blob that you think looks like your childhood dog? Trust that. The symbol dictionary says dogs mean loyalty, but maybe yours means something else entirely. And that's not just okay, it's *exactly* how this practice works best.
 
+{% include article-kofi-callout.html %}
+
 ## The Symbols You'll See Most Often
 
 ### Animals: Messengers and Archetypes

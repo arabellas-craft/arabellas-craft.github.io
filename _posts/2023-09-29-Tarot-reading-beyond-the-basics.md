@@ -36,6 +36,8 @@ Repeating numbers can amplify the energy and significance of that number's symbo
 **Nine:** Completion, fulfillment, and reflection
 **Ten:** Endings, culmination, and a sense of closure
 
+{% include article-kofi-callout.html %}
+
 ## Interpretation of Repeating Symbols in Tarot Cards
 When you spot recurring symbols, patterns, or themes in multiple cards, consider the following for interpretation:
 

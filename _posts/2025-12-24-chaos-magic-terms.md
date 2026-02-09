@@ -204,7 +204,9 @@ The distinction: There's a difference between healthy desire (you want the thing
 
 The first is fine. The second kills the working.
 
-Get [step-by-step sigil creation and charging techniques](#sigil-article).
+Get [step-by-step sigil creation and charging techniques](/how-to-make-sigils-austin-osman-spare-method).
+
+{% include article-kofi-callout.html %}
 
 ## Core Philosophy Terms
 

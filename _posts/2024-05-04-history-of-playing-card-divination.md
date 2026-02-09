@@ -26,6 +26,8 @@ The late 1700s marked a turning point. Figures like Jean-Baptiste Alliette (who 
 
 Etteilla published one of the earliest treatises on the topic, "Etteilla, ou maniere de se récréer avec un jeu de cartes" (Etteilla, or a way to entertain yourself with a deck of cards). Etteilla developed assigned meanings for each card in both upright and reversed positions, which formed the basis for many modern interpretations (although today most decks are reversable and so the reversed position meanings are generally not used). 
 
+{% include article-kofi-callout.html %}
+
 ## Playing Card Divination Today
 The legacy of early figures like Etteilla and Court de Gébelin has paved the way for a vibrant and diverse landscape of contemporary cartomancy.  While no single, definitive system exists, practitioners continue to build upon traditional meanings and find new ways to use a standard deck of cards for guidance and introspection.
 
@@ -38,7 +40,7 @@ Modern playing card divination embraces both simplicity and depth:
 
 
 ## Take the Next Step in Your Divination Journey
-If you're captivated by the rich history of playing card divination and want to start practicing this fascinating art, my [playing card divination zine](https://juniperdivination.etsy.com/listing/1701149374) is the perfect guide! 
+If you're captivated by the rich history of playing card divination and want to start practicing this fascinating art, my [playing card divination zine](https://ko-fi.com/s/95f9c296924) is the perfect guide! 
 
 It includes:
 * Traditional card meanings: Discover the symbolism passed down through the ages.

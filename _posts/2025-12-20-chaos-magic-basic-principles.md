@@ -36,6 +36,8 @@ The phrase has baggage. The Assassin's Creed games stripped away the philosophic
 
 The original meaning: intellectual freedom and taking responsibility for your own practice. Not moral relativism. Not "nothing matters."
 
+{% include article-kofi-callout.html %}
+
 ## Two Models, One Practice
 
 Practitioners understand chaos magic through one of two lenses, sometimes both.

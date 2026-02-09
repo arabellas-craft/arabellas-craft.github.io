@@ -46,6 +46,8 @@ This is done to prevent the fairies from taking any of the milk from the cows.
 > If you put a rowan tree up the Chimney nothing can bring the butter out of the house.
 [Source](https://www.duchas.ie/en/cbes/4428075/4375742/4454297)
 
+{% include article-kofi-callout.html %}
+
 ## The May bush: blessing and protection
 The May bush was a common custom in Ireland, particularly in Leinster, South and West Ulster, and some areas of Munster and Connaught. The May bush often featured hawthorn branches brought home and decorated with flowers, ribbons, and colorful eggshells saved from Easter. 
 

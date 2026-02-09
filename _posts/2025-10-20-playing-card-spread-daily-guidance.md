@@ -57,6 +57,8 @@ Where you're headed or guidance for moving forward.
 3. **Interpret:** Start with suit energy, add number influence. Notice patterns—three red cards suggest emotional/passionate energy, three black indicate mental/transformative themes. Multiple cards from one suit intensify that domain.
 4. **Journal (optional):** Record cards and interpretation. Check evening accuracy for faster learning.
 
+{% include article-kofi-callout.html %}
+
 ## Sample Reading
 
 **Morning draw:** 8 of Diamonds, Queen of Hearts, Ace of Spades

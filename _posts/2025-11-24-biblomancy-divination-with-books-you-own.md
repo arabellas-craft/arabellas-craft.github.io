@@ -35,6 +35,7 @@ Think of it like this: you're not predicting the future. You're getting a fresh 
 
 **5. Read what you found.** Start with the complete sentence your finger touched. Read 2-3 sentences before and after for context. Total of 3-5 sentences usually works.
 
+{% include article-kofi-callout.html %}
 
 ## Quick Tips for Better Readings
 
