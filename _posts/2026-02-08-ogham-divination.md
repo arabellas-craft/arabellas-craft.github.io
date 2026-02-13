@@ -55,7 +55,7 @@ The guide includes visual reference for all 20 letters so you know exactly what 
 
 ## About the Ogham Reference Guide
 
-The guide is available as a PDF download on [Ko-fi](https://ko-fi.com/s/bccbd1f2c4). It's structured as both a quick reference and a learning tool. Each fid gets its own page with pronunciation, all three bríatharogam, traditional associations, and modern divinatory meanings.
+The guide is available as a PDF download on [Ko-fi](https://ko-fi.com/s/5c3b7f6070). It's structured as both a quick reference and a learning tool. Each fid gets its own page with pronunciation, all three bríatharogam, traditional associations, and modern divinatory meanings.
 
 The information comes from medieval manuscript sources rather than modern invented systems. Historical accuracy matters when you're working with a tradition that has actual documentation. You get the real thing, not someone's 1940s fantasy about what Celts "must have" believed.
 
@@ -65,6 +65,6 @@ The guide works for beginners who need foundational knowledge and for experience
 
 You already have what you need to practice ogham divination. Paper and pen. Sticks from your yard. Stones from a walk. The tools are simple because the practice itself is accessible.
 
-Get the [Ogham Reference Guide](https://ko-fi.com/s/bccbd1f2c4) to learn the feda and their meanings. If you want more historical context about ogham as a writing system and its archaeological evidence, read [this introduction to the ogham alphabet](/ogham-an-introduction).
+Get the [Ogham Reference Guide](https://ko-fi.com/s/5c3b7f6070) to learn the feda and their meanings. If you want more historical context about ogham as a writing system and its archaeological evidence, read [this introduction to the ogham alphabet](/ogham-an-introduction).
 
 The practice builds from there.
