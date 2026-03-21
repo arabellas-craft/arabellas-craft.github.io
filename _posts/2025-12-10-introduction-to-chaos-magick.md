@@ -10,7 +10,7 @@ permalink: what-is-chaos-magic
 
 # Chaos Magic for the Curious: An Introduction
 
-If you've come across the term "chaos magic" online, you might have some questions. The name sounds intense. Maybe you've seen sigils on TikTok or encountered references in witchcraft spaces and thought, "That sounds interesting, but it's probably not for someone like me."
+If you've come across the term "chaos magic" online, you might have some questions. The name sounds intense. Maybe you've seen [sigils](/how-to-make-sigils-austin-osman-spare-method) on TikTok or encountered references in witchcraft spaces and thought, "That sounds interesting, but it's probably not for someone like me."
 
 Chaos magic is more approachable than its reputation suggests. You don't need to buy anything to practice it. You don't need to believe in anything specific. And despite what the name might imply, it's not about destruction or summoning things you'd rather not meet.
 
@@ -88,7 +88,7 @@ As you explore chaos magic, you'll encounter a handful of key ideas. I'll cover 
 
 **Sigils:** Probably the most well-known chaos magic technique, although it predates chaos magic. A sigil is a symbol you create from a statement of intention, then charge through gnosis and release. It's simple enough for complete beginners but remains useful for experienced practitioners.
 
-**Paradigm shifting:** The practice of moving between different belief systems or magical frameworks depending on what you need. One week you might work within a framework that involves planetary spirits; the next you might approach magic as pure psychology. Neither cancels out the other.
+**[Paradigm shifting](/chaos-magic-paradigm-shifting):** The practice of moving between different belief systems or magical frameworks depending on what you need. One week you might work within a framework that involves planetary spirits; the next you might approach magic as pure psychology. Neither cancels out the other.
 
 **Results-based approach:** Chaos magic is pragmatic. Techniques are judged by whether they produce the outcomes you want, not by how traditional or aesthetically pleasing they are.
 

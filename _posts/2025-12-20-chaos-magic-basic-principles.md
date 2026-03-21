@@ -18,7 +18,7 @@ You adopt a belief system temporarily because it's useful. While you're using it
 
 This isn't pretending or going through the motions. The temporary adoption has to be genuine to work.
 
-Example: You might work a sigil for financial stability using a prosperity framework one week. The next week, you approach a difficult conversation using cognitive behavioral therapy techniques. The week after, you do a tarot reading using the [good questions framework](/good-questions-for-tarot-readings) with no magical assumptions.
+Example: You might work [a sigil](/how-to-make-sigils-austin-osman-spare-method) for financial stability using a prosperity framework one week. The next week, you approach a difficult conversation using cognitive behavioral therapy techniques. The week after, you do a tarot reading using the [good questions framework](/good-questions-for-tarot-readings) with no magical assumptions.
 
 None of these cancel each other out. They're different tools for different situations.
 
@@ -68,7 +68,7 @@ Chaos magic encourages working with symbols, deities, and techniques from multip
 
 Before adopting a technique or working with an unfamiliar symbol, do basic research. Where does it come from? Does the originating community consider the practice open or closed? Learn enough context to approach it respectfully.
 
-Some traditions are closed practices tied to cultural identity, ancestry, or initiation requirements. Paradigm shifting doesn't give you a free pass to ignore these boundaries.
+Some traditions are closed practices tied to cultural identity, ancestry, or initiation requirements. [Paradigm shifting](/chaos-magic-paradigm-shifting) doesn't give you a free pass to ignore these boundaries.
 
 The difference between paradigm shifting and appropriation: paradigm shifting treats belief systems as functional tools while respecting their origins. Appropriation strips practices from context and ignores practitioner communities.
 

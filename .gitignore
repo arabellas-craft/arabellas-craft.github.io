@@ -5,6 +5,7 @@ _site
 vendor
 .DS_Store
 **/.DS_Store
+**/**/.DS_Store
 Gemfile.lock
 assets/img/.DS_Store
 
@@ -13,4 +14,3 @@ assets/img/.DS_Store
 .github/scripts/.env
 .github/scripts/README.md
 .github/scripts/SETUP-CHECKLIST.md
-assets/img/article/.DS_Store

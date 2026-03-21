@@ -26,7 +26,7 @@ Two figures are credited with founding chaos magic: Peter Carroll and Ray Sherwi
 
 Peter Carroll published *Liber Null* in 1978. The book was short, practical, and stripped of the verbose style common in occult writing. Carroll presented techniques directly, explained how to use them, and encouraged readers to experiment rather than accept anything on faith. He drew on chaos theory and quantum physics as conceptual frameworks, though these references were more metaphorical than scientific.
 
-Ray Sherwin published *The Book of Results* the same year. Where Carroll offered a broader philosophical framework, Sherwin focused specifically on sigil magic, providing clear instructions for creating and charging sigils. His approach was equally pragmatic.
+Ray Sherwin published *The Book of Results* the same year. Where Carroll offered a broader philosophical framework, Sherwin focused specifically on [sigil magic](/how-to-make-sigils-austin-osman-spare-method ), providing clear instructions for creating and charging sigils. His approach was equally pragmatic.
 
 Together, Carroll and Sherwin founded the Illuminates of Thanateros (IOT) in 1978. The name was deliberately provocative, combining Thanatos (death) and Eros (sex) as fundamental drives. The IOT was structured as a "magical order," but one that explicitly rejected the dogmatism of earlier orders. It was meant to be a network for experimentation, not a hierarchy dispensing authorized truth.
 
