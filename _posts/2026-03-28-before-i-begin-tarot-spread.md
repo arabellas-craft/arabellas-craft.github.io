@@ -84,4 +84,4 @@ If Card 3 surprises or confuses you, ask someone who knows you well what strengt
 
 Write down your reading. A threshold moment is exactly when you'll want to look back later and see what you knew at the start.
 
-Any deck works for this. A worn deck, an inexpensive deck, a borrowed one you never returned. The spread doesn't require a deck that matches the occasion.
+Any deck works for this. A worn deck, an inexpensive deck, even a deck of regular playing cards (learn how to read those [here](https://ko-fi.com/s/95f9c29692)). The spread doesn't require a deck that matches the occasion.
