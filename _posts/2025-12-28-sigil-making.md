@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Sigil Magic for Beginners: The Complete Austin Osman Spare Method and a Bit Beyond"
+title: "Sigil Magic: How to Make & Charge a Sigil (The Original Method)"
 date: 2025-12-27 12:51:01 -0700
 tag: article
-short-description: "Create and charge sigils using Austin Osman Spare's proven method. Step-by-step instructions from statement of intent through charging and release, plus common variations explained."
+short-description: "The Austin Osman Spare sigil method, sourced from his original texts. Step-by-step instructions plus the history behind why it works."
 categories: how to make sigils, Austin Osman Spare method, chaos magic for beginners, sigil magic guide, charging sigils, letter reduction method, chaos magic gnosis, how to fire a sigil, sigil statement of intent, practical magic techniques, subconscious mind programming, lust for results, psychological model of magic, creating magical symbols, sigil charging methods, sigil magic examples, modern occultism, belief as a tool, manifestation symbols, sigil magic step by step
 img: "gnosis-techniques-chaos-magic.jpg"
 permalink: how-to-make-sigils-austin-osman-spare-method
@@ -19,7 +19,7 @@ This article covers the classic Austin Osman Spare method (sometimes called the 
 
 Your conscious mind interferes with magical work in two ways. It criticizes ("I'll never get that job") and it fantasizes (daydreaming about ideal outcomes instead of focusing intention). Both behaviors dilute magical workings.
 
-Sigils bypass this interference. You encode your intention into an abstract symbol your conscious mind can't immediately decode. During gnosis, when your mental filters drop, you charge the symbol directly. The intention lands without commentary.
+Sigils bypass this interference. You encode your intention into an abstract symbol your conscious mind can't immediately decode. During [gnosis](/gnosis-techniques-chaos-magic), when your mental filters drop, you charge the symbol directly. The intention lands without commentary.
 
 Whether you frame this as subconscious programming or sending intentions into the universe, the process remains the same. Chaos magic [doesn't require you to choose between frameworks](/chaos-magic-belief-as-tool). Use the model that makes the technique work for you (or use both!).
 
@@ -47,7 +47,7 @@ Vowels removed: "T S M Y W L L T F N D S T D Y W R K J Y"
 
 Repeated letters removed: "T S M Y W L F N D R K J"
 
-Now arrange these letters into an abstract symbol. Combine them, overlap them, rotate them. The letters become raw material for a design. You might stack the T on the S, weave the M through the Y, turn the W sideways and merge it with the L.
+Now arrange these letters into an abstract symbol. Combine them, overlap them, rotate them. The letters become raw material for a design. Stack the T on the S, weave the M through the Y, turn the W sideways and merge it with the L.
 
 The symbol should be abstract enough that you won't immediately recognize what it represents when you see it later. This prevents your conscious mind from jumping in with commentary during charging.
 
@@ -55,17 +55,17 @@ Aesthetics don't matter. This isn't art (unless you want it to be). A messy scra
 
 ### Charging the Sigil
 
-Enter gnosis using your preferred method from (if you're unsure what those are, [learn more here](/gnosis-techniques-chaos-magic)).
+Enter gnosis using your preferred method. If you're unsure what those are, [learn more here](/gnosis-techniques-chaos-magic).
 
 While in altered state, focus intensely on the sigil. Common charging methods:
 
-**Gaze method:** Stare at the symbol until you feel a shift or release. Your vision might blur, the symbol might seem to pulse or move. When something breaks, when the focus suddenly snaps, that's the moment.
+**Gaze method:** Stare at the symbol until you feel a shift or release. Your vision blurs, the symbol seems to pulse or move. When something breaks, when the focus suddenly snaps, that's the moment.
 
 **Visualization:** See the sigil burning, dissolving, or exploding. Watch it transform into light or smoke. The intensity of the visualization matters more than the specific imagery.
 
-**Physical destruction:** Some practitioners destroy the physical symbol at the peak of gnosis. Burn it, tear it up, throw it away. Some people care sigils into baked good so they can eat it! The act of destruction becomes the release.
+**Physical destruction:** Some practitioners destroy the physical symbol at the peak of gnosis. Burn it, tear it up, throw it away. Some people carve sigils into baked goods so they can eat them. The act of destruction becomes the release.
 
-The moment of firing: let it go completely. Feel the intention leave your hands. The working is done.
+The moment of [firing](/chaos-magic-terms-explained): let it go completely. Feel the intention leave your hands. The working is done.
 
 ### After Charging
 
@@ -87,7 +87,7 @@ Remove vowels and you have: "T S M Y W L L T H V P R D C T V W K"
 
 Remove repeated letters and that leaves you with: "T S M Y W L H V P R D C K"
 
-From that we could make any number of designs, here are some examples I've created: 
+From that you can make any number of designs. Here are a few I've created:
 
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
 | ![](/assets/img/article/sigil01.png) | ![](/assets/img/article/sigil02.png) | ![](/assets/img/article/sigil03.png) |
@@ -128,7 +128,7 @@ Technically yes. This is called shoaling or grouping and works well when breakin
 
 There are no guarantees in magic. Sometimes things don't work. Review your process, make adjustments and try again.
 
-**"Do I need to banish first?"**
+**"Do I need to [banish](/chaos-magic-terms-explained) first?"**
 
 Optional. Some practitioners always banish before and after magical work. Others never do. Experiment and see what feels necessary for your practice.
 
