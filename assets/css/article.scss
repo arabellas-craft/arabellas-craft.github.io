@@ -6,13 +6,6 @@
 @import 'general';
 
 main.article {
-  h3 {
-    font-size: 1.5rem;
-    font-weight: 600;
-    color: $blue;
-    margin-bottom: 0.75rem;
-  }
-
   p:has(+ ul, + ol) {
     padding-bottom: 0.5rem;
   }
@@ -26,13 +19,14 @@ main.article {
   }
 
   h1.title {
-    font-size: 2.5rem;
-    line-height: 1.5;
+    font-size: 3.625rem;
+    line-height: 1.15;
     text-align: center;
+    color: $black;
   }
 
   h2 {
-    padding-top: 2rem;
+    padding-top: 4rem;
   }
 
   img {
