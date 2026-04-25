@@ -6,15 +6,56 @@
   </head>
   <body>
     {% include header.html %}
-    <main class="article">
-    </div>
+    <aside class="toc">
+      <!-- TOC -->
+       <p class="label">Contents</p>
+       {% assign chunks = content | split: '<h2' %}
+      <ol>
+        {% for chunk in chunks offset:1 %}
+        {% assign id_parts = chunk | split: 'id="' %}
+        {% assign id = id_parts[1] | split: '"' | first %}
+        {% assign text_parts = chunk | split: '>' %}
+        {% assign text = text_parts | slice: 1, 99 | join: '>' | split: '</h2' | first | strip_html | strip %}
+        <li><a href="#{{ id }}">{{ text }}</a></li>
+      {% endfor %}
+      </ol>
+    </aside>
+    <article>
       <h1 class="title">{{page.title}}</h1>
+      <p class="meta-description">{{page.short-description}}</p>
+      <hr>
       <br>
       {{ content }}
-    </main>
-    <footer>
       {% include article-kofi-callout.html %}
+    </article>
+    <aside class="meta">
+      <!-- Share, read time, date -->
+      <p class="label">Share</p>
+      {% assign post_url = site.url | append: site.baseurl | append: page.url %}
+      {% assign share_title = page.title | url_encode %}
+      {% assign share_url = post_url | url_encode %}
+      <ol>
+        <li><button type="button" class="copy-link" data-url="{{ post_url }}">Copy link</button></li>
+        <li><a href="https://bsky.app/intent/compose?text={{ share_title }}%20{{ share_url }}" target="_blank" rel="noopener">Bluesky</a></li>
+        <li><a href="https://www.reddit.com/submit?url={{ share_url }}&amp;title={{ share_title }}" target="_blank" rel="noopener">Reddit</a></li>
+      </ol>
+      <br>
+      <p class="label">Published</p>
+      <p class="date">{{page.date | date_to_string}}</p>
+    </aside>
+    <footer>
       {% include footer.html %}
     </footer>
+    <script>
+      document.querySelectorAll('.copy-link').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          navigator.clipboard.writeText(btn.dataset.url).then(function () {
+            var original = btn.textContent;
+            btn.textContent = 'Copied!';
+            setTimeout(function () { btn.textContent = original; }, 1500);
+          });
+        });
+      });
+    </script>
   </body>
 </html>

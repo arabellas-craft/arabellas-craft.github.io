@@ -10,20 +10,42 @@ body {
   color: $black;
   padding: 2.75rem;
   display: grid;
-  grid-template-rows: auto 1fr;
+  grid-template-rows: auto 1fr auto;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  height: 100vh;
+  min-height: 100vh;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  color: $blue;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.375rem;
+  line-height: 1.22;
+}
+
+h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+  font-style: italic;
 }
 
 hr {
     border: 0 none transparent;
-    border-top: 0.1rem solid $blue;
+    border-top: 0.15rem solid $blue;
     padding-bottom: 1rem;
+    opacity: .5;
+    width: 50%;
   }
 
 a {
   text-decoration-color: $blue;
-  text-decoration-thickness: 0.2rem;
+  text-decoration-thickness: 0.15rem;
   color: $black;
   transition: 0.25s;
   text-underline-offset: 0.25rem;
@@ -79,12 +101,27 @@ img {
 }
 
 
+// Sticky top bar (wraps header + menu)
+.site-top {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: $white;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  order: 0;
+}
+
 // Header
 header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  grid-column: 2 / 4;
+  grid-column: 1 / 4;
 
   &.minimal {
     flex-direction: column;
@@ -95,6 +132,9 @@ header {
   .title p {
     font-family: 'Playfair Display', serif;
     font-size: 1.5rem;
+    a {
+      text-decoration: none;
+    }
   }
 
   .logo img {
@@ -109,7 +149,7 @@ header {
 }
 
 menu {
-  grid-column: 4/7;
+  grid-column: 4/8;
   align-self: center;
   padding: 0;
   nav {
@@ -126,7 +166,7 @@ menu {
   .dropdown-content {
     display: none;
     position: absolute;
-    top: 3.5rem;
+    top: .5rem;
     background-color: $white;
     min-width: 8rem;
     box-shadow: 0 0.5rem 1rem 0rem rgba($black,0.2);
@@ -142,32 +182,12 @@ menu {
   }
 }
 
-main {
+article {
   margin-top: 2rem;
   grid-column: 3 / 6;
   &.minimal {
     margin: auto;
     text-align: center;
-  }
-
-  h1 {
-    font-family: 'Playfair Display', serif;
-    font-size: 2rem;
-    line-height: 1.5;
-    color: $blue;
-    margin-bottom: 1rem;
-  }
-
-  h2 {
-    font-family: 'Playfair Display', serif;
-    font-size: 2.375rem;
-    line-height: 1.22;
-  }
-
-  h3 {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.5rem;
-    font-style: italic;
   }
 
   table, th, td {
@@ -232,14 +252,14 @@ main {
 }
 
 footer {
-  grid-column: 3 / 6;
+  grid-column: 1 / -1;
   margin: 0 auto;
   text-align: center;
+  order: 2;
 
   p {
-    font-size: 1.25rem;
+    font-size: 1rem;
     padding-bottom: 2rem;
-    line-height: 1.5;
   }
 
 }
@@ -261,18 +281,13 @@ footer {
   }
   body {
     grid-template-columns: 1fr;
-    padding: 0 0.5rem;
+    padding: 0.5rem 2rem;
   }
-
-  footer {
-    grid-column: 1 / -1;
-  }
-
 
   header {
     text-align: center;
     margin: 2rem auto;
-    grid-column: 1/8;
+    grid-column: 1/-1;
     .logo {
       display: none;
     }
@@ -285,8 +300,8 @@ footer {
   .hamburger {
     display: block;
     position: absolute;
-    top: 1rem;
-    left: 5%;
+    top: 1.5rem;
+    left: 1.5rem;
     right: 0;
     margin-right: -2rem;
     width: 2rem;
@@ -333,7 +348,7 @@ footer {
     nav {
       text-align: left;
       margin-left: 15%;
-      margin-top: 5.5rem;
+      margin-top: 3rem;
       flex-direction: column;
       gap: 0;
       overflow: scroll;
@@ -383,7 +398,7 @@ footer {
     }
   }
 
-  main {
+  main, article {
     padding: 0 1rem;
     grid-column: 1 / -1;
 
@@ -396,9 +411,13 @@ footer {
   }
 }
 
-@media (max-width: 667px) {
+@media (max-width: 700px) {
   .hide-on-mobile {
     display: none;
+  }
+
+  .hamburger {
+    left: 0
   }
 
   .article-list {

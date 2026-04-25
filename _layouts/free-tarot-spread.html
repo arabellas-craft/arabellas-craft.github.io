@@ -6,7 +6,7 @@
   </head>
   <body>
     {% include header.html %}
-    <main class="article">
+    <article>
       <img src="/assets/img/free-tarot-spread/{{ page.img }}" alt="{{ page.title }}" title="{{ page.title }}" class="tarot-spread">
       <br>
       {% include tarot-kofi-callout.html %}
@@ -15,10 +15,12 @@
       <br>
       <h1 class="hide">{{page.title}}</h1>
       {{ content }}
-      <p><a href="/free-tarot-spreads">See More Tarot Spreads</a></p>
-    </main>
-    <footer>
+      <br>
       {% include tarot-kofi-callout.html %}
+      <br>
+      <p><a href="/free-tarot-spreads">See More Tarot Spreads</a></p>
+    </article>
+    <footer>
       {% include footer.html %}
     </footer>
   </body>

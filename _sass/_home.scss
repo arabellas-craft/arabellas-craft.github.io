@@ -9,13 +9,12 @@
   }
   .hero {
     display: flex;
-    margin: 2rem 4rem 4rem 0rem;
+    margin: 1rem 3rem 3rem 0rem;
     .hero-title {
       flex-grow: 1;
       align-content: center;
       h1 {
-        font-size: 4.125rem;
-        line-height: 4.125rem;
+        font-size: 5rem;
         color: $black;
         margin-bottom: 0;
       }
@@ -101,9 +100,19 @@
     h1, p {
       text-align: center;
     }
-    img {
-      max-width: 50%;
+    p {
+      font-size: 1rem;
     }
+    .hero-title h1 {
+      font-size: clamp(2.25rem, 4.5vw, 3.5rem);
+    }
+    img {
+      max-width: 25%;
+      margin: auto;
+    }
+  }
+  h2 {
+    font-size: clamp(1.75rem, 4vw, 3rem);
   }
   .gallery {
     img {

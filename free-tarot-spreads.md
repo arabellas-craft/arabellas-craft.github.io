@@ -16,7 +16,7 @@ I create these spreads as a gift to the tarot community. They're organized by ca
 
 **Support This Work**
 
-If you've found these free tarot spreads helpful and feel called to support more resources like this, you can [donate on Ko-fi](https://ko-fi.com/juniperdivination/donate). Donations are never expected but always appreciated and help me keep creating accessible tarot content for the community.
+If you've found these free tarot spreads helpful and feel called to support more resources like this, you can [support me on Ko-fi](https://ko-fi.com/juniperdivination/donate). Donations are never expected but always appreciated and help me keep creating accessible tarot content for the community.
 
 <br><br>
 <h2>Beginner Tarot Spreads</h2>
