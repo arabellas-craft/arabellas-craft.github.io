@@ -6,7 +6,7 @@ tag: article
 categories: celtic reconstructionism theology, hard polytheism, hard polytheist paganism, celtic animism, irish cosmology, three realms celtic, land sea sky cosmology, nem talam muir, the otherworld, irish otherworld, an saol eile, tuatha de danann, celtic gods, maiden mother crone myth, triple goddess myth, robert graves white goddess, celtic ritual practice, CR ethics, brehon law spirituality, fir enech flaithiulacht, irish polytheism, celtic paganism, gaelic polytheism, celtic reconstructionism vs wicca, irish mythology, celtic spirituality, paganachd, erynn rowan laurie, marie-louise sjoestedt
 short-description: "CR is hard polytheist and animist, grounded in Irish sources. Here's what Celtic Reconstructionism actually believes about the gods, cosmology, and ethics."
 img: celtic-reconstructionism.jpg
-img-text: "Stone passage tomb entrance at dusk representing the Irish Otherworld and Celtic cosmology"
+img-text: 
 permalink: /celtic-reconstructionism-theology-cosmology
 ---
 
