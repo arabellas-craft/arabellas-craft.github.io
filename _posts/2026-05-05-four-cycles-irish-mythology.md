@@ -16,10 +16,6 @@ permalink: /irish-mythology-four-cycles
 {% assign kings_reveal_date = "2026-06-02" | date: "%s" %}
 {% assign now = "now" | date: "%s" %}
 
-{% if now >= mythological_reveal_date %}
-  Your hidden content here.
-{% endif %}
-
 The landscape of Irish mythology changes shape frequently in a way that can be confusing to new readers. In one tale, gods walk a pre-human Ireland and command the weather. In other stories those same gods seem to still be around but in a much diminished capacity while the stories focus on Kings or bands of warriors. Modern scholars sort the surviving Irish mythological texts into four "cycles," and knowing which cycle a story belongs to tells you what kind of Ireland you're standing in.
 
 Each of the four cycles gets its own overview article in this series. This piece sets up the frame they all share.
