@@ -34,6 +34,8 @@ Celtic goddesses do appear in triple form, but these are functional groupings, n
 
 Graves's model ties female divine power to the reproductive cycle in a way the actual sources don't. A goddess in Irish tradition is categorized by what she does and where she holds power: her domain and function, not her age or life stage. 
 
+{% include article-kofi-callout.html %}
+
 ## Three Realms: Land, Sea, and Sky
 
 CR's cosmology, its understanding of how the universe is structured, is built around three realms, not the four elements or four directions familiar from other pagan traditions.

@@ -26,6 +26,8 @@ The pipeline ran through a series of online spaces. PODS:CELTIC Echo on FidoNet 
 
 C. Lee Vermeers, one of the CR FAQ's co-authors, was part of those early PODS:CELTIC discussions. He describes the era as one of constantly pushing back against people who claimed "the Seekrit Celtic Wisdumb of the Ages, given to them by their grannies in a direct line of transmission from the Misty Mists of Misty Histry," <cite>[source](https://loraobrien.ie/celtic-paganism/)</cite> and occasionally getting space, between those interruptions, to discuss archaeology, folklore, and real history. The key documents of CR were collaboratively developed in these spaces, refined through years of argument and shared research.
 
+{% include article-kofi-callout.html %}
+
 ## The Name: 1992
 
 In the Spring 1992 issue of *Harvest* magazine (Southboro, Massachusetts), **Kym Lambert ní Dhoireann** used "Celtic Reconstructionist" as a tradition name for the first time in print. Ní Dhoireann credits **Kathryn Price NicDhàna** with coining the term. NicDhàna traces it to Adler's phrase "Pagan Reconstructionists" in *Drawing Down the Moon*. She applied that category specifically to Celtic practice. Both NicDhàna and ní Dhoireann have said they coined it to distinguish their practice from Wicca and eclectic neo-paganism.

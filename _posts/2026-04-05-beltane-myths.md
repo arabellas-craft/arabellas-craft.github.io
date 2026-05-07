@@ -51,6 +51,8 @@ In the Irish record, though, the flowers were used for protection, not decoratio
 
 Flower crowns worn on the head aren't part of the Irish Bealtaine record. They come from English May Day traditions with roots in the Roman festival of Floralia. The Catholic "Queen of the May" crowning custom, a girl crowned with flowers in honor of Mary, is a 19th-century devotional practice promoted by Pope Gregory XVI from 1837.
 
+{% include article-kofi-callout.html %}
+
 ## The Maypole: English, Brought to Ireland by Settlers
 
 The earliest documented maypole appears in a mid-14th-century Welsh poem by Gryffydd ap Adda ap Dafydd. By 1350–1400, the custom was well established across southern Britain, in both Welsh-speaking and English-speaking areas. <cite>Hutton, 1996</cite>

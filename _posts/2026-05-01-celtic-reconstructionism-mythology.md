@@ -29,6 +29,8 @@ You can't build a CR practice by pulling a Celtic deity name from a list and pai
 
 CR also resists pan-Celtic practice, treating Irish, Welsh, and Gaulish material as interchangeable because they're all "Celtic." The traditions are related but distinct. Irish CR works with Irish sources and Irish context.[^1]
 
+{% include article-kofi-callout.html %}
+
 ## Where UPG Fits
 
 UPG (Unverified Personal Gnosis) is spiritual experience that can't be substantiated by historical sources.[^1] CR doesn't dismiss it, but requires that practitioners label it clearly so personal experience doesn't contaminate the shared record.

@@ -55,6 +55,49 @@ article {
     }
   }
 
+  // Timeline list — vertical line connecting bullets.
+  // Use in markdown by appending {:.timeline} on the line after the list.
+  ul.timeline {
+    list-style: none;
+    position: relative;
+    padding: 0 0 0 2rem;
+    margin: 1.5rem 0 2rem 0;
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: 0.43rem;
+      top: 0.7rem;
+      bottom: 1rem;
+      width: 2px;
+      background: $blue;
+      border-radius: 1px;
+    }
+
+    > li {
+      position: relative;
+      padding: 0 0 1.25rem 0;
+      font-size: 1.25rem;
+      line-height: 1.55;
+      list-style: none;
+
+      &::before {
+        content: '';
+        position: absolute;
+        left: -1.78rem;
+        top: 0.55rem;
+        width: 0.55rem;
+        height: 0.55rem;
+        border-radius: 50%;
+        background: $blue;
+      }
+
+      &:last-child {
+        padding-bottom: 0;
+      }
+    }
+  }
+
   blockquote {
     font-family: 'Playfair Display', serif;
     font-style: italic;
