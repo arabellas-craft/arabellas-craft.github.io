@@ -39,13 +39,54 @@ function validateConfig() {
 
 // Create Tumblr client
 function createClient() {
-  return tumblr.createClient({
+  const client = tumblr.createClient({
     consumer_key: config.consumerKey,
     consumer_secret: config.consumerSecret,
     token: config.token,
     token_secret: config.tokenSecret,
     returnPromises: true
   });
+
+  // tumblr.js v3 swallows Tumblr's detailed error payload and only surfaces
+  // "API error: 400 Bad Request" via error.message. Wrap the underlying
+  // request library so we can dump the response body whenever Tumblr returns
+  // a 4xx/5xx. This is the only way to see what the API actually objected to
+  // (missing field, bad image, signature mismatch, etc.).
+  const originalPost = client.request.post;
+  client.request.post = function (options, callback) {
+    return originalPost.call(this, options, function (err, response, body) {
+      if (response && response.statusCode >= 400) {
+        const url = (options && options.url) || '(unknown url)';
+        console.error(`\n  ↳ Tumblr returned ${response.statusCode} for ${url}`);
+        let parsed = body;
+        if (typeof body === 'string') {
+          try { parsed = JSON.parse(body); } catch (_) { /* leave as string */ }
+        }
+        const detail = JSON.stringify(parsed, null, 2);
+        // Indent each line so the dump is visibly nested under the failure.
+        console.error('     ' + detail.split('\n').join('\n     '));
+        // Also surface the most useful nested fields explicitly, since
+        // Tumblr puts the real error text in a few different places.
+        if (parsed && typeof parsed === 'object') {
+          const errors = parsed.errors
+            || (parsed.response && parsed.response.errors)
+            || null;
+          if (Array.isArray(errors) && errors.length) {
+            console.error('     → errors[]:');
+            errors.forEach((e, i) => {
+              console.error(`        [${i}] ${JSON.stringify(e)}`);
+            });
+          }
+          if (parsed.meta && parsed.meta.msg) {
+            console.error(`     → meta.msg: ${parsed.meta.msg}`);
+          }
+        }
+      }
+      if (callback) callback(err, response, body);
+    });
+  };
+
+  return client;
 }
 
 // Parse Jekyll post file
@@ -105,14 +146,25 @@ async function createTarotSpreadPost(client, post) {
   // Use categories (comma-separated string) or tag field
   const tags = frontMatter.categories || frontMatter.tag || '';
 
-  // Construct image URL
-  const imageUrl = frontMatter.img
-    ? `${config.siteUrl}/assets/img/free-tarot-spread/${frontMatter.img}`
-    : null;
-
-  if (!imageUrl) {
+  if (!frontMatter.img) {
     console.error('No image found for tarot spread post');
     throw new Error('Tarot spread posts require an image');
+  }
+
+  // Read the image from disk and base64-encode it. This sidesteps the
+  // public-URL fetch path (which has stricter size/dimension limits and
+  // can race with GitHub Pages deploys) and lets Tumblr ingest the bytes
+  // directly via the `data64` parameter on legacy photo posts.
+  const repoRoot = path.resolve(__dirname, '../../');
+  const imagePath = path.resolve(repoRoot, 'assets/img/free-tarot-spread', frontMatter.img);
+  let imageData64;
+  try {
+    const imageBuffer = await fs.readFile(imagePath);
+    imageData64 = imageBuffer.toString('base64');
+    console.log(`  Loaded image (${(imageBuffer.length / 1024).toFixed(0)} KB) from ${imagePath}`);
+  } catch (error) {
+    console.error(`Failed to read image at ${imagePath}:`, error.message);
+    throw new Error(`Tarot spread image not found: ${imagePath}`);
   }
 
   // Construct permalink (strip leading slash if present to avoid double slashes)
@@ -134,7 +186,7 @@ async function createTarotSpreadPost(client, post) {
     state: 'draft',
     caption: caption,
     link: permalink,
-    source: imageUrl,
+    data64: imageData64,
     tags: tags
   };
 

@@ -1,0 +1,77 @@
+name: Scheduled Rebuild
+
+# Triggers a GitHub Pages rebuild on specific calendar dates.
+#
+# How it works:
+#   - The workflow runs once a day (UTC) on a cron.
+#   - Before doing anything, it checks today's date against REBUILD_DATES.
+#   - If today is on the list, it triggers a Pages rebuild. Otherwise it
+#     exits cleanly with no rebuild.
+#   - Manual runs from the Actions tab always rebuild, regardless of date.
+#
+# Why a daily cron? GitHub Actions cron has no year field — entries like
+# `30 14 12 5 *` would fire every year on May 12. A daily cron plus an
+# allowlist of full ISO dates keeps the date list as the single source of
+# truth and gives true year-specific behaviour.
+#
+# How to add or remove a rebuild date:
+#   1. Edit REBUILD_DATES below (YYYY-MM-DD, UTC). One date per line.
+#   2. Commit & push.
+
+on:
+  schedule:
+    # 14:30 UTC ≈ 07:30 Pacific — just after the `07:00 -0700` timestamps
+    # used on the scheduled posts, so Jekyll's `future: false` filter has
+    # flipped by the time the rebuild fires.
+    - cron: '30 14 * * *'
+  workflow_dispatch:
+
+# The default GITHUB_TOKEN is read-only on most scopes. Triggering a Pages
+# build (POST /repos/{owner}/{repo}/pages/builds) requires pages: write.
+permissions:
+  pages: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # Single source of truth. Full ISO dates (YYYY-MM-DD), UTC. The
+      # daily cron above is just a heartbeat — this list is what decides
+      # whether a rebuild actually happens.
+      REBUILD_DATES: |
+        2026-05-12
+        2026-05-19
+        2026-05-26
+        2026-06-02
+    steps:
+      - name: Check rebuild date
+        id: check
+        run: |
+          set -euo pipefail
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual trigger — bypassing date allowlist."
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          TODAY=$(date -u +%Y-%m-%d)
+          echo "Today (UTC): $TODAY"
+
+          if echo "$REBUILD_DATES" | grep -qFx -- "$TODAY"; then
+            echo "Today is on the rebuild allowlist — proceeding."
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Today is NOT on the rebuild allowlist — skipping."
+            echo "proceed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Trigger GitHub Pages rebuild
+        if: steps.check.outputs.proceed == 'true'
+        run: |
+          curl -L --fail-with-body \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${{ github.repository }}/pages/builds"
