@@ -32,7 +32,7 @@ The Mythological Cycle stories are set during the Tuatha Dé's reign, before the
 
 ## The cast and the texts
 
-The Tuatha Dé are the gods of Ireland. The full name *Tuatha Dé Danann* means "the tribe of the goddess Danu." The Fomoire are their adversaries: older, sea-borne, often described as malformed or one-eyed, but also intermarried with the Tuatha Dé in important ways. Lugh's mother is Fomoire. Bres is half-Fomoire. The conflict between the two groups is family business as much as it is cosmic war.
+The Tuatha Dé are the gods of Ireland. The full name *Tuatha Dé Danann* means "the tribe of the goddess Danu." The Fomoire are their adversaries: older, sea-borne, often described as malformed or one-eyed (although some individual members are called beautiful). They also intermarried with the Tuatha Dé in important ways. Lugh's mother is Fomoire. Bres is half-Fomoire. The conflict between the two groups is family business as much as it is cosmic war.
 
 The cycle is held together loosely. There's no master text. Modern editors group these works under the Mythological Cycle:
 
@@ -50,15 +50,13 @@ The cycle is a grouping, not a single book. The texts were written down at diffe
 
 [The series opener](/irish-mythology-four-cycles) covered this argument in detail. The short version: every Irish mythological text we have was written down by Christian monks. Most surviving Mythological Cycle material comes through *Lebor na hUidre* (the Book of the Dun Cow, c. 1100) and the Yellow Book of Lecan (late 14th century)[^2].
 
-The point lands hardest in this cycle, because this is where the gods themselves appear as characters. Mark Williams's argument in *[Ireland's Immortals](https://bookshop.org/a/84772/9780691183046)* is that the Tuatha Dé as we have them are partly a medieval Christian construction[^2]. By the time the texts get written, the Tuatha Dé have been euhemerized: presented as ancient kings rather than as gods.
+Mark Williams's argument in *[Ireland's Immortals](https://bookshop.org/a/84772/9780691183046)* is that the Tuatha Dé as we have them are partly a medieval Christian construction[^2]. By the time the texts get written, the Tuatha Dé have been euhemerized (presented as ancient kings rather than as gods).
 
-For practical reading: take the stories as evidence of how medieval Ireland thought about its old gods, not as transcripts of pre-Christian belief. Some pre-Christian material survives in the texts. Identifying which parts is a scholarly question without tidy answers.
+For practical reading: take the stories as evidence of how medieval Ireland thought about its old gods, not as transcripts of pre-Christian belief. Some pre-Christian material likely survives in the texts, but identifying which parts those are is a question without tidy answers.
 
 ## Major figures
 
-These are the gods and figures the reader will keep meeting.
-
-**The Dagda.** "The Good God." Not "good" in a moral sense, but "good" as in skilled at everything. He carries a club that kills with one end and revives with the other. He owns the cauldron of plenty. He's a comic figure as often as a powerful one.
+**The Dagda.** "The Good/Excellent God." Not "good" in a moral sense, but "good" as in skilled at everything. He carries a club that kills with one end and revives with the other. He owns the cauldron of plenty. He's a comic figure as often as a powerful one.
 
 **Lugh.** A latecomer who becomes the cycle's most important young god. Skilled at every art, hence his epithet *samildánach*, "of many talents." Half-Fomoire by his mother, Eithne. He kills his grandfather Balor at the Second Battle of Moytura.
 
@@ -66,20 +64,20 @@ These are the gods and figures the reader will keep meeting.
 
 **Brigid.** Daughter of the Dagda. Goddess of poetry, healing, and smithcraft. She mourns her son Ruadán with a keen so terrible it invents the form. The Christian Saint Brigid is a related but separate figure, and the two were deliberately blurred by medieval scribes. For a longer treatment of both Brigids and how they fit together, [Courtney Weber's *Brigid: History, Mystery, and Magick of the Celtic Goddess*](https://bookshop.org/a/84772/9781578635672) is the place to start.
 
-**Manannán mac Lir.** God of the sea and the Otherworld. He crosses into every other cycle and turns up in voyage tales and royal legends alike.
+**Manannán mac Lir.** God of the sea and the Otherworld. He crosses into every other cycle and turns up in voyage tales and royal legends alike. He likely pre-dates the Tuatha Dé.
 
 **Nuada and Bres.** Two early kings of the Tuatha Dé. Nuada loses his arm in the First Battle of Moytura and loses his kingship with it. Bres takes over and turns out to be a tyrant. Their handover triggers the Second Battle of Moytura.
 
-**Boand and Aengus.** Boand is a goddess of the Boyne. Aengus (Óengus) is her son by the Dagda. Aengus is the cycle's god of love and youth, and he gives the cycle one of its loveliest stories.
+**Boand and Aengus.** Boand is a goddess of the Boyne. Aengus (Óengus) is her son by the Dagda. Aengus is the cycle's god of love and youth.
 
 ## The major stories
 
 ### Cath Maige Tuired (The Second Battle of Moytura) and the Coming of Lugh
 
-The cycle's central narrative. The Tuatha Dé have lost their king Nuada, who lost his arm in the First Battle of Moytura against the Fir Bolg. The half-Fomoire Bres takes the kingship and rules badly, exacting tribute from the Tuatha Dé and humiliating the Dagda. A young god named Lugh arrives at Tara and proves himself master of every art the gatekeeper can name. He takes command of the Tuatha Dé, and they face the Fomoire at the Second Battle of Moytura, where Lugh kills his grandfather Balor of the One Eye. The story has some of the cycle's most famous set-pieces: the Dagda's grotesque bargain with the Fomoire, the Morrígan's prophecies, Brigid's keen for Ruadán.
+The cycle's central narrative. The Tuatha Dé have lost their king Nuada, who lost his arm in the First Battle of Moytura against the Fir Bolg. The half-Fomoire Bres takes the kingship and rules badly, exacting tribute from the Tuatha Dé and humiliating the Dagda. A young god named Lugh arrives at Tara and proves himself master of every art the gatekeeper can name. He takes command of the Tuatha Dé, and they face the Fomoire at the Second Battle of Moytura, where Lugh kills his grandfather Balor of the One Eye. The story has some of the cycle's most famous set-pieces: the Dagda's bargain with the Fomoire, the Morrígan's prophecies, Brigid's keen for Ruadán.
 
 - Translation: [Cath Maige Tuired (Elizabeth Gray, CELT)](https://celt.ucc.ie/published/T300010.html)
-- Story Archaeology: the [Battle of Moytura series](https://storyarchaeology.com/series-2-the-battle-of-moytura/) (Episodes 1–12) and the [later wider-audience series](https://storyarchaeology.com/the-cath-maige-tuired-for-a-wider-audience-part-1-the-first-battle/) (also 12 parts) are the deepest treatment of any text on this list.
+- Story Archaeology: the [Battle of Moytura series](https://storyarchaeology.com/series-2-the-battle-of-moytura/) (Episodes 1–12) and the [later wider-audience series](https://storyarchaeology.com/the-cath-maige-tuired-for-a-wider-audience-part-1-the-first-battle/) (also 12 parts)
 - Candlelit Tales: [Lugh & Balor of the Evil Eye (Ep 06)](https://www.youtube.com/watch?v=oGWI9-Z9GVY) on YouTube; [Lugh Samildánach (Ep 122)](https://soundcloud.com/candlelittales/episode-122-invasions-lugh-samildanach) on SoundCloud.
 
 ### Tochmarc Étaíne (The Wooing of Étaín)
@@ -99,7 +97,7 @@ A late composition (probably 14th–15th century) that became one of the most be
 
 ### Aided Chlainne Tuireann (The Death of the Children of Tuireann)
 
-Another late composition, often grouped folklorically with the Children of Lir and the Children of Uisneach (in the Ulster Cycle) as the "Three Sorrows of Storytelling," though that grouping is post-medieval. The three sons of Tuireann (Brian, Iuchar, and Iucharba) kill Lugh's father Cian. Lugh demands an éric, a blood-fine, made up of seemingly impossible objects from the corners of the world: three magical apples from a guarded eastern garden, a healing pigskin from the King of Greece, a spear from the King of Persia, two horses and a chariot from Sicily, seven pigs from the King of the Pillars of Gold, a hound whelp from the King of Iruath, a cooking spit from the women of an undersea island, and three shouts from the hill of Miodhchaoin. The brothers complete every task but are mortally wounded earning the last. Lugh refuses to lend them the healing pigskin they themselves fetched. They die, and their father Tuireann dies of grief on their grave.
+Often grouped folklorically with the Children of Lir and the Children of Uisneach (in the Ulster Cycle) as the "Three Sorrows of Storytelling," though that grouping is post-medieval. The three sons of Tuireann (Brian, Iuchar, and Iucharba) kill Lugh's (sometimes) father Cian. Lugh demands an éric, a blood-fine, made up of seemingly impossible objects from the corners of the world: three magical apples from a guarded eastern garden, a healing pigskin from the King of Greece, a spear from the King of Persia, two horses and a chariot from Sicily, seven pigs from the King of the Pillars of Gold, a hound whelp from the King of Iruath, a cooking spit from the women of an undersea island, and three shouts from the hill of Miodhchaoin. The brothers complete every task but are mortally wounded earning the last. Lugh refuses to lend them the healing pigskin they themselves fetched. They die, and their father Tuireann dies of grief on their grave.
 
 - Translation: [Oidheadh Chloinne Tuireann (O'Duffy edition, Internet Archive)](https://archive.org/details/oidhechloinnetui00oduf), bilingual Irish/English.
 - Story Archaeology: [Battle of Moytura 09: The Children of Tuirenn 1, Part 1](https://storyarchaeology.com/the-battle-of-moytura-09-the-children-of-tuirenn-1-the-king-of-bling-part-1/) and [Part 2](https://storyarchaeology.com/the-battle-of-moytura-09-the-children-of-tuirenn-1-the-king-of-bling-part-2/); [Battle of Moytura 10: The Children of Tuirenn 2, Part 1](https://storyarchaeology.com/the-battle-of-moytura-10-the-children-of-tuirenn-2-three-shouts-on-a-hill-part-1/) and [Part 2](https://storyarchaeology.com/the-battle-of-moytura-10-the-children-of-tuirenn-2-three-shouts-on-a-hill-part-2/).
@@ -107,7 +105,7 @@ Another late composition, often grouped folklorically with the Children of Lir a
 
 ### Aislinge Óenguso (The Dream of Óengus)
 
-The shortest of the major stories and a good entry point. Óengus dreams of a beautiful woman and falls so deeply in love with her that he sickens. His parents, Boand and the Dagda, search Ireland for her. They find her at a lake, where she lives among 150 swans bound together with silver chains. Every other Samhain she shifts between human and swan form. Óengus joins her in swan shape, and they fly together to Brú na Bóinne (Newgrange). The text matters for the Ulster Cycle too, since the woman, Caer Ibormeith, becomes a recurring Otherworld figure in the *Táin Bó Cúailnge*.
+The shortest of the major stories in this cycle. Óengus dreams of a beautiful woman and falls so deeply in love with her that he sickens. His parents, Boand and the Dagda, search Ireland for her. They find her at a lake, where she lives among 150 swans bound together with silver chains. Every other Samhain she shifts between human and swan form. Óengus joins her in swan shape, and they fly together to Brú na Bóinne (Newgrange). The text matters for the Ulster Cycle too, since the woman, Caer Ibormeith, becomes a recurring Otherworld figure in the *Táin Bó Cúailnge*.
 
 - Translation: [Aislinge Óenguso (Irish Sagas Online)](https://iso.ucc.ie/Aislinge-oenguso/Aislinge-oenguso-text.html)
 - Candlelit Tales: The Dream of Aonghus Óg (Ep 08), on [YouTube](https://www.youtube.com/watch?v=G75b7Sq9vPY) and [SoundCloud](https://soundcloud.com/candlelittales/episode-8-the-dream-of-aonghus-og).
