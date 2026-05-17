@@ -5,7 +5,7 @@ date: 2026-05-26 07:00:01 -0700
 tag: article
 short-description: "A reader's overview of the Fenian Cycle of Irish mythology: Fionn mac Cumhaill, the Fianna, the Salmon of Knowledge, the Pursuit of Diarmuid and Gráinne, Oisín in Tír na nÓg, and the major Fenian texts."
 categories: fenian cycle, fenian cycle irish mythology, fionn cycle, fianna cycle, irish mythology cycles, fionn mac cumhaill, finn mccool, fionn mccumhaill, the fianna, fianna warriors, fianna admission tests, salmon of knowledge, finnegas, imbas forosna, oisin, oisín, oisin in tir na nog, tir na nog, land of youth, niamh of the golden hair, niamh and oisin, oisin and saint patrick, cailte mac ronain, caílte, diarmuid and grainne, diarmuid ua duibhne, grainne, toraigheacht dhiarmada agus ghrainne, pursuit of diarmuid and grainne, ball seirce, love spot, beds of diarmuid and grainne, beann gulbain, cormac mac airt, goll mac morna, clan morna, battle of gabhra, macgnimartha finn, boyhood deeds of fionn, acallam na senorach, colloquy of the ancients, tales of the elders of ireland, dooley and roe, bruidhean chaorthainn, hostel of the quicken trees, bruidhean tales, dord fiann, sidhe, otherworld irish mythology, lebor na huidre, book of leinster, james macpherson, poems of ossian, ossian, micheal coimin, laoi oisin ar thir na nog, lady gregory gods and fighting men, gods and fighting men, standish o'grady, p w joyce old celtic romances, mark williams ireland's immortals, ireland's immortals, irish mythology, celtic mythology, irish mythology for beginners, irish mythology beginners guide, irish saga literature, primary sources irish mythology, candlelit tales podcast
-img: 
+img: irish-mythology-fenian-cycle.jpg
 img-text: 
 permalink: /irish-mythology-fenian-cycle
 ---
