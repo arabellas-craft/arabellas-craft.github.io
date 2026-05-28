@@ -2,7 +2,7 @@
 layout: free-tarot-spread
 title: "Witch's Helper Familiar Spirit Tarot Spread: A Free 4-Card Reading Grounded in Folk Tradition"
 date: 2026-05-16 12:00:00 -0700
-category: Tarot Spreads
+category: Spirit Communication
 tag: tarot-spread
 short-description: A 4-card tarot spread built on the historical witch's familiar:/ a practical helper from the local environment, not a summoned demon. Read what tool is already at hand, what task wants your attention, what frame needs reexamining, and where the work can be shared.
 categories: familiar spirit tarot spread, witch's familiar tarot, witch's helper tarot spread, familiar spirits tarot, four card tarot spread, free tarot spread, free 4 card tarot spread, beginner tarot spread, folk magic tarot, tarot spread ideas, familiar spirits history, familiar spirits irish folklore, british familiar spirits, witch's familiar history, animal familiar tarot, cunning folk tarot, traditional witchcraft tarot, delegation tarot spread, working witch tarot, daily tarot spread, weekly tarot spread, ecological witchcraft tarot, tarot spread for witches, secular tarot spread, irish folk magic tarot, witch trial familiars, helping spirit tarot, four card spread for beginners

@@ -24,3 +24,39 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.short-description | jsonify }},
+  "image": "{{ site.url }}/assets/img/free-tarot-spread/{{ page.img }}",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Prepare your space",
+      "text": "Find a quiet place where you won't be interrupted. Have your tarot deck, this spread guide, and something to write with nearby."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Clarify your question",
+      "text": "Before you shuffle, form a clear question or intention. Open-ended questions tend to produce more useful readings than yes/no ones."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Shuffle and draw",
+      "text": "Shuffle your deck while holding your question in mind. When you feel ready, draw the cards and lay them face down in the spread positions shown in this guide."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Read each position",
+      "text": "Turn over one card at a time and read it in the context of its position. Use the position descriptions in this guide to interpret what each card is showing you."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Record your reading",
+      "text": "Write down the cards you drew and your interpretation. Readings often make more sense over the following days, so having a record is useful."
+    }
+  ]
+}
+</script>
