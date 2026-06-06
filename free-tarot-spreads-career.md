@@ -2,8 +2,8 @@
 layout: default
 title: "Free Career Tarot Spread - Professional Direction Reading | Juniper Divination"
 permalink: /free-tarot-spreads/career/
-categories: Career tarot spread, work tarot spread, professional tarot reading, tarot for career decisions, job tarot spread, free career tarot spread
-short-description: "Free career tarot spreads for major professional decisions: direction, strengths, obstacles, and next steps clearly laid out."
+categories: Career tarot spread, work tarot spread, professional tarot reading, tarot for career decisions, job tarot spread, free career tarot spread, career oracle card spread, oracle spread for work decisions, oracle card career reading
+short-description: "Free career tarot and oracle card spreads for major professional decisions: direction, strengths, obstacles, and next steps clearly laid out."
 ---
 
 <script type="application/ld+json">

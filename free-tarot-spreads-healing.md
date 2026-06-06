@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Free Healing & Grounding Tarot Spreads | Juniper Divination"
+title: "Free Healing & Grounding Tarot & Oracle Card Spreads | Juniper Divination"
 permalink: /free-tarot-spreads/healing/
-categories: Healing tarot spread, grounding tarot spread, emotional healing tarot, tarot for anxiety, tarot for overwhelm, free healing tarot spread
-short-description: Free tarot spreads for emotional healing and grounding, useful when you feel scattered, overwhelmed, or are working through something difficult.
+categories: Healing tarot spread, grounding tarot spread, emotional healing tarot, tarot for anxiety, tarot for overwhelm, free healing tarot spread, healing oracle card spread, grounding oracle spread, oracle card spread for anxiety, free healing oracle spread
+short-description: Free tarot and oracle card spreads for emotional healing and grounding, useful when you feel scattered, overwhelmed, or are working through something difficult.
 ---
 
 <script type="application/ld+json">
@@ -30,9 +30,9 @@ short-description: Free tarot spreads for emotional healing and grounding, usefu
 
 {% assign count = site.posts | where: "category", "Healing and Health" | size %}
 
-# Free Healing & Grounding Tarot Spreads
+# Free Healing & Grounding Tarot & Oracle Card Spreads
 
-{{ count }} spreads for moments when you feel scattered, overwhelmed, or stuck in a difficult emotional place. Spreads in this category focus on two things: processing what's already happening and re-establishing steadiness when you've lost it.
+{{ count }} spreads for moments when you feel scattered, overwhelmed, or stuck in a difficult emotional place. They work with tarot or oracle cards and focus on two things: processing what's already happening and re-establishing steadiness when you've lost it.
 
 None of them require experience with shadow work or complex layouts. They're accessible at any reading level.
 

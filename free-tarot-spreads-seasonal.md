@@ -2,8 +2,8 @@
 layout: default
 title: "Free Sabbat & Seasonal Tarot Spreads - Celtic Wheel of the Year | Juniper Divination"
 permalink: /free-tarot-spreads/seasonal/
-categories: Sabbat tarot spread, seasonal tarot spread, Samhain tarot spread, Imbolc tarot spread, Beltane tarot spread, Celtic wheel of the year tarot, free seasonal tarot spread, pagan tarot spread
-short-description: "Free sabbat and seasonal tarot spreads tied to the Celtic calendar: Samhain, Imbolc, Bealtaine, solstices, equinoxes, and more."
+categories: Sabbat tarot spread, seasonal tarot spread, Samhain tarot spread, Imbolc tarot spread, Beltane tarot spread, Celtic wheel of the year tarot, free seasonal tarot spread, pagan tarot spread, sabbat oracle card spread, seasonal oracle spread, pagan oracle spread, Samhain oracle spread, Imbolc oracle spread
+short-description: "Free sabbat and seasonal tarot and oracle card spreads tied to the Celtic calendar: Samhain, Imbolc, Bealtaine, solstices, equinoxes, and more."
 ---
 
 <script type="application/ld+json">

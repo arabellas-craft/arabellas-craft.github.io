@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Free Love & Relationship Tarot Spreads | Juniper Divination"
+title: "Free Love & Relationship Tarot & Oracle Card Spreads | Juniper Divination"
 permalink: /free-tarot-spreads/love/
-categories: Love tarot spread, relationship tarot spread, free love tarot spread, tarot for relationships, tarot for dating, tarot for couples, self-love tarot spread
-short-description: Free love and relationship tarot spreads for romantic partnerships, dating, decision-making in relationships, and self-love readings.
+categories: Love tarot spread, relationship tarot spread, free love tarot spread, tarot for relationships, tarot for dating, tarot for couples, self-love tarot spread, love oracle card spread, relationship oracle spread, oracle card spread for love, free oracle love spread
+short-description: Free love and relationship tarot and oracle card spreads for romantic partnerships, dating, decision-making in relationships, and self-love readings.
 ---
 
 <script type="application/ld+json">
@@ -30,9 +30,9 @@ short-description: Free love and relationship tarot spreads for romantic partner
 
 {% assign count = site.posts | where: "category", "Love and Relationships" | size %}
 
-# Free Love & Relationship Tarot Spreads
+# Free Love & Relationship Tarot & Oracle Card Spreads
 
-{{ count }} spreads covering the main situations where people reach for tarot around relationships: examining a current partnership, deciding whether to pursue someone, working through conflict, attracting love, and self-love readings when you're single.
+{{ count }} spreads covering the main situations where people reach for tarot or oracle cards around relationships: examining a current partnership, deciding whether to pursue someone, working through conflict, attracting love, and self-love readings when you're single.
 
 Most work for any relationship type: romantic, platonic, or long-term partnership. None of them promise specific outcomes. What they give you is a clearer picture of the dynamics at play and what you can actually act on.
 

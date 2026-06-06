@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Free Beginner Tarot Spreads - Simple Layouts for New Readers | Juniper Divination"
+title: "Free Beginner Tarot & Oracle Card Spreads - Simple Layouts for New Readers | Juniper Divination"
 permalink: /free-tarot-spreads/beginner/
-categories: Beginner tarot spread, free tarot spread for beginners, simple tarot spread, 3 card tarot spread, easy tarot spread, daily tarot spread, tarot for beginners
-short-description: "Free beginner tarot spreads: simple 3-card layouts, daily check-ins, and decision-making spreads for readers who are still learning the cards."
+categories: Beginner tarot spread, free tarot spread for beginners, simple tarot spread, 3 card tarot spread, easy tarot spread, daily tarot spread, tarot for beginners, beginner oracle card spread, free oracle card spread, oracle card spread for beginners, simple oracle spread
+short-description: "Free beginner tarot and oracle card spreads: simple 3-card layouts, daily check-ins, and decision-making spreads for readers who are still learning the cards."
 ---
 
 <script type="application/ld+json">
@@ -30,11 +30,11 @@ short-description: "Free beginner tarot spreads: simple 3-card layouts, daily ch
 
 {% assign count = site.posts | where: "category", "Simple" | size %}
 
-# Free Beginner Tarot Spreads
+# Free Beginner Tarot & Oracle Card Spreads
 
-{{ count }} spreads built for readers who are still learning. None of them require memorized card meanings. Each position has a clear prompt so the reading makes sense even if you're working from a guidebook.
+{{ count }} spreads built for readers who are still learning. None of them require memorized card meanings — they work with tarot or oracle cards. Each position has a clear prompt so the reading makes sense even if you're working from a guidebook.
 
-The best starting point is the 3-card daily check-in spread. It's short enough to do every morning without making tarot feel like a commitment, and doing it consistently is the fastest way to build fluency with the cards.
+The best starting point is the 3-card daily check-in spread. It's short enough to do every morning without making divination feel like a commitment, and doing it consistently is the fastest way to build fluency with your deck.
 
 If you just got a new deck and don't know where to start, do the deck interview spread first. It gives you a structured way to get a feel for how that specific deck communicates before you try anything more complex.
 

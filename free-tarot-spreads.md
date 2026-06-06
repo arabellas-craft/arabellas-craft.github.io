@@ -1,18 +1,20 @@
 ---
 layout: default
-title: "Free Tarot Spreads: Beginner, Shadow Work, Lunar & More"
+title: "Free Tarot & Oracle Card Spreads: 50+ Layouts by Category"
 permalink: /free-tarot-spreads/
-categories: Free tarot spreads, Tarot card reading, Divination tools, Tarot card interpretations, Tarot guidance, Tarot card spreads, Online tarot readings, Tarot for beginners, Daily tarot guidance, Tarot card meanings
-short-description: Over 50 free tarot spreads for every situation:\ beginners, shadow work, moon phases, love, sabbats, and Celtic mythology. No sign-ups, no paywalls.
+categories: Free tarot spreads, Tarot spread ideas, Oracle card spreads, Oracle card spread ideas, Tarot card reading, Divination tools, Tarot card interpretations, Tarot guidance, Tarot card spreads, Online tarot readings, Tarot for beginners, Daily tarot guidance, Tarot card meanings, Free oracle spreads
+short-description: 50+ free tarot spread ideas organized by situation — beginners, shadow work, moon phases, love, sabbats, and Celtic mythology. All layouts work with oracle decks too. No sign-ups, no paywalls.
 ---
 
 {% assign total_spreads = site.posts | where: "layout", "free-tarot-spread" | size %}
 {% assign love_count = site.posts | where: "category", "Love and Relationships" | size %}
 {% assign seasonal_count = site.posts | where: "category", "Holidays" | size %}
 
-# Free Tarot Spreads for Every Situation
+# Free Tarot & Oracle Card Spread Ideas
 
-This is a collection of {{ total_spreads }} free tarot spreads organized by category. There are simple 3-card layouts for daily use, seasonal spreads tied to the Celtic calendar, shadow work spreads for deeper self-examination, and spreads for specific situations: relationships, career decisions, moon phases, and more.
+This is a collection of {{ total_spreads }} free spread layouts organized by situation. There are simple 3-card layouts for daily use, seasonal spreads tied to the Celtic calendar, shadow work spreads for deeper self-examination, and spreads for relationships, career decisions, moon phases, and more.
+
+Every layout here works with tarot cards,  oracle cards or even [playing cards](https://ko-fi.com/s/95f9c29692). The card positions are framed as questions and prompts, so the spread guides the reading regardless of which deck you're using.
 
 All of them are completely free. No sign-ups, no paywalls. Pick a category below, choose a spread, grab your deck.
 
@@ -21,8 +23,8 @@ All of them are completely free. No sign-ups, no paywalls. Pick a category below
 If these spreads have been useful, you can [support me on Ko-fi](https://ko-fi.com/juniperdivination/donate). It's never expected, but it helps me keep creating free resources.
 
 <br><br>
-<h2><a href="/free-tarot-spreads/beginner/">Beginner Tarot Spreads</a></h2>
-<p>Simple layouts for readers who are still learning the cards. Each position has a clear prompt so the reading makes sense even if you're working from a guidebook. Start with the 3-card daily spread or the deck interview spread if you just picked up a new deck.</p>
+<h2><a href="/free-tarot-spreads/beginner/">Beginner Tarot & Oracle Card Spreads</a></h2>
+<p>Simple layouts for readers who are still learning tarot or oracle cards. Each position has a clear prompt so the reading makes sense even if you're working from a guidebook. Start with the 3-card daily spread or the deck interview spread if you just picked up a new deck.</p>
 <div class="gallery tarot-gallery">
 {% for post in site.posts %}
   {% if post.category == 'Simple' %} 
@@ -43,8 +45,8 @@ If these spreads have been useful, you can [support me on Ko-fi](https://ko-fi.c
 </div>
 <br><br>
 
-<h2><a href="/free-tarot-spreads/moon-phases/">Moon Phase Tarot Spreads</a></h2>
-<p>Spreads timed to the lunar cycle: full moon, dark moon, waxing moon, new moon, and month-ahead readings. You don't need to follow a moon practice to use them. They work as standalone readings at any point in the cycle.</p>
+<h2><a href="/free-tarot-spreads/moon-phases/">Moon Phase Tarot & Oracle Spreads</a></h2>
+<p>Spreads timed to the lunar cycle: full moon, dark moon, waxing moon, new moon, and month-ahead readings. These work with tarot or oracle cards. You don't need to follow a moon practice to use them — they work as standalone readings at any point in the cycle.</p>
 <div class="gallery tarot-gallery">
 {% for post in site.posts %}
   {% if post.category == 'Lunar' %} 
@@ -54,8 +56,8 @@ If these spreads have been useful, you can [support me on Ko-fi](https://ko-fi.c
 </div>
 <br><br>
 
-<h2><a href="/free-tarot-spreads/healing/">Healing & Grounding Tarot Spreads</a></h2>
-<p>Spreads for moments when you feel scattered, overwhelmed, or stuck in a difficult emotional place. These focus on processing what's already happening and re-establishing steadiness. Accessible at any reading level.</p>
+<h2><a href="/free-tarot-spreads/healing/">Healing & Grounding Tarot & Oracle Spreads</a></h2>
+<p>Spreads for moments when you feel scattered, overwhelmed, or stuck in a difficult emotional place. These work with tarot or oracle cards and focus on processing what's already happening and re-establishing steadiness. Accessible at any reading level.</p>
 <div class="gallery tarot-gallery">
 {% for post in site.posts %}
   {% if post.category == 'Healing and Health' %} 
@@ -163,6 +165,22 @@ If these spreads have been useful, you can [support me on Ko-fi](https://ko-fi.c
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Sabbat spreads are timed to the wheel of the year — Samhain, Imbolc, Bealtaine, Lughnasadh, and the solstices and equinoxes. They focus on themes relevant to each season: reflection and ancestral connection at Samhain, new beginnings at Imbolc, and so on. The spreads in this collection are grounded in Irish and Celtic seasonal practice, not generic neo-Wiccan frameworks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do these spread layouts work with oracle cards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Every spread in this collection works with oracle cards. The layouts are built around card position prompts — questions like 'What am I avoiding?' or 'What energy does this situation carry?' — so the reading works with any deck that can hold a question. The only difference from tarot is that oracle decks don't follow a fixed structure, so you're relying more on the imagery and your own interpretation rather than on established card meanings. That's often an advantage, not a limitation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I come up with tarot spread ideas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a specific question or situation, then break it into distinct angles. A decision spread might ask: what's driving me toward this option, what am I afraid of, what I'm not seeing clearly, and what outcome each path points toward. Each angle becomes a card position. The spreads in this collection are built exactly this way — if you want to design your own, take any spread here and look at how the positions relate to the central question. That structure is the template."
       }
     }
   ]

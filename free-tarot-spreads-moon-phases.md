@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Free Moon Phase Tarot Spreads - Lunar Cycle Readings | Juniper Divination"
+title: "Free Moon Phase Tarot & Oracle Card Spreads - Lunar Cycle Readings | Juniper Divination"
 permalink: /free-tarot-spreads/moon-phases/
-categories: Moon phase tarot spread, full moon tarot spread, new moon tarot spread, lunar tarot spread, dark moon tarot, waxing moon tarot, free lunar tarot spread
-short-description: Free moon phase tarot spreads for the full moon, new moon, dark moon, waxing moon, and month-ahead planning. No lunar practice required to use them.
+categories: Moon phase tarot spread, full moon tarot spread, new moon tarot spread, lunar tarot spread, dark moon tarot, waxing moon tarot, free lunar tarot spread, moon phase oracle spread, full moon oracle card spread, new moon oracle spread, lunar oracle card spread
+short-description: Free moon phase tarot and oracle card spreads for the full moon, new moon, dark moon, waxing moon, and month-ahead planning. No lunar practice required to use them.
 ---
 
 <script type="application/ld+json">
@@ -30,9 +30,9 @@ short-description: Free moon phase tarot spreads for the full moon, new moon, da
 
 {% assign count = site.posts | where: "category", "Lunar" | size %}
 
-# Free Moon Phase Tarot Spreads
+# Free Moon Phase Tarot & Oracle Card Spreads
 
-{{ count }} spreads timed to the lunar cycle. Each one is built around the energy of a specific phase: the full moon's illumination, the dark moon's stillness, the waxing moon's momentum, and the new moon's reset.
+{{ count }} spreads timed to the lunar cycle. Each one is built around the energy of a specific phase: the full moon's illumination, the dark moon's stillness, the waxing moon's momentum, and the new moon's reset. All of them work with tarot or oracle cards.
 
 You don't need to follow a moon practice to use these. They work as standalone readings at any point in the cycle, but they're most useful when you do them at or near the phase they're designed for.
 
