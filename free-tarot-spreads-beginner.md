@@ -38,6 +38,8 @@ The best starting point is the 3-card daily check-in spread. It's short enough t
 
 If you just got a new deck and don't know where to start, do the deck interview spread first. It gives you a structured way to get a feel for how that specific deck communicates before you try anything more complex.
 
+New to tarot entirely? My [9 tarot tips for beginners](/9-tarot-tips-for-beginners) cover choosing a deck, learning simple spreads, and building a daily practice.
+
 ← [Back to all free tarot spreads](/free-tarot-spreads/)
 
 <br>

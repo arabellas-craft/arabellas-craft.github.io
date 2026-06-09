@@ -25,3 +25,5 @@ Growth: Discover the elements within yourself that are ready to flourish and gro
 Seizing Opportunities: Maximize the potential of the opportunities that unfold during this lunar cycle. Uncover valuable insights and strategic approaches as the Full Moon Tarot Spread guides you on how to make the most of the upcoming prospects and create a fulfilling and abundant month ahead.
 
 Unlock the transformative power of the Full Moon Tarot Spread and harness the lunar energy to illuminate your path, foster personal growth, and seize the opportunities that await during this profound celestial phase.
+
+After your reading, pair it with [full moon ritual ideas and journal prompts](/full-moon-ritual-ideas-and-journal-prompts/) to record what comes up and work with the moon's energy beyond the cards.

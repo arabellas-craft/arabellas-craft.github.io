@@ -83,4 +83,4 @@ In several sources it is stated that the prayer should be done on the knees, in 
 
 
 ## Learn more
-This post just scratching the surface of some of the most popular new moon practices in Ireland. If you're interested in learning more, I can't recommend Duchas.ie enough! The Irish Pagan School is also an amazing resource and has a course all about the moon in Irish traditions.
+This post just scratching the surface of some of the most popular new moon practices in Ireland. If you're interested in learning more, I can't recommend Duchas.ie enough! The Irish Pagan School is also an amazing resource and has a course all about the moon in Irish traditions. If you'd like to put these customs into practice, my [new moon ritual ideas and journal prompts](/new-moon-ritual-ideas-and-journal-prompts/) turn the themes of luck and intention-setting into a simple monthly ritual.

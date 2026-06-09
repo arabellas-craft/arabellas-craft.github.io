@@ -34,7 +34,7 @@ A tarot journal is a powerful tool for growth. Record the date, your question, t
 Guidebooks offer traditional meanings and can be a great starting point, especially for beginners learning tarot. However, your intuition is your most valuable guide. As your confidence grows, trust the messages the cards relay to you directly, even if they differ slightly from textbook definitions.
 
 ## 7. Incorporate a Ritual
-Rituals create a sacred space and prepare your mind for divination. Design your own unique pre-reading ritual. This could involve lighting a candle, burning incense, playing soft music, meditating, or simply taking a few deep breaths to center yourself.
+Rituals create a sacred space and prepare your mind for divination. Design your own unique pre-reading ritual. For a full pre-reading checklist, see my [6 tips to prepare for your tarot reading](/6-Tips-to-Prepare-for-Your-Tarot-Card-Reading/). This could involve lighting a candle, burning incense, playing soft music, meditating, or simply taking a few deep breaths to center yourself.
 
 ## 8. Be Open-Minded
 Tarot sometimes delivers messages we may not want to hear but ultimately need. If a card's meaning seems unclear, sit with it. Meditate on the card, journal about it, and allow insights to unfold organically. Remember, tarot is a tool for growth.

@@ -13,7 +13,7 @@ I've been reading tarot for nearly 20 years and I've found that asking the right
 
 About half the time I encounter a newbie looking for help interpreting a reading the problem can be traced back to the way they asked their question.
 
-These are 4 guidelines I try to stick to when formatting a question for tarot.
+These are 4 guidelines I try to stick to when formatting a question for tarot. Question-writing is one piece of getting ready; for the rest, see my [6 tips to prepare for your tarot reading](/6-Tips-to-Prepare-for-Your-Tarot-Card-Reading/).
 
 ## Rephrase yes/no questions
 This one is probably the problem I see the most often. People ask a yes/no question, pull a few cards, and then they're unsure of how to interpret the response. While there are lists online of which card means "yes" and "no." I've never found one that really worked for most people.
@@ -32,4 +32,4 @@ The way you phrase your questions can shut down or open up a reading. There are 
 
 ## Frame your questions positively
 I’ve found that positive questions will give you more productive answers. Asking how you can get what you want will give you a game plan. Asking why you don’t have it yet can invite a pity party or a pile on.
-This one is probably the squishiest of these guidelines as there are times when asking about something in a negative manner works out just fine, but I think for new readers especially, positive phrasing can give you a reading that's easier to interpret.
+This one is probably the squishiest of these guidelines as there are times when asking about something in a negative manner works out just fine, but I think for new readers especially, positive phrasing can give you a reading that's easier to interpret. New to the cards? My [9 tarot tips for beginners](/9-tarot-tips-for-beginners) cover the fundamentals.

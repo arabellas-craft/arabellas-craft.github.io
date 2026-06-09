@@ -9,7 +9,7 @@ img: "first-tarot-reading.jpg"
 permalink: /6-Tips-to-Prepare-for-Your-Tarot-Card-Reading/
 ---
 
-Tarot card readings can be a powerful tool for gaining insight into your life, but to make the most of your session, it's important to be prepared. Whether you're a seasoned tarot enthusiast or a newbie etting your first reading, these five tips will help you get ready for your tarot card reading.
+Tarot card readings can be a powerful tool for gaining insight into your life, but to make the most of your session, it's important to be prepared. Whether you're a seasoned tarot enthusiast or a newbie etting your first reading, these five tips will help you get ready for your tarot card reading. If you're learning to read your own cards, start with my [9 tarot tips for beginners](/9-tarot-tips-for-beginners).
 
 ## 1. Set Your Intentions
 Before your tarot card reading, take a moment to reflect on your intentions. What do you hope to gain from the session? Are there specific questions or areas of your life you'd like to explore? Setting clear intentions helps guide the reading and ensures that you receive the insights you seek.

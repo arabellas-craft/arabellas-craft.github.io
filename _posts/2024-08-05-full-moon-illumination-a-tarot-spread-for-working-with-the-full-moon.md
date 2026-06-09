@@ -26,7 +26,7 @@ The full moon is a powerful time for reflection, release, and setting intentions
 
 ## Tips for Beginners
 * Use a Rider-Waite-Smith deck or a similar deck: These decks have clear symbolism that is easy to understand, making them ideal for beginners.
-* Keep a journal: Record your interpretations and any insights that come to you during your reading. This will help you track your progress and reflect on your growth.
+* Keep a journal: Record your interpretations and any insights that come to you during your reading. These [full moon journal prompts](/full-moon-ritual-ideas-and-journal-prompts/) give you a starting point, and journaling helps you track your progress and reflect on your growth.
 * Don't be afraid to ask for help: If you get stuck, don't hesitate to reach out to a more experienced tarot reader. The [r/tarot](https://www.reddit.com/r/tarot/) subreddit is a great place to get help or a second opinion.  
 
 ## Embrace the Lunar Magic

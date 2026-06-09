@@ -17,7 +17,7 @@ This 4-card new moon tarot spread works as a monthly check-in. You do it once at
 
 ## Why Read Tarot at the New Moon
 
-The new moon marks the beginning of a new lunar cycle. In folk traditions across cultures, it's associated with fresh starts, setting intentions, and clearing space for what's next. In [Irish folk practice](/new-moon-in-irish-folklore), the new moon (*gealach úr*) was a time for ensuring luck and jumpstarting growth for the coming month.
+The new moon marks the beginning of a new lunar cycle. In folk traditions across cultures, it's associated with fresh starts, setting intentions, and clearing space for what's next. In [Irish folk practice](/new-moon-in-irish-folklore), the new moon (*gealach úr*) was a time for ensuring luck and jumpstarting growth for the coming month. To build a fuller practice around this reading, these [new moon ritual ideas and journal prompts](/new-moon-ritual-ideas-and-journal-prompts/) walk through intention-setting, grounding, and journaling.
 
 You don't need to believe the moon controls your life to find this useful. The lunar cycle gives you a natural rhythm to work with. Monthly check-ins beat random readings because they create a pattern. Over time, you start seeing themes. Cards that keep appearing. Areas of your life that keep demanding attention. Patterns you didn't notice when you were reading sporadically.
 
