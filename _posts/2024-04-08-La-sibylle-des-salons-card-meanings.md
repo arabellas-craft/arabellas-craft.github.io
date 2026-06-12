@@ -3,6 +3,7 @@ layout: article
 title: "La Sibylle des Salons Card Meanings"
 date: 2024-04-08 10:51:01 -0700
 tag: article
+topic: divination
 short-description: "La Sibylle des Salons is a captivating fortune-telling deck with roots in the mid-19th century. This article will cover each card and it's upright and reversed meanings."
 categories: Cartomancy, Divination tools, Fortune-telling, Oracle cards, Card meanings, Card reading guide, La Sibylle des Salons meanings, La Sibylle des Salons guide, Grandville oracle, Sibyl meanings, French cartomancy, Playing card divination, Vintage oracle decks, 19th-century divination, Parlor Sibyl meanings
 img: "playing-cards.jpg"

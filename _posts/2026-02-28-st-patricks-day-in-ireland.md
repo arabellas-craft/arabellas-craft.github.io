@@ -3,6 +3,7 @@ layout: article
 title: "Irish Folk Customs for St. Patrick's Day: Charred Sticks, Pota Pádraig, and the Farming Calendar"
 date: 2026-02-28 07:00:01 -0700
 tag: article
+topic: irish
 short-description: The pagan internet mourns. Everyone else drinks green beer. Neither has much to do with what Irish people historically did on March 17th.
 categories: irish folklore, st patricks day, irish history, folk customs, folklore, irish culture, witchblr, pagan, folk magic, celtic history, irish mythology, historical folklore, folk religion, paganism, irish paganism, duchas, kevin danaher, irish traditions, folk practice, history
 img: pub.webp

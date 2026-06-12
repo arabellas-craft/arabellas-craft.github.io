@@ -3,6 +3,7 @@ layout: article
 title: "The Four Cycles of Irish Mythology: Mythological, Ulster, Fenian, and Kings"
 date: 2026-05-05 07:00:01 -0700
 tag: article
+topic: irish
 short-description: "A reader's guide to the four cycles of Irish mythology: Mythological, Ulster, Fenian, and Kings. Where the framework came from, what each cycle covers, and where they overlap."
 categories: four cycles of irish mythology, irish mythology cycles, irish mythology explained, irish mythology for beginners, mythological cycle, ulster cycle, fenian cycle, cycle of the kings, irish mythology, celtic mythology, irish heroic age, medieval irish literature, lebor gabala erenn, book of invasions, tuatha de danann, fomoire, cu chulainn, fionn mac cumhaill, the fianna, conchobar mac nessa, emain macha, tain bo cuailnge, cattle raid of cooley, cath maige tuired, battle of moytura, acallam na senorach, john rhys celtic heathendom, mark williams ireland's immortals, jp mallory irish dreamtime, lebor na huidre, book of leinster, yellow book of lecan, manannan mac lir, mongan, diarmait mac cerbaill, conaire mor, togail bruidne da derga, buile shuibhne, euhemerization, christian monastic scribes, irish saga literature, primary sources irish mythology, irish folklore, story archaeology podcast, candlelit tales
 img: four-cycles-irish-mythology.jpg

@@ -3,6 +3,7 @@ layout: article
 title: "Divination Without Buying Anything: Your Guide to Household Oracle Methods"
 date: 2025-11-24 12:51:01 -0700
 tag: article
+topic: divination
 short-description: "Learn four real divination methods using stuff you already own: dice, playing cards, tea leaves, and books. No expensive tools needed to start today."
 img: "free-divination-methods.jpg"
 img-text: Photo by Madeline Liu on Unsplash

@@ -11,11 +11,11 @@ permalink: /articles/
   <div class="article">
     <a href="{{ post.url }}"> <img src="/assets/img/article/{{post.img}}"></a>
       <a href="{{ post.url }}">
-      <h2>
+      <h3>
         {{ post.title }}
-      </h2>
-      <br class="hide-on-mobile">
+      </h3>
       <p class="no-padding-bottom">{{ post.short-description }}</p>
+      <span class="read-more">Read article &rarr;</span>
       </a>
   </div>
   {% endif %}

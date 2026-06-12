@@ -4,6 +4,7 @@ title:  "Essential Witchcraft Resources for Beginners: Books, Podcasts & Videos"
 date:   2021-10-21 20:35:01 -0700
 short-description: "Curated witchcraft resources for beginners: evidence-based books, free podcasts, and videos on tarot, chaos magic, Irish folklore, and divination."
 tag: article
+topic: witchcraft
 categories: witchcraft resources for beginners, witchcraft books, witchcraft podcasts, chaos magic, Irish folklore
 img: "books.jpg"
 permalink: /recommendations/

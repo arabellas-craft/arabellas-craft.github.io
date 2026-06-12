@@ -3,6 +3,7 @@ layout: article
 title: "Preparing the Home for Imbolc: Irish Folk Customs for St. Brigid's Day"
 date: 2026-01-20 12:51:01 -0700
 tag: article
+topic: irish
 short-description: "Learn Irish St. Brigid's Day customs for the home. Stocktaking winter supplies, festive suppers, offerings for the saint, and work prohibitions on February 1st."
 categories: St. Brigid's Day, Irish folklore, Imbolc, Irish traditions, February 1st, Dúchas archives, Irish folk customs, Brigid goddess, Irish quarter days, threshold rituals, folk magic Ireland,
 img: "st-brigids-day.webp"

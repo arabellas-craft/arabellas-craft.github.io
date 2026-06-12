@@ -3,6 +3,7 @@ layout: article
 title: "Key Terms & Concepts: A Chaos Magic Glossary"
 date: 2025-12-24 12:51:01 -0700
 tag: article
+topic: witchcraft
 short-description: "Decode chaos magic jargon. Clear definitions of gnosis, servitor, sigil, egregore, and more. Pronunciation guide, examples, and what beginners actually need to know."
 categories: chaos magic beginner guide, gnosis chaos magic meaning, servitor egregore tulpa difference, chaos magic glossary, chaos magic terms, chaos magic terminology, chaos magic dictionary, chaos magic definitions, gnosis chaos magic, what is gnosis, gnosis meaning chaos magic, servitor chaos magic, sigil magic, chaos magic sigils, egregore definition, paradigm shifting chaos magic, tulpa vs servitor
 img: "chaos-magic-terms-explained.jpg"

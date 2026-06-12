@@ -3,6 +3,7 @@ layout: article
 title: "A Brief History of Chaos Magic: Key Figures and Timeline (Austin Osman Spare to Peter Carroll)"
 date: 2025-12-12 12:51:01 -0700
 tag: article
+topic: witchcraft
 short-description: "A timeline and key-figures history of chaos magic, from Austin Osman Spare's early sigil work through Peter Carroll, Ray Sherwin, Phil Hine, and the founding of the Illuminates of Thanateros in 1978."
 img: "history-of-chaos-magic.jpg"
 permalink: history-of-chaos-magic

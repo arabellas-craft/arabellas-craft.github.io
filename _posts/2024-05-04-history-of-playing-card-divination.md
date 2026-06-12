@@ -3,6 +3,7 @@ layout: article
 title: "Playing Card Divination: Unveiling its Roots and History"
 date: 2024-05-04 10:51:01 -0700
 tag: article
+topic: divination
 short-description: "Uncover the secret history of playing card divination. Learn its origins and how to start your own practice."
 categories: playing card divination, learn to read playing cards, divination beginner
 img: "playing-card-divination-unveiling-its-roots-and-history.jpg"

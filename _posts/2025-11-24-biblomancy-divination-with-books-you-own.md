@@ -3,6 +3,7 @@ layout: article
 title: "Bibliomancy: Divination With Books You Already Own"
 date: 2025-11-24 12:51:01 -1100
 tag: article
+topic: divination
 short-description: "Learn bibliomancy, the ancient practice of book divination. Use poetry, novels, or any meaningful book you already own for guidance. No tarot deck required."
 img: "book-divination-bibliomancy.jpg"
 img-text: Photo by Henry Be on Unsplash

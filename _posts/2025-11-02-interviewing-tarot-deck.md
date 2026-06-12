@@ -3,6 +3,7 @@ layout: article
 title: Why New Tarot Readers Should Interview Their Decks
 date: 2025-11-01 12:51:01 -0700
 tag: article
+topic: divination
 short-description: "Learn why tarot deck interviews help new readers understand their cards faster. Discover practical benefits, get a free 3-card spread, and download 5 interview spreads to try."
 img: "interview-your-tarot-deck.jpg"
 img-text: Wallpaper by vit-tarasov on Wallpapers.com

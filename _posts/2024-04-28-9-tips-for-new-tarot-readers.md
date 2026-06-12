@@ -3,6 +3,7 @@ layout: article
 title: "9 Tarot Tips to Spark Your Divination Journey"
 date: 2024-04-28 10:51:01 -0700
 tag: article
+topic: divination
 short-description: "New to tarot? These 9 essential tips will help you connect with your cards, learn simple spreads, and unlock the wisdom of tarot for beginners."
 categories: tarot, learn to read tarot cards, tarot beginner, new tarot reader
 img: "9-tarot-tips.jpg"

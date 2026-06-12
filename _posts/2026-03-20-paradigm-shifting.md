@@ -3,6 +3,7 @@ layout: article
 title: "Paradigm Shifting in Chaos Magic: How to Change Your Beliefs on Purpose"
 date: 2026-02-28 07:00:01 -0700
 tag: article
+topic: witchcraft
 short-description: Learn how chaos magicians temporarily adopt and discard belief systems. A beginner's guide to paradigm shifting, the four magical models, and how to try them.
 categories: paradigm shifting, chaos magic, chaos magick, chaos magic for beginners, what is chaos magic, belief as a tool, chaos magic techniques, magical models, spirit model magic, energy model magic, psychological model magic, cybernetic model magic, how to do chaos magic, chaos magic explained, chaos magic philosophy, chaos magic practice, Phil Hine, Peter Carroll, Condensed Chaos, chaos magic without tools, chaos magic no experience, eclectic witchcraft, paradigm shifting magic, chaos magic tutorial, chaos magic exercises, magical paradigms, chaos magick for skeptics, beginner chaos magic, how to paradigm shift, chaos magic belief system
 img: chaos-magic-paradigm-shifting.jpg

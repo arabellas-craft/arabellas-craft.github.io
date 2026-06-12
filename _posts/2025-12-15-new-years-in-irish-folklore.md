@@ -3,6 +3,7 @@ layout: article
 title: "Lá Coille: Irish New Year Folk Traditions, Magic & Divination"
 date: 2025-12-12 12:51:01 -0700
 tag: article
+topic: irish
 short-description: "Explore authentic Irish New Year folk magic from Dúchas archives: first footing rituals, hunger banishment, divination practices, and protective customs for Lá Coille."
 img: "irish-new-years-traditions.jpg"
 permalink: irish-new-year-folk-magic-la-coille

@@ -6,6 +6,10 @@
 @import 'general';
 
 article {
+  
+  .article-list {
+    grid-template-columns: 1fr;
+  }
 
   p:has(+ ul, + ol) {
     padding-bottom: 0.5rem;

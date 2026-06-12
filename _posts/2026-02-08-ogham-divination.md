@@ -3,6 +3,7 @@ layout: article
 title: "Ogham Divination: How to Read the Irish Alphabet for Guidance"
 date: 2026-02-08 07:00:01 -0700
 tag: article
+topic: irish
 short-description: Learn how to read ogham divination with this complete guide. Includes 20 feda, medieval bríatharogam, traditional meanings, and DIY reading methods.
 categories: ogham, ogham divination, irish divination, celtic divination, divination, witchcraft, paganism, irish paganism, celtic paganism, witch tips, divination methods, divination tools, beginner witch, baby witch, witch resources, pagan resources, tarot alternative, oracle divination, runes, witchblr, paganblr, divination practice, folk magic, irish mythology, celtic mythology, ogham alphabet, tree magic, forest witch, green witch, divination guide
 img: irish-ogham-stone.jpg

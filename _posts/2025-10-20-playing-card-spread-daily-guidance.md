@@ -3,6 +3,7 @@ layout: article
 title: 3-Card Playing Card Spread for Daily Guidance
 date: 2025-10-20 10:51:01 -0700
 tag: article
+topic: divination
 short-description: "Free 3-card playing card spread for daily guidance. Simple cartomancy layout for beginners with card position meanings. Start reading playing cards today."
 img: "playing-card-spread-daily-guidance.png"
 img-text: Photo by Erik Mclean on Unsplash

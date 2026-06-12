@@ -3,6 +3,7 @@ layout: article
 title: "A Quick Guide to Common Witchcraft Questions"
 date: 2025-08-03 10:51:01 -0700
 tag: article
+topic: witchcraft
 short-description: "Straight answers to common witchcraft questions for beginners. Learn grounding, energy work, divination basics, and ethical practices without the gatekeeping."
 categories: Witchcraft for Beginners, Modern Witchcraft Practices, Spiritual Practices & Meditation, Tarot & Divination, Energy Work & Grounding Techniques, Pagan & Wiccan Resources, Alternative Spirituality, Mindfulness & Personal Development, Cultural Sensitivity in Spirituality, Budget-Friendly Spiritual Practices
 img: "basic-witchcraft-questions.jpg"

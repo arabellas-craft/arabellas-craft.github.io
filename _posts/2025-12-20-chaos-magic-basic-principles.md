@@ -3,6 +3,7 @@ layout: article
 title: "Belief as a Tool: The Philosophy Behind Chaos Magic"
 date: 2025-12-20 12:51:01 -0700
 tag: article
+topic: witchcraft
 short-description: "Chaos magic treats belief as a tool you can pick up and put down. This single idea explains why it works for skeptics and why results matter more than orthodoxy."
 img: "chaos-magic-belief-as-tool.jpg"
 permalink: chaos-magic-belief-as-tool

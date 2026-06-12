@@ -3,6 +3,7 @@ layout: article
 title: "Protecting home and fortune: Irish folk customs for Bealtaine"
 date: 2024-04-12 10:51:01 -0700
 tag: article
+topic: irish
 short-description: "Learn about traditional Irish practices for appeasing the Good Neighbors, ensuring a prosperous year, and guarding your good fortune on the magical night of Bealtaine."
 categories: Irish history, Irish folklore, may day customs, beltane customs, Bealtaine traditions, may bush, Pre-Christian Ireland customs, Bealtaine folklore
 img: "may-bush.jpg"

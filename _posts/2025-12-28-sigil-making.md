@@ -3,6 +3,7 @@ layout: article
 title: "How to Make a Sigil: The Austin Osman Spare Method, Step-by-Step"
 date: 2025-12-27 12:51:01 -0700
 tag: article
+topic: witchcraft
 short-description: "Write a statement of intent, encode it into a symbol, then charge it in gnosis. The full Austin Osman Spare sigil method, with the steps and the reasoning."
 categories: how to make sigils, Austin Osman Spare method, chaos magic for beginners, sigil magic guide, charging sigils, letter reduction method, chaos magic gnosis, how to fire a sigil, sigil statement of intent, practical magic techniques, subconscious mind programming, lust for results, psychological model of magic, creating magical symbols, sigil charging methods, sigil magic examples, modern occultism, belief as a tool, manifestation symbols, sigil magic step by step
 img: "gnosis-techniques-chaos-magic.jpg"

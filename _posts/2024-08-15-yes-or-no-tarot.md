@@ -3,6 +3,7 @@ layout: article
 title: "Why Yes or No Tarot Doesn't Work (+ How to Ask Better Questions Instead)"
 date: 2024-08-15 10:51:01 -0700
 tag: article
+topic: divination
 short-description: Learn why "yes or no" tarot questions can be confusing and how to rephrase them for actionable guidance. Get clear, useful answers in your readings today.
 categories: Tarot card reading, Yes or no tarot, Tarot for decision making, Rephrasing tarot questions, Beyond yes/no tarot, Divination tools, Pendulum readings, Bone throwing, Coin tossing, Tarot and free will
 img: "yes-or-no-tarot-readings.jpg"

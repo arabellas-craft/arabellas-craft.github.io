@@ -3,6 +3,7 @@ layout: article
 title: "The History of Celtic Reconstructionism: How a Modern Pagan Movement Was Built"
 date: 2026-04-12 12:00:01 -0700
 tag: article
+topic: irish
 short-description: Celtic Reconstructionism didn't come from ancient tradition. Here's how it actually began:/ 1980s pagan gatherings, BBS forums, and decades of shared scholarship.
 categories: celtic reconstructionism, celtic paganism, celtic folklore, irish paganism, gaelic polytheism, pagan history, history of modern paganism, gaol naofa, erynn rowan laurie, CR FAQ, pagan reconstructionism, celtic mythology
 img: celtic-reconstructionism.jpg

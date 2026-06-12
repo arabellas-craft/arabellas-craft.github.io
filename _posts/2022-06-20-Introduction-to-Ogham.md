@@ -3,6 +3,7 @@ layout: article
 title:  "Ogham Alphabet: Ancient Irish Script, Pronunciation & Divination"
 date:   2022-06-20 10:51:01 -0700
 tag: article
+topic: irish
 short-description: Learn what Ogham is, its history as an ancient Irish script, and how to use it for divination. Includes a guide to pronunciation and the "tree calendar" myth.
 categories: Ogham script, Celtic tree alphabet, Ogham history, Ogham meanings, Ogham divination, Ogham symbols, Introduction to Ogham, Celtic script, Ogham alphabet, Ancient Celtic writing, Ogham symbols and meanings, Ogham history and origins, Ogham in Celtic culture, Ogham characters, Ogham divination methods, Ogham casting, Ogham staves, Using Ogham for divination, Ogham spiritual practice, Working with Ogham
 img: "ogham-stone.jpg"

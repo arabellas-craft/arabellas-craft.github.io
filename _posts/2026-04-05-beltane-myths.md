@@ -3,6 +3,7 @@ layout: article
 title: "The History of Modern Beltane Traditions"
 date: 2026-04-05 07:00:01 -0700
 tag: article
+topic: irish
 short-description: Tracing the origins of Beltane traditions including the maypole, the May Queen, handfasting, and the Green Man, sourced from primary records.
 categories: bealtaine, beltane, irish folklore, celtic history, may day, pagan history, folklore myths, witchblr, irish history, paganism
 img: bealtaine-myths.jpg

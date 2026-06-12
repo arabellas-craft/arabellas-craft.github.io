@@ -3,6 +3,7 @@ layout: article
 title: "Chaos Magic for the Curious: An Introduction"
 date: 2025-12-10 12:51:01 -0700
 tag: article
+topic: witchcraft
 short-description: "Curious about chaos magic but intimidated by the name? It's simpler than you think. An introduction to the DIY, no-purchase-required magical practice that rewards curiosity over obedience."
 img: "introduction-to-chaos-magic.jpg"
 permalink: what-is-chaos-magic

@@ -3,6 +3,7 @@ layout: article
 title: "The \"All Snakes Day\" Myth: What Actually Happened in Ireland"
 date: 2026-02-27 07:00:01 -0700
 tag: article
+topic: irish
 short-description: The story that St. Patrick's snakes were Druids is modern invention, not history. Here's what the actual record says about Ireland's conversion to Christianity.
 categories: irish folklore, irish history, celtic history, paganism, neopaganism, witchblr, pagan, myth busting, druids, saint patrick, st patricks day, irish mythology, celtic mythology, reconstructionism, celtic reconstructionism, witchcraft history, folk history, paganism history, anti misinformation, accurate history, irish paganism, pagan history, ireland, druidry, historical accuracy
 img: all-snakes-day.jpg

@@ -3,6 +3,7 @@ layout: article
 title: "Common Tea Leaf Symbols: A Starting Point for Building Your Own System"
 date: 2025-10-26 12:51:01 -0700
 tag: article
+topic: divination
 short-description: "A reference of common tea leaf symbols (animals, nature, objects, and shapes) with traditional meanings that work as starting points for building your own intuitive reading practice."
 img: "common-tea-leaf-symbols-and-their-meanings.jpg"
 img-text: Photo by Jun Weng on Unsplash
