@@ -118,13 +118,19 @@ async function createArticlePost(client, post) {
   // Use categories (comma-separated string) or tag field
   const tags = frontMatter.categories || frontMatter.tag || '';
 
+  // Construct permalink (strip leading slash if present to avoid double slashes)
+  const permalink = frontMatter.permalink
+    ? `${config.siteUrl}/${frontMatter.permalink.replace(/^\//, '')}`
+    : null;
+
   const postData = {
     type: 'text',
     state: 'draft',
     title: frontMatter.title || 'Untitled',
     body: body,
     format: 'markdown',
-    tags: tags
+    tags: tags,
+    source_url: permalink
   };
 
   console.log(`Creating text post: "${postData.title}"`);
@@ -186,6 +192,7 @@ async function createTarotSpreadPost(client, post) {
     state: 'draft',
     caption: caption,
     link: permalink,
+    source_url: permalink,
     data64: imageData64,
     tags: tags
   };
