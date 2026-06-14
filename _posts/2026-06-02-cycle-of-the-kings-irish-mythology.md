@@ -51,6 +51,8 @@ Practical takeaway: this is the cycle where the line between mythology and early
 
 **The Sovereignty Goddess** A recurring figure rather than a single character. Personifies the land. Appears most often as a hideous hag who tests would-be kings and reveals herself as a beautiful young woman to the rightful one. Identified variously with Ériu, Mór Muman, and the Cailleach depending on the regional tradition.
 
+{% include article-kofi-callout.html %}
+
 ## The major stories
 
 ### Buile Shuibhne (The Frenzy of Sweeney)

@@ -30,6 +30,8 @@ Place a container of purified water under the full moon's light overnight. This 
 5. Full Moon Tarot Reading
 The full moon can be a very powerful time for divination. [Try my full moon tarot spread](/free-tarot-spreads/full-moon-tarot-spread), [get a reading from me](https://shop.juniperdivination.com/l/MonthAheadTarotReading), or create your own tarot spread! Make sure to record your reading and your thoughts in your tarot journal to reference later.
 
+{% include article-kofi-callout.html %}
+
 ## Full Moon Journaling Prompts
 After grounding myself I generally start my ritual with journaling. Journaling can be a great way to connect with your gratitude, challenges and make peace with what you need to release and let go of. Every full moon I create a sacred space (even if it's just in my house!) and spend some time journaling, with some of the following prompts:
 

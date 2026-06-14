@@ -41,6 +41,8 @@ Reality as we experience it is ordered and structured. We see certain possibilit
 
 Chaos magic works with the layer beneath that structure. The space where all paradigms exist simultaneously before you choose which one to work within.
 
+{% include article-kofi-callout.html %}
+
 ## Common Questions
 
 **Is this like Scarlet Witch's powers in Marvel?**

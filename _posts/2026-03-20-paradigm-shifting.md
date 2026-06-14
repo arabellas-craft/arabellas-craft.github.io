@@ -36,6 +36,8 @@ Most magical approaches fall into one of four frameworks. Knowing them gives you
 
 Every model eventually runs into something it can't explain. The psychological model struggles with shamans cursing people who don't believe in magic and break out in hives anyway. The spirit model struggles with questions about consciousness that anthropology can't answer. If you use only one model, sooner or later the universe will hand you a situation your model can't handle. Flexibility is a practical advantage, not just a philosophical one.
 
+{% include article-kofi-callout.html %}
+
 ## How to Do It
 
 **1. Choose your paradigm based on the working.**

@@ -75,6 +75,8 @@ Want to start reading cards or tea leaves but don't know where to begin? You don
 
 **Guide available:** [Three Dice Destiny: Learn How to Tell Fortunes with Dice ](https://ko-fi.com/s/ff7d47ded3?utm_source=website) for 99¢
 
+{% include article-kofi-callout.html %}
+
 ## 5. Bibliomancy
 
 **What it is:** Hold your question in mind, open a book to a random page, read the passage. The words provide perspective on your situation. Ancient practice used with sacred texts, poetry, and philosophy.

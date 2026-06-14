@@ -51,6 +51,8 @@ Practical takeaway: when you meet a Fenian story, find out when it was composed.
 
 **Niamh of the Golden Hair** Daughter of Manannán mac Lir. Comes to Ireland on a white horse and takes Oisín to Tír na nÓg.
 
+{% include article-kofi-callout.html %}
+
 ## The major stories
 
 ### Macgnímartha Finn (The Boyhood Deeds of Fionn)

@@ -14,6 +14,8 @@ A magpie tarot deck is exactly what it sounds like: a deck assembled from multip
 
 This is also called a patchwork deck or chaos tarot deck, and it's a legitimate practice with a practical payoff. When you're not locked into one artist's interpretation of the Strength card, you start noticing how much interpretation is in the card itself, not just the image. Seeing Strength as a warrior in one reading and a figure offering comfort in another isn't confusing. It's clarifying.
 
+{% include article-kofi-callout.html %}
+
 ## How to Build One
 
 The straightforward approach is buying cards individually. Etsy, eBay, and secondhand tarot shops all sell single cards and partial decks. Look for lots where sellers are offloading duplicates or damaged decks. You can find good cards cheap that way.

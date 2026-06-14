@@ -52,6 +52,8 @@ The single most useful axis for choosing a system is how literal you want your r
 
 **Oracle** occupies the widest range. Some decks are concrete and keyword-based. Others are highly abstract. You can't generalize about oracle as a system the way you can about the others.
 
+{% include article-kofi-callout.html %}
+
 ## What Questions Each System Handles Well
 
 **Tarot** works best for questions about internal states, relationship dynamics, and decisions with emotional weight. "What do I need to understand about this situation?" and "What's blocking me?" are natural tarot questions. It's less suited to "Will this happen?" because it doesn't give direct yes/no answers without specific methods for that. For guidance on how to frame questions well, [this article covers the most common mistakes](https://juniperdivination.com/good-questions-for-tarot-readings/).

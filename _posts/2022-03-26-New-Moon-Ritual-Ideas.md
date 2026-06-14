@@ -28,6 +28,8 @@ The new moon is generally seen as a time to:
 
 Here are some ideas to try when putting together your own new moon ritual. You can mix and match, add or subtract to any of these. Just think of them as jumping-off points for your own intuition and creativity!
 
+{% include article-kofi-callout.html %}
+
 ## 1. Make a sacred space
 For me, this is a vital step to get me into the right headspace for ritual. Surround yourself with things that taste, sound, smell, look and feel good to you and help you relax. I have certain incense and music that I only use during my moon rituals, just hearing that music or smelling that incense can instantly get me ready for ritual. I find that I prefer for things to be more tranquil during the new moon.
 

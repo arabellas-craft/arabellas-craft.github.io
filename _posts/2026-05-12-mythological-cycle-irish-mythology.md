@@ -71,6 +71,8 @@ For practical reading: take the stories as evidence of how medieval Ireland thou
 
 **Boand and Aengus** Boand is a goddess of the Boyne. Aengus (Óengus) is her son by the Dagda. Aengus is the cycle's god of love and youth.
 
+{% include article-kofi-callout.html %}
+
 ## The major stories
 
 ### Cath Maige Tuired (The Second Battle of Moytura) and the Coming of Lugh

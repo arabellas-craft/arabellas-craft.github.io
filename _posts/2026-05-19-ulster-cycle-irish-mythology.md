@@ -59,6 +59,8 @@ These are the people who keep showing up.
 
 **Macha** Cursed the Ulstermen so they would suffer the pains of childbirth at the moment of greatest need. Her curse explains why Cú Chulainn alone holds the border in the *Táin*.
 
+{% include article-kofi-callout.html %}
+
 ## The major stories
 
 ### Táin Bó Cúailnge (The Cattle Raid of Cooley)

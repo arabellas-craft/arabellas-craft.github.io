@@ -87,6 +87,8 @@ Every card from Ace to King has a specific meaning. That's 52 cards giving you a
 
 ---
 
+{% include article-kofi-callout.html %}
+
 ## Method 3: Tea Leaf Reading (Tasseography)
 
 **What you need:** Loose leaf tea, light-colored teacup (white or cream works best)
