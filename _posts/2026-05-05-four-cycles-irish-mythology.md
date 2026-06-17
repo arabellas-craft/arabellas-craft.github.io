@@ -63,25 +63,17 @@ The Ulster Cycle is where the historical question gets most interesting. Some sc
 ## Quick portraits of each cycle
 
 **Mythological Cycle.** The gods of Ireland (the Tuatha Dé Danann and the Fomoire) fighting for control of the island. The Dagda, the Morrígan, Lugh, Brigid, Manannán mac Lir all feature heavily. The big text is the *[Cath Maige Tuired](https://celt.ucc.ie/published/T300011/index.html)*, the Battle of Moytura. Read this cycle first if you want to meet the divine cast. 
-{% if now >= mythological_reveal_date %}
-    Full overview of [the Mythological Cycle article](/irish-mythology-mythological-cycle)
-{% endif %}
+Full overview of [the Mythological Cycle article](/irish-mythology-mythological-cycle)
 
 
 **Ulster Cycle.** A heroic-age cycle centered on King Conchobar's court at Emain Macha. Cú Chulainn, Fergus, Conall Cernach, Deirdre. Single combats, cattle raids, drinking horns, oath-breaking. The big text is the *Táin Bó Cúailnge*, the Cattle Raid of Cooley. Read this cycle for high tragedy and the warrior code. 
-{% if now >= ulster_reveal_date %}
-    Full overview in [the Ulster Cycle article](/irish-mythology-ulster-cycle).
-{% endif %}
+Full overview in [the Ulster Cycle article](/irish-mythology-ulster-cycle)
 
 **Fenian Cycle.** A roving band of hunter-warriors led by Fionn mac Cumhaill. Set outside settled society, in woods and on headlands and hilltops. More lyrical and more pastoral than the Ulster Cycle. The framing text is the *Acallam na Senórach*, in which the last surviving Fianna meet Saint Patrick centuries after their own time. Read this cycle for landscape, longing, and the collision with Christianity.
-{% if now >= fenian_reveal_date %}
-    Full overview in [the Fenian Cycle article](/irish-mythology-fenian-cycle).
-{% endif %}
+Full overview in [the Fenian Cycle article](/irish-mythology-fenian-cycle)
 
 **Cycle of the Kings.** The shaggiest and most varied cycle. Kings real and legendary, *geasa* broken, sovereignty won and lost. Includes *Buile Shuibhne* (the cursed bird-king), *Togail Bruidne Da Derga* (Conaire Mór's destruction), and the threefold death of Diarmait mac Cerbaill. Read this cycle for the bridge between myth and the historical record. 
-{% if now >= kings_reveal_date %}
-    Full overview in [the Cycle of the Kings article](/irish-mythology-cycle-of-the-kings).
-{% endif %}
+Full overview in [the Cycle of the Kings article](/irish-mythology-cycle-of-the-kings)
 
 ## The Christian and monastic layer
 
@@ -105,20 +97,15 @@ When a story is filed under one cycle in one source and another cycle elsewhere,
 
 
 ## How to use this series and where to go next
+Each cycle gets its own overview article. If you're starting from scratch, work through them in this order:
 
-{% if now >= kings_reveal_date %}
-    Each cycle gets its own overview article. If you're starting from scratch, work through them in this order:
-
-    - [The Mythological Cycle](/irish-mythology-mythological-cycle) — the gods and the early ages of Ireland.
-    - [The Ulster Cycle](/irish-mythology-ulster-cycle) — heroic-age Ireland and the *Táin*.
-    - [The Fenian Cycle](/irish-mythology-fenian-cycle) — Fionn, the Fianna, and the encounter with Patrick.
-    - [The Cycle of the Kings](/irish-mythology-cycle-of-the-kings) — kingship, sovereignty, and the bridge into history.
-{% endif %}
+- [The Mythological Cycle](/irish-mythology-mythological-cycle) — the gods and the early ages of Ireland
+- [The Ulster Cycle](/irish-mythology-ulster-cycle) — heroic-age Ireland and the *Táin*
+- [The Fenian Cycle](/irish-mythology-fenian-cycle) — Fionn, the Fianna, and the encounter with Patrick
+- [The Cycle of the Kings](/irish-mythology-cycle-of-the-kings) — kingship, sovereignty, and the bridge into history
 
 Things this series doesn't cover, in case you're looking for them: the Dindshenchas (place-lore poems and prose), the *immrama* and *echtrai* as a category (some are Mythological, some Kings, some sit on their own), saint's lives (a separate medieval genre), and 19th-century folk collection material like Lady Gregory and Yeats (those show up as sources but aren't cycles in their own right).
 
 Two podcasts will keep coming up as good companions throughout the series. [Story Archaeology](https://storyarchaeology.com/), with Chris Thompson and Isolde Carmody, does academic close-readings of specific Irish texts. [Candlelit Tales](https://www.youtube.com/candlelittales) does narrative retellings performed live with music. Different uses, both worth knowing about.
 
-{% if now >= mythological_reveal_date %}
-    Start with the gods. The [Mythological Cycle](/irish-mythology-mythological-cycle) is up next.
-{% endif %}
+Start with the gods. The [Mythological Cycle](/irish-mythology-mythological-cycle) is up next.
