@@ -21,7 +21,7 @@ categories: Divination, Tarot readings, Psychic readings, Tarot card meanings, S
 </div>
 {% endfor %}
 </div>
-<p class="view-all-row"><a class="view-all" href="/irish/">View all Irish folklore and magic articles</a></p>
+<p class="view-all-row"><a class="view-all" href="/irish">View all Irish folklore and magic articles</a></p>
 <br><br><br><br>
 ## Divination
 {% assign divination = site.posts | where_exp:"post","post.topic == 'divination'" %}
@@ -39,7 +39,7 @@ categories: Divination, Tarot readings, Psychic readings, Tarot card meanings, S
   </div>
 {% endfor %}
 </div>
-<p class="view-all-row"><a class="view-all" href="/divination/">View all divination articles</a></p>
+<p class="view-all-row"><a class="view-all" href="/divination">View all divination articles</a></p>
 <br><br><br><br>
 ## Witchcraft
 {% assign witchcraft = site.posts | where_exp:"post","post.topic == 'witchcraft'" %}
@@ -57,7 +57,7 @@ categories: Divination, Tarot readings, Psychic readings, Tarot card meanings, S
   </div>
 {% endfor %}
 </div>
-<p class="view-all-row"><a class="view-all" href="/witchcraft/">View all witchcraft articles</a></p>
+<p class="view-all-row"><a class="view-all" href="/witchcraft">View all witchcraft articles</a></p>
 <br><br><br><br>
 ## Free Tarot Spreads
 {% assign tarot-spreads = site.posts | where_exp:"post",
