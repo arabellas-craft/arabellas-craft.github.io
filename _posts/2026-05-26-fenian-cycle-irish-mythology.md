@@ -101,7 +101,7 @@ Less a single text than a body of dialogue passages preserved in the *Acallam* a
 
 Two reading suggestions for going deeper. The full *Acallam na Senórach* in Dooley & Roe's translation contains dozens of Fenian stories not summarized here. Lady Gregory's *Gods and Fighting Men* (1904), free on Sacred Texts, is a useful single-volume entry to many Fenian stories in accessible English.
 
-The Cycle of the Kings is up next. The shift between cycles is significant: the Fenian Cycle's heroes are warrior-hunters at the edges of the kingdom; the Cycle of the Kings moves into the kingdoms themselves, with kings real and legendary, geasa broken, sovereignty won and lost.
+The [Cycle of the Kings](/irish-mythology-cycle-of-the-kings) is up next. The shift between cycles is significant: the Fenian Cycle's heroes are warrior-hunters at the edges of the kingdom; the Cycle of the Kings moves into the kingdoms themselves, with kings real and legendary, geasa broken, sovereignty won and lost.
 
 ---
 

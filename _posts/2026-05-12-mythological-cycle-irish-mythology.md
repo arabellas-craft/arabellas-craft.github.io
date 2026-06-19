@@ -125,7 +125,7 @@ Not a saga but a place-lore poem from the Metrical Dindshenchas, a body of medie
 
 A few things this overview leaves out. The Manannán material in *Immram Brain* and elsewhere sits between the Mythological Cycle and the *immrama* (voyage tale) tradition. The dindshenchas material runs far beyond Boand; many other places have origin poems featuring Tuatha Dé figures.
 
-The Ulster Cycle is up next. Several Mythological Cycle figures (Lugh, the Morrígan, Manannán) reappear there, but the world has shifted. Humans are in charge now, and the gods have receded into the sídhe.
+The [Ulster Cycle](/irish-mythology-ulster-cycle) is up next. Several Mythological Cycle figures (Lugh, the Morrígan, Manannán) reappear there, but the world has shifted. Humans are in charge now, and the gods have receded into the sídhe.
 
 ---
 

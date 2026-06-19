@@ -124,7 +124,7 @@ The cycle's tragic close. The children of Calatín, three monstrous sorcerer-sib
 
 Two more Ulster Cycle texts are worth flagging if you want to keep reading. The other Cattle Raid tales (*Táin Bó Fraích*, *Táin Bó Regamna*, and others) are usually classed as remscéla, "preludes" to the *Táin*, and they fill in what happens before Medb crosses the border. *Scéla Mucce Meic Da Thó* (The Tale of Mac Da Thó's Pig) is short, sharp, and one of the best demonstrations of how the cycle's honor-economy actually works at a feast.
 
-The Fenian Cycle is up next. The shift between cycles is significant: the Fenian Cycle's heroes are not warrior aristocrats at a king's court but a roving band of hunters at the edges of settled society. Different rhythm, different geography, different relationship to the past.
+The [Fenian Cycle](/irish-mythology-fenian-cycle) is up next. The shift between cycles is significant: the Fenian Cycle's heroes are not warrior aristocrats at a king's court but a roving band of hunters at the edges of settled society. Different rhythm, different geography, different relationship to the past.
 
 ---
 
