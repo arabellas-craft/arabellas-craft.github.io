@@ -10,21 +10,21 @@ img: lunasa-origins.jpg
 permalink: /lunasa-pre-christian-origins
 ---
 
-Lúnasa is the one Irish festival named after a god. Lugh was an old Celtic deity, worshipped from Gaul to Ireland,[^1] and the harvest assembly that carried his name was already old by the time medieval monks wrote it down.[^2]
+Lúnasa is an Irish fire festival named after the god Lugh. Lugh was an old Celtic deity, worshipped from Gaul to Ireland,[^1] and the harvest assembly that carried his name was already old by the time medieval monks wrote it down.[^2]
 
 This piece covers the origins: the god, the assembly, and the archaeology. For the plain overview, including how the names line up (Lúnasa, Lughnasadh, Garland Sunday, Reek Sunday, Crom Dubh's Sunday and the unrelated English "Lammas"), see [what is Lughnasadh?](/what-is-lughnasadh). Lúnasa [folk customs](/lunasa-folk-traditions) and the figure of [Crom Dubh](/crom-dubh-lughnasadh) each have their own article as well.
 
 ## The god Lugh
 
-Lugh is one of the major Irish gods, who was also known across the Continental and British Celtic world as Lugus.[^1][^3] He's remembered in place-names from Lyon (Lugudunum, "fortress of Lugus") to Leiden and Legnica.[^3] When Latin writers described a many-skilled Celtic god who presided over oaths and bargains, they were most likely pointing at him.[^1] The harvest month of August took his name: Lughnasadh, "the festival of Lugh."[^1][^3]
+Lugh is one of the major Irish gods, who was also known across the Continental and British Celtic world as Lugus.[^1][^3] He's remembered in place-names from Lyon (Lugudunum, "fortress of Lugus") to Leiden and Legnica.[^3] When Latin writers described a many-skilled Celtic god who presided over oaths and bargains, they were most likely referencing him.[^1] The harvest month of August took his name: Lughnasadh, "the festival of Lugh."[^1][^3]
 
-Ó hÓgáin reads the myth of Lugh's defeat of his grandfather Balar, a one-eyed figure whose destroying eye he links to a sun that scorches crops, as an echo of an early harvest-myth, the new god securing the harvest against ruin.[^1] That's an interpretation, not a documented rite. What's firm is the name: the August festival was Lugh's.
+Scholar Dáithí Ó hÓgáin reads the myth of Lugh's defeat of his grandfather Balar, a one-eyed figure whose destroying eye he links to a sun that scorches crops, as an echo of an early harvest-myth, the new god securing the harvest against ruin.[^1] That's an interpretation, not a documented rite. What's firm is the name: the August festival was Lugh's.
 
 ## The assembly at Tailtiu
 
-The medieval tradition places Lugh's great assembly, the óenach, at Tailtiu (Teltown, Co. Meath), held each year at Lúnasa at the start of August.[^1][^2] The óenach combined horse-racing, games, and trade with legal and political business.[^2][^4]
+The medieval tradition places Lugh's great assembly site (called an óenach in Irish) at Tailtiu (Teltown, Co. Meath), held each year at the start of August.[^1][^2] The óenach combined horse-racing, games, and trade with legal and political business.[^2][^4]
 
-In the medieval telling Tailtiu, of the Fir Bolg, cleared the forested plain of Breg into farmland and then died of exhaustion, and her foster-son Lugh founded the feast in her honor.[^5] The mythology makes the harvest conditional on keeping that feast: as long as it's held, there will be corn and milk in every house and fair weather over it.[^5]
+In the medieval telling Tailtiu, of the Fir Bolg, cleared the forested plain of Breg into farmland and then died of exhaustion, and her foster-son Lugh founded the feast in her honor (learn more in [this episode](https://www.youtube.com/watch?v=QgOLQBZs__U) of The Candlelit Tales).[^5] The mythology makes the harvest conditional on keeping that feast: as long as it's held, there will be corn and milk in every house and fair weather over it.[^5]
 
 But how old that story is remains unclear,[^2] and Jeffrey Gantz suggests the harvest festival itself may be a late addition to the Irish calendar, since in a herding economy the year's real turn came nearer Samhain.[^3] In early Ireland the economy leaned on herding more than tillage,[^3] and the year turned on the movement of cattle, driven up to the summer pastures around May Day and brought back down at the end of October.[^10] All of which points to a festival built on the grain harvest being a later addition.[^3]
 
@@ -48,7 +48,7 @@ Croagh Patrick's Reek Sunday pilgrimage on the last Sunday of July is the Christ
 
 ## A festival in layers
 
-Put the pieces together and Lúnasa reads less like a single festival than a stack of them on the same turn of the year. The threshold itself, the move into harvest and the gathering on heights to meet it, is the old part, older than the Celts.[^8] The Gaelic festival built on top, named for Lugh and run as the óenach, is younger, and its grain-harvest framing may be younger still than the cattle-driven hinges of Bealtaine and Samhain.[^3] Youngest of all is the written story of Tailtiu, and the Christian-era institution the assembly had become by the time the records begin.[^2] Asking whether the whole thing is ancient or late flattens it: the seasonal observance is old, the god's festival later, and the myth that explains it later again.
+Put the pieces together and Lúnasa reads less like a single festival than a stack of them on the same turn of the year. The threshold itself, the move into harvest and the gathering on heights to meet it, is the old part, older than the Celts.[^8] The Gaelic festival built on top, named for Lugh and run as the óenach, is younger, and its grain-harvest framing may be younger still than the cattle-driven hinges of Bealtaine and Samhain.[^3] Youngest of all is the written story of Tailtiu, and the Christian-era institution the assembly had become by the time the records begin.[^2] Asking whether the whole thing is ancient or modern flattens it: the seasonal observance is old, the god's festival later, and the myth that explains it later again.
 
 Two companion articles carry this further: one on [Crom Dubh](/crom-dubh-lughnasadh), the pagan figure whose "Sunday" the day became, and one on the [folk customs of Lúnasa](/lunasa-folk-traditions) that lasted into living memory. For the wider frame, see the [four cycles of Irish mythology](/irish-mythology-four-cycles) and the [introduction to Celtic Reconstructionism](/celtic-reconstructionism-introduction-guide).
 

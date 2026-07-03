@@ -42,7 +42,7 @@ Across much of Irish-speaking Ireland the day carries a different name: Crom Dub
 
 ## How Lughnasadh was celebrated
 
-The folk customs are the most durable part of the festival, recorded across Ireland into the twentieth century.[^1] People dug the first potatoes and ate them in a first-fruits meal, climbed hills to pick bilberries on "Garland Sunday," did rounds at holy wells, and swam their cattle and horses for protection.[^1] The biggest survival is the Croagh Patrick pilgrimage on Reek Sunday, the last Sunday of July.[^1] None of it needed money or special gear, which is part of why it lasted. The [folk traditions of Lúnasa](/lunasa-folk-traditions) covers the customs and how to mark the day now.
+The folk customs are the most durable part of the festival, recorded across Ireland into the twentieth century.[^1] People dug the first potatoes and ate them in a first-fruits meal, climbed hills to pick bilberries on "Garland Sunday," did rounds at holy wells, and swam their cattle and horses for protection.[^1] The biggest surviving tradition is the Croagh Patrick pilgrimage on Reek Sunday, the last Sunday of July.[^1] The [folk traditions of Lúnasa](/lunasa-folk-traditions) covers the customs and how to mark the day now.
 
 ---
 
