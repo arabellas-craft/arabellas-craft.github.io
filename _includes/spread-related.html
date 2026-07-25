@@ -1,0 +1,62 @@
+{%- assign sibling_limit = 3 -%}
+{%- assign ever_show = 2 -%}
+{%- assign picked = "" -%}
+{%- assign all_spreads = site.posts | where: "layout", "free-tarot-spread" -%}
+{%- assign cat_posts = all_spreads | where: "category", page.category -%}
+
+{%- assign idx = 0 -%}
+{%- for post in cat_posts -%}
+  {%- if post.url == page.url -%}
+    {%- assign idx = forloop.index0 -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign start = idx | plus: 1 -%}
+{%- assign wrapped = cat_posts | concat: cat_posts -%}
+{%- assign window = wrapped | slice: start, sibling_limit -%}
+{%- for post in window -%}
+  {%- assign post_key = post.url | append: "," -%}
+  {%- unless post.url == page.url or picked contains post_key -%}
+    {%- assign picked = picked | append: post.url | append: "," -%}
+  {%- endunless -%}
+{%- endfor -%}
+
+{%- assign ever_all = site.spread_evergreen -%}
+{%- if ever_all and ever_all.size > 0 -%}
+  {%- assign ever_count = 0 -%}
+  {%- assign ever_start = idx | modulo: ever_all.size -%}
+  {%- assign ever_wrapped = ever_all | concat: ever_all -%}
+  {%- for slug in ever_wrapped -%}
+    {%- if forloop.index0 >= ever_start and ever_count < ever_show -%}
+      {%- assign slug_key = slug | append: "," -%}
+      {%- unless slug == page.url or picked contains slug_key -%}
+        {%- assign picked = picked | append: slug | append: "," -%}
+        {%- assign ever_count = ever_count | plus: 1 -%}
+      {%- endunless -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- assign picked_urls = picked | split: "," -%}
+
+{%- if picked_urls.size > 0 -%}
+<h2>More Spreads to Try</h2>
+<div class="article-list">
+{%- for url in picked_urls -%}
+  {%- assign p = all_spreads | where: "url", url | first -%}
+  {%- if p -%}
+  <div class="article">
+    <a href="{{ p.url }}"> <img src="/assets/img/free-tarot-spread/thumbs/{{ p.img }}" alt="{{ p.title }}" loading="lazy"></a>
+      <a href="{{ p.url }}">
+      <h3>
+        {{ p.title }}
+      </h3>
+      <p class="no-padding-bottom">{{ p.short-description }}</p>
+      <span class="read-more">See spread &rarr;</span>
+      </a>
+  </div>
+  {%- endif -%}
+{%- endfor -%}
+</div>
+<p><a href="/free-tarot-spreads/">See all free tarot spreads</a></p>
+{%- endif -%}

@@ -36,8 +36,8 @@ There are numerous things that could cause someone to be born with the evil eye 
 ## Prevention of the evil eye
 To protect themselves from the ill effects of being overlooked, people developed customs and rituals, the most popular of which included: 
 
-* Waiting to light their fires on May Day so that the evil eye did not take their luck and profit for the coming year <cite>[12](https://www.duchas.ie/en/cbes/4672120/4671966/4682546)</cite>
-* Placing St. Brigid's crosses around the home (and outhouses) <cite>[13](https://www.duchas.ie/en/cbes/5044788/5038305/5082738), [14](https://www.duchas.ie/en/cbes/5008834/4959611/5074118)</cite>
+* Waiting to light their fires on[May Day](/irish-bealtaine-traditions) so that the evil eye did not take their luck and profit for the coming year <cite>[12](https://www.duchas.ie/en/cbes/4672120/4671966/4682546)</cite>
+* Placing [St. Brigid's crosses](/st-brigids-day-crosses) around the home (and outhouses) <cite>[13](https://www.duchas.ie/en/cbes/5044788/5038305/5082738), [14](https://www.duchas.ie/en/cbes/5008834/4959611/5074118)</cite>
 * Nailing a donkey's shoe to the threshold of the home (this also helped to guard against the Good Neighbors) <cite>[15](https://www.duchas.ie/en/cbes/4798736/4794649/4936824)</cite>
 * For animals, placing a Gauldoron Garragh knot on their back would provide protection <cite>[16](https://www.duchas.ie/en/cbes/4658431/4654935/4660423)</cite>
 * Using red items (usually cloth) to distract the evil eye <cite>[17](https://www.duchas.ie/en/cbes/4798657/4787663/4923346), [18](https://www.duchas.ie/en/cbes/4723864/4720225/4784682), [19](https://www.duchas.ie/en/cbes/4723877/4721389/4780066), [20](https://www.duchas.ie/en/cbes/4658464/4658197), [21](https://www.duchas.ie/en/cbes/4428024/4368926/4473452)</cite>
@@ -52,4 +52,12 @@ If all your preventative measures failed, there were several cures that could be
 * Water from a place where three [townslands](https://www.merriam-webster.com/dictionary/townland) meet can cure when sprinkled on the overlooked animal or person, but the person who gets the water must not speak to anyone on their way there and back <cite>[30](https://www.duchas.ie/en/cbes/4921645/4887470/5153911)</cite>
 * Forge water can also be used in the same way <cite>[31](https://www.duchas.ie/en/cbes/5009330/5007563/5131158)</cite>
 
-While the belief in the evil eye has faded over time, the echoes of these traditions can still be felt in Irish culture today. These records serve as a reminder of the deep-rooted folklore and superstitions that once shaped the lives of the Irish people and can help inform our Irish pagan practices today. 
+While the belief in the evil eye has faded over time, the echoes of these traditions can still be felt in Irish culture today. These records serve as a reminder of the deep-rooted folklore and superstitions that once shaped the lives of the Irish people and can help inform our [our Irish pagan practices](/celtic-reconstructionism-introduction-guide) today.
+
+## Related Reading
+
+- **[St. Brigid's Crosses](/st-brigids-day-crosses)**: the protective cross named above, with the weaving method and the types recorded across different counties.
+- **[The New Moon in Irish Folklore](/new-moon-in-irish-folklore)**: luck, timing, and the folk rules about when to begin things — the same logic that governs the May Day fire.
+- **[Preparing the Home for Imbolc](/st-brigids-day-preparing-home)**: the wider set of Irish household protection customs the evil eye precautions belong to.
+- **[Ogham Divination](/how-to-read-ogham-divination)**: an Irish divinatory system drawn from the same source tradition.
+- **[Lá Coille: Irish New Year Folk Magic](/irish-new-year-folk-magic-la-coille)**: threshold-day observance, first-footing and first-fire luck.

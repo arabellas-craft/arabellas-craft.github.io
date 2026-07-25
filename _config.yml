@@ -31,6 +31,12 @@ plugins:
   - jekyll-coffeescript
   - jekyll-seo-tag
   - jekyll-sitemap
+
+spread_evergreen:
+  - /free-tarot-spreads/how-should-I-decide-3-card-tarot-spread         
+  - /free-tarot-spreads/what-do-i-need-to-know-tarot-spread             
+  - /free-tarot-spreads/waxing-moon-tarot-for-manifestation              
+  - /free-tarot-spreads/journey-through-your-inner-landscape-a-tarot-spread-for-shadow-work 
 sass:
   sass_dir: _sass
   implementation: sass-embedded
