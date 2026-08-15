@@ -160,3 +160,5 @@ For [common questions about divination and witchcraft](https://juniperdivination
 Tarot isn't the only accessible option for decision-making. 
 
 If you don't have a tarot deck or prefer other methods, you can practice [divination without buying anything](https://juniperdivination.com/divination-without-buying-anything). Dice, playing cards, tea leaves, and books you already own all work for guidance.
+
+And if your question is a straight yes or no rather than a choice between two options, tarot isn't the tool for it. The guide to [better methods for binary questions](https://juniperdivination.com/yes-or-no-tarot) covers geomancy, pendulums, and coin work.

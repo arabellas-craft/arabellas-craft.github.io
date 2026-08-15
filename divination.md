@@ -13,7 +13,7 @@ If you don't know where to begin, the [guide to beginner divination methods](/be
 
 Cartomancy has deeper roots than the modern tarot industry suggests. The [history of playing card divination](/playing-card-divination-unveiling-its-roots-and-history) traces fortune-telling with a standard 52-card deck back through centuries of practice, and the [La Sibylle des Salons](/la-sibylle-des-salons-card-meanings) tradition shows how regional systems developed their own visual language.
 
-You don't need to buy anything to start. The guides to [bibliomancy](/bibliomancy-book-divination), [tea leaf symbols](/common-tea-leaf-symbols-and-their-meanings), and [divination with household objects](/divination-without-buying-anything) cover methods you can try tonight with what's already in your home. And once you're reading, the real skill is in the questions: the guide to [why yes-or-no tarot falls short](/yes-or-no-tarot) explains how to frame a question so the answer is actually useful.
+You don't need to buy anything to start. The guides to [bibliomancy](/bibliomancy-book-divination), [tea leaf symbols](/common-tea-leaf-symbols-and-their-meanings), and [divination with household objects](/divination-without-buying-anything) cover methods you can try tonight with what's already in your home. And when a question really is yes or no, tarot is the wrong tool for it: the guide to [better methods for binary questions](/yes-or-no-tarot) covers geomancy, pendulums, and bone throwing, and points you to the right question to ask when the binary isn't what you need.
 
 **Support This Work**
 
