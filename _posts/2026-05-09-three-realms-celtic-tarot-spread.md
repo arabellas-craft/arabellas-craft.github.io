@@ -48,13 +48,11 @@ Land names the part of the situation you can stand on. The facts you already hav
 
 This card pulls you back to what's real. If the rest of your week has been spent in worry or anticipation, the Land position grounds the reading in what's actually present. What's already in place. What's not going anywhere.
 
-
 **Card 2: Muir (Sea) — What's emotional, fluid, or moving below the surface.**
 
 Sea names what's moving and hard to see. Emotional currents, intuitions you haven't put into words, the half-formed impulses that shape decisions before reason catches up.
 
 In Irish cosmology, the sea is also a boundary with the Otherworld. *Tír fo Thuinn*, the Land Under the Wave, is one of the names for the Otherworld. So the Muir position also asks what's coming up from a place you can't fully see: an old grief surfacing, an ancestral pattern you've been carrying without naming, a connection that's influencing your reactions without your conscious permission.
-
 
 **Card 3: Nem (Sky) — The higher pattern, the influence beyond your immediate reach.**
 

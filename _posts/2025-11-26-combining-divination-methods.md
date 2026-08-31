@@ -7,7 +7,7 @@ topic: divination
 short-description: "Learn how to combine tarot, dice, playing cards & tea leaves for clearer readings. Stop getting contradictory answers - discover which method combinations actually work."
 img: "combine-divination-methods.jpg"
 permalink: combine-tarot-divination-methods
---- 
+---
 
 You shuffle your tarot deck, lay out three cards, and stare at them. The answer is... unclear. Maybe you see two possibilities. Maybe the cards raise more questions than they answer. Maybe you just need to approach this from a different angle.
 
@@ -15,7 +15,7 @@ That's when you reach for a second method.
 
 ## Why Combine Methods?
 
-Different divination methods reveal different aspects of a situation. 
+Different divination methods reveal different aspects of a situation.
 
 Tarot shows you patterns and possibilities. Dice give you yes or no. Books offer philosophical angles. Tea leaves surface connections your brain hasn't made yet.
 

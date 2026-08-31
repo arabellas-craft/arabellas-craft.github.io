@@ -7,7 +7,7 @@ topic: witchcraft
 short-description: "A timeline and key-figures history of chaos magic, from Austin Osman Spare's early sigil work through Peter Carroll, Ray Sherwin, Phil Hine, and the founding of the Illuminates of Thanateros in 1978."
 img: "history-of-chaos-magic.jpg"
 permalink: history-of-chaos-magic
---- 
+---
 
 Unlike many magical traditions that claim ancient or unknowable origins, chaos magic has a documented history. We know who started it, when they started it, and what they were reacting against. This isn't a drawback. It's one of the most honest things about the practice.
 

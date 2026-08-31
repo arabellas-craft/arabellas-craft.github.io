@@ -8,7 +8,7 @@ short-description: "Learn four real divination methods using stuff you already o
 img: "free-divination-methods.jpg"
 img-text: Photo by Madeline Liu on Unsplash
 permalink: divination-without-buying-anything
---- 
+---
 You don't need expensive tarot decks, crystal balls, or fancy tools to practice divination.
 
 Nobody in the spiritual marketplace wants you to know that. Scroll through social media and you'll see altars stocked with $200 oracle decks and hand-carved rune sets. But here's the truth: real divination has always been something regular people did with regular stuff.
@@ -55,7 +55,7 @@ Household divination isn't "worse than" expensive tools. It's often *better* for
 - No complicated symbols to remember
 - Fast readings perfect for daily questions
 
-**Getting Started:** My [dice divination zine](https://ko-fi.com/s/ff7d47ded3) teaches the real Victorian methods with all the meaning charts. You'll learn traditional three-dice readings, special signs to watch for, and how to read for different types of questions. 
+**Getting Started:** My [dice divination zine](https://ko-fi.com/s/ff7d47ded3) teaches the real Victorian methods with all the meaning charts. You'll learn traditional three-dice readings, special signs to watch for, and how to read for different types of questions.
 
 **[Get the complete dice divination guide for $0.99](https://ko-fi.com/s/ff7d47ded3)**
 
@@ -81,7 +81,7 @@ Every card from Ace to King has a specific meaning. That's 52 cards giving you a
 - Less scary than special divination tools
 - You can practice anywhere without people noticing
 
-**Getting Started:** My [playing card divination guide](https://ko-fi.com/s/95f9c29692) includes all 52 card meanings, suit explanations, and easy spreads. Learn the traditional system professional readers used for centuries. 
+**Getting Started:** My [playing card divination guide](https://ko-fi.com/s/95f9c29692) includes all 52 card meanings, suit explanations, and easy spreads. Learn the traditional system professional readers used for centuries.
 
 **[Get the complete cartomancy guide for $0.99](https://ko-fi.com/s/95f9c29692)**
 
@@ -103,7 +103,7 @@ Every card from Ace to King has a specific meaning. That's 52 cards giving you a
 - Naturally meditative (you're literally drinking tea!)
 - Beautiful practice perfect for cozy spiritual routines
 
-**Getting Started:** My [tea leaf reading zine](https://ko-fi.com/s/16c793f6af) walks you through cup prep, reading techniques, and symbol meanings. Includes a full symbol dictionary and journal pages for tracking your readings. 
+**Getting Started:** My [tea leaf reading zine](https://ko-fi.com/s/16c793f6af) walks you through cup prep, reading techniques, and symbol meanings. Includes a full symbol dictionary and journal pages for tracking your readings.
 
 **[Get the complete tea leaf reading guide for $0.99](https://ko-fi.com/s/16c793f6af)**
 
@@ -124,7 +124,7 @@ Every card from Ace to King has a specific meaning. That's 52 cards giving you a
 - Nothing to buy or memorize
 - Natural for processing complicated feelings or big questions
 
-**Getting Started:** My [bibliomancy ebook](https://ko-fi.com/s/71bb6a9240) teaches a four-step method that makes any passage readable as divination. Includes how to choose books, advanced three-passage spreads, fixing confusing readings, and real examples. 
+**Getting Started:** My [bibliomancy ebook](https://ko-fi.com/s/71bb6a9240) teaches a four-step method that makes any passage readable as divination. Includes how to choose books, advanced three-passage spreads, fixing confusing readings, and real examples.
 
 **[Get the complete bibliomancy guide for $1.99](https://ko-fi.com/s/71bb6a9240)**
 

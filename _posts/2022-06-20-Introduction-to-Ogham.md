@@ -14,7 +14,7 @@ permalink: /ogham-an-introduction
 In this article, I will provide you with an introduction to Ogham, exploring its history, meanings, and its use in divination. Whether you're a beginner or already intrigued by this mystical script and divinatory system, this guide will help you gain a better understanding of Ogham and how it can enrich your spiritual journey.
 
 # What is ogham?
-Ogham (pronounced OH-mm) is a writing system that dates from the 4th century CE that was used to write Primitive Irish and is used today as both a writing and magical and divinatory system. Each letter in the Ogham alphabet is called a fid (pronounced fee) and a group of letters is called a feda (pronounced fed-ah). 
+Ogham (pronounced OH-mm) is a writing system that dates from the 4th century CE that was used to write Primitive Irish and is used today as both a writing and magical and divinatory system. Each letter in the Ogham alphabet is called a fid (pronounced fee) and a group of letters is called a feda (pronounced fed-ah).
 
 Ogham feda are composed of a series of straight lines, typically inscribed vertically or horizontally on a surface. These lines are grouped into clusters, each representing a specific letter or character
 

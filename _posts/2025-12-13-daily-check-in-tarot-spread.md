@@ -58,7 +58,6 @@ This spread works with any tarot deck, oracle deck, or even [a regular deck of p
 
 You don't need crystals, candles, incense, or a dedicated altar space. You don't need to cleanse your deck between readings or wait for the perfect moon phase.
 
-
 ## Making It a Habit
 
 Daily practices stick when they're easy.

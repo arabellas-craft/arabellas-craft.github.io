@@ -7,7 +7,7 @@ topic: witchcraft
 short-description: "Chaos magic treats belief as a tool you can pick up and put down. This single idea explains why it works for skeptics and why results matter more than orthodoxy."
 img: "chaos-magic-belief-as-tool.jpg"
 permalink: chaos-magic-belief-as-tool
---- 
+---
 
 Chaos magic treats belief as something you can pick up, use, and put back down.
 
@@ -27,7 +27,7 @@ Instead of asking "Is this belief true?" you ask "Is this belief useful right no
 
 ## "Nothing Is True, Everything Is Permitted"
 
-You'll encounter this phrase in chaos magic circles. 
+You'll encounter this phrase in chaos magic circles.
 
 The phrase is attributed to [Hassan-i Sabbah](https://en.wikipedia.org/wiki/Hasan-i_Sabbah), an 11th century founder of the Nizari Ismaili state, though the attribution is probably apocryphal. It entered Western consciousness through Friedrich Nietzsche, then William S. Burroughs, and eventually chaos magicians adopted it.
 

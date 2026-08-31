@@ -8,13 +8,13 @@ short-description: Learn how chaos magicians temporarily adopt and discard belie
 categories: paradigm shifting, chaos magic, chaos magick, chaos magic for beginners, what is chaos magic, belief as a tool, chaos magic techniques, magical models, spirit model magic, energy model magic, psychological model magic, cybernetic model magic, how to do chaos magic, chaos magic explained, chaos magic philosophy, chaos magic practice, Phil Hine, Peter Carroll, Condensed Chaos, chaos magic without tools, chaos magic no experience, eclectic witchcraft, paradigm shifting magic, chaos magic tutorial, chaos magic exercises, magical paradigms, chaos magick for skeptics, beginner chaos magic, how to paradigm shift, chaos magic belief system
 img: chaos-magic-paradigm-shifting.jpg
 permalink: /chaos-magic-paradigm-shifting
---- 
+---
 
 If you've read the piece on [belief as a tool](/chaos-magic-belief-as-tool), you already know that chaos magic treats belief systems as something you pick up and put down. Paradigm shifting is how you actually do that. It's the practice of adopting a complete belief framework for a working, then setting it aside when you're done.
 
 ## What Makes It Work
 
-The key word in that definition is *complete*. Adopting a paradigm halfway doesn't work. 
+The key word in that definition is *complete*. Adopting a paradigm halfway doesn't work.
 
 If you're doing a working within an Irish folk magic framework, you don't just borrow the aesthetic, you operate within the framework's own logic for the duration. The spirits are real. The reciprocity matters. The rules of the tradition apply. Then you finish, and you set it down.
 
@@ -68,7 +68,7 @@ Don't carry it into your next working unless you're choosing to stay in that fra
 
 Did this frame produce a different outcome than your usual approach? Track it the same way you'd track any other working.
 
-Carroll suggested an exercise worth trying: assign different paradigms to the faces of a die, roll it, and inhabit whatever you land on for a set period. It sounds playful, but it forces you to work seriously in frameworks you wouldn't choose voluntarily. 
+Carroll suggested an exercise worth trying: assign different paradigms to the faces of a die, roll it, and inhabit whatever you land on for a set period. It sounds playful, but it forces you to work seriously in frameworks you wouldn't choose voluntarily.
 
 ## Paradigm Shifting and Appropriation
 
@@ -76,6 +76,6 @@ Using a tradition as a magical framework while respecting where it comes from is
 
 If a practice is genuinely closed, you won't be able to find enough information to work within its actual logic. Closed practices don't have publicly available instructional material written by community insiders walking outsiders through the mechanism. If the only sources you can find are shallow, written entirely by outsiders, or clearly aimed at tourists, that tells you something. Proper research protects you from most appropriation concerns without requiring you to be anxious about every working.
 
-That being said, communities aren't monoliths. There's often genuine internal disagreement about what's open or closed to outside practitioners, and you'll sometimes encounter that. When you do, use your best judgment. 
+That being said, communities aren't monoliths. There's often genuine internal disagreement about what's open or closed to outside practitioners, and you'll sometimes encounter that. When you do, use your best judgment.
 
 ---

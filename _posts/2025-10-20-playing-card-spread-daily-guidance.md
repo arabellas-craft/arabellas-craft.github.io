@@ -8,7 +8,7 @@ short-description: "Free 3-card playing card spread for daily guidance. Simple c
 img: "playing-card-spread-daily-guidance.png"
 img-text: Photo by Erik Mclean on Unsplash
 permalink: playing-card-spread-daily-guidance
----   
+---
 
 You don't need a tarot deck for divination. A regular deck of playing cards works just as well, and you probably already have one.
 

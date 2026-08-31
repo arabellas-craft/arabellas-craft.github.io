@@ -7,7 +7,7 @@ topic: irish
 short-description: "A reader's overview of the Fenian Cycle of Irish mythology: Fionn mac Cumhaill, the Fianna, the Salmon of Knowledge, the Pursuit of Diarmuid and Gráinne, Oisín in Tír na nÓg, and the major Fenian texts."
 categories: fenian cycle, fenian cycle irish mythology, fionn cycle, fianna cycle, irish mythology cycles, fionn mac cumhaill, finn mccool, fionn mccumhaill, the fianna, fianna warriors, fianna admission tests, salmon of knowledge, finnegas, imbas forosna, oisin, oisín, oisin in tir na nog, tir na nog, land of youth, niamh of the golden hair, niamh and oisin, oisin and saint patrick, cailte mac ronain, caílte, diarmuid and grainne, diarmuid ua duibhne, grainne, toraigheacht dhiarmada agus ghrainne, pursuit of diarmuid and grainne, ball seirce, love spot, beds of diarmuid and grainne, beann gulbain, cormac mac airt, goll mac morna, clan morna, battle of gabhra, macgnimartha finn, boyhood deeds of fionn, acallam na senorach, colloquy of the ancients, tales of the elders of ireland, dooley and roe, bruidhean chaorthainn, hostel of the quicken trees, bruidhean tales, dord fiann, sidhe, otherworld irish mythology, lebor na huidre, book of leinster, james macpherson, poems of ossian, ossian, micheal coimin, laoi oisin ar thir na nog, lady gregory gods and fighting men, gods and fighting men, standish o'grady, p w joyce old celtic romances, mark williams ireland's immortals, ireland's immortals, irish mythology, celtic mythology, irish mythology for beginners, irish mythology beginners guide, irish saga literature, primary sources irish mythology, candlelit tales podcast
 img: irish-mythology-fenian-cycle.jpg
-img-text: 
+img-text:
 permalink: /irish-mythology-fenian-cycle
 ---
 
@@ -59,7 +59,7 @@ Practical takeaway: when you meet a Fenian story, find out when it was composed.
 
 Cumhall, leader of the Fianna, is killed in battle by Goll mac Morna and Clan Morna. Cumhall's wife Muirne hides their newborn son in the woods and gives him to two druidesses, Bodhmall and Liath Luachra, to raise in secret. The boy grows up learning the warrior arts. He emerges from the woods, performs feats that establish his identity, and goes to study with the poet Finnegas at the river Boyne. Finnegas has been trying to catch the Salmon of Knowledge for seven years; when he finally catches it, he gives it to Fionn to cook with strict instructions not to eat any of the flesh. Fionn burns his thumb on the salmon's hot skin while cooking. Sucking the burn, he tastes the salmon, and the knowledge passes to him. Fionn arrives at Tara in time for Samhain, when the dragon-like creature Aillen mac Midgna had been burning the hall every Samhain for years; Fionn defeats Aillen and is acknowledged as leader of the Fianna.
 
-- Translation: [The Boyish Exploits of Finn (Kuno Meyer, CELT)](https://celt.ucc.ie/published/T303023.html); also at [Sacred Texts in James Stephens's *Irish Fairy Tales*](https://sacred-texts.com/neu/celt/ift/ift02.htm) 
+- Translation: [The Boyish Exploits of Finn (Kuno Meyer, CELT)](https://celt.ucc.ie/published/T303023.html); also at [Sacred Texts in James Stephens's *Irish Fairy Tales*](https://sacred-texts.com/neu/celt/ift/ift02.htm)
 - Candlelit Tales: [Fionn, the Salmon, & the Dragon (Ep 40)](https://www.youtube.com/watch?v=YJi6IomC52M)
 
 ### Tóraigheacht Dhiarmada agus Ghráinne (The Pursuit of Diarmuid and Gráinne)

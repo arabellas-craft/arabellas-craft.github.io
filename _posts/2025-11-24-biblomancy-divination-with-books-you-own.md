@@ -8,7 +8,7 @@ short-description: "Learn bibliomancy, the ancient practice of book divination. 
 img: "book-divination-bibliomancy.jpg"
 img-text: Photo by Henry Be on Unsplash
 permalink: bibliomancy-book-divination
---- 
+---
 
 You don't need a special deck or expensive crystals to practice divination. You already own everything you need: your books.
 

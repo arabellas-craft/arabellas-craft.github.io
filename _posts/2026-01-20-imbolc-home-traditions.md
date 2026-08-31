@@ -8,7 +8,7 @@ short-description: "Learn Irish St. Brigid's Day customs for the home. Stocktaki
 categories: St. Brigid's Day, Irish folklore, Imbolc, Irish traditions, February 1st, Dúchas archives, Irish folk customs, Brigid goddess, Irish quarter days, threshold rituals, folk magic Ireland,
 img: "st-brigids-day.webp"
 permalink: st-brigids-day-preparing-home
---- 
+---
 
 February 1st meant more than spring's arrival in Irish households. It meant taking stock, cleaning thoroughly, and preparing a feast regardless of how little the household had. St. Brigid's Day marked the farmer's year beginning, the point when people assessed what had sustained them through winter and prepared for the agricultural work ahead.
 
@@ -22,7 +22,6 @@ No matter how poor the household, the house was cleaned thoroughly for the occas
 
 This stocktaking served a practical purpose. As spring planting was approached people needed to know what resources they had left to work with.
 
-
 ## Work Prohibitions: What Not to Do
 
 The inhabitants of parishes dedicated to St. Brigid usually kept the day as a holiday and did only work that was strictly necessary. Instead, they performed devotions at the local shrine of the saint, such as at Dabhach Bhríde in Liscannor parish in County Clare or St. Brigid's Stream at Faughart in County Louth.
@@ -32,7 +31,6 @@ In south County Kerry and west County Cork, any kind of work that required turni
 The Schools' Collection records show people treated this as a rest day:
 
 > Tá na breach shaoire ar an oileán seo agus ní bitéar ag déanamh móran oibre. [The day is a holiday on this island and not much work is done.] [Source](https://www.duchas.ie/en/cbes/5235142/5221956/5241323)
-
 
 Even fishing, crucial for coastal communities, was avoided on this day.
 

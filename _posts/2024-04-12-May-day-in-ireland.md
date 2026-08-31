@@ -16,16 +16,16 @@ Bealtaine, also known as May Day, marked a pivotal point in the Irish calendar. 
 ## Appeasing the Good Neighbors
 On Bealtaine, it was widely believed that the Good Neighbors became particularly active. To ensure their goodwill and prevent them from causing mischief, people would leave out food and drink as offerings. The belief was that the the Good Neighbors were attracted to these offerings and would be less likely to cause trouble if they were satisfied.
 
-> You all know May is the month of the fairies. Great people or men that lived long ago rises from their graves on every night in the month of May to fight the old battles that they fought long ago these men are called fairies. The bad fairies do great harm and trouble in the month of May they kill cattle take away milk and butter from the cows and alot of other mischief. 
+> You all know May is the month of the fairies. Great people or men that lived long ago rises from their graves on every night in the month of May to fight the old battles that they fought long ago these men are called fairies. The bad fairies do great harm and trouble in the month of May they kill cattle take away milk and butter from the cows and alot of other mischief.
 [Source](https://www.duchas.ie/en/cbes/4566064/4563799/4571723)
 
-> "The fairies come around our houses too to do mischief as well as they come to the cattle; you should sweep the hearth very clean and leave food aside for them. If you don't the fairies will come when you are asleep and will torment you by tricking you or pinching you." 
+> "The fairies come around our houses too to do mischief as well as they come to the cattle; you should sweep the hearth very clean and leave food aside for them. If you don't the fairies will come when you are asleep and will torment you by tricking you or pinching you."
 [Source](https://www.duchas.ie/en/cbes/4566064/4563799/4571723)
 
 ## Primrose
 Primrose was believed to ward off the Good Neighbors, and scattering them in the doorways and window sills of the home created a barrier no troublesome spirit could cross.
 
->"During the first three days [of May] fairies entered the house. They came disguised as old men or women in order to steal coals and in order to prevent them primroses were scattered on the doorway no fairy could pass this flower." 
+>"During the first three days [of May] fairies entered the house. They came disguised as old men or women in order to steal coals and in order to prevent them primroses were scattered on the doorway no fairy could pass this flower."
 [Source](https://www.duchas.ie/en/cbes/4427926/4358150/4454572)
 
 > "The best preventive of fairy power was to scatter primroses on the threshold, for no one could pass the flowers and and the house and house-hold were left in peace."
@@ -50,11 +50,11 @@ This is done to prevent the fairies from taking any of the milk from the cows.
 {% include article-kofi-callout.html %}
 
 ## The May bush: blessing and protection
-The May bush was a common custom in Ireland, particularly in Leinster, South and West Ulster, and some areas of Munster and Connaught. The May bush often featured hawthorn branches brought home and decorated with flowers, ribbons, and colorful eggshells saved from Easter. 
+The May bush was a common custom in Ireland, particularly in Leinster, South and West Ulster, and some areas of Munster and Connaught. The May bush often featured hawthorn branches brought home and decorated with flowers, ribbons, and colorful eggshells saved from Easter.
 
 The May bush was believed to protect the home from evil spirits, particularly fairies and witches. It was also thought to bring good luck and prosperity, especially in relation to milk and butter production.
 
-> It is a great custom also to make a May bush on May day. This consists of a bush, which is put standing in the dungpit. The bush is decorated with flowers and eggshells. The eggshells are kept after Easter Sunday. 
+> It is a great custom also to make a May bush on May day. This consists of a bush, which is put standing in the dungpit. The bush is decorated with flowers and eggshells. The eggshells are kept after Easter Sunday.
 [Source](https://www.duchas.ie/en/cbes/4583331/4580250/4591706)
 
 > On May morning a Maybush was placed outside each house. It usually was a yellow furze bush with a number of eggshells stuck on the thorns.
@@ -71,16 +71,16 @@ Bealtaine is a time that came with a heightened fear that any careless act could
 
 Giving away even staples like milk, butter, or coins risked also surrendering your good fortune. Lending a tool or sharing even a hot coal from your hearth could lead to unexpected misfortune.
 
-> On May eve no one cares to give away any milk or butter fearing their luck would be taken. 
+> On May eve no one cares to give away any milk or butter fearing their luck would be taken.
 [Source](https://www.duchas.ie/en/cbes/4583309/4578461/4591515)
 
-> Long ago the people used to have a large number of pisreogs on May day...They would not give away anything to anybody on May day, only to a beggar man. When he would come in they would give him great welcome. They would say he was bringing in the good luck. The old people would not allow anybody to bring fire outside the door. Everybody would have matches on May day. The old people would not allow any fire outside the door. 
+> Long ago the people used to have a large number of pisreogs on May day...They would not give away anything to anybody on May day, only to a beggar man. When he would come in they would give him great welcome. They would say he was bringing in the good luck. The old people would not allow anybody to bring fire outside the door. Everybody would have matches on May day. The old people would not allow any fire outside the door.
 [Source](https://www.duchas.ie/en/cbes/4583272/4575525/4591235)
 
-> On May Eve or May Day nothing is given out of the house. 
+> On May Eve or May Day nothing is given out of the house.
 [Source](https://www.duchas.ie/en/cbes/5215813/5214662/5221358)
 
-> They considered it unlucky to give butter or milk way to any person on May Day as they would be giving away their luck. No stables were to be cleaned out on that day. The first person to go to the well in the morning was supposed to have luck for the rest of the year. It is not right to give money to anyone on that day. But if you get money on that day you will be getting it for the year. 
+> They considered it unlucky to give butter or milk way to any person on May Day as they would be giving away their luck. No stables were to be cleaned out on that day. The first person to go to the well in the morning was supposed to have luck for the rest of the year. It is not right to give money to anyone on that day. But if you get money on that day you will be getting it for the year.
 [Source](https://www.duchas.ie/en/cbes/4427840/4349343/4440139)
 
 > The people of the house do not put out the ashes on that day or if a person asked for a coal they would be refused.

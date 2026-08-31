@@ -8,7 +8,7 @@ short-description: Celtic Reconstructionism didn't come from ancient tradition. 
 categories: celtic reconstructionism, celtic paganism, celtic folklore, irish paganism, gaelic polytheism, pagan history, history of modern paganism, gaol naofa, erynn rowan laurie, CR FAQ, pagan reconstructionism, celtic mythology
 img: celtic-reconstructionism.jpg
 permalink: /celtic-reconstructionism-history
---- 
+---
 
 CR was born from a question that kept coming up in 1980s pagan circles: if you want to practice something actually rooted in Celtic tradition, where do you look? The answer, it turned out, required building a community to find it together.
 
@@ -32,7 +32,6 @@ C. Lee Vermeers, one of the CR FAQ's co-authors, was part of those early PODS:CE
 ## The Name: 1992
 
 In the Spring 1992 issue of *Harvest* magazine (Southboro, Massachusetts), **Kym Lambert ní Dhoireann** used "Celtic Reconstructionist" as a tradition name for the first time in print. Ní Dhoireann credits **Kathryn Price NicDhàna** with coining the term. NicDhàna traces it to Adler's phrase "Pagan Reconstructionists" in *Drawing Down the Moon*. She applied that category specifically to Celtic practice. Both NicDhàna and ní Dhoireann have said they coined it to distinguish their practice from Wicca and eclectic neo-paganism.
-
 
 ## The Texts
 

@@ -28,7 +28,7 @@ Think of it as mindfulness with intention - you're practicing concentrated focus
 
 ## "What is a grimoire or Book of Shadows, and how do I start one?"
 
-It's your personal magical journal. It can contain spells that worked, correspondences, observations, dreams, anything relevant to your practice. 
+It's your personal magical journal. It can contain spells that worked, correspondences, observations, dreams, anything relevant to your practice.
 
 Start simple: notebook, date entries, record what you tried and what happened. It grows organically over time.
 
@@ -48,7 +48,7 @@ There's no need to box yourself into a specific "type" of witch right away. Thos
 
 The best approach? Follow your natural interests and see what draws you. Are you fascinated by plants and herbs? Kitchen magic with cooking? Moon phases and astrology? Crystals and energy work? Your authentic path will emerge organically.
 
-Start with what genuinely interests you, not what you think you "should" be doing. The labels can come later if they're even needed at all. 
+Start with what genuinely interests you, not what you think you "should" be doing. The labels can come later if they're even needed at all.
 
 ## "Is there a 'right' way to practice witchcraft?"
 
@@ -68,7 +68,7 @@ Usually yes, since witchcraft is a practice, not a religion. Many Christians, Je
 
 Some conservative religious communities disagree, so consider your specific situation.
 
---- 
+---
 
 # Core Practices
 ## "What is grounding?"
@@ -192,10 +192,10 @@ Many readers use multiple methods for different situations.
 
 There are more types of divination than I can list out here! But some of the more popular ones include:
 
-* Tarot cards: 78 structured cards with rich symbolism. 
+* Tarot cards: 78 structured cards with rich symbolism.
 * Runes: ancient alphabet symbols, good for direct answers.
-* Pendulum: yes/no/maybe responses through movement. 
-* Oracle cards: themed card decks, often more intuitive. 
+* Pendulum: yes/no/maybe responses through movement.
+* Oracle cards: themed card decks, often more intuitive.
 * Scrying: seeing images in crystal balls/water/mirrors.
 
 Each system taps into intuition differently - find what resonates with you.

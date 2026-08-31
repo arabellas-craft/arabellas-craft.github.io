@@ -8,7 +8,7 @@ short-description: "Learn Irish St. Brigid's Day customs for the home. Stocktaki
 categories: St. Brigid's Day, Irish folklore, Imbolc, Irish traditions, February 1st, Dúchas archives, Irish folk customs, Brigid goddess, Irish quarter days, threshold rituals, folk magic Ireland,
 img: "st-brigids-cross.webp"
 permalink: st-brigids-day-crosses
---- 
+---
 
 The most widespread Irish custom for St. Brigid's Eve was making the *cros Bríde* or *bogha Bríde* (St. Brigid's cross). People hung these crosses in the dwelling-house, byre, and stable to honor the saint and gain her protection. Counties developed their own distinct styles, and families passed down specific techniques through generations.
 
@@ -60,7 +60,7 @@ The festive supper connected directly to cross-making. The material for the cros
 
 In other places, families made the crosses before supper and laid them on the table while the meal was eaten. Sometimes the dishes holding food sat on the crosses. Sometimes the crosses themselves held bread laid directly on them during supper. Elsewhere, the crosses lay on the floor under the table. In County Leitrim, people put crumbs from the supper into the crosses.
 
-A detailed description from Carrickmore in County Tyrone around 1900 shows the full ceremony. John B. Arthurs recorded it in *Ulster Folklife* (1957, pp. 42-3). One of the family (a girl) represented St. Bridget. She left the house and knocked on the door three times seeking admittance. Each time she knocked, she said in Irish: "Go down on your knees, do homage, and let Blessed Bridget enter the house." 
+A detailed description from Carrickmore in County Tyrone around 1900 shows the full ceremony. John B. Arthurs recorded it in *Ulster Folklife* (1957, pp. 42-3). One of the family (a girl) represented St. Bridget. She left the house and knocked on the door three times seeking admittance. Each time she knocked, she said in Irish: "Go down on your knees, do homage, and let Blessed Bridget enter the house."
 
 After the third time, those inside responded: "Oh, come in, you are a hundred times welcome."
 

@@ -8,7 +8,7 @@ short-description: Tracing the origins of Beltane traditions including the maypo
 categories: bealtaine, beltane, irish folklore, celtic history, may day, pagan history, folklore myths, witchblr, irish history, paganism
 img: bealtaine-myths.jpg
 permalink: /history-of-modern-beltane-traditions
---- 
+---
 
 Most Beltane guides list the same several customs: bonfires, May dew, flower crowns, the maypole, the May Queen and Green Man, handfasting, and the sacred union of God and Goddess. They're usually presented as ancient Celtic traditions that have been handed down more or less intact.
 
@@ -72,7 +72,7 @@ These two figures are usually treated as a pair, but they have entirely separate
 
 An English tradition of a "Lord and Lady of the May" presiding over May Day festivities goes back to London diarist Henry Machyn in 1557. Over time the paired figures became a single girl. But the May Queen in her familiar form (a girl in white, crowned with flowers, leading a solemn procession) is largely a Victorian invention. <cite>Hutton, 1996</cite>
 
-Tennyson's popular poem "The May Queen" appeared in 1830. Hutton documents how scenes of May Queens, maypoles, and morris dancing reached their peak in London theatres and fetes in the 1840s. In 1881, art critic John Ruskin joined forces with J.P. Faunthorpe, principal of Whitelands teacher-training college, to design a formal May Queen ceremony. As Whitelands graduates spread the custom to schools across the country, the college eventually claimed to be "the fostering mother of all May Days." 
+Tennyson's popular poem "The May Queen" appeared in 1830. Hutton documents how scenes of May Queens, maypoles, and morris dancing reached their peak in London theatres and fetes in the 1840s. In 1881, art critic John Ruskin joined forces with J.P. Faunthorpe, principal of Whitelands teacher-training college, to design a formal May Queen ceremony. As Whitelands graduates spread the custom to schools across the country, the college eventually claimed to be "the fostering mother of all May Days."
 
 There's no equivalent figure in Irish Bealtaine. The Dúchas record shows Irish May Day as communal and often boisterous: bonfires, the May Bush, music, neighbors competing over the best-decorated bush. Where a May King or Queen appears in Irish accounts, Danaher notes it's in English-influenced towns. In rural Ireland, the ritual role was often played by a young man dressed as a woman, quite different from the solemnly crowned girl of modern Beltane.
 
@@ -80,7 +80,7 @@ There's no equivalent figure in Irish Bealtaine. The Dúchas record shows Irish 
 
 The term "Green Man" was coined in a single article published in 1939 in the journal *Folklore*, by Lady Julia Raglan. Drawing on James George Frazer's ideas about vegetation spirits, she argued that foliage-covered faces carved in medieval churches, the "Jack in the Green" figure from English May Day processions, and the Green Man pub sign were all versions of the same ancient pagan god. She borrowed the name from the pub sign.
 
-Later scholarship took each part of this apart. Kathleen Basford's *The Green Man* (1978) traced foliate heads to classical Roman decorative art, passed through manuscript traditions, and found the motif originally had a demonic quality — not spring renewal. Roy Judge's *The Jack-in-the-Green* (1979) traced the Jack figure to an 1775 report in the *Morning Chronicle* about London chimney sweeps' May Day parades, which had grown out of 17th-century milkmaid garland processions. Hutton concluded in a 2023 Gresham College lecture that "none of the three things had anything to do with each other or with a pagan god." <cite>[Library of Congress](https://blogs.loc.gov/folklife/category/green-man/?loclr=blogflt)</cite> 
+Later scholarship took each part of this apart. Kathleen Basford's *The Green Man* (1978) traced foliate heads to classical Roman decorative art, passed through manuscript traditions, and found the motif originally had a demonic quality — not spring renewal. Roy Judge's *The Jack-in-the-Green* (1979) traced the Jack figure to an 1775 report in the *Morning Chronicle* about London chimney sweeps' May Day parades, which had grown out of 17th-century milkmaid garland processions. Hutton concluded in a 2023 Gresham College lecture that "none of the three things had anything to do with each other or with a pagan god." <cite>[Library of Congress](https://blogs.loc.gov/folklife/category/green-man/?loclr=blogflt)</cite>
 
 ## Handfasting: Old Norse in Origin, More Complicated Than It Seems
 
@@ -98,7 +98,7 @@ The cord-binding ceremony itself, with hands tied together with ribbons or cords
 
 Ireland does have a concept of a sacred marriage. The *banais ríghi*, which means "wedding feast of kingship," describes the symbolic union between a new king and the goddess of the land he would rule. The king's right to rule depended on the land-goddess accepting him. Under a good king she flourished; under a bad one, the land suffered. This appears in medieval annals, law texts, and mythology. Figures like Ériu, Medb, and Flaithius function as sovereignty figures in these stories. Máire Herbert examined this directly in her 1992 paper "Goddess and King: The Sacred Marriage in Early Ireland," published in *Women and Sovereignty* (Edinburgh University Press).
 
-However *banais ríghi* is most closely linked to Samhain, not Bealtaine. No early Irish source connects the sacred marriage of king and land to May 1. 
+However *banais ríghi* is most closely linked to Samhain, not Bealtaine. No early Irish source connects the sacred marriage of king and land to May 1.
 
 The modern Beltane sacred union — the God and Goddess whose marriage drives the Wheel of the Year — comes from a different lineage. James George Frazer's *The Golden Bough* (1890–1915) proposed that ancient religions centered on a dying-and-rising god whose sacred marriage to an earth goddess drove the seasons. Gerald Gardner drew on Frazer's ideas, along with Margaret Murray's witch-cult hypothesis (which has since been disproven) and ceremonial magic, to build Wicca in the 1940s and 1950s.
 

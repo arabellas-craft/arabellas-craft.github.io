@@ -9,7 +9,7 @@ img: "common-tea-leaf-symbols-and-their-meanings.jpg"
 img-text: Photo by Jun Weng on Unsplash
 permalink: common-tea-leaf-symbols-and-their-meanings
 categories: tea leaf symbols, tea leaf reading symbols, tea leaf symbols dictionary, tea leaf reading symbols and meanings, tasseography symbols, tasseography symbols and meanings, tea leaf reading meanings, tea leaf reading dictionary, tea leaf flower symbol meaning, tasseography bird symbol meaning, tea leaf reading tree symbol, tea leaf reading circle symbol, kneeling person tea leaf meaning, road symbol tea leaves, dots money tea leaf symbol, how to read tea leaves, tasseography, tea leaf reading for beginners
---- 
+---
 
 You've brewed your tea, swirled the cup three times clockwise, and flipped it onto the saucer. Now you're staring into the bottom of the cup wondering what any of it means.
 
@@ -144,7 +144,6 @@ When tea leaves don't form a clear picture, they still speak through shapes, lin
 **Triangle** is directional. Pointing up, it means rising energy: luck, money, or success on the way. Pointing down, it means energy draining: losses or a downward turn.
 
 **Letters and numbers** stand for initials, dates, and timing. The letter M might name a person, or stand in for mother or marriage; the number 3 might mean three days, weeks, or months. Context and intuition decide.
-
 
 {% include article-kofi-callout.html %}
 

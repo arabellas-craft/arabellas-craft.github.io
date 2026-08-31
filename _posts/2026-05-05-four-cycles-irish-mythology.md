@@ -43,7 +43,7 @@ The story cycles roughly correspond to different ages of Irish mythological time
 - Milesians (the Gaels, modern human Irish)
 {:.timeline}
 
-You can find a more in-depth timeline of these waves [here](https://storyarchaeology.com/wp-content/uploads/The_Lebor_Gabala_Erenn_at_a_Glance_an_Ov.pdf) from Story Archaeology. 
+You can find a more in-depth timeline of these waves [here](https://storyarchaeology.com/wp-content/uploads/The_Lebor_Gabala_Erenn_at_a_Glance_an_Ov.pdf) from Story Archaeology.
 
 The story cycles map onto that sequence of settlers:
 
@@ -62,24 +62,23 @@ The Ulster Cycle is where the historical question gets most interesting. Some sc
 
 ## Quick portraits of each cycle
 
-**Mythological Cycle.** The gods of Ireland (the Tuatha Dé Danann and the Fomoire) fighting for control of the island. The Dagda, the Morrígan, Lugh, Brigid, Manannán mac Lir all feature heavily. The big text is the *[Cath Maige Tuired](https://celt.ucc.ie/published/T300011/index.html)*, the Battle of Moytura. Read this cycle first if you want to meet the divine cast. 
+**Mythological Cycle.** The gods of Ireland (the Tuatha Dé Danann and the Fomoire) fighting for control of the island. The Dagda, the Morrígan, Lugh, Brigid, Manannán mac Lir all feature heavily. The big text is the *[Cath Maige Tuired](https://celt.ucc.ie/published/T300011/index.html)*, the Battle of Moytura. Read this cycle first if you want to meet the divine cast.
 Full overview of [the Mythological Cycle article](/irish-mythology-mythological-cycle)
 
-
-**Ulster Cycle.** A heroic-age cycle centered on King Conchobar's court at Emain Macha. Cú Chulainn, Fergus, Conall Cernach, Deirdre. Single combats, cattle raids, drinking horns, oath-breaking. The big text is the *Táin Bó Cúailnge*, the Cattle Raid of Cooley. Read this cycle for high tragedy and the warrior code. 
+**Ulster Cycle.** A heroic-age cycle centered on King Conchobar's court at Emain Macha. Cú Chulainn, Fergus, Conall Cernach, Deirdre. Single combats, cattle raids, drinking horns, oath-breaking. The big text is the *Táin Bó Cúailnge*, the Cattle Raid of Cooley. Read this cycle for high tragedy and the warrior code.
 Full overview in [the Ulster Cycle article](/irish-mythology-ulster-cycle)
 
 **Fenian Cycle.** A roving band of hunter-warriors led by Fionn mac Cumhaill. Set outside settled society, in woods and on headlands and hilltops. More lyrical and more pastoral than the Ulster Cycle. The framing text is the *Acallam na Senórach*, in which the last surviving Fianna meet Saint Patrick centuries after their own time. Read this cycle for landscape, longing, and the collision with Christianity.
 Full overview in [the Fenian Cycle article](/irish-mythology-fenian-cycle)
 
-**Cycle of the Kings.** The shaggiest and most varied cycle. Kings real and legendary, *geasa* broken, sovereignty won and lost. Includes *Buile Shuibhne* (the cursed bird-king), *Togail Bruidne Da Derga* (Conaire Mór's destruction), and the threefold death of Diarmait mac Cerbaill. Read this cycle for the bridge between myth and the historical record. 
+**Cycle of the Kings.** The shaggiest and most varied cycle. Kings real and legendary, *geasa* broken, sovereignty won and lost. Includes *Buile Shuibhne* (the cursed bird-king), *Togail Bruidne Da Derga* (Conaire Mór's destruction), and the threefold death of Diarmait mac Cerbaill. Read this cycle for the bridge between myth and the historical record.
 Full overview in [the Cycle of the Kings article](/irish-mythology-cycle-of-the-kings)
 
 ## The Christian and monastic layer
 
 Every Irish mythological text we have was written down by Christian monks in monasteries. The earliest surviving manuscripts containing the major cycle stories are the *[Lebor na hUidre](http://www.ancienttexts.org/library/celtic/ctexts/lu.html)* (Book of the Dun Cow, c. 1100), the [Book of Leinster](http://www.ancienttexts.org/library/celtic/ctexts/leinster.html) (c. 1160), and the [Yellow Book of Lecan](http://www.ancienttexts.org/library/celtic/ctexts/ybl.html) (late 14th century). Anything modern readers know about pre-Christian Irish belief, they know through the work of scribes who were themselves Christian.
 
-Those scribes had agendas. They were fitting Irish prehistory into a biblical timeline, so everyone in the *Lebor Gabála* descends from Noah. They were turning the old gods into ancient kings, a process scholars call euhemerization. They were preserving prestige stories that mattered to royal lineages. 
+Those scribes had agendas. They were fitting Irish prehistory into a biblical timeline, so everyone in the *Lebor Gabála* descends from Noah. They were turning the old gods into ancient kings, a process scholars call euhemerization. They were preserving prestige stories that mattered to royal lineages.
 
 The Tuatha Dé Danann as we have them are partly a medieval Christian construction (for more about this read Mark Williams's *[Ireland's Immortals](https://bookshop.org/a/84772/9780691183046)). That doesn't mean nothing pre-Christian survives. It means we can't read past the medieval layer to a "pure" pagan original, because the medieval layer is what produced the texts in the first place.
 
@@ -94,7 +93,6 @@ The cycles are reading aids, not airtight categories. A few specifics worth nami
 - **Togail Bruidne Da Derga** gets pulled toward the Mythological Cycle by some scholars (the supernatural sovereignty material) and toward the Cycle of the Kings by others (Conaire Mór as historical-ish king).
 
 When a story is filed under one cycle in one source and another cycle elsewhere, that isn't a contradiction. It's the framework showing its seams.
-
 
 ## How to use this series and where to go next
 Each cycle gets its own overview article. If you're starting from scratch, work through them in this order:

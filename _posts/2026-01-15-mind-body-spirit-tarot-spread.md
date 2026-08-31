@@ -30,7 +30,7 @@ Don't use it for decisions about other people or external situations. This reads
 
 **Body: What does my physical self need?**
 
-Not "what self-care ritual should I perform" but what does your actual body need. 
+Not "what self-care ritual should I perform" but what does your actual body need.
 
 Four of Swords? Your body needs rest, not gentle yoga. Three of Wands? You've been sitting too long. Ten of Pentacles? You're neglecting practical needs—doctor's appointments, decent meals, a functional living space.
 

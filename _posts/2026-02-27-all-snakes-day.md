@@ -8,14 +8,13 @@ short-description: The story that St. Patrick's snakes were Druids is modern inv
 categories: irish folklore, irish history, celtic history, paganism, neopaganism, witchblr, pagan, myth busting, druids, saint patrick, st patricks day, irish mythology, celtic mythology, reconstructionism, celtic reconstructionism, witchcraft history, folk history, paganism history, anti misinformation, accurate history, irish paganism, pagan history, ireland, druidry, historical accuracy
 img: all-snakes-day.jpg
 permalink: /all-snakes-day-myth-st-patrick-druids
---- 
+---
 
 Every March, the same story circulates in pagan spaces:
 
 - St. Patrick's "snakes" were Druids
 - Patrick was a conqueror
 - March 17th is a holiday celebrating the destruction of Irish paganism
-
 
 The problem is that none of these points are true. Ireland never had snakes. The snake miracle was invented centuries after Patrick died. And the Christianization of Ireland looked nothing like a genocide. The "All Snakes Day" story feels meaningful, but it's built on fabrications — and pagans interested in Irish history deserve the actual record instead.
 
@@ -27,7 +26,7 @@ Bonewits was the founder of Ár nDraíocht Féin and a well-known figure in Amer
 
 ## Ireland Never Had Snakes
 
-The most basic problem with the All Snakes Day story: there are no snakes in Ireland's fossil record at all. 
+The most basic problem with the All Snakes Day story: there are no snakes in Ireland's fossil record at all.
 
 Ireland's land bridge to Britain closed around 8,500 years ago as glaciers melted after the last Ice Age. Snakes hadn't reached Ireland before the sea cut the connection. <cite>[Popular Science, 2024](https://www.popsci.com/why-doesnt-ireland-have-snakes/)</cite> Nigel Monaghan, keeper of natural history at the National Museum of Ireland, reviewed the fossil record and put it plainly: "At no time has there ever been any suggestion of snakes in Ireland — nothing for St. Patrick to banish." <cite>[National Geographic](https://www.nationalgeographic.com/animals/article/snakeless-in-ireland-blame-ice-age-not-st-patrick)</cite>
 
@@ -37,11 +36,11 @@ In fact, writers were already noting Ireland's lack of snakes before Patrick was
 
 Patrick's earliest biographies were written in the 7th century, about 200 years after his death. The snake miracle appears in none of them.
 
-The story first shows up in the 11th century. A more well-known version was written by Jocelin of Furness in the 12th century. <cite>[Ireland's Folklore and Traditions](https://irishfolklore.wordpress.com/2017/03/14/st-patrick-false-myths-folklore-and-traditions-of-his-feast-day/)</cite> 
+The story first shows up in the 11th century. A more well-known version was written by Jocelin of Furness in the 12th century. <cite>[Ireland's Folklore and Traditions](https://irishfolklore.wordpress.com/2017/03/14/st-patrick-false-myths-folklore-and-traditions-of-his-feast-day/)</cite>
 
-Celtic Reconstructionist scholar P. Sufenas Virius Lupus said in 2012: 
+Celtic Reconstructionist scholar P. Sufenas Virius Lupus said in 2012:
 
-> The hagiographies of St. Patrick did not include this particular 'miracle' until quite late, relatively speaking — his earliest hagiographies are from the 7th century, whereas this incident doesn't turn up in any of them until the 11th century. 
+> The hagiographies of St. Patrick did not include this particular 'miracle' until quite late, relatively speaking — his earliest hagiographies are from the 7th century, whereas this incident doesn't turn up in any of them until the 11th century.
 <cite>[Wild Hunt, 2012](https://www.patheos.com/blogs/wildhunt/2012/03/saint-patrick-druids-snakes-and-popular-myths.html)</cite>
 
 There's also a logic problem with the "Druids as snakes" reading. The 7th century biographies by Muirchú and Tírechán have Patrick fighting Druids constantly. He fights them openly, with earthquakes, curses, and skull-crushing. <cite>[Wikipedia: Muirchú moccu Machtheni](https://en.wikipedia.org/wiki/Muirch%C3%BA_moccu_Machtheni)</cite> If later writers wanted to describe a purge of Druids, they had no reason to suddenly become cryptic. It had already been said plainly.
@@ -74,7 +73,7 @@ The genocide framing also gives communities a shared story of persecution and a 
 
 The story also gets used as a simple argument against Catholicism and Christianity, turning a complex religious shift into a villain story. That doesn't help anyone who actually wants to understand Ireland.
 
-These myths ends up hurting Irish and Irish diaspora communities trying to connect with real heritage. The people most drawn to the story often end up with invented history instead of the real thing. 
+These myths ends up hurting Irish and Irish diaspora communities trying to connect with real heritage. The people most drawn to the story often end up with invented history instead of the real thing.
 
 ## What to Do Instead
 

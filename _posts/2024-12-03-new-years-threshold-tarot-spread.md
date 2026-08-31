@@ -27,14 +27,12 @@ Located along the left side of the doorway, these three cards represent your cur
 
 Positioned along the right side of the doorway, these cards offer glimpses into what's emerging in the year ahead. Rather than strict predictions, think of these cards as potential energies and opportunities that are beginning to take shape. They can highlight areas of growth, upcoming challenges, or new possibilities waiting to unfold. Ask yourself: What new energies are waiting to greet me? What possibilities are beginning to emerge?
 
-
 Tips for Reading This Spread:
 * Take time to reflect on each section individually before connecting them into a complete narrative
 * Notice any patterns or recurring themes across the different sections
 * Pay attention to how the cards in each section interact with each other
 * Consider both practical and spiritual implications in your interpretation
 * Journal your insights to track how the reading unfolds throughout the year
-
 
 Best Times to Use This Spread:
 * During the week between Christmas and New Year's

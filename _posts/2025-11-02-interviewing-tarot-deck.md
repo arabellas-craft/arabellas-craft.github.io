@@ -8,7 +8,7 @@ short-description: "Learn why tarot deck interviews help new readers understand 
 img: "interview-your-tarot-deck.jpg"
 img-text: Wallpaper by vit-tarasov on Wallpapers.com
 permalink: interview-your-tarot-deck
---- 
+---
 
 You've just unboxed a gorgeous new tarot deck. The artwork is stunning, the cards feel good in your hands, and you're excited to start reading. You shuffle, pull a card, and… wait. You're not quite sure how to interpret what you're seeing. The imagery doesn't quite match what you expected, or maybe the guidebook meanings feel off somehow. This is where interviewing your deck comes in.
 

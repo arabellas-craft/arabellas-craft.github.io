@@ -47,7 +47,7 @@ The folk customs are the most durable part of the festival, recorded across Irel
 ---
 
 [^1]: *[The Year in Ireland](https://bookshop.org/a/84772/9781856350938)* by Kevin Danaher
-[^2]:  *[The Sacred Isle: Belief and Religion in Pre-Christian Ireland](https://bookshop.org/a/84772/9780851158563)* by Dáithí Ó hÓgáin, 
+[^2]:  *[The Sacred Isle: Belief and Religion in Pre-Christian Ireland](https://bookshop.org/a/84772/9780851158563)* by Dáithí Ó hÓgáin,
 [^3]: [Lammas](https://www.merriam-webster.com/dictionary/Lammas)
 [^4]: [Lammas](https://www.britannica.com/topic/Lammas)
 [^5]: *[Ireland's Immortals: A History of the Gods of Irish Myth](https://bookshop.org/a/84772/9780691183046)* by Mark Williams

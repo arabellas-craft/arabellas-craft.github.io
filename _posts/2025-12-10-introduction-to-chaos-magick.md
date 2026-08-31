@@ -7,7 +7,7 @@ topic: witchcraft
 short-description: "Curious about chaos magic but intimidated by the name? It's simpler than you think. An introduction to the DIY, no-purchase-required magical practice that rewards curiosity over obedience."
 img: "introduction-to-chaos-magic.jpg"
 permalink: what-is-chaos-magic
---- 
+---
 
 # Chaos Magic for the Curious: An Introduction
 

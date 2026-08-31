@@ -19,7 +19,7 @@ This duality makes the deck accessible yet profound. Below you'll find an expans
 
 {% include article-kofi-callout.html %}
 
-## Love 
+## Love
 **Upright**
 Romance, connection, passion, desire, friendship, loyalty, affection, self-love
 
@@ -62,217 +62,217 @@ Good news, pleasant surprises, gifts, positive communication, invitations, joy
 Disappointing news, delay of news, negative communication, unpleasant surprises, misunderstandings
 
 ## Contrariety, displeasure
-**Upright** 
+**Upright**
 Obstacles, challenges, setbacks, opposition, delays, frustration, conflict, unexpected difficulties
 
 **Reversed**
 Resolution, overcoming challenges, unexpected support, turning points, things smoothing out
 
 ## Grief
-**Upright** 
+**Upright**
 Sadness, sorrow, loss, heartbreak, emotional pain, mourning, regret
 
-**Reversed** 
+**Reversed**
 Healing, acceptance, moving on, finding solace, release, emotional support
 
 ## Gossip
-**Upright** 
+**Upright**
 Rumors, backstabbing, slander, negativity, secrets revealed, loose talk, hurtful words
 
-**Reversed** 
+**Reversed**
 Discretion, truth prevailing, ending rumors, setting the record straight, protecting reputation
 
 ## Anger
-**Upright** 
+**Upright**
 Rage, hostility, aggression, conflict, volatility, outbursts, loss of control
 
-**Reversed** 
+**Reversed**
 Resolving conflict, forgiveness, finding peace, calming down, controlling temper
 
 ## Hope
-**Upright** 
+**Upright**
 Optimism, faith, resilience, light at the end of the tunnel, positive outlook, belief
 
-**Reversed** 
+**Reversed**
 Pessimism, giving up, despair, disappointment, feeling defeated, lack of faith
 
 ## Enemy
-**Upright** 
+**Upright**
 Rivalry, opposition, someone against you, ill intentions, conflict, betrayal
 
-**Reversed** 
+**Reversed**
 Reconciliation, making amends, forgiveness, finding common ground, overcoming animosity
 
 ## Impediment
-**Upright** 
+**Upright**
 Obstacle, blockage, delay, setback, restriction, limitation, feeling stuck
 
-**Reversed** 
+**Reversed**
 Overcoming obstacles, breaking through, finding solutions, progress, things moving forward
 
 ## Flatterer
-**Upright** 
+**Upright**
 Insincere praise, false compliments, manipulation, ulterior motives, hidden agenda, dishonesty
 
-**Reversed** 
+**Reversed**
 Seeing through flattery, discernment, recognizing true intentions, maintaining boundaries
 
 ## Loyalty, attachment
-**Upright** 
+**Upright**
 Devotion, faithfulness, trustworthiness, reliability, commitment, steadfastness, support
 
-**Reversed** 
+**Reversed**
 Betrayal, disloyalty, unreliability, broken promises, infidelity, lack of support
 
 ## Lawyer
-**Upright** 
+**Upright**
 Legal matters, contracts, negotiations, seeking legal advice, resolution of disputes, justice
 
-**Reversed** 
+**Reversed**
 Legal delays, complications, unfairness, injustice, need for a strong defense
 
 ## Inconstancy
-**Upright** 
+**Upright**
 Change, inconsistency, fickleness, indecisiveness, wavering emotions, unreliability
 
-**Reversed** 
+**Reversed**
 Finding stability, commitment, overcoming indecision, sticking to plans
 
 ## Gamblers
-**Upright** 
+**Upright**
 Risk-taking, speculation, chance, recklessness, financial instability, potential gain or loss
 
-**Reversed** 
+**Reversed**
 Playing it safe, calculated risks, avoiding recklessness, financial security
 
 ## The man
 **Upright**
  The querent or a man in the querent's life, potential love interest, career opportunities
 
-**Reversed** 
+**Reversed**
 An immature or recklessness man, delays, disappointment, unreliable or interfering man
 
 ## The woman
-** Upright** 
+** Upright**
 The querent or a woman in the querent's life, intuition, femininity, potential love interest, mother figure
 
-**Reversed** 
+**Reversed**
 An jealous or manipulative woman, competition, controlling behavior, unreliable woman
 
 ## Death
-**Upright** 
+**Upright**
 Endings, transformation, change, letting go, new beginnings disguised as endings, rebirth
 
-**Reversed** 
+**Reversed**
 Avoiding endings, clinging to the past, stagnation, near miss
 
 ## Angry woman
-**Upright** 
+**Upright**
 Fury, rage, jealousy, feeling threatened, aggression, conflict
 
-**Reversed** 
+**Reversed**
 Calming down, resolving conflict, finding peace, forgiveness
 
 ## Soldier
-**Upright** 
+**Upright**
 Courage, bravery, facing challenges, taking action, defending what you believe in, discipline
 
-**Reversed** 
+**Reversed**
 Recklessness, aggression, unnecessary conflict, need for diplomacy
 
 ## City house
-**Upright** 
+**Upright**
 Social life, activity, excitement, urban lifestyle, new experiences, public life
 
-**Reversed** 
+**Reversed**
 Feeling overwhelmed, need for escape, yearning for peace and quiet
 
 ## Country house
-**Upright** 
+**Upright**
 Peace, tranquility, relaxation, retreat, nature, connection to home and family
 
-**Reversed** 
+**Reversed**
 Isolation, loneliness, feeling disconnected, longing for connection
 
-## Marriage 
-**Upright** 
+## Marriage
+**Upright**
 Commitment, partnership, union, love, long-term relationship, stability
 
-**Reversed** 
+**Reversed**
 Relationship troubles, disagreements, infidelity, separation, questioning commitment
 
 ## Sickness
-**Upright** 
+**Upright**
 Health concerns, need for rest and recovery, taking care of yourself, slowing down
 
-**Reversed** 
+**Reversed**
 Healing, recovery, regaining strength, improving health
 
 ## Thought
-**Upright** 
+**Upright**
 Reflection, contemplation, intuition, planning, ideas, mental activity
 
-**Reversed** 
+**Reversed**
 Overthinking, confusion, lack of clarity, mental clutter
 
 ## Gifts
-**Upright** 
+**Upright**
 Generosity, receiving, rewards, unexpected opportunities, blessings
 
-**Reversed** 
+**Reversed**
 Missing out, loss, disappointment, not receiving what you deserve
 
 ## Loss of Money
-**Upright** 
+**Upright**
 Financial difficulties, setback, bad investments, need to be mindful of spending
 
-**Reversed** 
+**Reversed**
 Recovery from financial loss, finding new opportunities, unexpected financial gain
 
 ## Protector
-**Upright** 
+**Upright**
 Help from someone powerful, support, guidance, feeling safe and secure
 
-**Reversed** 
+**Reversed**
 Lack of support, feeling vulnerable, needing to rely on yourself
 
 ## Traps
-**Upright** 
+**Upright**
 Deception, being misled, feeling stuck, limitations, manipulation
 
-**Reversed** 
+**Reversed**
 Avoiding deception, breaking free, overcoming limitations, finding solutions
 
 ## Vacation
-**Upright** 
+**Upright**
 Travel, relaxation, escape from routine, adventure, new experiences
 
-**Reversed** 
+**Reversed**
 Cancelled plans, delays, inability to relax, feeling restless
 
 ## Pleasant Activities
-**Upright** 
+**Upright**
 Joy, leisure, fun, spending time with loved ones, positive experiences
 
-**Reversed** 
+**Reversed**
 Boredom, lack of enjoyment, feeling out of sorts
 
 ## Quarrel
-**Upright** 
+**Upright**
 Disagreements, arguments, conflict, tension, hurt feelings
 
-**Reversed** 
+**Reversed**
 Resolution, reconciliation, finding common ground, moving on
 
 ## Hindrance
-**Upright** 
+**Upright**
 Obstacle, delay, challenge, restriction, feeling blocked
 
-**Reversed** 
+**Reversed**
 Overcoming obstacles, finding solutions, making progress
 
 ## Elder
-**Upright** 
+**Upright**
 Wisdom, guidance, experience, support from an older person, good advice
 
 **Reversed**
@@ -282,82 +282,82 @@ Being out of touch, outdated advice, rigidity, resistance to change, feeling uns
 **Upright**
 Unexpected news, sudden events, shock, astonishment, pleasant or unpleasant surprises
 
-**Reversed** 
+**Reversed**
 Anticipation, expecting the unexpected, no surprises, lack of excitement
 
 ## Tenderness
-**Upright** 
+**Upright**
 Affection, kindness, gentleness, warmth, emotional sensitivity, nurturing energy
 
-**Reversed** 
+**Reversed**
 Coldness, lack of affection, emotional distance, insensitivity
 
 ## A blond woman
-**Upright** 
+**Upright**
 A fair-haired woman in your life, feminine energy, potential love interest, gentle nature
 
-**Reversed** 
+**Reversed**
 Jealousy, gossip, manipulation, untrustworthiness, a woman interfering
 
 ## A Widow
-**Upright** 
+**Upright**
 Loss, grief, sadness, loneliness, independence, a single woman
 
-**Reversed** 
+**Reversed**
 Moving on from grief, new beginnings after loss, finding strength
 
 ## Some money
-**Upright** 
+**Upright**
 Unexpected gain, financial improvement, small windfall, extra income, modest wealth
 
-**Reversed** 
+**Reversed**
 Financial uncertainty, need to be careful with spending, scarcity
 
 ## A letter
-**Upright** 
+**Upright**
 News, communication, messages, invitations, written correspondence, important information
 
-**Reversed** 
+**Reversed**
 Delayed communication, miscommunication, bad news, gossip in writing
 
 ## A Dark-haired Man
-**Upright** 
+**Upright**
 A dark-haired man in your life, potential love interest, grounded energy, masculine influence
 
-**Reversed** 
+**Reversed**
 Jealousy, mistrust, unreliable man, hidden intentions
 
 ## A Dark-haired Woman
-**Upright** 
+**Upright**
 A dark-haired woman in your life, wisdom, intuition, feminine strength, potential rival
 
-**Reversed** 
+**Reversed**
 Competition, manipulation, cunning, interfering woman
 
 ## Thief
-**Upright** 
+**Upright**
 Loss, theft, being taken advantage of, deception, dishonesty, betrayal of trust
 
-**Reversed** 
+**Reversed**
 Recovery of lost items, protecting possessions, avoiding deception
 
 ## A journey
-**Upright** 
+**Upright**
 Travel, adventure, change of scenery, new experiences, moving location, self-discovery
 
-**Reversed** 
+**Reversed**
 Delays in travel, obstacles, feeling lost, lack of direction
 
 ## A visit
-**Upright** 
+**Upright**
 A guest, unexpected arrival, social interaction, reconnecting with someone, social occasion
 
-**Reversed** 
+**Reversed**
 Unwanted visitor, intrusion, unwelcome news, disruption to routine
 
-## Victory 
-**Upright** 
+## Victory
+**Upright**
 Success, achievement, overcoming obstacles, triumph, hard-won reward, recognition
 
-**Reversed** 
+**Reversed**
 Defeat, failure, setbacks, disappointment, loss of confidence

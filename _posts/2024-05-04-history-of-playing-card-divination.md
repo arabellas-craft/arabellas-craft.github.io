@@ -15,7 +15,7 @@ permalink: playing-card-divination-unveiling-its-roots-and-history
 While Tarot often dominates the world of card-based divination, the practice of reading standard playing cards has a surprisingly long and vibrant history. Step back into history with me and we'll explore the origins of playing card divination and the fascinating people behind its rise.
 
 ## The Birth of Playing Cards
-The exact origin of playing cards remains shrouded in mystery, but most historians point towards China as the birthplace of the earliest card games around the 9th century AD during the era of the Tang Dynasty. 
+The exact origin of playing cards remains shrouded in mystery, but most historians point towards China as the birthplace of the earliest card games around the 9th century AD during the era of the Tang Dynasty.
 
 The journey of playing cards westward was gradual. They appeared in the Islamic Mamluk Sultanate in Egypt around the 13th century and arrived in Europe by the late 1300s, likely carried along trade routes. These early European decks bore beautiful hand-painted designs and often featured suits like Cups, Swords, Coins, and Polo Sticks – ancestors of the familiar hearts, spades, diamonds, and clubs.
 
@@ -23,9 +23,9 @@ The journey of playing cards westward was gradual. They appeared in the Islamic 
 While formal records of playing card divination largely emerge in the 18th century, hints of the practice appear earlier. One notable example is Giovanni Casanova, the famous Italian adventurer. His memoirs mention a young woman who used a regular deck for divination, seemingly predicting his unfaithfulness (an act that arguably didn't require supernatural powers!).
 
 ## The Rise of Formalized Systems
-The late 1700s marked a turning point. Figures like Jean-Baptiste Alliette (who wrote about divination under the name Etteilla) began to codify playing card divination and popularize it in France. 
+The late 1700s marked a turning point. Figures like Jean-Baptiste Alliette (who wrote about divination under the name Etteilla) began to codify playing card divination and popularize it in France.
 
-Etteilla published one of the earliest treatises on the topic, "Etteilla, ou maniere de se récréer avec un jeu de cartes" (Etteilla, or a way to entertain yourself with a deck of cards). Etteilla developed assigned meanings for each card in both upright and reversed positions, which formed the basis for many modern interpretations (although today most decks are reversable and so the reversed position meanings are generally not used). 
+Etteilla published one of the earliest treatises on the topic, "Etteilla, ou maniere de se récréer avec un jeu de cartes" (Etteilla, or a way to entertain yourself with a deck of cards). Etteilla developed assigned meanings for each card in both upright and reversed positions, which formed the basis for many modern interpretations (although today most decks are reversable and so the reversed position meanings are generally not used).
 
 {% include article-kofi-callout.html %}
 
@@ -39,9 +39,8 @@ Modern playing card divination embraces both simplicity and depth:
 * Diverse Approaches: There's room for simple divinatory spreads alongside more complex ones drawing on the richness of numerology, astrology, and elemental correspondences.
 * Intuitive Guidance: While books and resources offer a foundation, contemporary cartomancy encourages a deep connection to personal intuition for insightful readings.
 
-
 ## Take the Next Step in Your Divination Journey
-If you're captivated by the rich history of playing card divination and want to start practicing this fascinating art, my [playing card divination zine](https://ko-fi.com/s/95f9c296924) is the perfect guide! 
+If you're captivated by the rich history of playing card divination and want to start practicing this fascinating art, my [playing card divination zine](https://ko-fi.com/s/95f9c296924) is the perfect guide!
 
 It includes:
 * Traditional card meanings: Discover the symbolism passed down through the ages.

@@ -11,30 +11,30 @@ img-text: "Photo by Roma Kaikua on Unsplash"
 permalink: /the-evil-eye-in-irish-folklore
 ---
 
-In pre-modern Ireland, like in many other cultures, the power of the gaze held immense significance. Practices and customs associated with the evil eye were passed down through generations, and many were collected in [The School's Collection](https://www.duchas.ie/en/cbes/volumes) in the 1930s. 
+In pre-modern Ireland, like in many other cultures, the power of the gaze held immense significance. Practices and customs associated with the evil eye were passed down through generations, and many were collected in [The School's Collection](https://www.duchas.ie/en/cbes/volumes) in the 1930s.
 
 ## What is the evil eye in the Irish folk tradition?
 
-In Irish folk traditions, the evil eye was believed to possess an otherworldly power, capable of causing illness, misfortune, and even death. 
+In Irish folk traditions, the evil eye was believed to possess an otherworldly power, capable of causing illness, misfortune, and even death.
 
 It was believed that those who possessed the evil eye could knowingly or unknowingly project this baneful magic onto others simply through their gaze. The evil eye could affect many aspects of life including people, livestock, and crops.
 
-This ability is often referred to as "overlooking" or "blinking" in the Duchas records and the terms can be used interchangeably. 
+This ability is often referred to as "overlooking" or "blinking" in the Duchas records and the terms can be used interchangeably.
 
 > In this locality, long ago, it was a common belief, that if people met with any reverses, or suffered any loss of property, the misfortune was due to "the evil-eye," meaning that some person supposed to have an evil eye "overlooked" their property, and that was considered the reason for the particular piece of ill-luck. If a person with an "evil-eye" took particular notice of any animal, for example, the animal would either do himself an injury or pine away gradually. Usually, the possessors of the "evil eye" were not aware that they had such a particular kind of eye, or were connected with other people's misfortunes. <cite>[Duchas.ie](https://www.duchas.ie/en/cbes/4798707/4792015)</cite>
 
 ## What causes the evil eye?
 There are numerous things that could cause someone to be born with the evil eye (people are generally considered to be born with it rather than acquiring it later in life). Some of the reasons recorded are:
-* Having the surname  Marrinan <cite>[1](https://www.duchas.ie/en/cbes/4922351/4873216/5074432), [2](https://www.duchas.ie/en/cbes/4922393/4877569/5077077), [3](https://www.duchas.ie/en/cbes/4922382/4876167/5082478)</cite> or Kingfisher<cite>[4](https://www.duchas.ie/en/cbes/5008981/4973507/5111962)</cite>. 
+* Having the surname  Marrinan <cite>[1](https://www.duchas.ie/en/cbes/4922351/4873216/5074432), [2](https://www.duchas.ie/en/cbes/4922393/4877569/5077077), [3](https://www.duchas.ie/en/cbes/4922382/4876167/5082478)</cite> or Kingfisher<cite>[4](https://www.duchas.ie/en/cbes/5008981/4973507/5111962)</cite>.
 * Being  born on Whit Sunday (the seventh Sunday after Easter) <cite>[5](https://archive.org/details/yearinireland00kevi/page/128/mode/2up?q=whitsuntide), [6](https://www.duchas.ie/en/cbes/5070796/5064658/5096240)</cite> or on June 29th <cite>[7](https://www.duchas.ie/en/cbes/5008981/4973507/5111962)</cite>
-* Babies returning to breastfeeding after being weaned <cite>[8](), [9](https://www.duchas.ie/en/cbes/4658464/4658197)</cite> 
+* Babies returning to breastfeeding after being weaned <cite>[8](), [9](https://www.duchas.ie/en/cbes/4658464/4658197)</cite>
 * Babies seeing their baptismal towel before it was washed <cite>[10](https://www.duchas.ie/en/cbes/4427931/4358497/4457849)</cite>
 * Your Godparents omitting a word during your baptism <cite>[11](https://www.duchas.ie/en/cbes/4623000/4622359/4630274)</cite>
 
 {% include article-kofi-callout.html %}
 
 ## Prevention of the evil eye
-To protect themselves from the ill effects of being overlooked, people developed customs and rituals, the most popular of which included: 
+To protect themselves from the ill effects of being overlooked, people developed customs and rituals, the most popular of which included:
 
 * Waiting to light their fires on[May Day](/irish-bealtaine-traditions) so that the evil eye did not take their luck and profit for the coming year <cite>[12](https://www.duchas.ie/en/cbes/4672120/4671966/4682546)</cite>
 * Placing [St. Brigid's crosses](/st-brigids-day-crosses) around the home (and outhouses) <cite>[13](https://www.duchas.ie/en/cbes/5044788/5038305/5082738), [14](https://www.duchas.ie/en/cbes/5008834/4959611/5074118)</cite>

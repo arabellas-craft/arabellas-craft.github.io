@@ -7,7 +7,7 @@ topic: divination
 short-description: "Discover 7 beginner-friendly divination methods including tarot, playing cards, tea leaves, dice, and bibliomancy. Compare costs, learning curves, and time needed to find your perfect divination practice. Complete guides available for under $7."
 img: "divination-methods-for-beginners.jpg"
 permalink: beginner-divination-methods-guide
---- 
+---
 
 Want to start reading cards or tea leaves but don't know where to begin? You don't need expensive tools or special training. A regular deck of cards works. So does a book you already own. This guide breaks down seven divination methods for beginners so you can pick one and actually start.
 

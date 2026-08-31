@@ -1,6 +1,6 @@
 ---
 layout: free-tarot-spread
-title: Triple Moon Tarot Spread for Personal Growth 
+title: Triple Moon Tarot Spread for Personal Growth
 date: 2023-2-01 10:51:01 -0700
 category: Simple
 tag: tarot-spread

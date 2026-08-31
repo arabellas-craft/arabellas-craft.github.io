@@ -8,7 +8,7 @@ short-description: "Write a statement of intent, encode it into a symbol, then c
 categories: how to make sigils, Austin Osman Spare method, chaos magic for beginners, sigil magic guide, charging sigils, letter reduction method, chaos magic gnosis, how to fire a sigil, sigil statement of intent, practical magic techniques, subconscious mind programming, lust for results, psychological model of magic, creating magical symbols, sigil charging methods, sigil magic examples, modern occultism, belief as a tool, manifestation symbols, sigil magic step by step
 img: "gnosis-techniques-chaos-magic.jpg"
 permalink: how-to-make-sigils-austin-osman-spare-method
---- 
+---
 
 Sigils are chaos magic's most accessible technique, simple enough for a beginner, sophisticated enough you'll still use them years later. This article covers the classic Austin Osman Spare method (sometimes called the letter-reduction method) step-by-step.
 
@@ -146,4 +146,4 @@ Sigils are one piece of a larger practice. The articles below build on each othe
 - [Chaos magic terms explained](/chaos-magic-terms-explained) — glossary for *firing*, *lust for results*, *banishing*, and everything else you'll run into
 - [A brief history of chaos magic](/history-of-chaos-magic) — Austin Osman Spare, Peter Carroll, Ray Sherwin, and the 1970s movement that built on Spare's work
 
-Master sigils before moving on. They teach the fundamental rhythm everything else uses: intention, altered state, release. 
+Master sigils before moving on. They teach the fundamental rhythm everything else uses: intention, altered state, release.

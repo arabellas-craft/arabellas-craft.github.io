@@ -8,7 +8,7 @@ short-description: Learn how to read ogham divination with this complete guide. 
 categories: ogham, ogham divination, irish divination, celtic divination, divination, witchcraft, paganism, irish paganism, celtic paganism, witch tips, divination methods, divination tools, beginner witch, baby witch, witch resources, pagan resources, tarot alternative, oracle divination, runes, witchblr, paganblr, divination practice, folk magic, irish mythology, celtic mythology, ogham alphabet, tree magic, forest witch, green witch, divination guide
 img: irish-ogham-stone.jpg
 permalink: how-to-read-ogham-divination
---- 
+---
 
 Ogham is an ancient Irish alphabet from the 4th-5th century CE. It has 20 letters called feda, most of them named for trees or plants. Medieval Irish manuscripts describe druids and heroes using ogham-inscribed sticks for divination and magical purposes.
 
@@ -30,7 +30,7 @@ The alphabet does connect to trees and plants through the letter names (Beith me
 
 Medieval Irish manuscripts preserve three sets of kennings for each ogham letter, along with a color, animal and other associations. These poetic phrases work like riddles, each offering a different angle on the letter's meaning. The three sets come from different sources and traditions, attributed to the scholar Morainn mac Moín, the poetic name Maic ind Óc (the Young Son), and the hero Con Culainn.
 
-Take Fearn (alder) as an example. Morainn's bríatharogam calls it "vanguard of warriors." Maic ind Óc calls it "milk container." Con Culainn calls it "protection of the heart." These three phrases give you layers to work with when Fearn appears in a reading. You might interpret it as needing to fight for something, as nourishment and sustenance, or as vulnerability requiring protection. The medieval sources understood that symbols carry multiple meanings. 
+Take Fearn (alder) as an example. Morainn's bríatharogam calls it "vanguard of warriors." Maic ind Óc calls it "milk container." Con Culainn calls it "protection of the heart." These three phrases give you layers to work with when Fearn appears in a reading. You might interpret it as needing to fight for something, as nourishment and sustenance, or as vulnerability requiring protection. The medieval sources understood that symbols carry multiple meanings.
 
 This layered approach to interpretation has historical roots. Irish literary tradition valued ambiguity and multiple meanings in language. The bríatharogam reflect that sophistication.
 

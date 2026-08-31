@@ -12,7 +12,7 @@ permalink: free-tarot-spreads/4-card-relationship-tarot-spread
 
 Relationships hit rough patches. When they do, most people ask tarot the wrong questions.
 
-"Will this work out?" "What does he think of me?" "Is she going to leave?" 
+"Will this work out?" "What does he think of me?" "Is she going to leave?"
 
 All these questions put you in observer mode, waiting for the universe to deliver a verdict. They're passive. They're also useless because you can't verify the answers and you can't do anything with them.
 

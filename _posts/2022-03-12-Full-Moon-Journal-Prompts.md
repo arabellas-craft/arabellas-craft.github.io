@@ -13,7 +13,7 @@ permalink: /full-moon-ritual-ideas-and-journal-prompts/
 The full moon is a potent time for magic and self-reflection. In this article, we'll explore creative ways to harness the energy of the full moon in your spiritual practices and provide journal prompts to deepen your connection with the lunar cycle.
 
 ## Full Moon Ritual Ideas
-During the full moon we have the chance to step back and reflect on all that's been created during this past lunar cycle. It’s important to also take time to pause, reflect, celebrate what you have accomplished and let go of what you no longer need. A ritual can be a simple or as complex as you need it to be. But I will often start with a short meditation session to ground and center myself before diving into the ritual work itself and then closing out with gratitude to the universe, and any deities invoked. Some ideas to start building your own full moon ritual around could be: 
+During the full moon we have the chance to step back and reflect on all that's been created during this past lunar cycle. It’s important to also take time to pause, reflect, celebrate what you have accomplished and let go of what you no longer need. A ritual can be a simple or as complex as you need it to be. But I will often start with a short meditation session to ground and center myself before diving into the ritual work itself and then closing out with gratitude to the universe, and any deities invoked. Some ideas to start building your own full moon ritual around could be:
 
 1. Moon Bathing and Cleansing Ritual
 Harness the full moon's cleansing energy by taking a moonlit bath. Add herbs, crystals, or essential oils to your bathwater, and visualize releasing negative energies as you soak.

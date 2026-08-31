@@ -7,12 +7,11 @@ topic: irish
 short-description: "Explore authentic Irish New Year folk magic from Dúchas archives: first footing rituals, hunger banishment, divination practices, and protective customs for Lá Coille."
 img: "irish-new-years-traditions.jpg"
 permalink: irish-new-year-folk-magic-la-coille
---- 
+---
 
 New Year's wasn't a big deal in Ireland historically. Christmas mattered more. The agricultural year started on February 1st, not January 1st. And until the calendar reform of 1751, the legal year officially began on March 25th anyway.
 
 But people still marked the turn of the year with specific customs—mostly about managing luck, blessing the household, and forecasting what the coming months might bring. These practices, documented in the 1930s Dúchas.ie Schools' Collection and Kevin Danaher's *The Year in Ireland*, reveal what mattered to rural communities: careful attention at threshold moments, communal celebration, and making do with what you had.
-
 
 ## New Year's Eve: Bells, Cakes, and Wind Direction
 
@@ -59,10 +58,10 @@ The household then gathered up the fragments and ate them.
 
 Why the Turks? No clear answer. It appears in multiple accounts across different counties, suggesting it was a widespread phrase, but the specific reasoning is lost. Some farmers repeated the ceremony at the byre door to ensure fodder for the cows.
 
-In West Limerick, the cake was rapped on the door with slightly different words: 
-> Happiness in and misfortune out 
+In West Limerick, the cake was rapped on the door with slightly different words:
+> Happiness in and misfortune out
 >
-> from this night until a year from tonight. 
+> from this night until a year from tonight.
 >
 > In the name of the Father and of the Son and of the Holy Spirit,
 >

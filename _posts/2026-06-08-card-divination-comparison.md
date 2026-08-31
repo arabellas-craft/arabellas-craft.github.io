@@ -25,7 +25,6 @@ Tarot, oracle, Lenormand, La Sibylle des Salons, and playing cards all read with
 
 **Playing cards** — a standard 52-card deck — are the ancestor of tarot, Lenormand, and La Sibylle. The four suits (Hearts, Diamonds, Clubs, Spades) can also be mapped onto tarot's suits. Each card from Ace to King has an assigned divinatory meaning. [The history of playing card divination goes back further than most people expect](https://juniperdivination.com/playing-card-divination-unveiling-its-roots-and-history).
 
-
 ## How Readings Work in Each System
 
 This is where the five systems diverge most sharply.

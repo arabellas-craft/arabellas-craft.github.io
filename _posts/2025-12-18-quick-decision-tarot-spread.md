@@ -12,7 +12,7 @@ permalink: free-tarot-spreads/quick-decision-tarot-spread
 
 Making decisions sucks sometimes.
 
-You've got two paths in front of you. Both seem reasonable. You're stuck running mental loops trying to figure out which one is right. 
+You've got two paths in front of you. Both seem reasonable. You're stuck running mental loops trying to figure out which one is right.
 
 Should you take the job offer or stay where you are? Date person A or person B? Move or stay put?
 
@@ -20,7 +20,7 @@ This is where tarot shines.
 
 Not because the cards magically know your future (they don't), but because they force you to externalize your thinking and look at angles you might be ignoring.
 
-This quick decision spread does exactly that. 
+This quick decision spread does exactly that.
 
 Three cards, two options, one blind spot.
 
@@ -47,9 +47,9 @@ Write them down if that helps. The clearer you are about what you're choosing be
 
 Start with Cards 1 and 2. Look at them side by side.
 
-Which one feels heavier? 
+Which one feels heavier?
 
-Which one has more challenging cards? 
+Which one has more challenging cards?
 
 Which outcome actually appeals to you when you see it laid out?
 
@@ -71,7 +71,7 @@ This is where it gets interesting.
 
 Card 3 shows you what you're not seeing. Sometimes it's practical (The Hierophant might mean you're ignoring conventional wisdom or established procedures). Sometimes it's emotional (The Moon might mean you're not accounting for your anxiety or intuition).
 
-This card doesn't tell you which option to choose. 
+This card doesn't tell you which option to choose.
 
 It tells you what information you're missing.
 
@@ -83,7 +83,7 @@ It doesn't make the decision for you.
 
 You're still the one who has to choose. The cards give you information, perspective, and a mirror for your own thinking. They don't override your agency.
 
-If you draw this spread and immediately think "oh hell no" about one of the outcomes, that's valuable information. 
+If you draw this spread and immediately think "oh hell no" about one of the outcomes, that's valuable information.
 
 Your reaction to the cards matters as much as the cards themselves.
 
@@ -111,13 +111,13 @@ This spread assumes both options are actually viable.
 
 If one of your "options" is staying in a dangerous situation, the cards aren't going to help you. Get practical support first.
 
-Similarly, if you're stuck in analysis paralysis and have already done this spread three times this week about the same decision, the problem isn't lack of information. 
+Similarly, if you're stuck in analysis paralysis and have already done this spread three times this week about the same decision, the problem isn't lack of information.
 
 The problem is avoiding the decision.
 
 ## When One Reading Isn't Enough
 
-Sometimes a tarot reading leaves you with more questions than answers. 
+Sometimes a tarot reading leaves you with more questions than answers.
 
 That's when [combining different divination methods](/combine-tarot-divination-methods) can help. Use tarot for the emotional landscape and dice for a yes/no confirmation, for example.
 
@@ -139,11 +139,11 @@ Grab whatever deck you have. Use this spread. Make your decision.
 
 ## Building a Daily Practice
 
-Decision-making spreads work best when you already have a relationship with your cards. 
+Decision-making spreads work best when you already have a relationship with your cards.
 
 If you're new to tarot, starting with simpler daily practices helps you learn your deck's language.
 
-The [daily check-in spread](https://juniperdivination.com/free-tarot-spreads/daily-check-in-tarot-spread) offers a gentler introduction. Three cards that show your current energy, what will help you today, and what to be mindful of. 
+The [daily check-in spread](https://juniperdivination.com/free-tarot-spreads/daily-check-in-tarot-spread) offers a gentler introduction. Three cards that show your current energy, what will help you today, and what to be mindful of.
 
 Or try the [three-card daily spread](https://juniperdivination.com/free-tarot-spreads/3-card-daily-tarot-spread) that focuses on what to know, what action to take, and what to release.
 
@@ -157,7 +157,7 @@ For [common questions about divination and witchcraft](https://juniperdivination
 
 ## Other Free Divination Methods
 
-Tarot isn't the only accessible option for decision-making. 
+Tarot isn't the only accessible option for decision-making.
 
 If you don't have a tarot deck or prefer other methods, you can practice [divination without buying anything](https://juniperdivination.com/divination-without-buying-anything). Dice, playing cards, tea leaves, and books you already own all work for guidance.
 

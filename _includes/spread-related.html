@@ -20,7 +20,6 @@
     {%- assign picked = picked | append: post.url | append: "," -%}
   {%- endunless -%}
 {%- endfor -%}
-
 {%- assign ever_all = site.spread_evergreen -%}
 {%- if ever_all and ever_all.size > 0 -%}
   {%- assign ever_count = 0 -%}
