@@ -39,7 +39,7 @@ Then ask dice a specific question that emerged from the tarot reading. "Should I
 
 This combination prevents you from making dice do work they're not designed for. Dice can't tell you nuanced stories. Tarot can't give you simple yes/no answers without muddying the water.
 
-**[Learn Dice Divination](https://ko-fi.com/s/ff7d47ded3)** - A beginner-friendly guide to reading dice for clear yes/no answers.
+**[Learn Dice Divination](https://ko-fi.com/s/ff7d47ded3){:target="_blank" rel="noopener noreferrer"}** - A beginner-friendly guide to reading dice for clear yes/no answers.
 
 ### Playing Cards + Bibliomancy: Situation + Wisdom
 
@@ -49,7 +49,7 @@ Bibliomancy offers philosophical perspective on that territory. After reading th
 
 The cards show what's happening. The passage shows you how to think about what's happening.
 
-**[Learn Playing Card Divination](https://ko-fi.com/s/95f9c29692)** - Complete guide to cartomancy using a regular deck of playing cards.
+**[Learn Playing Card Divination](https://ko-fi.com/s/95f9c29692){:target="_blank" rel="noopener noreferrer"}** - Complete guide to cartomancy using a regular deck of playing cards.
 
 ### Any Method + Pendulum: Answer + Energy Check
 
@@ -65,7 +65,7 @@ The pendulum doesn't give you new information. It validates or questions your in
 
 Use tarot or tea leaves for complex emotional situations. Use dice or playing cards for straightforward decisions. Use bibliomancy when you need reframing.
 
-**[Learn Tea Leaf Reading](https://ko-fi.com/s/16c793f6af)** - Traditional tasseography using items from your kitchen.
+**[Learn Tea Leaf Reading](https://ko-fi.com/s/16c793f6af){:target="_blank" rel="noopener noreferrer"}** - Traditional tasseography using items from your kitchen.
 
 **Step 2: Record everything before moving to the second method**
 
@@ -89,4 +89,4 @@ Combining methods reveals complexity. It doesn't let you shop for permission.
 
 ---
 
-**Ready to deepen your divination practice?** Browse our complete collection of [beginner-friendly divination guides](https://ko-fi.com/juniperdivination/shop) covering tarot, playing cards, dice, tea leaves, and more.
+**Ready to deepen your divination practice?** Browse our complete collection of [beginner-friendly divination guides](https://ko-fi.com/juniperdivination/shop){:target="_blank" rel="noopener noreferrer"} covering tarot, playing cards, dice, tea leaves, and more.

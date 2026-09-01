@@ -82,6 +82,6 @@ Once this spread is familiar, there are a few natural next steps:
 - **[La Sibylle des Salons Card Meanings](/la-sibylle-des-salons-card-meanings)**: a 19th-century French cartomancy deck and how its symbol system differs from a standard deck.
 - **[Combining Divination Methods](/combine-tarot-divination-methods)**: how to layer cartomancy with tarot or tea leaf reading without creating noise.
 
-Beyond that, my [Cartomancy for Beginners](https://ko-fi.com/s/95f9c29692) guide covers detailed card meanings, number symbolism, and three complete spreads including yes/no and decision-making layouts.
+Beyond that, my [Cartomancy for Beginners](https://ko-fi.com/s/95f9c29692){:target="_blank" rel="noopener noreferrer"} guide covers detailed card meanings, number symbolism, and three complete spreads including yes/no and decision-making layouts.
 
 Try this spread tomorrow morning. Consistent practice develops your own interpretive language with the cards faster than any book will.

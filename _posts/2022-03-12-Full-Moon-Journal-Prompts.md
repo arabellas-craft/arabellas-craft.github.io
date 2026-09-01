@@ -28,7 +28,7 @@ Light a candle during the full moon, and infuse it with your intentions. As it b
 Place a container of purified water under the full moon's light overnight. This moonwater can be used for various magical purposes, from blessing objects to anointing tools.
 
 5. Full Moon Tarot Reading
-The full moon can be a very powerful time for divination. [Try my full moon tarot spread](/free-tarot-spreads/full-moon-tarot-spread), [get a reading from me](https://shop.juniperdivination.com/l/MonthAheadTarotReading), or create your own tarot spread! Make sure to record your reading and your thoughts in your tarot journal to reference later.
+The full moon can be a very powerful time for divination. [Try my full moon tarot spread](/free-tarot-spreads/full-moon-tarot-spread), [get a reading from me](https://shop.juniperdivination.com/l/MonthAheadTarotReading){:target="_blank" rel="noopener noreferrer"}, or create your own tarot spread! Make sure to record your reading and your thoughts in your tarot journal to reference later.
 
 {% include article-kofi-callout.html %}
 

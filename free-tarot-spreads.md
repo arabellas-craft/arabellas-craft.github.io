@@ -14,13 +14,13 @@ short-description: 50+ free tarot spread ideas organized by situation — beginn
 
 This is a collection of {{ total_spreads }} free spread layouts organized by situation. There are simple 3-card layouts for daily use, seasonal spreads tied to the Celtic calendar, shadow work spreads for deeper self-examination, and spreads for relationships, career decisions, moon phases, and more.
 
-Every layout here works with tarot cards,  oracle cards or even [playing cards](https://ko-fi.com/s/95f9c29692). The card positions are framed as questions and prompts, so the spread guides the reading regardless of which deck you're using.
+Every layout here works with tarot cards,  oracle cards or even [playing cards](https://ko-fi.com/s/95f9c29692){:target="_blank" rel="noopener noreferrer"}. The card positions are framed as questions and prompts, so the spread guides the reading regardless of which deck you're using.
 
 All of them are completely free. No sign-ups, no paywalls. Pick a category below, choose a spread, grab your deck.
 
 **Support This Work**
 
-If these spreads have been useful, you can [support me on Ko-fi](https://ko-fi.com/juniperdivination/donate). It's never expected, but it helps me keep creating free resources.
+If these spreads have been useful, you can [support me on Ko-fi](https://ko-fi.com/juniperdivination/donate){:target="_blank" rel="noopener noreferrer"}. It's never expected, but it helps me keep creating free resources.
 
 <br><br>
 <h2><a href="/free-tarot-spreads/beginner/">Beginner Tarot & Oracle Card Spreads</a></h2>

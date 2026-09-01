@@ -98,7 +98,7 @@ This card offers practical guidance for bringing your shadow into consciousness.
 
 **Integrate before excavating more.** Give yourself time to work with insights from one reading before pulling cards on another shadow aspect.
 
-**Continue your practice.**  Shadow work is most effective when you explore different angles over time. [Grab 11 more shadow work spreads](https://juniperdivination.etsy.com/listing/1145992747) from my shop to deepen your self-discovery practice with varied approaches to integration, healing, and growth.
+**Continue your practice.**  Shadow work is most effective when you explore different angles over time. [Grab 11 more shadow work spreads](https://juniperdivination.etsy.com/listing/1145992747){:target="_blank" rel="noopener noreferrer"} from my shop to deepen your self-discovery practice with varied approaches to integration, healing, and growth.
 
 ## Moving Forward
 

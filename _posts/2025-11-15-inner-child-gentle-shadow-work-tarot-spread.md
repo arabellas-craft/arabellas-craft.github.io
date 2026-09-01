@@ -75,9 +75,9 @@ If Card 2 shows a wound around being unheard, maybe daily journaling becomes you
 
 Inner child tarot work is most powerful when you can do it yourself, whenever you need it. If you're new to reading tarot cards or want to move beyond memorizing meanings:
 
-**[Learn to Read Tarot Cards Intuitively](https://ko-fi.com/s/8f56e7fcd8)** helps you trust your own interpretations, essential for personal shadow work where no guidebook can tell you what your inner child needs.
+**[Learn to Read Tarot Cards Intuitively](https://ko-fi.com/s/8f56e7fcd8){:target="_blank" rel="noopener noreferrer"}** helps you trust your own interpretations, essential for personal shadow work where no guidebook can tell you what your inner child needs.
 
-**[Tarot for Self-Discovery](https://juniperdivination.etsy.com/listing/1145992747)** focuses specifically on using tarot for inner work rather than fortune-telling, teaching you to ask better questions and interpret cards psychologically.
+**[Tarot for Self-Discovery](https://juniperdivination.etsy.com/listing/1145992747){:target="_blank" rel="noopener noreferrer"}** focuses specifically on using tarot for inner work rather than fortune-telling, teaching you to ask better questions and interpret cards psychologically.
 
 Both emphasize the practical, accessible approach that makes tarot shadow work for beginners actually doable.
 

@@ -178,7 +178,7 @@ This dictionary won't give you the complete process from brewing to interpretati
 
 ## The Complete Guide
 
-**[Brewing Insights: A Beginner's Guide to Tea Leaf Reading](https://ko-fi.com/s/16c793f6af)** walks you through everything:
+**[Brewing Insights: A Beginner's Guide to Tea Leaf Reading](https://ko-fi.com/s/16c793f6af){:target="_blank" rel="noopener noreferrer"}** walks you through everything:
 - Proper tea selection and brewing techniques
 - Complete cup geography and timing system
 - How to tell the story your leaves are showing you
@@ -187,4 +187,4 @@ This dictionary won't give you the complete process from brewing to interpretati
 
 Brewing Insights gives you everything you need to start reading tea leaves today, whether you're approaching it as a new practice, a mindful habit, or a way to engage with an old tradition.
 
-**[Get your copy of Brewing Insights here](https://ko-fi.com/s/16c793f6af)**
+**[Get your copy of Brewing Insights here](https://ko-fi.com/s/16c793f6af){:target="_blank" rel="noopener noreferrer"}**

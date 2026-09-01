@@ -40,7 +40,7 @@ The App does not use cookies, analytics, advertising trackers, or any similar te
 
 ## Third-Party Services
 
-The App uses the Pinterest API v5. Pinterest's own privacy policy governs data held within Pinterest's platform and can be found at [policy.pinterest.com](https://policy.pinterest.com/en/privacy-policy).
+The App uses the Pinterest API v5. Pinterest's own privacy policy governs data held within Pinterest's platform and can be found at [policy.pinterest.com](https://policy.pinterest.com/en/privacy-policy){:target="_blank" rel="noopener noreferrer"}.
 
 ## Contact
 

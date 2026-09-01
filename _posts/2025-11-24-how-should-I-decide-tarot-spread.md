@@ -59,7 +59,7 @@ After you've pulled all three cards, don't jump straight to interpretation. Look
 - Do both paths show challenging cards? The real question might not be which is better, but what you're ready to face.
 - Does the "What Really Matters" card connect more strongly to one path than the other? Follow that connection.
 
-If you're new to spotting these kinds of patterns in your readings, my zine [Beyond the Little White Book](https://ko-fi.com/s/f24c63dba8) walks you through how to read multiple cards together and trust your intuition when interpreting spreads.
+If you're new to spotting these kinds of patterns in your readings, my zine [Beyond the Little White Book](https://ko-fi.com/s/f24c63dba8){:target="_blank" rel="noopener noreferrer"} walks you through how to read multiple cards together and trust your intuition when interpreting spreads.
 
 **Read the third card first.**
 

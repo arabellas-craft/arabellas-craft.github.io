@@ -27,7 +27,7 @@ Over time, a daily practice helps you learn your deck's language, recognize how 
 ## How to Use This Spread
 
 **You'll need:**
-- A tarot deck (any deck works: worn, new, secondhand, [at-home printed](https://ko-fi.com/s/5f1138f832), whatever you've got)
+- A tarot deck (any deck works: worn, new, secondhand, [at-home printed](https://ko-fi.com/s/5f1138f832){:target="_blank" rel="noopener noreferrer"}, whatever you've got)
 - A surface to lay out three cards
 - Optional: a journal if you like to track readings
 

@@ -10,23 +10,23 @@ img: "chaos-magic-terms-explained.jpg"
 permalink: chaos-magic-terms-explained
 ---
 
-If you've tried to learn chaos magic from online forums or classic texts like *[Liber Null](https://bookshop.org/a/84772/9781578637669)*, you've probably hit a wall of unexplained jargon. Experienced practitioners use terms like "gnosis," "servitor," and "paradigm shifting" as if everyone already knows what they mean.
+If you've tried to learn chaos magic from online forums or classic texts like *[Liber Null](https://bookshop.org/a/84772/9781578637669){:target="_blank" rel="noopener noreferrer"}*, you've probably hit a wall of unexplained jargon. Experienced practitioners use terms like "gnosis," "servitor," and "paradigm shifting" as if everyone already knows what they mean.
 
 Even foundational books assume you have prior occult knowledge that many modern practitioners don't have.
 
 This creates a problem. Chaos magic's anti-dogmatic philosophy resists standardization, which is philosophically consistent but practically frustrating. You end up with vocabulary you can't define, techniques you can't understand, and debates you can't follow.
 
-This glossary fixes that. Read through it once to get oriented, then bookmark it for when you encounter these terms in the wild. The definitions will click into place as you actually do the work.
+This glossary fixes that. Read through it once to get oriented, then bookmark it for when you encounter these terms in the wild. The definitions will click into place as you actually do the work. If the practice itself is new to you, [the introduction to chaos magic](/what-is-chaos-magic) gives you the context these terms sit inside.
 
 ## Pronunciation Guide
 
 Here's how to say the terms people aren't sure about:
 
-- **Gnosis:** NOH-sis ([hear it](https://www.dictionary.com/browse/gnosis))
-- **Egregore:** EGG-ruh-gore or eh-GREG-or ([hear it](https://www.youtube.com/watch?v=LNS_XdAn1BI))
+- **Gnosis:** NOH-sis ([hear it](https://www.dictionary.com/browse/gnosis){:target="_blank" rel="noopener noreferrer"})
+- **Egregore:** EGG-ruh-gore or eh-GREG-or ([hear it](https://www.youtube.com/watch?v=LNS_XdAn1BI){:target="_blank" rel="noopener noreferrer"})
 - **Chaote:** kay-OAT or KAY-oat (both heard in community)
-- **Sigil:** SIJ-il ([hear it](https://www.dictionary.com/browse/sigil))
-- **Servitor:** SUR-vih-ter ([hear it](https://www.dictionary.com/browse/servitor))
+- **Sigil:** SIJ-il ([hear it](https://www.dictionary.com/browse/sigil){:target="_blank" rel="noopener noreferrer"})
+- **Servitor:** SUR-vih-ter ([hear it](https://www.dictionary.com/browse/servitor){:target="_blank" rel="noopener noreferrer"})
 
 These are the most common pronunciations. Pronunciations vary regionally and between practitioners.
 
@@ -273,7 +273,7 @@ When to use it:
 - After workings (closes what you opened)
 - When your space or headspace feels "off"
 
-The common chaos magic method is the [Gnostic Pentagram Ritual](https://www.chaosmatrix.org/library/chaos/rites/gpr.html), a simplified version of the [Golden Dawn's Lesser Banishing Ritual of the Pentagram](https://en.wikipedia.org/wiki/Lesser_ritual_of_the_pentagram).
+The common chaos magic method is the [Gnostic Pentagram Ritual](https://www.chaosmatrix.org/library/chaos/rites/gpr.html){:target="_blank" rel="noopener noreferrer"}, a simplified version of the [Golden Dawn's Lesser Banishing Ritual of the Pentagram](https://en.wikipedia.org/wiki/Lesser_ritual_of_the_pentagram){:target="_blank" rel="noopener noreferrer"}.
 
 The Gnostic version strips out the Kabbalistic symbolism and Judeo-Christian framework, keeping just the basic structure.
 
@@ -319,7 +319,7 @@ Why this matters: IOT terminology appears throughout chaos magic literature even
 
 ### From Liber Null
 
-Peter Carroll's *[Liber Null & Psychonaut](https://bookshop.org/a/84772/9781578637669)* is divided into sections with Latin names.
+Peter Carroll's *[Liber Null & Psychonaut](https://bookshop.org/a/84772/9781578637669){:target="_blank" rel="noopener noreferrer"}* is divided into sections with Latin names.
 
 When someone says "that's covered in LUX," they're referring to a specific section:
 
@@ -334,7 +334,7 @@ Comic book author Grant Morrison popularized chaos magic concepts through their 
 
 **Hypersigil:** An extended sigil using narrative elements.
 
-Instead of a simple symbol, you create entire stories, comics, or long-term projects as magical operations. Morrison described *[The Invisibles](https://bookshop.org/a/84772/9781799506683)* as "a six-year-long sigil."
+Instead of a simple symbol, you create entire stories, comics, or long-term projects as magical operations. Morrison described *[The Invisibles](https://bookshop.org/a/84772/9781799506683){:target="_blank" rel="noopener noreferrer"}* as "a six-year-long sigil."
 
 **Fiction suit:** Using fictional characters or personas as magical identities. You put on a character like putting on a suit of clothes.
 

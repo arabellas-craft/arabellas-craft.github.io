@@ -4,13 +4,13 @@ title: "What Is Lughnasadh (Lúnasa)? Meaning, History, and Traditions of the Ir
 date: 2026-06-23 07:00:01 -0700
 tag: article
 topic: irish
-short-description: What is Lughnasadh? Lúnasa is the Irish harvest festival on August 1, named for the god Lugh. A plain guide to its meaning, its history, Lammas vs Lughnasadh, Crom Dubh, and how it was celebrated.
+short-description: What is Lughnasadh? Lúnasa is the Irish harvest festival on August 1st, named for the god Lugh. A plain guide to its meaning, its history, Lammas vs Lughnasadh, Crom Dubh, and how it was celebrated.
 categories: what is lughnasadh, lughnasadh meaning, lúnasa, lammas vs lughnasadh, when is lughnasadh, lughnasadh pronunciation, irish harvest festival, celtic folklore, irish paganism
 img: what-is-lughnasadh.jpg
 permalink: /what-is-lughnasadh
 ---
 
-Lúnasa (pronounced [LOO-nuh-suh](https://www.teanglann.ie/en/fuaim/L%C3%BAnasa)) is the Irish harvest festival that is now celebrated on August 1, and was considered the first day of autumn in the ancient Irish year.[^1] It opens the grain harvest, the point where the hungry weeks of late summer give way to the first food from the new crop.[^1] The name comes from the god Lugh; the older spelling is Lughnasadh. It's one of the four festivals of the Irish year, with Samhain, Imbolc, and Bealtaine.[^2] You'll also see it in the folk record as Garland Sunday, Reek Sunday and Crom Dubh's Sunday.
+Lúnasa (pronounced [LOO-nuh-suh](https://www.teanglann.ie/en/fuaim/L%C3%BAnasa){:target="_blank" rel="noopener noreferrer"}) is the Irish harvest festival that is now celebrated on August 1st, and was considered the first day of autumn in the ancient Irish year.[^1] It opens the grain harvest, the point where the hungry weeks of late summer give way to the first food from the new crop.[^1] The name comes from the god Lugh; the older spelling is Lughnasadh. It's one of the four festivals of the Irish year, with Samhain, Imbolc, and Bealtaine.[^2] You'll also see it in the folk record as Garland Sunday, Reek Sunday and Crom Dubh's Sunday.
 
 This article is meant to give an overview of the festival. Each part below has a fuller article behind it: the festival's [pre-Christian origins](/lunasa-pre-christian-origins), the dark harvest figure [Crom Dubh](/crom-dubh-lughnasadh), and the [folk customs](/lunasa-folk-traditions) that lasted into living memory.
 
@@ -20,7 +20,7 @@ You will sometimes see Lughnasadh and Lammas used interchangeably, however they 
 
 Lammas was a church observance built around that blessed loaf; Lughnasadh was a public assembly with horse-racing and trade.[^4][^5] What they share is the first-fruits moment, the same turn in the harvest year, which is why English speakers in Ireland sometimes used "Lammas" as a label for the native festival and the two ran together.
 
-Modern Wicca adds a third sense, treating "Lammas" and "Lughnasadh" as interchangeable names for a single August 1 sabbat in a Wheel of the Year assembled in the 1950s.[^6]
+Modern Wicca adds a third sense, treating "Lammas" and "Lughnasadh" as interchangeable names for a single August 1st sabbat in a Wheel of the Year assembled in the 1950s.[^6]
 
 This guide follows the older Irish festival.
 
@@ -46,13 +46,13 @@ The folk customs are the most durable part of the festival, recorded across Irel
 
 ---
 
-[^1]: *[The Year in Ireland](https://bookshop.org/a/84772/9781856350938)* by Kevin Danaher
-[^2]:  *[The Sacred Isle: Belief and Religion in Pre-Christian Ireland](https://bookshop.org/a/84772/9780851158563)* by Dáithí Ó hÓgáin,
-[^3]: [Lammas](https://www.merriam-webster.com/dictionary/Lammas)
-[^4]: [Lammas](https://www.britannica.com/topic/Lammas)
-[^5]: *[Ireland's Immortals: A History of the Gods of Irish Myth](https://bookshop.org/a/84772/9780691183046)* by Mark Williams
-[^6]: [Wheel of the Year](https://en.wikipedia.org/wiki/Wheel_of_the_Year)
-[^7]: *[Early Irish Myths and Sagas](https://bookshop.org/a/84772/9780140443974)* by Jeffrey Gantz
-[^8]: *[Celtic Gods and Heroes](https://bookshop.org/a/84772/9780486414416)* by Marie-Louise Sjoestedt
-[^9]: "[On the Origins and Development of Crom Dubh](https://www.academia.edu/86190555/On_the_Origins_and_Development_of_Crom_Dubh)" by Claire Collins
-[^10]: "[Trespass and Building in the Lughnasa Legends](https://www.jstor.org/stable/25509584)" by Máire MacNeill
+[^1]: *[The Year in Ireland](https://bookshop.org/a/84772/9781856350938){:target="_blank" rel="noopener noreferrer"}* by Kevin Danaher
+[^2]:  *[The Sacred Isle: Belief and Religion in Pre-Christian Ireland](https://bookshop.org/a/84772/9780851158563){:target="_blank" rel="noopener noreferrer"}* by Dáithí Ó hÓgáin,
+[^3]: [Lammas](https://www.merriam-webster.com/dictionary/Lammas){:target="_blank" rel="noopener noreferrer"}
+[^4]: [Lammas](https://www.britannica.com/topic/Lammas){:target="_blank" rel="noopener noreferrer"}
+[^5]: *[Ireland's Immortals: A History of the Gods of Irish Myth](https://bookshop.org/a/84772/9780691183046){:target="_blank" rel="noopener noreferrer"}* by Mark Williams
+[^6]: [Wheel of the Year](https://en.wikipedia.org/wiki/Wheel_of_the_Year){:target="_blank" rel="noopener noreferrer"}
+[^7]: *[Early Irish Myths and Sagas](https://bookshop.org/a/84772/9780140443974){:target="_blank" rel="noopener noreferrer"}* by Jeffrey Gantz
+[^8]: *[Celtic Gods and Heroes](https://bookshop.org/a/84772/9780486414416){:target="_blank" rel="noopener noreferrer"}* by Marie-Louise Sjoestedt
+[^9]: "[On the Origins and Development of Crom Dubh](https://www.academia.edu/86190555/On_the_Origins_and_Development_of_Crom_Dubh){:target="_blank" rel="noopener noreferrer"}" by Claire Collins
+[^10]: "[Trespass and Building in the Lughnasa Legends](https://www.jstor.org/stable/25509584){:target="_blank" rel="noopener noreferrer"}" by Máire MacNeill

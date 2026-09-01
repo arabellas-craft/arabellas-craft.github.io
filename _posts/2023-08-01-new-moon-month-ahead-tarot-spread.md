@@ -45,7 +45,7 @@ This card sits above the other three for a reason. It's an overarching guide, th
 
 ## How to Use This Spread
 
-**You need:** A tarot deck. Any deck works. Worn, new, secondhand, [printed at home](https://ko-fi.com/s/5f1138f832), borrowed. The deck doesn't matter. Your attention does.
+**You need:** A tarot deck. Any deck works. Worn, new, secondhand, [printed at home](https://ko-fi.com/s/5f1138f832){:target="_blank" rel="noopener noreferrer"}, borrowed. The deck doesn't matter. Your attention does.
 
 **Before you read:** Shuffle while thinking about the month ahead. No specific question needed. You're opening a conversation, not interrogating the cards.
 

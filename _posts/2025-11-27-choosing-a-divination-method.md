@@ -21,11 +21,11 @@ Want to start reading cards or tea leaves but don't know where to begin? You don
 
 **Learning curve:** Moderate. You'll learn 78 card meanings, but illustrated decks make this easier because you can read the pictures. The Rider-Waite-Smith deck is designed for visual interpretation.
 
-**Cost to start:** $25-60 for a deck ([Rider-Waite-Smith](https://bookshop.org/a/84772/9780913866139) is the beginner standard), or start with an at-home [printable version of the deck](https://ko-fi.com/s/5f1138f832?utm_source=website) for $1.99
+**Cost to start:** $25-60 for a deck ([Rider-Waite-Smith](https://bookshop.org/a/84772/9780913866139){:target="_blank" rel="noopener noreferrer"} is the beginner standard), or start with an at-home [printable version of the deck](https://ko-fi.com/s/5f1138f832?utm_source=website){:target="_blank" rel="noopener noreferrer"} for $1.99
 
 **Try it if:** You want serious depth and don't mind studying. Tarot handles complexity better than most methods, and it grows with you as your skill develops.
 
-**Guides available:** [Learn Tarot](https://ko-fi.com/s/8f56e7fcd8?utm_source=website) for 99¢, and [Beyond the Little White Book: A Zine for Tarot Interpretation and Intuitive Reading for Beginners](https://ko-fi.com/s/f24c63dba8?utm_source=website) for 99¢
+**Guides available:** [Learn Tarot](https://ko-fi.com/s/8f56e7fcd8?utm_source=website){:target="_blank" rel="noopener noreferrer"} for 99¢, and [Beyond the Little White Book: A Zine for Tarot Interpretation and Intuitive Reading for Beginners](https://ko-fi.com/s/f24c63dba8?utm_source=website){:target="_blank" rel="noopener noreferrer"} for 99¢
 
 ## 2. Playing Card Divination (Cartomancy)
 
@@ -41,7 +41,7 @@ Want to start reading cards or tea leaves but don't know where to begin? You don
 
 **Try it if:** You want tarot-style depth but prefer working with familiar objects. Playing card divination has centuries of history behind it.
 
-**Guide available:** [Shuffle, Draw, Discover: Read Your Fate with Playing Cards](https://ko-fi.com/s/95f9c29692?utm_source=website) for 99¢
+**Guide available:** [Shuffle, Draw, Discover: Read Your Fate with Playing Cards](https://ko-fi.com/s/95f9c29692?utm_source=website){:target="_blank" rel="noopener noreferrer"} for 99¢
 
 ## 3. Tea Leaf Reading (Tasseography)
 
@@ -57,7 +57,7 @@ Want to start reading cards or tea leaves but don't know where to begin? You don
 
 **Try it if:** You trust your gut and like working with symbols. Tea leaf reading rewards patience and gets easier with repetition.
 
-**Guide available:** [Brewing Insights: Tea Leaf Reading Zine for Beginners](https://ko-fi.com/s/16c793f6af?utm_source=website) for 99¢
+**Guide available:** [Brewing Insights: Tea Leaf Reading Zine for Beginners](https://ko-fi.com/s/16c793f6af?utm_source=website){:target="_blank" rel="noopener noreferrer"} for 99¢
 
 ## 4. Dice Divination
 
@@ -73,7 +73,7 @@ Want to start reading cards or tea leaves but don't know where to begin? You don
 
 **Try it if:** You want quick clarity without memorizing complex symbol systems. Dice divination is straightforward.
 
-**Guide available:** [Three Dice Destiny: Learn How to Tell Fortunes with Dice ](https://ko-fi.com/s/ff7d47ded3?utm_source=website) for 99¢
+**Guide available:** [Three Dice Destiny: Learn How to Tell Fortunes with Dice ](https://ko-fi.com/s/ff7d47ded3?utm_source=website){:target="_blank" rel="noopener noreferrer"} for 99¢
 
 {% include article-kofi-callout.html %}
 
@@ -91,7 +91,7 @@ Want to start reading cards or tea leaves but don't know where to begin? You don
 
 **Try it if:** You're a reader who connects deeply with written words. The best books for bibliomancy have layered meanings you can read multiple ways.
 
-**eBook available:** [Bibliomancy: The Complete Guide](https://ko-fi.com/s/71bb6a9240?utm_source=website) for $1.99
+**eBook available:** [Bibliomancy: The Complete Guide](https://ko-fi.com/s/71bb6a9240?utm_source=website){:target="_blank" rel="noopener noreferrer"} for $1.99
 
 ## 6. Charm Casting
 
@@ -153,12 +153,12 @@ You can mix methods. Use tarot for big decisions, dice for quick confirmation. O
 
 I wrote complete guides for five methods:
 
-- [Learn Tarot](https://ko-fi.com/s/8f56e7fcd8?utm_source=website) for 99¢, and [Beyond the Little White Book: A Zine for Tarot Interpretation and Intuitive Reading for Beginners](https://ko-fi.com/s/f24c63dba8?utm_source=website) for 99¢
-- [Shuffle, Draw, Discover: Playing card divination](https://ko-fi.com/s/95f9c29692?utm_source=website) ($0.99)
-- [Brewing Insights: Tea leaf reading](https://ko-fi.com/s/16c793f6af?utm_source=website) ($0.99)
-- [Three Dice Destiny: Dice divination](https://ko-fi.com/s/ff7d47ded3?utm_source=website) ($0.99)
-- [Bibliomancy: The Complete Guide](https://ko-fi.com/s/71bb6a9240?utm_source=website) ($1.99)
+- [Learn Tarot](https://ko-fi.com/s/8f56e7fcd8?utm_source=website){:target="_blank" rel="noopener noreferrer"} for 99¢, and [Beyond the Little White Book: A Zine for Tarot Interpretation and Intuitive Reading for Beginners](https://ko-fi.com/s/f24c63dba8?utm_source=website){:target="_blank" rel="noopener noreferrer"} for 99¢
+- [Shuffle, Draw, Discover: Playing card divination](https://ko-fi.com/s/95f9c29692?utm_source=website){:target="_blank" rel="noopener noreferrer"} ($0.99)
+- [Brewing Insights: Tea leaf reading](https://ko-fi.com/s/16c793f6af?utm_source=website){:target="_blank" rel="noopener noreferrer"} ($0.99)
+- [Three Dice Destiny: Dice divination](https://ko-fi.com/s/ff7d47ded3?utm_source=website){:target="_blank" rel="noopener noreferrer"} ($0.99)
+- [Bibliomancy: The Complete Guide](https://ko-fi.com/s/71bb6a9240?utm_source=website){:target="_blank" rel="noopener noreferrer"} ($1.99)
 
-All five guides cost under $7 total at [ko-fi/juniperdivination](https://ko-fi.com/juniperdivination?utm_source=website)
+All five guides cost under $7 total at [ko-fi/juniperdivination](https://ko-fi.com/juniperdivination?utm_source=website){:target="_blank" rel="noopener noreferrer"}
 
 The best divination method is whichever one you'll use. Pick what calls to you. You can learn others later. Each method teaches something different about reading symbols and trusting your instincts.

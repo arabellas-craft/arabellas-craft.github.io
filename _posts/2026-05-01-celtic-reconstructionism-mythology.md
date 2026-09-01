@@ -18,7 +18,7 @@ Celtic Reconstructionism starts with a claim that sounds simple: the gods are re
 
 The CR FAQ divides sources into primary, secondary, and tertiary.[^1] Primary material is the manuscripts and folklore recorded directly from living tradition. Secondary is scholarship: translations, academic analysis, critical editions. Tertiary is books and articles that use on primary and secondary sources.
 
-The hierarchy is about traceability. If you're working with the Dagda, your understanding of him comes from direct translations of texts like the *[Cath Maige Tuired](https://celt.ucc.ie/published/T300011/index.html)* and *[Lebor Gabála Érenn](https://archive.org/details/LeborGablarennTheBookOfTheTakingOfIreland-Volume21939)*. Secondary scholarship like *[Gods and Heroes of the Celts](https://bookshop.org/a/84772/9780486414416)* by Marie-Louise Sjoestedt is useful for context.
+The hierarchy is about traceability. If you're working with the Dagda, your understanding of him comes from direct translations of texts like the *[Cath Maige Tuired](https://celt.ucc.ie/published/T300011/index.html){:target="_blank" rel="noopener noreferrer"}* and *[Lebor Gabála Érenn](https://archive.org/details/LeborGablarennTheBookOfTheTakingOfIreland-Volume21939){:target="_blank" rel="noopener noreferrer"}*. Secondary scholarship like *[Gods and Heroes of the Celts](https://bookshop.org/a/84772/9780486414416){:target="_blank" rel="noopener noreferrer"}* by Marie-Louise Sjoestedt is useful for context.
 
 Much of the written record, including *Lebor Gabála Érenn*, contains internal contradictions. CR treats this as evidence that the tradition was always alive and contested, not a fixed revealed truth.
 
@@ -58,11 +58,11 @@ Working with Ériu or the Morrígan in their sovereignty aspects means engaging 
 
 ## What Belief Looks Like
 
-Whether the ancient Irish wholly believed their myths the way a modern person believes a news report is unanswerable. Their literary tradition was sophisticated and self-conscious: the *filid* reworked myths across generations. Paul Veyne's *[Did the Greeks Believe in Their Myths?](https://bookshop.org/a/84772/9780226854342)* offers a useful framework for how ancient peoples could hold myth as simultaneously sacred, historical, and poetic without contradiction.
+Whether the ancient Irish wholly believed their myths the way a modern person believes a news report is unanswerable. Their literary tradition was sophisticated and self-conscious: the *filid* reworked myths across generations. Paul Veyne's *[Did the Greeks Believe in Their Myths?](https://bookshop.org/a/84772/9780226854342){:target="_blank" rel="noopener noreferrer"}* offers a useful framework for how ancient peoples could hold myth as simultaneously sacred, historical, and poetic without contradiction.
 
 For CR practitioners, the question isn't whether you accept the *Lebor Gabála Érenn* as historical fact before approaching the gods. The myths provide a framework for knowing who these beings are, what they value, and what a right relationship with them looks like. That framework is what CR asks you to engage with.
 
 ---
 
-[^1]: [CR FAQ](http://paganachd.com)
-[^2]: *[Celtic Mythology](https://archive.org/details/celticmythology00macc)* by Proinsias Mac Cana
+[^1]: [CR FAQ](http://paganachd.com){:target="_blank" rel="noopener noreferrer"}
+[^2]: *[Celtic Mythology](https://archive.org/details/celticmythology00macc){:target="_blank" rel="noopener noreferrer"}* by Proinsias Mac Cana

@@ -11,7 +11,7 @@ permalink: /st-patricks-day-irish-customs-folklore
 ---
 Most people picture St. Patrick's Day as green beer, parades, and plastic leprechauns. The pagan corner of the internet has its own version of this false image: a day of mourning for Druid genocide, observed in black. Neither of those has much to do with what Irish people historically have done on March 17th (if you want the full case against the "Druids as snakes" myth before reading this, start with the [previous article](/all-snakes-day-myth-st-patrick-druids)).
 
-Kevin Danaher writes in his book *The Year in Ireland* that compared to May Day or Christmas, St. Patrick's Day had "few and meagre" traditional customs. What existed was specific, local, and tied to the church calendar and the farming year. The [Dúchas Schools' Collection](https://www.duchas.ie/en/cbes/volumes) — folklore recorded by Irish schoolchildren from community elders in 1937–39 — confirm this.
+Kevin Danaher writes in his book *The Year in Ireland* that compared to May Day or Christmas, St. Patrick's Day had "few and meagre" traditional customs. What existed was specific, local, and tied to the church calendar and the farming year. The [Dúchas Schools' Collection](https://www.duchas.ie/en/cbes/volumes){:target="_blank" rel="noopener noreferrer"} — folklore recorded by Irish schoolchildren from community elders in 1937–39 — confirm this.
 
 ## Drowning the Shamrock
 
@@ -23,9 +23,9 @@ The *Journal of the Kildare Archaeological Society* in 1908 was at pains to poin
 
 One Dúchas entry captures the social side of it:
 > If an old man met another man, he asked him if he had his 'Patrick's Pot' yet. This meant had he a 'pint' yet that day. If he had not, both would have one then.
-<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4921914/4900202/5168536)</cite>
+<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4921914/4900202/5168536){:target="_blank" rel="noopener noreferrer"}</cite>
 
-In practice, it seems the drinking rarely stopped at one pot.<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4770049/4769205/5015041),[duchas.ie](https://www.duchas.ie/ga/cbes/4428056/4373275/4467019)</cite> By the time the Dúchas records were written, the custom had been officially suppressed. The government had closed the pubs on St. Patrick's Day, and many entries describe it in the past tense.
+In practice, it seems the drinking rarely stopped at one pot.<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4770049/4769205/5015041){:target="_blank" rel="noopener noreferrer"},[duchas.ie](https://www.duchas.ie/ga/cbes/4428056/4373275/4467019){:target="_blank" rel="noopener noreferrer"}</cite> By the time the Dúchas records were written, the custom had been officially suppressed. The government had closed the pubs on St. Patrick's Day, and many entries describe it in the past tense.
 
 Danaher cites Fitzgerald and M'Gregor's *History of Limerick*, which records the holiday beginning "with numerous acts of devotion at a well dedicated to the saint" and ending "with copious libations to his memory."
 
@@ -43,12 +43,12 @@ While the type of wood that is used (sally/willow, furze, and hazel all appear i
 
 One account from County Cork:
 > While I remember, and to this day my father brings in a bit of a sally stick every St. Patrick's morning, puts one end in the fire to blacken it, and with the burnt end makes a cross on the right sleeve of his coat and on the sleeve of each member of the family in honour of St. Patrick.
-<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4921824/4909533/5184392)</cite>
+<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4921824/4909533/5184392){:target="_blank" rel="noopener noreferrer"}</cite>
 
 Another recalls their mother performing it:
-> When I was a school boy I remember my mother on St Patrick’s day, getting a sally or willow, put it into the fire until the end of it became ignited, then putting out the flame and making on the right shoulder of every member of the family the sign of the cross with the blackened or burned end of the stick. <cite>[duchas.ie](https://www.duchas.ie/ga/cbes/4922103/4852435/4948488)</cite>
+> When I was a school boy I remember my mother on St Patrick’s day, getting a sally or willow, put it into the fire until the end of it became ignited, then putting out the flame and making on the right shoulder of every member of the family the sign of the cross with the blackened or burned end of the stick. <cite>[duchas.ie](https://www.duchas.ie/ga/cbes/4922103/4852435/4948488){:target="_blank" rel="noopener noreferrer"}</cite>
 
-While these entries describe it as an on-going or at least very recent practice, other entries say that it happened "long ago"<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4687714/4686473/4689734)</cite> or say that it is a "custom which is fast dying out"<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4428107/4378906/4460314)</cite>
+While these entries describe it as an on-going or at least very recent practice, other entries say that it happened "long ago"<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4687714/4686473/4689734){:target="_blank" rel="noopener noreferrer"}</cite> or say that it is a "custom which is fast dying out"<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4428107/4378906/4460314){:target="_blank" rel="noopener noreferrer"}</cite>
 
 Of all the customs in this article, I think this is the strongest candidate for revival by modern pagans interested in Irish tradition. It requires nothing expensive or hard to source and the gesture is tactile and specific.
 
@@ -61,9 +61,9 @@ Danaher writes "St Patrick's day was generally taken as the middle day of Spring
 St. Patrick's Day was also when farmers bought their seed. One Dúchas record describes:
 
 > It was a great day for the publican and seed merchant. It was a custom for the farmers to buy all the seed they needed on St Patrick's Day.
-<cite>[duchas.ie](https://www.duchas.ie/en/cbes/5008837/4959927/5076903)</cite>
+<cite>[duchas.ie](https://www.duchas.ie/en/cbes/5008837/4959927/5076903){:target="_blank" rel="noopener noreferrer"}</cite>
 
-One Irish-language Dúchas entry connects the feast to the sowing more concretely: a spark from St. Patrick's fire at Cnoc Sláine (the Hill of Slane) was placed in a bag of oats to bless the spring planting.<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4562118/4561068/4562248)</cite> The narrator notes the people had no reason for it except belief — "sin é an chreid a bhí acú." A piece of practical folk magic attached to the feast day.
+One Irish-language Dúchas entry connects the feast to the sowing more concretely: a spark from St. Patrick's fire at Cnoc Sláine (the Hill of Slane) was placed in a bag of oats to bless the spring planting.<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4562118/4561068/4562248){:target="_blank" rel="noopener noreferrer"}</cite> The narrator notes the people had no reason for it except belief — "sin é an chreid a bhí acú." A piece of practical folk magic attached to the feast day.
 
 ## Everything Else
 

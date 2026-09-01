@@ -75,7 +75,7 @@ CR ritual centers on prayer, offering, and hospitality. Daily devotional practic
 
 Offerings are simple: milk, ale, mead, hazelnuts, wine, apples, oats, butter, pork. All are well-attested in the mythology and folklore as preferred by gods and spirits.[^3] Nothing needs to be sourced from a specialty shop. Regular, modest practice carries more weight than an elaborate occasional ritual that rarely happens.
 
-Reciprocity is the underlying concept. Offerings are expressions of ongoing relationship, not transactions. *Flaithiúlacht* ([FLAH-hyoo-lacht](https://www.teanglann.ie/en/fuaim/Flaithi%c3%balacht)), meaning hospitality, is both a social virtue and a ritual one in Irish tradition. Laurie puts it plainly: "In the Celtic world, hospitality is a sacred duty."[^3]
+Reciprocity is the underlying concept. Offerings are expressions of ongoing relationship, not transactions. *Flaithiúlacht* ([FLAH-hyoo-lacht](https://www.teanglann.ie/en/fuaim/Flaithi%c3%balacht){:target="_blank" rel="noopener noreferrer"}), meaning hospitality, is both a social virtue and a ritual one in Irish tradition. Laurie puts it plainly: "In the Celtic world, hospitality is a sacred duty."[^3]
 
 ## Ethics: Where CR Draws Its Moral Framework
 
@@ -106,10 +106,10 @@ The next article in this series will cover the gods themselves: who the Tuatha D
 
 ---
 
-[^1]: [CR FAQ](http://paganachd.com)
-[^2]: *[Celtic Gods and Heroes](https://bookshop.org/a/84772/9780486414416)* by Marie-Louise Sjoestedt
-[^3]: *[A Circle of Stones: Journeys and Meditations for Modern Celts](https://bookshop.org/a/84772/9781536558241)* by Erynn Rowan Laurie
-[^4]: *[The Origins of the Irish](https://bookshop.org/a/84772/9780500293300)* by J. P. Mallory
+[^1]: [CR FAQ](http://paganachd.com){:target="_blank" rel="noopener noreferrer"}
+[^2]: *[Celtic Gods and Heroes](https://bookshop.org/a/84772/9780486414416){:target="_blank" rel="noopener noreferrer"}* by Marie-Louise Sjoestedt
+[^3]: *[A Circle of Stones: Journeys and Meditations for Modern Celts](https://bookshop.org/a/84772/9781536558241){:target="_blank" rel="noopener noreferrer"}* by Erynn Rowan Laurie
+[^4]: *[The Origins of the Irish](https://bookshop.org/a/84772/9780500293300){:target="_blank" rel="noopener noreferrer"}* by J. P. Mallory
 
-[^5]: [Wikipedia: Early Irish Law](https://en.wikipedia.org/wiki/Early_Irish_law)
-[^6]: [The Honor Price in Brehon Law](https://thewildgeese.irish/profiles/blogs/the-honor-price-in-brehon-law)
+[^5]: [Wikipedia: Early Irish Law](https://en.wikipedia.org/wiki/Early_Irish_law){:target="_blank" rel="noopener noreferrer"}
+[^6]: [The Honor Price in Brehon Law](https://thewildgeese.irish/profiles/blogs/the-honor-price-in-brehon-law){:target="_blank" rel="noopener noreferrer"}

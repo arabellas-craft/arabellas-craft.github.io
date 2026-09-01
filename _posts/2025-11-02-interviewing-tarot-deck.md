@@ -14,7 +14,7 @@ You've just unboxed a gorgeous new tarot deck. The artwork is stunning, the card
 
 I know "interviewing your deck" sounds mystical; like you're having a conversation with sentient cardboard. But here's the practical truth: a deck interview is a structured reading that helps you understand how your brain responds to this specific deck's visual language. It's less about the deck having a personality and more about discovering how your intuition translates this particular collection of images into useful information.
 
-In this article, I'll explain why deck interviews are worth your time and share a simple three-card spread to get you started. If you want even more options, you can grab my free download with [5 tarot spreads for interviewing your new tarot deck](https://ko-fi.com/s/6294b549e5).
+In this article, I'll explain why deck interviews are worth your time and share a simple three-card spread to get you started. If you want even more options, you can grab my free download with [5 tarot spreads for interviewing your new tarot deck](https://ko-fi.com/s/6294b549e5){:target="_blank" rel="noopener noreferrer"}.
 
 ## What Is a Deck Interview?
 
@@ -61,7 +61,7 @@ Keep your interpretations focused on practical application, and write down your 
 
 ### Want More Interview Spread Options?
 
-This three-card spread is a great starting point, but different decks might call for different questions. Some readers prefer more detailed interviews that explore specific topics like the deck's weaknesses, ideal reading environments, or what the deck needs from you as a reader. If you'd like to experiment with other approaches, I've created a free resource with five different interview spreads you can try: [5 Tarot Spreads for Interviewing Your Tarot Deck](https://ko-fi.com/s/6294b549e5). Each spread offers a different perspective on getting to know your cards.
+This three-card spread is a great starting point, but different decks might call for different questions. Some readers prefer more detailed interviews that explore specific topics like the deck's weaknesses, ideal reading environments, or what the deck needs from you as a reader. If you'd like to experiment with other approaches, I've created a free resource with five different interview spreads you can try: [5 Tarot Spreads for Interviewing Your Tarot Deck](https://ko-fi.com/s/6294b549e5){:target="_blank" rel="noopener noreferrer"}. Each spread offers a different perspective on getting to know your cards.
 
 ## Addressing Common Concerns
 

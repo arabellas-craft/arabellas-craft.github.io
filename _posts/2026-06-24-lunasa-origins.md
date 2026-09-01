@@ -24,7 +24,7 @@ Scholar Dáithí Ó hÓgáin reads the myth of Lugh's defeat of his grandfather 
 
 The medieval tradition places Lugh's great assembly site (called an óenach in Irish) at Tailtiu (Teltown, Co. Meath), held each year at the start of August.[^1][^2] The óenach combined horse-racing, games, and trade with legal and political business.[^2][^4]
 
-In the medieval telling Tailtiu, of the Fir Bolg, cleared the forested plain of Breg into farmland and then died of exhaustion, and her foster-son Lugh founded the feast in her honor (learn more in [this episode](https://www.youtube.com/watch?v=QgOLQBZs__U) of The Candlelit Tales).[^5] The mythology makes the harvest conditional on keeping that feast: as long as it's held, there will be corn and milk in every house and fair weather over it.[^5]
+In the medieval telling Tailtiu, of the Fir Bolg, cleared the forested plain of Breg into farmland and then died of exhaustion, and her foster-son Lugh founded the feast in her honor (learn more in [this episode](https://www.youtube.com/watch?v=QgOLQBZs__U){:target="_blank" rel="noopener noreferrer"} of The Candlelit Tales).[^5] The mythology makes the harvest conditional on keeping that feast: as long as it's held, there will be corn and milk in every house and fair weather over it.[^5]
 
 But how old that story is remains unclear,[^2] and Jeffrey Gantz suggests the harvest festival itself may be a late addition to the Irish calendar, since in a herding economy the year's real turn came nearer Samhain.[^3] In early Ireland the economy leaned on herding more than tillage,[^3] and the year turned on the movement of cattle, driven up to the summer pastures around May Day and brought back down at the end of October.[^10] All of which points to a festival built on the grain harvest being a later addition.[^3]
 
@@ -53,12 +53,12 @@ Put the pieces together and Lúnasa reads less like a single festival than a sta
 Two companion articles carry this further: one on [Crom Dubh](/crom-dubh-lughnasadh), the pagan figure whose "Sunday" the day became, and one on the [folk customs of Lúnasa](/lunasa-folk-traditions) that lasted into living memory. For the wider frame, see the [four cycles of Irish mythology](/irish-mythology-four-cycles) and the [introduction to Celtic Reconstructionism](/celtic-reconstructionism-introduction-guide).
 
 ---
-[^1]: *[The Sacred Isle: Belief and Religion in Pre-Christian Ireland](https://bookshop.org/a/84772/9780851158563)* by Dáithí Ó hÓgáin
-[^2]: *[Ireland's Immortals: A History of the Gods of Irish Myth](https://bookshop.org/a/84772/9780691183046)* by Mark Williams
-[^3]: *[Early Irish Myths and Sagas](https://bookshop.org/a/84772/9780140443974)* by Jeffrey Gantz
-[^4]: "[Teltown: An Ancient Assembly Site in County Meath](https://www.jstor.org/stable/45128578)" by Leo Swan
-[^5]: *[Celtic Gods and Heroes](https://bookshop.org/a/84772/9780486414416)* by Marie-Louise Sjoestedt
-[^6]: *[The Year in Ireland](https://bookshop.org/a/84772/9781856350938)* by Kevin Danaher
-[^7]: "[Trespass and Building in the Lughnasa Legends](https://www.jstor.org/stable/25509584)" by Máire MacNeill
-[^8]: "[Prehistoric Pilgrimage to Croagh Patrick](https://www.jstor.org/stable/20562350)" by Chris Corlett
-[^10]: *[Irish Customs and Beliefs](https://bookshop.org/a/84772/9781856354424)* by Kevin Danaher
+[^1]: *[The Sacred Isle: Belief and Religion in Pre-Christian Ireland](https://bookshop.org/a/84772/9780851158563){:target="_blank" rel="noopener noreferrer"}* by Dáithí Ó hÓgáin
+[^2]: *[Ireland's Immortals: A History of the Gods of Irish Myth](https://bookshop.org/a/84772/9780691183046){:target="_blank" rel="noopener noreferrer"}* by Mark Williams
+[^3]: *[Early Irish Myths and Sagas](https://bookshop.org/a/84772/9780140443974){:target="_blank" rel="noopener noreferrer"}* by Jeffrey Gantz
+[^4]: "[Teltown: An Ancient Assembly Site in County Meath](https://www.jstor.org/stable/45128578){:target="_blank" rel="noopener noreferrer"}" by Leo Swan
+[^5]: *[Celtic Gods and Heroes](https://bookshop.org/a/84772/9780486414416){:target="_blank" rel="noopener noreferrer"}* by Marie-Louise Sjoestedt
+[^6]: *[The Year in Ireland](https://bookshop.org/a/84772/9781856350938){:target="_blank" rel="noopener noreferrer"}* by Kevin Danaher
+[^7]: "[Trespass and Building in the Lughnasa Legends](https://www.jstor.org/stable/25509584){:target="_blank" rel="noopener noreferrer"}" by Máire MacNeill
+[^8]: "[Prehistoric Pilgrimage to Croagh Patrick](https://www.jstor.org/stable/20562350){:target="_blank" rel="noopener noreferrer"}" by Chris Corlett
+[^10]: *[Irish Customs and Beliefs](https://bookshop.org/a/84772/9781856354424){:target="_blank" rel="noopener noreferrer"}* by Kevin Danaher

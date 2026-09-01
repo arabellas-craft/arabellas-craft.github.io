@@ -27,14 +27,14 @@ Everything on the public site is free to read.
 
 My longer teaching material lives on Ko-fi as zines and ebooks. Each one is a full walk-through of a single practice, the kind of thing I wanted when I was starting out.
 
-- *[Beyond the Little White Book](https://ko-fi.com/s/f24c63dba8)* — tarot interpretation and intuitive reading for beginners
-- *[Shuffle, Draw, Discover](https://ko-fi.com/s/95f9c29692)* — playing card divination
-- *[Dice Divination](https://ko-fi.com/s/ff7d47ded3)* — a beginner-friendly guide to astragalomancy
-- *[Tea Leaf Reading](https://ko-fi.com/s/16c793f6af)* — tasseography from the cup up
-- *[Learn Book Divination](https://ko-fi.com/s/71bb6a9240)* — bibliomancy with the books you already own
-- *[Ogham Reference Guide](https://ko-fi.com/s/5c3b7f6070)* - an overview of Ogham's history and each feda
+- *[Beyond the Little White Book](https://ko-fi.com/s/f24c63dba8){:target="_blank" rel="noopener noreferrer"}* — tarot interpretation and intuitive reading for beginners
+- *[Shuffle, Draw, Discover](https://ko-fi.com/s/95f9c29692){:target="_blank" rel="noopener noreferrer"}* — playing card divination
+- *[Dice Divination](https://ko-fi.com/s/ff7d47ded3){:target="_blank" rel="noopener noreferrer"}* — a beginner-friendly guide to astragalomancy
+- *[Tea Leaf Reading](https://ko-fi.com/s/16c793f6af){:target="_blank" rel="noopener noreferrer"}* — tasseography from the cup up
+- *[Learn Book Divination](https://ko-fi.com/s/71bb6a9240){:target="_blank" rel="noopener noreferrer"}* — bibliomancy with the books you already own
+- *[Ogham Reference Guide](https://ko-fi.com/s/5c3b7f6070){:target="_blank" rel="noopener noreferrer"}* - an overview of Ogham's history and each feda
 
-[Browse my shop to see them all→](https://ko-fi.com/juniperdivination/shop)
+[Browse my shop to see them all→](https://ko-fi.com/juniperdivination/shop){:target="_blank" rel="noopener noreferrer"}
 
 Buying a zine keeps the free library and my other articles free.
 

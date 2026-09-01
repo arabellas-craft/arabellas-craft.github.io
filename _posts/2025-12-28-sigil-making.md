@@ -141,6 +141,7 @@ Whether you frame this as subconscious programming or sending intentions into th
 
 Sigils are one piece of a larger practice. The articles below build on each other in roughly the order you'd want to read them:
 
+- [Chaos magic for the curious: an introduction](/what-is-chaos-magic) — what the practice is, who it's for, and what you need to start (nothing)
 - [Core philosophy: belief as a tool](/chaos-magic-belief-as-tool) — the idea that makes chaos magic distinct from other practices
 - [Gnosis techniques](/gnosis-techniques-chaos-magic) — practical methods for reaching the altered state sigils need
 - [Chaos magic terms explained](/chaos-magic-terms-explained) — glossary for *firing*, *lust for results*, *banishing*, and everything else you'll run into

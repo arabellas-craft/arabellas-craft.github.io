@@ -10,11 +10,11 @@ img: samhain-myths.jpg
 permalink: /halloween-origins-samhain-claims
 ---
 
-There are many things you'll hear repeated in popular explainers on Samhain (pronounced [SAH-win](https://www.teanglann.ie/en/fuaim/Samhain)). The veil between worlds is at its thinnest. The Celts believed the dead came back that night. Samhain was the Celtic New Year. People wore disguises so the spirits wouldn't know them. The Church put All Saints' Day on 1 November to cover the festival up.
+There are many things you'll hear repeated in popular explainers on Samhain (pronounced [SAH-win](https://www.teanglann.ie/en/fuaim/Samhain){:target="_blank" rel="noopener noreferrer"}). The veil between worlds is at its thinnest. The Celts believed the dead came back that night. Samhain was the Celtic New Year. People wore disguises so the spirits wouldn't know them. The Church put All Saints' Day on November 1st to cover the festival up.
 
 Most of them have something real underneath, which is why they've traveled so well. The popular version mostly goes wrong on the dates (like when the dead return) and the reasons (why disguises are worn).
 
-This article follows the Irish sources to trace back these customs. For the medieval tales I use Jeffrey Gantz's translation,[^1] and Mark Williams on the gods in that literature.[^2] For the folk record I use Kevin Danaher's *The Year in Ireland* (1972)[^3] and the [Dúchas Schools' Collection](https://duchas.ie), gathered in 1937–39. For the history of the claims themselves I use Robert Davis on Halloween as a Christian festival,[^7] and Ronald Hutton, both his *Stations of the Sun* (1996) and his 2024 article in *Folklore*.[^4][^5]
+This article follows the Irish sources to trace back these customs. For the medieval tales I use Jeffrey Gantz's translation,[^1] and Mark Williams on the gods in that literature.[^2] For the folk record I use Kevin Danaher's *The Year in Ireland* (1972)[^3] and the [Dúchas Schools' Collection](https://duchas.ie){:target="_blank" rel="noopener noreferrer"}, gathered in 1937–39. For the history of the claims themselves I use Robert Davis on Halloween as a Christian festival,[^7] and Ronald Hutton, both his *Stations of the Sun* (1996) and his 2024 article in *Folklore*.[^4][^5]
 
 ## The Thin Veil: The Barrier Is Old, the Thinning Night Isn't
 
@@ -27,6 +27,8 @@ The tales treat that divide as constant. Williams describes a fourteenth-century
 The early sources do show Samhain as a busy time in the Otherworld. Hutton describes it in the medieval literature as a time "when supernatural and superhuman beings were especially active, and inclined to interfere with humans." He names *Mesca Ulaid*, "The Intoxication of the Ulaid," and *Echtra Nerai*, "The Adventure of Nera," alongside the two tales above as examples.[^5]
 
 The earliest source I can find mentioning the thinning barrier at Samhain is Marie-Louise Sjoestedt's Celtic Gods and Heroes, which puts the barrier, the date and the New Year into one passage. The two worlds are "distinct and mutually almost impervious," but "there is a time when the invisible magic partition which separates them is withdrawn... This happens during the night of Samhain (from the thirty-first of October to the first of November), the eve of the Celtic New Year."[^6]
+
+{% include article-kofi-callout.html %}
 
 ## The Returning Dead: In the Folk Record, They Come as the Holy Souls
 The dead do come back in the Irish folk record. But they come on All Souls' Night, November 2nd, and they come as Christian souls let out of Purgatory for the night.
@@ -61,7 +63,7 @@ John O'Donovan, the Irish scholar who translated the Annals of the Four Masters,
 
 Forty years later, Sir John Rhys, the first professor of Celtic at Oxford, took it up in lectures published in 1892. He brought in Halloween divination from Ireland and Wales, plus the story of a bonfire at Tlachtga, a hill in Co. Meath, that all Ireland's fires were relit from. In 1901 he added folklore he'd collected on the Isle of Man. Leases there ended in late October, and an old man remembered a farmer telling him Halloween had once been New Year's Eve. By 1905 Rhys could call it a proven fact.[^5]
 
-Davis has a plainer reading of the Manx material. Those Halloween revels look like 1 January games copied onto a second night for extra fun. That happens often enough in festive culture.[^7]
+Davis has a plainer reading of the Manx material. Those Halloween revels look like January 1st games copied onto a second night for extra fun. That happens often enough in festive culture.[^7]
 
 Frazer picked up the New Year and used it to prop up his feast of the dead. Twelve years later he used the feast of the dead to prop up the New Year.[^5] Each claim was serving as the evidence for the other. After that it circulated on its own. Hutton lists four respected scholars restating it in the 1990s with nothing behind it:
 
@@ -69,7 +71,7 @@ Frazer picked up the New Year and used it to prop up his feast of the dead. Twel
 
 His verdict is that the evidence "is all indirect, speculative, and inconclusive." The claim, he says, "should no longer be restated as proven fact."[^5]
 
-The Irish new-year customs that do survive in the folk record are on 1 January, and I've written them up: the first footing, the cake against hunger, the wind-watching of [Lá Coille](/irish-new-year-folk-magic-la-coille). The farming year turned on 1 February. The legal year began on 25 March until 1751. Ireland had several year-starts on record, and Samhain isn't among them.
+The Irish new-year customs that do survive in the folk record are on January 1st, and I've written them up: the first footing, the cake against hunger, the wind-watching of [Lá Coille](/irish-new-year-folk-magic-la-coille). The farming year turned on February 1st. The legal year began on March 25th until 1751. Ireland had several year-starts on record, and Samhain isn't among them.
 
 ## The Disguises: The Custom Is Recorded, and It Was About Charity
 
@@ -119,15 +121,15 @@ Hutton has done more than anyone to take these claims apart, and he stops short 
 
 None of this is a reason to mark the day differently. The folk record gives you something more specific than the usual story: souls out of Purgatory, a fire kept in, a house made ready for whoever might call. The customs are old. What's recent is the explanation stacked on top of them.
 
-[^1]: *[Early Irish Myths and Sagas](https://bookshop.org/a/84772/9780140443974)*, translated by Jeffrey Gantz
-[^2]: *[Ireland's Immortals: A History of the Gods of Irish Myth](https://bookshop.org/a/84772/9780691183046)* by Mark Williams
-[^3]: *[The Year in Ireland](https://bookshop.org/a/84772/9781856350938)* by Kevin Danaher
-[^4]: *[The Stations of the Sun: A History of the Ritual Year in Britain](https://bookshop.org/a/84772/9780192854483)* by Ronald Hutton
-[^5]: Ronald Hutton, "[The Celtic New Year and Feast of the Dead](https://doi.org/10.1080/0015587X.2023.2282282)," *Folklore* 135, no. 1 (2024): 69–86
-[^6]: *[Celtic Gods and Heroes](https://bookshop.org/a/84772/9780486414416)* by Marie-Louise Sjoestedt, chapter 5, "The Feast of the First of November"
-[^7]: Robert A. Davis, "Escaping Through Flames: Halloween as a Christian Festival," in *[Treat or Trick? Halloween in a Globalising World](https://archive.org/details/treatortrickhall0000unse)*, edited by Malcolm Foley and Hugh O'Donnell (Cambridge Scholars Publishing, 2009), 28–44
-[^8]: Dúchas Schools' Collection: [All Souls' Night, Leitir Mhór, Co. Donegal](https://www.duchas.ie/en/cbes/4428296/4392249/4480231)
-[^9]: Dúchas Schools' Collection: [All Souls' Night, Boireann, Co. Cork](https://www.duchas.ie/en/cbes/4921642/4887311/5153047)
-[^10]: Dúchas Schools' Collection: [Halloween Night, Droichead an Chláirín, Co. Galway](https://www.duchas.ie/en/cbes/4569045/4566459/4574771)
-[^11]: *[The Sacred Isle: Belief and Religion in Pre-Christian Ireland](https://bookshop.org/a/84772/9780851158563)* by Dáithí Ó hÓgáin
-[^12]: [Hallowe'en / Samhain](https://www.museum.ie/en-ie/collections-research/folklife-collections/folklife-collections-list-(1)/religion-and-calendar-customs/hallowe-en-samhain), Folklife Collections, National Museum of Ireland
+[^1]: *[Early Irish Myths and Sagas](https://bookshop.org/a/84772/9780140443974){:target="_blank" rel="noopener noreferrer"}*, translated by Jeffrey Gantz
+[^2]: *[Ireland's Immortals: A History of the Gods of Irish Myth](https://bookshop.org/a/84772/9780691183046){:target="_blank" rel="noopener noreferrer"}* by Mark Williams
+[^3]: *[The Year in Ireland](https://bookshop.org/a/84772/9781856350938){:target="_blank" rel="noopener noreferrer"}* by Kevin Danaher
+[^4]: *[The Stations of the Sun: A History of the Ritual Year in Britain](https://bookshop.org/a/84772/9780192854483){:target="_blank" rel="noopener noreferrer"}* by Ronald Hutton
+[^5]: Ronald Hutton, "[The Celtic New Year and Feast of the Dead](https://doi.org/10.1080/0015587X.2023.2282282){:target="_blank" rel="noopener noreferrer"}," *Folklore* 135, no. 1 (2024): 69–86
+[^6]: *[Celtic Gods and Heroes](https://bookshop.org/a/84772/9780486414416){:target="_blank" rel="noopener noreferrer"}* by Marie-Louise Sjoestedt, chapter 5, "The Feast of the First of November"
+[^7]: Robert A. Davis, "Escaping Through Flames: Halloween as a Christian Festival," in *[Treat or Trick? Halloween in a Globalising World](https://archive.org/details/treatortrickhall0000unse){:target="_blank" rel="noopener noreferrer"}*, edited by Malcolm Foley and Hugh O'Donnell (Cambridge Scholars Publishing, 2009), 28–44
+[^8]: Dúchas Schools' Collection: [All Souls' Night, Leitir Mhór, Co. Donegal](https://www.duchas.ie/en/cbes/4428296/4392249/4480231){:target="_blank" rel="noopener noreferrer"}
+[^9]: Dúchas Schools' Collection: [All Souls' Night, Boireann, Co. Cork](https://www.duchas.ie/en/cbes/4921642/4887311/5153047){:target="_blank" rel="noopener noreferrer"}
+[^10]: Dúchas Schools' Collection: [Halloween Night, Droichead an Chláirín, Co. Galway](https://www.duchas.ie/en/cbes/4569045/4566459/4574771){:target="_blank" rel="noopener noreferrer"}
+[^11]: *[The Sacred Isle: Belief and Religion in Pre-Christian Ireland](https://bookshop.org/a/84772/9780851158563){:target="_blank" rel="noopener noreferrer"}* by Dáithí Ó hÓgáin
+[^12]: [Hallowe'en / Samhain](https://www.museum.ie/en-ie/collections-research/folklife-collections/folklife-collections-list-(1){:target="_blank" rel="noopener noreferrer"}/religion-and-calendar-customs/hallowe-en-samhain), Folklife Collections, National Museum of Ireland

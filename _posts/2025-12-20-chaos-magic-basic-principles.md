@@ -11,7 +11,7 @@ permalink: chaos-magic-belief-as-tool
 
 Chaos magic treats belief as something you can pick up, use, and put back down.
 
-This single idea explains what makes chaos magic different. If belief is just a tool, you don't need to hold any particular belief permanently. You can borrow techniques from other traditions, test frameworks you're not sure about, and judge everything by whether it works.
+This single idea explains what makes chaos magic different. If belief is just a tool, you don't need to hold any particular belief permanently. You can borrow techniques from other traditions, test frameworks you're not sure about, and judge everything by whether it works. This is the foundation, not the starting line — if you haven't met the practice yet, [start with the introduction](/what-is-chaos-magic).
 
 ## Picking Up and Putting Down Belief
 
@@ -29,7 +29,7 @@ Instead of asking "Is this belief true?" you ask "Is this belief useful right no
 
 You'll encounter this phrase in chaos magic circles.
 
-The phrase is attributed to [Hassan-i Sabbah](https://en.wikipedia.org/wiki/Hasan-i_Sabbah), an 11th century founder of the Nizari Ismaili state, though the attribution is probably apocryphal. It entered Western consciousness through Friedrich Nietzsche, then William S. Burroughs, and eventually chaos magicians adopted it.
+The phrase is attributed to [Hassan-i Sabbah](https://en.wikipedia.org/wiki/Hasan-i_Sabbah){:target="_blank" rel="noopener noreferrer"}, an 11th century founder of the Nizari Ismaili state, though the attribution is probably apocryphal. It entered Western consciousness through Friedrich Nietzsche, then William S. Burroughs, and eventually chaos magicians adopted it.
 
 It means: no belief system has a monopoly on truth, so you're free to work with any of them. "Permitted" doesn't mean "without consequences." It means you're not metaphysically locked into one system.
 

@@ -17,7 +17,7 @@ You don't need to buy anything to start. The guides to [bibliomancy](/bibliomanc
 
 **Support This Work**
 
-Every guide and article here is free, with no sign-ups and no paywalls. If these have been useful, you can [support me on Ko-fi](https://ko-fi.com/juniperdivination/donate). It's never expected, but it helps me keep making free resources.
+Every guide and article here is free, with no sign-ups and no paywalls. If these have been useful, you can [support me on Ko-fi](https://ko-fi.com/juniperdivination/donate){:target="_blank" rel="noopener noreferrer"}. It's never expected, but it helps me keep making free resources.
 
 <div class="article-list">
 {% for post in site.posts %}

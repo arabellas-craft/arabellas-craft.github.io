@@ -16,7 +16,7 @@ New to witchcraft and feeling overwhelmed by conflicting advice online? Here are
 
 ## "Where do I start with witchcraft?"
 
-Read one beginner book (Fire Lyte's "[The Dabbler's Guide to Witchcraft](https://bookshop.org/a/84772/9781982174347)" is solid), and learn about energy work, meditation and grounding.
+Read one beginner book (Fire Lyte's "[The Dabbler's Guide to Witchcraft](https://bookshop.org/a/84772/9781982174347){:target="_blank" rel="noopener noreferrer"}" is solid), and learn about energy work, meditation and grounding.
 
 Skip the expensive supplies for now. Your hands, intention, and awareness are your most important tools.
 
@@ -209,11 +209,11 @@ Each system taps into intuition differently - find what resonates with you.
 Read whatever interests you, but don't read blindly. Look at the author's credentials and history and don't believe everything you read!
 
 My personal recommendations for new practitioners are:
-* [The Dabbler's Guide to Witchcraft](https://bookshop.org/a/84772/9781982174347) by Fire Lyte
-* [Six Ways](https://bookshop.org/a/84772/9780999356609) by Aidan Wachter
-* [Sacred Actions](https://bookshop.org/a/84772/9780764361531) by Dana O'Driscoll
-* [Braiding Sweetgrass](https://bookshop.org/a/84772/9781571313560) by Robin Wall Kimmerer
-* [Liber Null & Psychonaut](https://bookshop.org/a/84772/9781578637669) by Peter J Carroll
+* [The Dabbler's Guide to Witchcraft](https://bookshop.org/a/84772/9781982174347){:target="_blank" rel="noopener noreferrer"} by Fire Lyte
+* [Six Ways](https://bookshop.org/a/84772/9780999356609){:target="_blank" rel="noopener noreferrer"} by Aidan Wachter
+* [Sacred Actions](https://bookshop.org/a/84772/9780764361531){:target="_blank" rel="noopener noreferrer"} by Dana O'Driscoll
+* [Braiding Sweetgrass](https://bookshop.org/a/84772/9781571313560){:target="_blank" rel="noopener noreferrer"} by Robin Wall Kimmerer
+* [Liber Null & Psychonaut](https://bookshop.org/a/84772/9781578637669){:target="_blank" rel="noopener noreferrer"} by Peter J Carroll
 
 Avoid anything promising quick power or claiming to be "ancient secrets."
 

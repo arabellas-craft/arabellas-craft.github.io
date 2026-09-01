@@ -23,7 +23,7 @@ Each of the four cycles gets its own overview article in this series. This piece
 
 ## Where the four-cycle framework comes from
 
-The "four cycles" framework is a late 19th-century scholarly construction, not a native Irish category. Welsh scholar John Rhys popularized it in his 1888 *[Lectures on the Origin and Growth of Religion as Illustrated by Celtic Heathendom](https://archive.org/details/lecturesoriginan00rhys)*. Later editors standardized it. It became the way English-language readers were taught to sort Irish stories.
+The "four cycles" framework is a late 19th-century scholarly construction, not a native Irish category. Welsh scholar John Rhys popularized it in his 1888 *[Lectures on the Origin and Growth of Religion as Illustrated by Celtic Heathendom](https://archive.org/details/lecturesoriginan00rhys){:target="_blank" rel="noopener noreferrer"}*. Later editors standardized it. It became the way English-language readers were taught to sort Irish stories.
 
 Medieval Irish scribes didn't think this way. They organized their material by tale-type, with Irish names: *tochmarc* (wooing), *aided* (death tale), *immram* (sea voyage), *echtra* (otherworld adventure), *togail* (destruction), *cath* (battle), *fled* (feast), *tóraigheacht* (pursuit). The tale-lists preserved in the Book of Leinster catalogued stories by these types. A storyteller was expected to know a certain number of *tochmarca*, *aitheda*, and so on.
 
@@ -43,7 +43,7 @@ The story cycles roughly correspond to different ages of Irish mythological time
 - Milesians (the Gaels, modern human Irish)
 {:.timeline}
 
-You can find a more in-depth timeline of these waves [here](https://storyarchaeology.com/wp-content/uploads/The_Lebor_Gabala_Erenn_at_a_Glance_an_Ov.pdf) from Story Archaeology.
+You can find a more in-depth timeline of these waves [here](https://storyarchaeology.com/wp-content/uploads/The_Lebor_Gabala_Erenn_at_a_Glance_an_Ov.pdf){:target="_blank" rel="noopener noreferrer"} from Story Archaeology.
 
 The story cycles map onto that sequence of settlers:
 
@@ -56,13 +56,13 @@ The story cycles map onto that sequence of settlers:
 
 However, none of this is real chronology. It's the mythic timeline the medieval compilers built. Treating these dates as historical is one of the easier ways to misread what the texts are actually doing.
 
-The Ulster Cycle is where the historical question gets most interesting. Some scholars have argued that the cultural picture preserves Iron Age realities. Others, including J.P. Mallory in *[In Search of the Irish Dreamtime: Archaeology and Early Irish Literature](https://bookshop.org/a/84772/9780500773352)*, argue for a more layered composite: partly archaic, partly medieval, partly invented. The Ulster stories are evidence of how medieval Irish people thought about a heroic past.
+The Ulster Cycle is where the historical question gets most interesting. Some scholars have argued that the cultural picture preserves Iron Age realities. Others, including J.P. Mallory in *[In Search of the Irish Dreamtime: Archaeology and Early Irish Literature](https://bookshop.org/a/84772/9780500773352){:target="_blank" rel="noopener noreferrer"}*, argue for a more layered composite: partly archaic, partly medieval, partly invented. The Ulster stories are evidence of how medieval Irish people thought about a heroic past.
 
 {% include article-kofi-callout.html %}
 
 ## Quick portraits of each cycle
 
-**Mythological Cycle.** The gods of Ireland (the Tuatha Dé Danann and the Fomoire) fighting for control of the island. The Dagda, the Morrígan, Lugh, Brigid, Manannán mac Lir all feature heavily. The big text is the *[Cath Maige Tuired](https://celt.ucc.ie/published/T300011/index.html)*, the Battle of Moytura. Read this cycle first if you want to meet the divine cast.
+**Mythological Cycle.** The gods of Ireland (the Tuatha Dé Danann and the Fomoire) fighting for control of the island. The Dagda, the Morrígan, Lugh, Brigid, Manannán mac Lir all feature heavily. The big text is the *[Cath Maige Tuired](https://celt.ucc.ie/published/T300011/index.html){:target="_blank" rel="noopener noreferrer"}*, the Battle of Moytura. Read this cycle first if you want to meet the divine cast.
 Full overview of [the Mythological Cycle article](/irish-mythology-mythological-cycle)
 
 **Ulster Cycle.** A heroic-age cycle centered on King Conchobar's court at Emain Macha. Cú Chulainn, Fergus, Conall Cernach, Deirdre. Single combats, cattle raids, drinking horns, oath-breaking. The big text is the *Táin Bó Cúailnge*, the Cattle Raid of Cooley. Read this cycle for high tragedy and the warrior code.
@@ -76,11 +76,11 @@ Full overview in [the Cycle of the Kings article](/irish-mythology-cycle-of-the-
 
 ## The Christian and monastic layer
 
-Every Irish mythological text we have was written down by Christian monks in monasteries. The earliest surviving manuscripts containing the major cycle stories are the *[Lebor na hUidre](http://www.ancienttexts.org/library/celtic/ctexts/lu.html)* (Book of the Dun Cow, c. 1100), the [Book of Leinster](http://www.ancienttexts.org/library/celtic/ctexts/leinster.html) (c. 1160), and the [Yellow Book of Lecan](http://www.ancienttexts.org/library/celtic/ctexts/ybl.html) (late 14th century). Anything modern readers know about pre-Christian Irish belief, they know through the work of scribes who were themselves Christian.
+Every Irish mythological text we have was written down by Christian monks in monasteries. The earliest surviving manuscripts containing the major cycle stories are the *[Lebor na hUidre](http://www.ancienttexts.org/library/celtic/ctexts/lu.html){:target="_blank" rel="noopener noreferrer"}* (Book of the Dun Cow, c. 1100), the [Book of Leinster](http://www.ancienttexts.org/library/celtic/ctexts/leinster.html){:target="_blank" rel="noopener noreferrer"} (c. 1160), and the [Yellow Book of Lecan](http://www.ancienttexts.org/library/celtic/ctexts/ybl.html){:target="_blank" rel="noopener noreferrer"} (late 14th century). Anything modern readers know about pre-Christian Irish belief, they know through the work of scribes who were themselves Christian.
 
 Those scribes had agendas. They were fitting Irish prehistory into a biblical timeline, so everyone in the *Lebor Gabála* descends from Noah. They were turning the old gods into ancient kings, a process scholars call euhemerization. They were preserving prestige stories that mattered to royal lineages.
 
-The Tuatha Dé Danann as we have them are partly a medieval Christian construction (for more about this read Mark Williams's *[Ireland's Immortals](https://bookshop.org/a/84772/9780691183046)). That doesn't mean nothing pre-Christian survives. It means we can't read past the medieval layer to a "pure" pagan original, because the medieval layer is what produced the texts in the first place.
+The Tuatha Dé Danann as we have them are partly a medieval Christian construction (for more about this read Mark Williams's *[Ireland's Immortals](https://bookshop.org/a/84772/9780691183046){:target="_blank" rel="noopener noreferrer"}). That doesn't mean nothing pre-Christian survives. It means we can't read past the medieval layer to a "pure" pagan original, because the medieval layer is what produced the texts in the first place.
 
 Put another way: these stories are real evidence of Irish traditions and real evidence of medieval Christian scholarship at the same time. The practical takeaway for a reader is to treat the surviving texts as evidence of medieval Irish thought about the past, not as a recording of pre-Christian belief that survived intact. Celtic Reconstructionism takes a related but distinct approach to the same problem; if you want that angle, [the CR article on mythology](/celtic-reconstructionism-mythology) covers it.
 
@@ -104,6 +104,6 @@ Each cycle gets its own overview article. If you're starting from scratch, work 
 
 Things this series doesn't cover, in case you're looking for them: the Dindshenchas (place-lore poems and prose), the *immrama* and *echtrai* as a category (some are Mythological, some Kings, some sit on their own), saint's lives (a separate medieval genre), and 19th-century folk collection material like Lady Gregory and Yeats (those show up as sources but aren't cycles in their own right).
 
-Two podcasts will keep coming up as good companions throughout the series. [Story Archaeology](https://storyarchaeology.com/), with Chris Thompson and Isolde Carmody, does academic close-readings of specific Irish texts. [Candlelit Tales](https://www.youtube.com/candlelittales) does narrative retellings performed live with music. Different uses, both worth knowing about.
+Two podcasts will keep coming up as good companions throughout the series. [Story Archaeology](https://storyarchaeology.com/){:target="_blank" rel="noopener noreferrer"}, with Chris Thompson and Isolde Carmody, does academic close-readings of specific Irish texts. [Candlelit Tales](https://www.youtube.com/candlelittales){:target="_blank" rel="noopener noreferrer"} does narrative retellings performed live with music. Different uses, both worth knowing about.
 
 Start with the gods. The [Mythological Cycle](/irish-mythology-mythological-cycle) is up next.

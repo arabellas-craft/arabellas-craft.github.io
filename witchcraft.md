@@ -17,7 +17,7 @@ The most useful thing a new witch can have is reliable sources. The [recommended
 
 **Support This Work**
 
-These guides are free and stay that way. If they've helped your practice, you can [support me on Ko-fi](https://ko-fi.com/juniperdivination/donate). It's never expected, but it keeps the free resources coming.
+These guides are free and stay that way. If they've helped your practice, you can [support me on Ko-fi](https://ko-fi.com/juniperdivination/donate){:target="_blank" rel="noopener noreferrer"}. It's never expected, but it keeps the free resources coming.
 
 <div class="article-list">
 {% for post in site.posts %}

@@ -10,7 +10,7 @@ img: chaos-magic-paradigm-shifting.jpg
 permalink: /chaos-magic-paradigm-shifting
 ---
 
-If you've read the piece on [belief as a tool](/chaos-magic-belief-as-tool), you already know that chaos magic treats belief systems as something you pick up and put down. Paradigm shifting is how you actually do that. It's the practice of adopting a complete belief framework for a working, then setting it aside when you're done.
+If you've read the piece on [belief as a tool](/chaos-magic-belief-as-tool), you already know that chaos magic treats belief systems as something you pick up and put down. Paradigm shifting is how you actually do that. It's the practice of adopting a complete belief framework for a working, then setting it aside when you're done. And if you've landed here first, [the introduction](/what-is-chaos-magic) covers the ground both pieces assume.
 
 ## What Makes It Work
 
@@ -18,7 +18,7 @@ The key word in that definition is *complete*. Adopting a paradigm halfway doesn
 
 If you're doing a working within an Irish folk magic framework, you don't just borrow the aesthetic, you operate within the framework's own logic for the duration. The spirits are real. The reciprocity matters. The rules of the tradition apply. Then you finish, and you set it down.
 
-[Phil Hine](/history-of-chaos-magic) describes this in *[Condensed Chaos](https://bookshop.org/a/84772/9781618696618)* as entering "a new field of social relations." That sounds abstract, but what he means is practical: a different belief system isn't just a different vocabulary. It changes what you do, what you feel, and how you carry yourself during the working. That shift is where the power comes from.
+[Phil Hine](/history-of-chaos-magic) describes this in *[Condensed Chaos](https://bookshop.org/a/84772/9781618696618){:target="_blank" rel="noopener noreferrer"}* as entering "a new field of social relations." That sounds abstract, but what he means is practical: a different belief system isn't just a different vocabulary. It changes what you do, what you feel, and how you carry yourself during the working. That shift is where the power comes from.
 
 This is different from eclecticism, where you pull symbols from different traditions and mix them loosely. Paradigm shifting means you go all the way in, then all the way out.
 
@@ -52,7 +52,7 @@ That's a genuinely different working than a [chaos magic sigil](/how-to-make-sig
 
 You don't need years of study before you can shift into a paradigm. But you need enough to understand how the system thinks: what it values, what the mechanism is, and what the basic etiquette looks like. Without that, you're not really inside the paradigm. You're just using the aesthetics.
 
-Practically: read primary sources and community voices, not just summary articles written by outsiders (for Irish folk practice, the [Dúchas Schools' Collection](https://www.duchas.ie/en/cbes) is a great example). For any tradition, look for writing by practitioners within that tradition.
+Practically: read primary sources and community voices, not just summary articles written by outsiders (for Irish folk practice, the [Dúchas Schools' Collection](https://www.duchas.ie/en/cbes){:target="_blank" rel="noopener noreferrer"} is a great example). For any tradition, look for writing by practitioners within that tradition.
 
 **3. Commit fully during the working.**
 

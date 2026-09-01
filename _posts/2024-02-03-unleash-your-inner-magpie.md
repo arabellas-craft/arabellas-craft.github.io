@@ -20,7 +20,7 @@ This is also called a patchwork deck or chaos tarot deck, and it's a legitimate 
 
 The straightforward approach is buying cards individually. Etsy, eBay, and secondhand tarot shops all sell single cards and partial decks. Look for lots where sellers are offloading duplicates or damaged decks. You can find good cards cheap that way.
 
-If you want a faster start, you can buy [curated 78-card magpie decks](https://juniperdivination.etsy.com/listing/1288443302) already assembled from 20+ different decks, and [random patchwork card packs](https://juniperdivination.etsy.com/listing/1320932639) if you'd rather build incrementally and keep adding cards over time.
+If you want a faster start, you can buy [curated 78-card magpie decks](https://juniperdivination.etsy.com/listing/1288443302){:target="_blank" rel="noopener noreferrer"} already assembled from 20+ different decks, and [random patchwork card packs](https://juniperdivination.etsy.com/listing/1320932639){:target="_blank" rel="noopener noreferrer"} if you'd rather build incrementally and keep adding cards over time.
 
 The tarot trading community is also worth knowing about. Facebook groups, Reddit (r/tarot and r/tarotcardcollectors), and Discord servers all have active trades. People swap duplicates constantly.
 

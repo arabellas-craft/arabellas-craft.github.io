@@ -16,7 +16,7 @@ Some of these customs have real Irish or Celtic roots. Some come from English Ma
 
 None of this means your practice is wrong or needs to change. But if you're drawn to Bealtaine, it's worth knowing what parts of your ritual or celebration connect to which traditions.
 
-This article focuses on the Irish record, because Bealtaine is an Irish festival. The main sources are *Sanas Cormaic* (a ninth-century Irish glossary), Kevin Danaher's *The Year in Ireland* (1972), the [Dúchas Schools' Collection](https://duchas.ie), and Ronald Hutton's *The Stations of the Sun* (1996). For more on the protective customs of Bealtaine, see [Irish folk traditions for Bealtaine](/irish-bealtaine-traditions).
+This article focuses on the Irish record, because Bealtaine is an Irish festival. The main sources are *Sanas Cormaic* (a ninth-century Irish glossary), Kevin Danaher's *The Year in Ireland* (1972), the [Dúchas Schools' Collection](https://duchas.ie){:target="_blank" rel="noopener noreferrer"}, and Ronald Hutton's *The Stations of the Sun* (1996). For more on the protective customs of Bealtaine, see [Irish folk traditions for Bealtaine](/irish-bealtaine-traditions).
 
 ## The Bonfire: Old, But Not as Old as It's Often Claimed
 
@@ -36,7 +36,7 @@ Modern Beltane keeps the bonfire and the jumping of flames. The meaning has shif
 
 ## May Dew: Real, But Not Uniquely Irish
 
-Gathering dew before sunrise on May morning is well documented in Ireland. The beliefs were specific: washing your face in May dew gave a fair complexion.<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4798662/4788112/4927675)</cite> Washing the feet and face was thought to protect the washer from illness for the year. <cite>[duchas.ie](https://www.duchas.ie/en/cbes/4798751/4795683/5151199)</cite>  A man who washed his hands in it would gain skill with knots and locks <cite>[duchas.ie](https://www.duchas.ie/en/cbes/5236102/5231866/5239943)</cite>. Danaher confirms the custom was known across Ireland into the 20th century.
+Gathering dew before sunrise on May morning is well documented in Ireland. The beliefs were specific: washing your face in May dew gave a fair complexion.<cite>[duchas.ie](https://www.duchas.ie/en/cbes/4798662/4788112/4927675){:target="_blank" rel="noopener noreferrer"}</cite> Washing the feet and face was thought to protect the washer from illness for the year. <cite>[duchas.ie](https://www.duchas.ie/en/cbes/4798751/4795683/5151199){:target="_blank" rel="noopener noreferrer"}</cite>  A man who washed his hands in it would gain skill with knots and locks <cite>[duchas.ie](https://www.duchas.ie/en/cbes/5236102/5231866/5239943){:target="_blank" rel="noopener noreferrer"}</cite>. Danaher confirms the custom was known across Ireland into the 20th century.
 
 The earliest Irish documentation on May Day dew is Gerard Boate's *Natural History of Ireland* (1652) and Lady Wilde's *Ancient Cures, Charms and Usages* (1890).
 
@@ -80,7 +80,7 @@ There's no equivalent figure in Irish Bealtaine. The Dúchas record shows Irish 
 
 The term "Green Man" was coined in a single article published in 1939 in the journal *Folklore*, by Lady Julia Raglan. Drawing on James George Frazer's ideas about vegetation spirits, she argued that foliage-covered faces carved in medieval churches, the "Jack in the Green" figure from English May Day processions, and the Green Man pub sign were all versions of the same ancient pagan god. She borrowed the name from the pub sign.
 
-Later scholarship took each part of this apart. Kathleen Basford's *The Green Man* (1978) traced foliate heads to classical Roman decorative art, passed through manuscript traditions, and found the motif originally had a demonic quality — not spring renewal. Roy Judge's *The Jack-in-the-Green* (1979) traced the Jack figure to an 1775 report in the *Morning Chronicle* about London chimney sweeps' May Day parades, which had grown out of 17th-century milkmaid garland processions. Hutton concluded in a 2023 Gresham College lecture that "none of the three things had anything to do with each other or with a pagan god." <cite>[Library of Congress](https://blogs.loc.gov/folklife/category/green-man/?loclr=blogflt)</cite>
+Later scholarship took each part of this apart. Kathleen Basford's *The Green Man* (1978) traced foliate heads to classical Roman decorative art, passed through manuscript traditions, and found the motif originally had a demonic quality — not spring renewal. Roy Judge's *The Jack-in-the-Green* (1979) traced the Jack figure to an 1775 report in the *Morning Chronicle* about London chimney sweeps' May Day parades, which had grown out of 17th-century milkmaid garland processions. Hutton concluded in a 2023 Gresham College lecture that "none of the three things had anything to do with each other or with a pagan god." <cite>[Library of Congress](https://blogs.loc.gov/folklife/category/green-man/?loclr=blogflt){:target="_blank" rel="noopener noreferrer"}</cite>
 
 ## Handfasting: Old Norse in Origin, More Complicated Than It Seems
 
@@ -98,7 +98,7 @@ The cord-binding ceremony itself, with hands tied together with ribbons or cords
 
 Ireland does have a concept of a sacred marriage. The *banais ríghi*, which means "wedding feast of kingship," describes the symbolic union between a new king and the goddess of the land he would rule. The king's right to rule depended on the land-goddess accepting him. Under a good king she flourished; under a bad one, the land suffered. This appears in medieval annals, law texts, and mythology. Figures like Ériu, Medb, and Flaithius function as sovereignty figures in these stories. Máire Herbert examined this directly in her 1992 paper "Goddess and King: The Sacred Marriage in Early Ireland," published in *Women and Sovereignty* (Edinburgh University Press).
 
-However *banais ríghi* is most closely linked to Samhain, not Bealtaine. No early Irish source connects the sacred marriage of king and land to May 1.
+However *banais ríghi* is most closely linked to Samhain, not Bealtaine. No early Irish source connects the sacred marriage of king and land to May 1st.
 
 The modern Beltane sacred union — the God and Goddess whose marriage drives the Wheel of the Year — comes from a different lineage. James George Frazer's *The Golden Bough* (1890–1915) proposed that ancient religions centered on a dying-and-rising god whose sacred marriage to an earth goddess drove the seasons. Gerald Gardner drew on Frazer's ideas, along with Margaret Murray's witch-cult hypothesis (which has since been disproven) and ceremonial magic, to build Wicca in the 1940s and 1950s.
 

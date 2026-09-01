@@ -30,7 +30,7 @@ In south County Kerry and west County Cork, any kind of work that required turni
 
 The Schools' Collection records show people treated this as a rest day:
 
-> Tá na breach shaoire ar an oileán seo agus ní bitéar ag déanamh móran oibre. [The day is a holiday on this island and not much work is done.] [Source](https://www.duchas.ie/en/cbes/5235142/5221956/5241323)
+> Tá na breach shaoire ar an oileán seo agus ní bitéar ag déanamh móran oibre. [The day is a holiday on this island and not much work is done.] [Source](https://www.duchas.ie/en/cbes/5235142/5221956/5241323){:target="_blank" rel="noopener noreferrer"}
 
 Even fishing, crucial for coastal communities, was avoided on this day.
 
@@ -64,7 +64,7 @@ In a few places around Galway Bay, a live shellfish such as a limpet or a periwi
 
 Another account notes:
 
-> Bionn na daoine ag tógáil faochain agus bairnigh Lá Fhéil' Brighde mar deirtear gur ceart do gach teach iasg beo a thabhairt isteach an lá sin. [The people build huts and sheds on Brighid's Day because it is said that every house should bring in live fish on that day.] [Source](https://www.duchas.ie/en/cbes/5235142/5221896/5241056)
+> Bionn na daoine ag tógáil faochain agus bairnigh Lá Fhéil' Brighde mar deirtear gur ceart do gach teach iasg beo a thabhairt isteach an lá sin. [The people build huts and sheds on Brighid's Day because it is said that every house should bring in live fish on that day.] [Source](https://www.duchas.ie/en/cbes/5235142/5221896/5241056){:target="_blank" rel="noopener noreferrer"}
 
 The lengthening day also welcomed people whose artificial lighting was limited. "On St. Brighid's day" the saying ran, "you can put away the candlestick and half the candle."
 

@@ -15,19 +15,19 @@ But people still marked the turn of the year with specific customs—mostly abou
 
 ## New Year's Eve: Bells, Cakes, and Wind Direction
 
-Urban areas went bigger with the celebrations. In Drogheda, the Brass and Reed Band played at midnight, boats blew horns, church bells rang ([Dúchas](https://www.duchas.ie/en/cbes/5008889/4963983/5079237)). In Longford, people waited up to hear bells from multiple parishes "ring out the old and ring in the new," then bands paraded from church to church while young people followed in procession ([Dúchas](https://www.duchas.ie/en/cbes/5009169/4993858/5103065)).
+Urban areas went bigger with the celebrations. In Drogheda, the Brass and Reed Band played at midnight, boats blew horns, church bells rang ([Dúchas](https://www.duchas.ie/en/cbes/5008889/4963983/5079237){:target="_blank" rel="noopener noreferrer"}). In Longford, people waited up to hear bells from multiple parishes "ring out the old and ring in the new," then bands paraded from church to church while young people followed in procession ([Dúchas](https://www.duchas.ie/en/cbes/5009169/4993858/5103065){:target="_blank" rel="noopener noreferrer"}).
 
-The music shifted at midnight. One Longford account describes "lonely music" played during the final minutes of the old year, then "glad music" to welcome the new one ([Dúchas](https://www.duchas.ie/en/cbes/5009169/4993858/5103065)). Old people gathered at "joins" to drink each other's health. Young people danced traditional sets—Siege of Ennis, Walls of Limerick, Bridge of Athlone—until almost morning.
+The music shifted at midnight. One Longford account describes "lonely music" played during the final minutes of the old year, then "glad music" to welcome the new one ([Dúchas](https://www.duchas.ie/en/cbes/5009169/4993858/5103065){:target="_blank" rel="noopener noreferrer"}). Old people gathered at "joins" to drink each other's health. Young people danced traditional sets—Siege of Ennis, Walls of Limerick, Bridge of Athlone—until almost morning.
 
-Rural areas were quieter. A Clare resident noted that in the country, "there is not much show at all about the day. It is just like an ordinary Holiday quite different from the great fuss and joy always about Christmas" ([Dúchas](https://www.duchas.ie/en/cbes/5177626/5173935/5199793)).
+Rural areas were quieter. A Clare resident noted that in the country, "there is not much show at all about the day. It is just like an ordinary Holiday quite different from the great fuss and joy always about Christmas" ([Dúchas](https://www.duchas.ie/en/cbes/5177626/5173935/5199793){:target="_blank" rel="noopener noreferrer"}).
 
 ### Weather Watching and Wind Direction
 
 New Year's Eve was prime time for divination. Weather signs got read and interpreted, especially wind direction. In County Kerry, which way the wind blew indicated political fortunes — a west wind meant the Irish cause would flourish, an east wind meant English interests would prevail.
 
-A Waterford account describes people staying seated through the evening, watching the wind. "They would remain seated until that night and be overjoyed when the wind blew from the west. However, they were sad when the wind blew from the east" ([Dúchas](https://www.duchas.ie/en/cbes/4428112/4379359/4462756)).
+A Waterford account describes people staying seated through the evening, watching the wind. "They would remain seated until that night and be overjoyed when the wind blew from the west. However, they were sad when the wind blew from the east" ([Dúchas](https://www.duchas.ie/en/cbes/4428112/4379359/4462756){:target="_blank" rel="noopener noreferrer"}).
 
-For personal divination, girls tucked holly and ivy leaves or mistletoe sprigs under their pillows to dream of future husbands. A Longford family had each member draw two slips of paper with saints' names written on them—these became your patron guardians for the coming year. You kept the slips in your prayer book ([Dúchas](https://www.duchas.ie/en/cbes/5009138/4990405/5101158)).
+For personal divination, girls tucked holly and ivy leaves or mistletoe sprigs under their pillows to dream of future husbands. A Longford family had each member draw two slips of paper with saints' names written on them—these became your patron guardians for the coming year. You kept the slips in your prayer book ([Dúchas](https://www.duchas.ie/en/cbes/5009138/4990405/5101158){:target="_blank" rel="noopener noreferrer"}).
 
 ### The Cake-Throwing Ritual
 
@@ -79,41 +79,41 @@ Many households hedged their bets. They'd send out a suitably dark-haired male f
 
 ## New Year's Day: Lá Coille and the Management of Luck
 
-The Irish name for New Year's Day is *Lá Coille* ([listen to the pronunciation](https://www.teanglann.ie/en/fuaim/L%c3%a1_Caille)).
+The Irish name for New Year's Day is *Lá Coille* ([listen to the pronunciation](https://www.teanglann.ie/en/fuaim/L%c3%a1_Caille){:target="_blank" rel="noopener noreferrer"}).
 
 ### The First Footer's Blessing
 
-If you'd arranged for a specific first footer, he had a job to do. In one detailed Clare account, a man would be invited to arrive early on New Year's morning. No one else could enter the house until he arrived. When he showed up, he blessed the household for the coming year. "No woman should bless anyone that morning until that man has blessed that person" ([Dúchas](https://www.duchas.ie/en/cbes/4922376/4875511/5079005)).
+If you'd arranged for a specific first footer, he had a job to do. In one detailed Clare account, a man would be invited to arrive early on New Year's morning. No one else could enter the house until he arrived. When he showed up, he blessed the household for the coming year. "No woman should bless anyone that morning until that man has blessed that person" ([Dúchas](https://www.duchas.ie/en/cbes/4922376/4875511/5079005){:target="_blank" rel="noopener noreferrer"}).
 
-In Waterford, the ritual was slightly different. The first person to sit down that morning would walk around the house three times. The first two times, they'd stop at the door and say "God's blessing come in" ("*Beannacht Dé isteach annsa*" in Irish), and on the third circuit, they'd enter while saying it. Everyone seated inside would respond. The whole thing was done "so that God's blessing would be upon them during the new year" ([Dúchas](https://www.duchas.ie/en/cbes/4428112/4379359/4462756)).
+In Waterford, the ritual was slightly different. The first person to sit down that morning would walk around the house three times. The first two times, they'd stop at the door and say "God's blessing come in" ("*Beannacht Dé isteach annsa*" in Irish), and on the third circuit, they'd enter while saying it. Everyone seated inside would respond. The whole thing was done "so that God's blessing would be upon them during the new year" ([Dúchas](https://www.duchas.ie/en/cbes/4428112/4379359/4462756){:target="_blank" rel="noopener noreferrer"}).
 
-By the time these customs were documented in the 1930s, that particular practice had "long since died out" ([Dúchas](https://www.duchas.ie/en/cbes/4428112/4379359/4462756)).
+By the time these customs were documented in the 1930s, that particular practice had "long since died out" ([Dúchas](https://www.duchas.ie/en/cbes/4428112/4379359/4462756){:target="_blank" rel="noopener noreferrer"}).
 
 ### What You Should Not Do
 
 New Year's Day came with an extensive list of prohibitions, all based on the logic that whatever you did that day, you'd be doing all year.
 
-**No spending money.** Multiple Clare accounts specify this. "No money used be paid on New Year's Day" ([Dúchas](https://www.duchas.ie/en/cbes/5177638/5175057/5192077)). Shopkeepers wouldn't give anything out on credit ([Dúchas](https://www.duchas.ie/en/cbes/4922376/4875511/5079005)). If you spent money on New Year's Day, you'd be spending it all year ([Dúchas](https://www.duchas.ie/en/cbes/5177626/5173935/5199793)).
+**No spending money.** Multiple Clare accounts specify this. "No money used be paid on New Year's Day" ([Dúchas](https://www.duchas.ie/en/cbes/5177638/5175057/5192077){:target="_blank" rel="noopener noreferrer"}). Shopkeepers wouldn't give anything out on credit ([Dúchas](https://www.duchas.ie/en/cbes/4922376/4875511/5079005){:target="_blank" rel="noopener noreferrer"}). If you spent money on New Year's Day, you'd be spending it all year ([Dúchas](https://www.duchas.ie/en/cbes/5177626/5173935/5199793){:target="_blank" rel="noopener noreferrer"}).
 
-**No throwing out ashes or sweeping.** "If you do, you are losing your luck" ([Dúchas](https://www.duchas.ie/en/cbes/4922376/4875511/5079005)). Same went for throwing out water—"you throw your luck away" ([Dúchas](https://www.duchas.ie/en/cbes/5008974/4972517/5111655)).
+**No throwing out ashes or sweeping.** "If you do, you are losing your luck" ([Dúchas](https://www.duchas.ie/en/cbes/4922376/4875511/5079005){:target="_blank" rel="noopener noreferrer"}). Same went for throwing out water—"you throw your luck away" ([Dúchas](https://www.duchas.ie/en/cbes/5008974/4972517/5111655){:target="_blank" rel="noopener noreferrer"}).
 
-**No polishing shoes.** They had to be done the night before ([Dúchas](https://www.duchas.ie/en/cbes/5177638/5175057/5192077)).
+**No polishing shoes.** They had to be done the night before ([Dúchas](https://www.duchas.ie/en/cbes/5177638/5175057/5192077){:target="_blank" rel="noopener noreferrer"}).
 
-**No digging graves.** One Waterford account specifies: "earth should not be reddened. No grave should be dug on that day, but it could be closed" ([Dúchas](https://www.duchas.ie/en/cbes/5177649/5176763/5202242)).
+**No digging graves.** One Waterford account specifies: "earth should not be reddened. No grave should be dug on that day, but it could be closed" ([Dúchas](https://www.duchas.ie/en/cbes/5177649/5176763/5202242){:target="_blank" rel="noopener noreferrer"}).
 
-**No crying, especially for children.** "Children are warned not to cry on New Year's Day as they would be crying for the whole year" ([Dúchas](https://www.duchas.ie/en/cbes/5177626/5173935/5199793)).
+**No crying, especially for children.** "Children are warned not to cry on New Year's Day as they would be crying for the whole year" ([Dúchas](https://www.duchas.ie/en/cbes/5177626/5173935/5199793){:target="_blank" rel="noopener noreferrer"}).
 
-**No red-haired women visiting.** This one shows up repeatedly and specifically. "If a red haired woman came on New Year's Day you would not have a bit of luck for the year" ([Dúchas](https://www.duchas.ie/en/cbes/5177638/5175075/5192101)). Another account: "If a woman, especially a Red woman, enters a house early on the morning of [New Year's Day], your house will be unlucky for the rest of the year. It is your enemy who would do that" ([Dúchas](https://www.duchas.ie/en/cbes/4922376/4875511/5079005)).
+**No red-haired women visiting.** This one shows up repeatedly and specifically. "If a red haired woman came on New Year's Day you would not have a bit of luck for the year" ([Dúchas](https://www.duchas.ie/en/cbes/5177638/5175075/5192101){:target="_blank" rel="noopener noreferrer"}). Another account: "If a woman, especially a Red woman, enters a house early on the morning of [New Year's Day], your house will be unlucky for the rest of the year. It is your enemy who would do that" ([Dúchas](https://www.duchas.ie/en/cbes/4922376/4875511/5079005){:target="_blank" rel="noopener noreferrer"}).
 
 The gendered nature of these taboos is hard to miss. Men blessed households. Women—particularly red-haired women—brought bad luck just by crossing the threshold.
 
 ### What Should Not Do
 
-Greet people with "I wish you a happy New Year" ([Dúchas](https://www.duchas.ie/en/cbes/5177626/5173935/5199793)).
+Greet people with "I wish you a happy New Year" ([Dúchas](https://www.duchas.ie/en/cbes/5177626/5173935/5199793){:target="_blank" rel="noopener noreferrer"}).
 
-Eat a festive meal, though less elaborate than Christmas. Some families made pudding with currants, raisins, spices, and porter, then roasted a turkey or goose ([Dúchas](https://www.duchas.ie/en/cbes/5008982/4973699/5112822)).
+Eat a festive meal, though less elaborate than Christmas. Some families made pudding with currants, raisins, spices, and porter, then roasted a turkey or goose ([Dúchas](https://www.duchas.ie/en/cbes/5008982/4973699/5112822){:target="_blank" rel="noopener noreferrer"}).
 
-Give gifts. In Clare, people gave presents of seed potatoes to friends ([Dúchas](https://www.duchas.ie/en/cbes/5177638/5175057/5192077)).
+Give gifts. In Clare, people gave presents of seed potatoes to friends ([Dúchas](https://www.duchas.ie/en/cbes/5177638/5175057/5192077){:target="_blank" rel="noopener noreferrer"}).
 
 If you passed a graveyard on New Year's Eve or Day, say a prayer for everyone who died during the year.
 
@@ -121,9 +121,9 @@ If you passed a graveyard on New Year's Eve or Day, say a prayer for everyone wh
 
 On Handsel Monday—the first Monday of the year—children went visiting for small money gifts. It was considered unlucky to refuse them. Some households gave small sweet cakes instead of coins.
 
-This conflicted with another belief from Clare: giving out money on Handsel Monday meant "you would be giving it out the whole year round" ([Dúchas](https://www.duchas.ie/en/cbes/5177638/5175075/5192101)). The customs didn't always align perfectly, even within the same communities.
+This conflicted with another belief from Clare: giving out money on Handsel Monday meant "you would be giving it out the whole year round" ([Dúchas](https://www.duchas.ie/en/cbes/5177638/5175075/5192101){:target="_blank" rel="noopener noreferrer"}). The customs didn't always align perfectly, even within the same communities.
 
-Groups of men called "mummers" also went house to house on New Year's Day, singing and dancing and gathering money. A Longford account specifies "it is only the big men that disguise themselves, who are called 'Mummers'" ([Dúchas](https://www.duchas.ie/en/cbes/5009143/4991020/5099983)). In Galway, boys went out to gather money and were also called mummers ([Dúchas](https://www.duchas.ie/en/cbes/4566073/4564574/4574296)).
+Groups of men called "mummers" also went house to house on New Year's Day, singing and dancing and gathering money. A Longford account specifies "it is only the big men that disguise themselves, who are called 'Mummers'" ([Dúchas](https://www.duchas.ie/en/cbes/5009143/4991020/5099983){:target="_blank" rel="noopener noreferrer"}). In Galway, boys went out to gather money and were also called mummers ([Dúchas](https://www.duchas.ie/en/cbes/4566073/4564574/4574296){:target="_blank" rel="noopener noreferrer"}).
 
 ## Looking at New Year's Customs from a Modern Lens
 

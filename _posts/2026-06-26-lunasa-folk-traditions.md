@@ -12,7 +12,7 @@ permalink: /lunasa-folk-traditions
 
 Well into the twentieth century, on the first day of autumn in Ireland, people climbed the nearest hill, or gathered at a lake or river, and met the neighbouring parishes there for a day of food, music, and the first ripe berries.[^1]
 
-Lúnasa fell on 1 August, but the gathering usually moved to the nearest Sunday: the last Sunday in July in most places, the first Sunday in August in others.[^1] That's why the day carries so many Sunday names. Garland Sunday, Bilberry Sunday, Reek Sunday, and Crom Dubh's Sunday all mark the same turn in the year, each named for what people did or where they went.
+Lúnasa fell on August 1st, but the gathering usually moved to the nearest Sunday: the last Sunday in July in most places, the first Sunday in August in others.[^1] That's why the day carries so many Sunday names. Garland Sunday, Bilberry Sunday, Reek Sunday, and Crom Dubh's Sunday all mark the same turn in the year, each named for what people did or where they went.
 
 This piece is about the customs themselves, recorded across Ireland into the twentieth century. For the plain overview, see [what is Lughnasadh?](/what-is-lughnasadh); the festival's [pre-Christian origins](/lunasa-pre-christian-origins) and the figure of [Crom Dubh](/crom-dubh-lughnasadh) each have their own article.
 
@@ -78,10 +78,10 @@ For the wider frame, see the [four cycles of Irish mythology](/irish-mythology-f
 
 ---
 
-[^1]: *[The Year in Ireland](https://bookshop.org/a/84772/9781856350938)* by Kevin Danaher
-[^2]: Dúchas Schools' Collection: [Heights Sunday, Camross, Co. Laois](https://www.duchas.ie/en/cbes/4770000/4765757/5013152)
-[^3]: Dúchas Schools' Collection: [Fraughan Bushes, Little Sugarloaf, Co. Wicklow](https://www.duchas.ie/en/cbes/5044705/5033288/5134919)
-[^4]: Dúchas Schools' Collection: [The Pattern (Patron) – Garland Sunday, Co. Clare](https://www.duchas.ie/en/cbes/4922385/4876408/5082109)
-[^5]: Dúchas Schools' Collection: [Garland Sunday well pattern, Lough Keeran, Co. Mayo](https://www.duchas.ie/en/cbes/4427943/4359718/4462977)
-[^6]: Dúchas Schools' Collection: [Féile – Domhnach Chrom Dubh, Co. Galway](https://www.duchas.ie/en/cbes/4613704/4610636/4626218) and [Crom Dubh, Co. Mayo](https://www.duchas.ie/en/cbes/4428039/4371012/4474652)
-[^7]: "[Trespass and Building in the Lughnasa Legends](https://www.jstor.org/stable/25509584)" by Máire MacNeill
+[^1]: *[The Year in Ireland](https://bookshop.org/a/84772/9781856350938){:target="_blank" rel="noopener noreferrer"}* by Kevin Danaher
+[^2]: Dúchas Schools' Collection: [Heights Sunday, Camross, Co. Laois](https://www.duchas.ie/en/cbes/4770000/4765757/5013152){:target="_blank" rel="noopener noreferrer"}
+[^3]: Dúchas Schools' Collection: [Fraughan Bushes, Little Sugarloaf, Co. Wicklow](https://www.duchas.ie/en/cbes/5044705/5033288/5134919){:target="_blank" rel="noopener noreferrer"}
+[^4]: Dúchas Schools' Collection: [The Pattern (Patron) – Garland Sunday, Co. Clare](https://www.duchas.ie/en/cbes/4922385/4876408/5082109){:target="_blank" rel="noopener noreferrer"}
+[^5]: Dúchas Schools' Collection: [Garland Sunday well pattern, Lough Keeran, Co. Mayo](https://www.duchas.ie/en/cbes/4427943/4359718/4462977){:target="_blank" rel="noopener noreferrer"}
+[^6]: Dúchas Schools' Collection: [Féile – Domhnach Chrom Dubh, Co. Galway](https://www.duchas.ie/en/cbes/4613704/4610636/4626218){:target="_blank" rel="noopener noreferrer"} and [Crom Dubh, Co. Mayo](https://www.duchas.ie/en/cbes/4428039/4371012/4474652){:target="_blank" rel="noopener noreferrer"}
+[^7]: "[Trespass and Building in the Lughnasa Legends](https://www.jstor.org/stable/25509584){:target="_blank" rel="noopener noreferrer"}" by Máire MacNeill

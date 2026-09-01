@@ -74,7 +74,7 @@ After everyone finished making their crosses, they sprinkled them with holy wate
 
 The Schools' Collection preserves the story of why St. Brigid's crosses are made:
 
-> Deirtear go raibh "Naomh Brigde" ag suibhal uair agus cualad sí duine istigh ag fágail bháis agus ni raibh aon creideamh aige agus thósaig Brighid ag innseacht dó faoi Dia, agus faoi an caoi ar tháinig "Iosa" ar an saogal agus rith sí amach agus thuig sí isteach píosa admhaid agus rinne sí crós as. [It is said that "Saint Brighde" was once walking and she heard a man inside dying and he had no faith and Brighid began to tell him about God, and about how "Jesus" came into the world and she ran out and found a piece of wood and made a cross out of it.] [Source](https://www.duchas.ie/en/cbes/5235142/5222095/5241967)
+> Deirtear go raibh "Naomh Brigde" ag suibhal uair agus cualad sí duine istigh ag fágail bháis agus ni raibh aon creideamh aige agus thósaig Brighid ag innseacht dó faoi Dia, agus faoi an caoi ar tháinig "Iosa" ar an saogal agus rith sí amach agus thuig sí isteach píosa admhaid agus rinne sí crós as. [It is said that "Saint Brighde" was once walking and she heard a man inside dying and he had no faith and Brighid began to tell him about God, and about how "Jesus" came into the world and she ran out and found a piece of wood and made a cross out of it.] [Source](https://www.duchas.ie/en/cbes/5235142/5222095/5241967){:target="_blank" rel="noopener noreferrer"}
 
 The dying man accepted the faith after seeing the cross, and St. Brigid baptized him. The custom of making crosses on her feast day comes from this story.
 

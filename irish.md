@@ -7,7 +7,7 @@ permalink: /irish
 ---
 <h1>Irish Folklore, Mythology &amp; Folk Magic</h1>
 
-Irish folklore survives in an unusually complete record. The [National Folklore Collection](https://www.duchas.ie/en) in Dublin holds thousands of pages gathered from people who still kept the old customs: what you did on May morning, which families were known to carry the evil eye, how to fold a rush so a Brigid's cross would actually protect the house. The guides here are built from that archive and the medieval manuscripts behind it. When a custom is well attested, the article says so. When it's a modern addition, the article says that too.
+Irish folklore survives in an unusually complete record. The [National Folklore Collection](https://www.duchas.ie/en){:target="_blank" rel="noopener noreferrer"} in Dublin holds thousands of pages gathered from people who still kept the old customs: what you did on May morning, which families were known to carry the evil eye, how to fold a rush so a Brigid's cross would actually protect the house. The guides here are built from that archive and the medieval manuscripts behind it. When a custom is well attested, the article says so. When it's a modern addition, the article says that too.
 
 Irish myth is usually sorted into [four cycles](/irish-mythology-four-cycles) — the Mythological, Ulster, Fenian, and Kings. Reading them in order gives you the shape of the whole tradition, from the [Tuatha Dé Danann](/irish-mythology-four-cycles) arriving in Ireland through the heroes of the Red Branch and the Fianna to the sacral kings of Tara. If you're new to all of it, start with the overview and follow the links into each cycle from there.
 
@@ -17,7 +17,7 @@ For readers building a practice rather than just reading about one, the Celtic R
 
 **Support This Work**
 
-These guides are free and always will be. If they've helped your research or your practice, you can [support me on Ko-fi](https://ko-fi.com/juniperdivination/donate). It's never expected, and it keeps the archive growing.
+These guides are free and always will be. If they've helped your research or your practice, you can [support me on Ko-fi](https://ko-fi.com/juniperdivination/donate){:target="_blank" rel="noopener noreferrer"}. It's never expected, and it keeps the archive growing.
 
 <div class="article-list">
 {% for post in site.posts %}

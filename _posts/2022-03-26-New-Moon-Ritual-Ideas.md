@@ -22,7 +22,7 @@ The new moon is generally seen as a time to:
 * Look inward to see what needs to be attended to
 * Tune into stillness
 * Encourage new growth
-* Some people find that their intuition is heightened during the new moon which makes it a great time to do [your own tarot reading](/free-tarot-spreads/full-moon-tarot-spread) or [get a tarot reading](https://shop.juniperdivination.com/l/MonthAheadTarotReading)
+* Some people find that their intuition is heightened during the new moon which makes it a great time to do [your own tarot reading](/free-tarot-spreads/full-moon-tarot-spread) or [get a tarot reading](https://shop.juniperdivination.com/l/MonthAheadTarotReading){:target="_blank" rel="noopener noreferrer"}
 
 ![](/assets/img/divider.svg){:.divider}
 
@@ -34,7 +34,7 @@ Here are some ideas to try when putting together your own new moon ritual. You c
 For me, this is a vital step to get me into the right headspace for ritual. Surround yourself with things that taste, sound, smell, look and feel good to you and help you relax. I have certain incense and music that I only use during my moon rituals, just hearing that music or smelling that incense can instantly get me ready for ritual. I find that I prefer for things to be more tranquil during the new moon.
 
 ## 2. Ground yourself
-Grounding yourself can be done in lots of different ways, but my favorite is doing a simple [body scan meditation](https://www.uclahealth.org/programs/marc/free-guided-meditations/body-scan-for-sleep) where you feel into each part of your body one after another. Another great grounding technique is the [5-4-3-2-1 technique](https://www.mondaycampaigns.org/wp-content/uploads/2021/06/destress-monday-infographic-54321-grounding-technique.png) where you name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste.
+Grounding yourself can be done in lots of different ways, but my favorite is doing a simple [body scan meditation](https://www.uclahealth.org/programs/marc/free-guided-meditations/body-scan-for-sleep){:target="_blank" rel="noopener noreferrer"} where you feel into each part of your body one after another. Another great grounding technique is the [5-4-3-2-1 technique](https://www.mondaycampaigns.org/wp-content/uploads/2021/06/destress-monday-infographic-54321-grounding-technique.png){:target="_blank" rel="noopener noreferrer"} where you name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste.
 
 ## 3. Journaling prompts
 After grounding myself I generally start my ritual with journaling. Journaling can be a great way to connect to yourself, set intentions, and build plans or growth. Every new moon I create a sacred space (even if it's just in my house!) and spend some time journaling, with some of the following prompts:
@@ -50,7 +50,7 @@ After grounding myself I generally start my ritual with journaling. Journaling c
 * What are some of the first signs that I need self-care?
 
 ## 4. Tarot Card Reading
-The new moon is a powerful time for divination. Explore our specially designed new moon tarot spread [here](/free-tarot-spreads/new-moon-month-ahead-tarot-spread), [get a personalized reading from me](https://shop.juniperdivination.com/l/MonthAheadTarotReading), or create your own tarot spread. Be sure to record your reading and insights in your tarot journal for future reference.
+The new moon is a powerful time for divination. Explore our specially designed new moon tarot spread [here](/free-tarot-spreads/new-moon-month-ahead-tarot-spread), [get a personalized reading from me](https://shop.juniperdivination.com/l/MonthAheadTarotReading){:target="_blank" rel="noopener noreferrer"}, or create your own tarot spread. Be sure to record your reading and insights in your tarot journal for future reference.
 
 ## 5. Set intentions
 The biggest part of my new moon ritual is setting intentions. As the moon grows, our ideas and intentions grow as well. There are really no wrong ways to do this! For some people simply writing their intentions down in a special place or with a special pen or ink is sufficient. Other people  like to meditate on their intentions, and sigil making (and charging) is also a popular option. Do whatever feels right to you.

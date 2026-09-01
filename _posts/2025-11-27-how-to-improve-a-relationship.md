@@ -107,6 +107,6 @@ The goal isn't perfect relationships. It's conscious relationships where you und
 
 ---
 
-**Want more practical tarot guidance?** Check out my zine [Beyond the Little White Book](https://ko-fi.com/s/f24c63dba8?utm_source=website) to develop your interpretive skills beyond basic keywords.
+**Want more practical tarot guidance?** Check out my zine [Beyond the Little White Book](https://ko-fi.com/s/f24c63dba8?utm_source=website){:target="_blank" rel="noopener noreferrer"} to develop your interpretive skills beyond basic keywords.
 
-**New to divination?** Start simple with an [at-home printable Rider-Waite-Smith tarot deck](https://ko-fi.com/s/5f1138f832?utm_source=website).
+**New to divination?** Start simple with an [at-home printable Rider-Waite-Smith tarot deck](https://ko-fi.com/s/5f1138f832?utm_source=website){:target="_blank" rel="noopener noreferrer"}.

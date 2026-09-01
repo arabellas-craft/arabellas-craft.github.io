@@ -73,13 +73,13 @@ The single most useful axis for choosing a system is how literal you want your r
 
 **Lenormand** individual card meanings are quick to learn — 36 cards with concrete keywords, most of which are intuitive from the card names. The harder part is learning pair-reading and the Grand Tableau. A competent Grand Tableau reader is working with a genuinely complex skill.
 
-**La Sibylle des Salons** requires learning 52 cards with upright and reversed meanings. That's comparable to playing cards in scope, with the added layer of working with the specific imagery. Decks can be hard to find; a [printable version of the Grandville deck](https://juniperdivination.etsy.com/listing/1710963511) is a low-cost way to start.
+**La Sibylle des Salons** requires learning 52 cards with upright and reversed meanings. That's comparable to playing cards in scope, with the added layer of working with the specific imagery. Decks can be hard to find; a [printable version of the Grandville deck](https://juniperdivination.etsy.com/listing/1710963511){:target="_blank" rel="noopener noreferrer"} is a low-cost way to start.
 
 **Playing cards** require learning 52 card meanings and suit logic. If you already know tarot's suit system, the framework is familiar. The investment is smaller than tarot, and the deck is already in most people's homes.
 
 ## Availability and Cost
 
-Playing cards are something you likely already own or can buy cheaply second hand. Tarot decks range from $20 to $60+, with the Rider-Waite-Smith being the standard starting point and available everywhere (and often the cheapest). Oracle decks are similarly priced but quality varies dramatically. Lenormand decks are affordable but harder to find in physical shops, especially in the United States, online ordering is usually necessary. La Sibylle des Salons is the hardest to find in print; [a printable download](https://ko-fi.com/s/1dfb630559) is often the most accessible entry point.
+Playing cards are something you likely already own or can buy cheaply second hand. Tarot decks range from $20 to $60+, with the Rider-Waite-Smith being the standard starting point and available everywhere (and often the cheapest). Oracle decks are similarly priced but quality varies dramatically. Lenormand decks are affordable but harder to find in physical shops, especially in the United States, online ordering is usually necessary. La Sibylle des Salons is the hardest to find in print; [a printable download](https://ko-fi.com/s/1dfb630559){:target="_blank" rel="noopener noreferrer"} is often the most accessible entry point.
 
 ---
 

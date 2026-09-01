@@ -23,7 +23,7 @@ Pre-Christian Irish cosmology used a different map. Three realms, one for each d
 *Talam* (TAH-lum): land
 *Muir* (mwir): sea
 
-Swearing by sky, land, and sea was a standard way of invoking the whole of existence in the Irish tradition. Erynn Rowan Laurie puts it directly in *[A Circle of Stones](https://bookshop.org/a/84772/9781536558241)*: "All things lived within the circle." For a longer treatment of how this cosmology fits inside Celtic Reconstructionism, see [my CR cosmology article](/celtic-reconstructionism-theology-cosmology).
+Swearing by sky, land, and sea was a standard way of invoking the whole of existence in the Irish tradition. Erynn Rowan Laurie puts it directly in *[A Circle of Stones](https://bookshop.org/a/84772/9781536558241){:target="_blank" rel="noopener noreferrer"}*: "All things lived within the circle." For a longer treatment of how this cosmology fits inside Celtic Reconstructionism, see [my CR cosmology article](/celtic-reconstructionism-theology-cosmology).
 
 The three realms aren't symbolic stand-ins for elemental qualities. They name the actual structure of the world as Irish tradition understood it. That makes them a sturdy frame for divination. Each realm asks a different kind of question, and together they give you a picture of a situation across three honest registers.
 
@@ -78,7 +78,7 @@ If a card feels out of place (a watery card in the Land position, an earthy card
 
 Read what the card actually shows, not what you wish it would say. The Three Realms spread tells you the shape of the situation. It doesn't tell you the resolution.
 
-You don't need a Celtic-themed deck. Any deck works. A worn deck, a deck someone gave you, even a deck of regular playing cards (here's [how to read those](https://ko-fi.com/s/95f9c29692)). The spread doesn't require visual matching to the cosmology.
+You don't need a Celtic-themed deck. Any deck works. A worn deck, a deck someone gave you, even a deck of regular playing cards (here's [how to read those](https://ko-fi.com/s/95f9c29692){:target="_blank" rel="noopener noreferrer"}). The spread doesn't require visual matching to the cosmology.
 
 Write the reading down. Three Realms readings tend to come into focus weeks later, when one of the three positions turns out to have been more important than you thought at the time.
 

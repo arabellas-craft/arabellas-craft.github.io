@@ -71,18 +71,18 @@ categories: Divination, Tarot readings, Psychic readings, Tarot card meanings, S
 <br><br><br><br>
 ## Books and Zines
 <div class="gallery">
-  <a href="https://ko-fi.com/s/f24c63dba8"><img src="/assets/img/zines/beyond-the-little-white-book-zine.jpg" alt="Beyond the Little White Book: A Zine for Tarot Interpretation and Intuitive Reading for Beginners"></a>
-  <a href="https://ko-fi.com/s/95f9c29692"><img src="/assets/img/zines/playing-card-divination-zine.jpg" alt="Shuffle, Draw, Discover: Learn Playing Card Divination"></a>
-  <a href="https://ko-fi.com/s/ff7d47ded3"><img src="/assets/img/zines/dice-divination-zine.jpg" alt="Dice Divination Zine: Learn How to Tell Fortunes with Dice | Beginner-Friendly Astragalomancy Guide"></a>
-  <a href="https://ko-fi.com/s/16c793f6af"><img src="/assets/img/zines/tea-leaf-reading-zine.jpg" alt="Tea Leaf Reading Zine for Beginners | Learn Tasseography"></a>
-  <a href="https://ko-fi.com/s/71bb6a9240"><img src="/assets/img/zines/bibliomancy-ebook.jpg" alt="Learn Book Divination (Bibliomancy) eBook"></a>
+  <a href="https://ko-fi.com/s/f24c63dba8" target="_blank" rel="noopener noreferrer"><img src="/assets/img/zines/beyond-the-little-white-book-zine.jpg" alt="Beyond the Little White Book: A Zine for Tarot Interpretation and Intuitive Reading for Beginners"></a>
+  <a href="https://ko-fi.com/s/95f9c29692" target="_blank" rel="noopener noreferrer"><img src="/assets/img/zines/playing-card-divination-zine.jpg" alt="Shuffle, Draw, Discover: Learn Playing Card Divination"></a>
+  <a href="https://ko-fi.com/s/ff7d47ded3" target="_blank" rel="noopener noreferrer"><img src="/assets/img/zines/dice-divination-zine.jpg" alt="Dice Divination Zine: Learn How to Tell Fortunes with Dice | Beginner-Friendly Astragalomancy Guide"></a>
+  <a href="https://ko-fi.com/s/16c793f6af" target="_blank" rel="noopener noreferrer"><img src="/assets/img/zines/tea-leaf-reading-zine.jpg" alt="Tea Leaf Reading Zine for Beginners | Learn Tasseography"></a>
+  <a href="https://ko-fi.com/s/71bb6a9240" target="_blank" rel="noopener noreferrer"><img src="/assets/img/zines/bibliomancy-ebook.jpg" alt="Learn Book Divination (Bibliomancy) eBook"></a>
 </div>
 <br><br><br><br>
 ## Tarot Decks
 <div class="gallery">
-  <a href="https://juniperdivination.etsy.com/listing/1288443302"><img src="/assets/img/tarot-decks/magpie-tarot-deck.jpg" alt="Magpie Tarot Deck"></a>
-  <a href="https://juniperdivination.etsy.com/listing/1320932639"><img src="/assets/img/tarot-decks/magpie-tarot-booster-pack.jpg" alt="Magpie Booster"></a>
-  <a href="https://ko-fi.com/s/5f1138f832"><img src="/assets/img/tarot-decks/rider-waite-smith-digital-tarot-deck.jpg" alt="Rider-Waite-Smith Printable Tarot Deck"></a>
-  <a href="https://ko-fi.com/s/522351405d"><img src="/assets/img/tarot-decks/ancien-tarot-de-marseille-digital-tarot-deck.jpg" alt="Vintage Tarot de Marseille Deck: Classic Printable Cards (PDF Download)"></a>
-  <a href="https://ko-fi.com/s/1dfb630559"><img src="/assets/img/tarot-decks/la-sibylle-des-salons-digital-deck.jpg" alt="Vintage Oracle Card Deck Printable - La Sibylle Fortune Telling Cards | Antique French Divination "></a>
+  <a href="https://juniperdivination.etsy.com/listing/1288443302" target="_blank" rel="noopener noreferrer"><img src="/assets/img/tarot-decks/magpie-tarot-deck.jpg" alt="Magpie Tarot Deck"></a>
+  <a href="https://juniperdivination.etsy.com/listing/1320932639" target="_blank" rel="noopener noreferrer"><img src="/assets/img/tarot-decks/magpie-tarot-booster-pack.jpg" alt="Magpie Booster"></a>
+  <a href="https://ko-fi.com/s/5f1138f832" target="_blank" rel="noopener noreferrer"><img src="/assets/img/tarot-decks/rider-waite-smith-digital-tarot-deck.jpg" alt="Rider-Waite-Smith Printable Tarot Deck"></a>
+  <a href="https://ko-fi.com/s/522351405d" target="_blank" rel="noopener noreferrer"><img src="/assets/img/tarot-decks/ancien-tarot-de-marseille-digital-tarot-deck.jpg" alt="Vintage Tarot de Marseille Deck: Classic Printable Cards (PDF Download)"></a>
+  <a href="https://ko-fi.com/s/1dfb630559" target="_blank" rel="noopener noreferrer"><img src="/assets/img/tarot-decks/la-sibylle-des-salons-digital-deck.jpg" alt="Vintage Oracle Card Deck Printable - La Sibylle Fortune Telling Cards | Antique French Divination "></a>
 </div>

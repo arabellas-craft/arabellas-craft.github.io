@@ -22,7 +22,7 @@ Stones with ogham inscriptions are found all around Ireland and areas surroundin
 
 You may also see it spelled ogham spelled as ogam, which is the Old Irish spelling (the version of Irish that came after Primitive Irish).
 
-The original alphabet has 20 letters and is divided into four groups of five letters called aicme ([hear pronunciation](https://www.teanglann.ie/en/fuaim/Aicme)). An additional five letters were added to the ogham in the Old Irish period (600CE to 900CE) and these are known as the forfeda and are less commonly used today.
+The original alphabet has 20 letters and is divided into four groups of five letters called aicme ([hear pronunciation](https://www.teanglann.ie/en/fuaim/Aicme){:target="_blank" rel="noopener noreferrer"}). An additional five letters were added to the ogham in the Old Irish period (600CE to 900CE) and these are known as the forfeda and are less commonly used today.
 
 Each letter has many associated lists that may have been used as mnemonic devices as well as bríatharogaim or kennings which are phrases that are associated with each letter which we can date back to the Old Irish period.
 
@@ -43,7 +43,7 @@ The other mainstream theory is that the ogham was invented by early Irish Christ
 There is also an older theory that ogham was invented by Druids in Gaul which has since been discredited as it has since been shown that ogham was almost certainly created for writing primitive Irish.
 
 # What are ogham's mythical origins?
-[The Book of Invasions](https://en.wikipedia.org/wiki/Lebor_Gab%C3%A1la_%C3%89renn) and [The Scholar’s Primer](https://en.wikipedia.org/wiki/Auraicept_na_n-%C3%89ces) both have similar stories about the invention of ogham that relate to the Tower of Babel (see [this episode](https://www.constantpodcast.com/episodes/babble-on) of The Constant podcast for more context around this).
+[The Book of Invasions](https://en.wikipedia.org/wiki/Lebor_Gab%C3%A1la_%C3%89renn){:target="_blank" rel="noopener noreferrer"} and [The Scholar’s Primer](https://en.wikipedia.org/wiki/Auraicept_na_n-%C3%89ces){:target="_blank" rel="noopener noreferrer"} both have similar stories about the invention of ogham that relate to the Tower of Babel (see [this episode](https://www.constantpodcast.com/episodes/babble-on){:target="_blank" rel="noopener noreferrer"} of The Constant podcast for more context around this).
 
 In this version of the story, a (fictional) Irish king sends out a group of scholars shortly after the fall of the Tower of Babel to try and reconstruct our previously shared language that the Christian God had destroyed. Those scholars take the best part of each new language that they find and mix them all together and create the Irish language/recreate the original language before the fall of the Tower of Babel and the ogham writing system with each fed being named after one of the scholars who helped reconstruct the language.
 
@@ -54,14 +54,14 @@ Today ogham is primarily used in Pagan circles as a writing and divinatory syste
 
 # Where can I learn more about ogham?
 ## Books
-[Ogam: Weaving Word Wisdom by Erynn Rowan Laurie](https://bookshop.org/a/84772/9781905713028)
+[Ogam: Weaving Word Wisdom by Erynn Rowan Laurie](https://bookshop.org/a/84772/9781905713028){:target="_blank" rel="noopener noreferrer"}
 
-[Ogham: The Secret Language of the Druids by Robert Lee Ellison](https://www.goodreads.com/book/show/6898902-ogham)
+[Ogham: The Secret Language of the Druids by Robert Lee Ellison](https://www.goodreads.com/book/show/6898902-ogham){:target="_blank" rel="noopener noreferrer"}
 
 ## Courses
-[3 Truths About Ogham](https://irishpaganschool.com/p/ogham-truth) (Free!)
+[3 Truths About Ogham](https://irishpaganschool.com/p/ogham-truth){:target="_blank" rel="noopener noreferrer"} (Free!)
 
 ## Primary sources
-[The Ogham Tract](https://www.maryjones.us/ctexts/ogham.html)
+[The Ogham Tract](https://www.maryjones.us/ctexts/ogham.html){:target="_blank" rel="noopener noreferrer"}
 
 Ogham is a unique and enchanting script that carries profound historical and spiritual significance. I hope that this guide has introduced you to its history, meanings, and its potential for divination. Whether you're drawn to its mystical allure or wish to deepen your understanding of Irish culture, Ogham has much to offer.

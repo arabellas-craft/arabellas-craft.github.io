@@ -54,6 +54,6 @@ Think of it like this: you're not predicting the future. You're getting a fresh 
 
 Pick a book off your shelf. Think of a question that's been nagging at you. Open to a random page and see what you find.
 
-**Want more structure?** My complete bibliomancy guide includes 5 spreads for different question types, a guide for what books to use, and detailed interpretation techniques. [**Get the full eBook guide for $1.99 on Ko-fi.**](https://ko-fi.com)
+**Want more structure?** My complete bibliomancy guide includes 5 spreads for different question types, a guide for what books to use, and detailed interpretation techniques. [**Get the full eBook guide for $1.99 on Ko-fi.**](https://ko-fi.com){:target="_blank" rel="noopener noreferrer"}
 
 The books already on your shelves are waiting to show you what you know.

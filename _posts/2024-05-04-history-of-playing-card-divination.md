@@ -40,7 +40,7 @@ Modern playing card divination embraces both simplicity and depth:
 * Intuitive Guidance: While books and resources offer a foundation, contemporary cartomancy encourages a deep connection to personal intuition for insightful readings.
 
 ## Take the Next Step in Your Divination Journey
-If you're captivated by the rich history of playing card divination and want to start practicing this fascinating art, my [playing card divination zine](https://ko-fi.com/s/95f9c296924) is the perfect guide!
+If you're captivated by the rich history of playing card divination and want to start practicing this fascinating art, my [playing card divination zine](https://ko-fi.com/s/95f9c296924){:target="_blank" rel="noopener noreferrer"} is the perfect guide!
 
 It includes:
 * Traditional card meanings: Discover the symbolism passed down through the ages.

@@ -89,7 +89,7 @@ The Sword position (Card 3) is often the hardest to accept. People want to argue
 
 Don't shortcut the Cauldron. If the spread points to abundance you'd rather dismiss as "not enough," sit with that. The position is asking you to recalibrate what counts.
 
-You don't need a Celtic-themed deck. Any deck works. A worn deck, a deck someone gave you, a deck of regular playing cards (here's [how to read those](https://ko-fi.com/s/95f9c29692)). The spread maps onto whatever deck you have.
+You don't need a Celtic-themed deck. Any deck works. A worn deck, a deck someone gave you, a deck of regular playing cards (here's [how to read those](https://ko-fi.com/s/95f9c29692){:target="_blank" rel="noopener noreferrer"}). The spread maps onto whatever deck you have.
 
 Write the reading down. The Four Treasures spread tends to surface things that come into focus over a few weeks. The Sword in particular often makes more sense once you've started doing the cutting it asked for.
 

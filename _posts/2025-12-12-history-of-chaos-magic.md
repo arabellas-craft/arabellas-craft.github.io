@@ -11,7 +11,7 @@ permalink: history-of-chaos-magic
 
 Unlike many magical traditions that claim ancient or unknowable origins, chaos magic has a documented history. We know who started it, when they started it, and what they were reacting against. This isn't a drawback. It's one of the most honest things about the practice.
 
-Chaos magic emerged in England during the late 1970s. It has founders with names and published works. It developed in a specific cultural context that shaped what it became. Understanding that context helps you understand what chaos magic is actually for.
+Chaos magic emerged in England during the late 1970s. It has founders with names and published works. It developed in a specific cultural context that shaped what it became. Understanding that context helps you understand what chaos magic is actually for. If you're new to the practice and want the shape of it before the dates, [Chaos Magic for the Curious](/what-is-chaos-magic) covers what it is and who it's for.
 
 ## Timeline at a Glance
 
@@ -37,9 +37,9 @@ Some practitioners found this frustrating. They wanted to *do* magic, not spend 
 
 ## Peter Carroll (1953–2026)
 
-Peter Carroll published *[Liber Null](https://bookshop.org/a/84772/9781578637669)* in 1978. The book was short, practical, and stripped of the verbose style common in occult writing. Carroll presented techniques directly, explained how to use them, and encouraged readers to experiment rather than accept anything on faith. He drew on chaos theory and quantum physics as conceptual frameworks, though these references were more metaphorical than scientific.
+Peter Carroll published *[Liber Null](https://bookshop.org/a/84772/9781578637669){:target="_blank" rel="noopener noreferrer"}* in 1978. The book was short, practical, and stripped of the verbose style common in occult writing. Carroll presented techniques directly, explained how to use them, and encouraged readers to experiment rather than accept anything on faith. He drew on chaos theory and quantum physics as conceptual frameworks, though these references were more metaphorical than scientific.
 
-He followed *Liber Null* with *Psychonaut* in 1982, and the two were republished as a combined edition in 1987. *[Liber Null & Psychonaut](https://bookshop.org/a/84772/9781578637669)* is the foundational text of the movement; almost every later chaos magic writer assumes the reader has worked through it.
+He followed *Liber Null* with *Psychonaut* in 1982, and the two were republished as a combined edition in 1987. *[Liber Null & Psychonaut](https://bookshop.org/a/84772/9781578637669){:target="_blank" rel="noopener noreferrer"}* is the foundational text of the movement; almost every later chaos magic writer assumes the reader has worked through it.
 
 Together with Ray Sherwin, Carroll co-founded the Illuminates of Thanateros (IOT) in 1978. He later founded Arcanorium College, an online school for occultism that he ran until his death.
 
@@ -99,9 +99,9 @@ The lack of gatekeeping means anyone can claim the label, which occasionally pro
 
 If you want to explore the history of chaos magic more deeply, these sources offer scholarly or historically grounded perspectives:
 
-- *[The History of British Magic After Crowley](https://archive.org/details/dave-evans-the-history-of-british-magic-after-crowley-_-kenneth-grant-amado-crow)* by Dave Evans
-- *[Contemporary Esotericism](https://bookshop.org/a/84772/9781138856110)*, particularly the chapters on chaos magic
-- *[This is Chaos](https://bookshop.org/a/84772/9781578638734)*
+- *[The History of British Magic After Crowley](https://archive.org/details/dave-evans-the-history-of-british-magic-after-crowley-_-kenneth-grant-amado-crow){:target="_blank" rel="noopener noreferrer"}* by Dave Evans
+- *[Contemporary Esotericism](https://bookshop.org/a/84772/9781138856110){:target="_blank" rel="noopener noreferrer"}*, particularly the chapters on chaos magic
+- *[This is Chaos](https://bookshop.org/a/84772/9781578638734){:target="_blank" rel="noopener noreferrer"}*
 
 I'm not listing the foundational texts like *Liber Null* or *Condensed Chaos* here because they're practical manuals, not histories. They're worth reading if you want to practice, but they won't give you the critical distance of someone examining the movement from outside.
 
