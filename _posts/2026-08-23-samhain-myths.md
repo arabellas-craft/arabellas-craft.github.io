@@ -127,7 +127,7 @@ None of this is a reason to mark the day differently. The folk record gives you 
 [^4]: *[The Stations of the Sun: A History of the Ritual Year in Britain](https://bookshop.org/a/84772/9780192854483){:target="_blank" rel="noopener noreferrer"}* by Ronald Hutton
 [^5]: Ronald Hutton, "[The Celtic New Year and Feast of the Dead](https://doi.org/10.1080/0015587X.2023.2282282){:target="_blank" rel="noopener noreferrer"}," *Folklore* 135, no. 1 (2024): 69–86
 [^6]: *[Celtic Gods and Heroes](https://bookshop.org/a/84772/9780486414416){:target="_blank" rel="noopener noreferrer"}* by Marie-Louise Sjoestedt, chapter 5, "The Feast of the First of November"
-[^7]: Robert A. Davis, "Escaping Through Flames: Halloween as a Christian Festival," in *[Treat or Trick? Halloween in a Globalising World](https://archive.org/details/treatortrickhall0000unse){:target="_blank" rel="noopener noreferrer"}*, edited by Malcolm Foley and Hugh O'Donnell (Cambridge Scholars Publishing, 2009), 28–44
+[^7]: "Escaping Through Flames: Halloween as a Christian Festival" by Robert A. Davis in *[Treat or Trick? Halloween in a Globalising World](https://archive.org/details/treatortrickhall0000unse){:target="_blank" rel="noopener noreferrer"}*,
 [^8]: Dúchas Schools' Collection: [All Souls' Night, Leitir Mhór, Co. Donegal](https://www.duchas.ie/en/cbes/4428296/4392249/4480231){:target="_blank" rel="noopener noreferrer"}
 [^9]: Dúchas Schools' Collection: [All Souls' Night, Boireann, Co. Cork](https://www.duchas.ie/en/cbes/4921642/4887311/5153047){:target="_blank" rel="noopener noreferrer"}
 [^10]: Dúchas Schools' Collection: [Halloween Night, Droichead an Chláirín, Co. Galway](https://www.duchas.ie/en/cbes/4569045/4566459/4574771){:target="_blank" rel="noopener noreferrer"}
