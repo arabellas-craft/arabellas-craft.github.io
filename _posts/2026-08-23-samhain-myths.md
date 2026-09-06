@@ -14,7 +14,7 @@ There are many things you'll hear repeated in popular explainers on Samhain (pro
 
 Most of them have something real underneath, which is why they've traveled so well. The popular version mostly goes wrong on the dates (like when the dead return) and the reasons (why disguises are worn).
 
-This article follows the Irish sources to trace back these customs. For the medieval tales I use Jeffrey Gantz's translation,[^1] and Mark Williams on the gods in that literature.[^2] For the folk record I use Kevin Danaher's *The Year in Ireland* (1972)[^3] and the [Dúchas Schools' Collection](https://duchas.ie){:target="_blank" rel="noopener noreferrer"}, gathered in 1937–39. For the history of the claims themselves I use Robert Davis on Halloween as a Christian festival,[^7] and Ronald Hutton, both his *Stations of the Sun* (1996) and his 2024 article in *Folklore*.[^4][^5]
+If you want the plainer questions first — what the name means, how to say it, when it falls, how it differs from Halloween — [What Is Samhain?](/what-is-samhain) answers those. This article follows the Irish sources to trace back these customs. For the medieval tales I use Jeffrey Gantz's translation,[^1] and Mark Williams on the gods in that literature.[^2] For the folk record I use Kevin Danaher's *The Year in Ireland* (1972)[^3] and the [Dúchas Schools' Collection](https://duchas.ie){:target="_blank" rel="noopener noreferrer"}, gathered in 1937–39. For the history of the claims themselves I use Robert Davis on Halloween as a Christian festival,[^7] and Ronald Hutton, both his *Stations of the Sun* (1996) and his 2024 article in *Folklore*.[^4][^5]
 
 ## The Thin Veil: The Barrier Is Old, the Thinning Night Isn't
 
