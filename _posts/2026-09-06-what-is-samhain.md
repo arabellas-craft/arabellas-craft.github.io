@@ -14,15 +14,15 @@ Samhain (pronounced [SAH-win](https://www.teanglann.ie/en/fuaim/Samhain){:target
 
 The word does double duty in modern Irish, because samhain is also the name of the month of November: Mí na Samhna is November, Lá Samhna is November 1st, and Oíche Shamhna is what English calls Halloween.[^2]
 
-You'll also read that Samhain was the Celtic New Year, that the veil between worlds thinned that night, and that the Church put All Saints' Day on November 1st to cover it up. Each of those has a history behind it, and it's rarely the history you're given. [Five claims about Samhain and where they come from](/halloween-origins-samhain-claims) traces them. This article stays with the plainer questions, and the [folk customs](/samhain-folk-customs) and [divination games](/samhain-divination-games) have articles of their own.
+You'll also read that Samhain was the Celtic New Year, that the veil between worlds thinned that night, and that the Church put All Saints' Day on November 1st to cover it up. Each of those has a history behind it, and it's rarely the history you're given. [Five claims about Samhain and where they come from](/halloween-origins-samhain-claims) traces them. <!-- This article stays with the plainer questions, and the [folk customs](/samhain-folk-customs) and [divination games](/samhain-divination-games) have articles of their own. -->
 
 ## What the name means
 
 Samhain means November in modern Irish.[^2] What it meant before that is where the argument starts.
 
-Medieval texts spell it *Samain* or *Samuin*, and they tell you what they think it means. *Tochmarc Emire*, "The Wooing of Emer," says: "Samain, i.e., summer end... the summer from Beltine to Samain, and the winter from Samain to Beltine."[^5]
+Medieval texts spell it *Samain* or *Samuin*, and they tell you what they think it means. *Tochmarc Emire*, "The Wooing of Emer," says: "Samain, i.e., summer end... the summer from Beltine to Samain, and the winter from Samain to Beltine."[^3]
 
-The oldest trace we have of the word currently is Continental: the Gaulish calendar found at Coligny has a month Samon-, set against Giamon- on the root of Irish *geimhreadh*, winter, and marks three nights of it, *trinux samonii*.[^7]
+The oldest trace we have of the word currently is Continental: the Gaulish calendar found at Coligny has a month Samon-, set against Giamon- on the root of Irish *geimhreadh*, winter, and marks three nights of it, *trinux samonii*.[^5]
 
 While the meaning of the word likely has something to do with summer, scholars don't agree on the its exact etymology. Samhain is old enough that its first meaning is likely lost to history.
 
@@ -32,7 +32,7 @@ While the meaning of the word likely has something to do with summer, scholars d
 
 The date is fixed: November 1st, every year, with no moon phase or equinox involved. Kevin Danaher's survey of the Irish calendar year puts it plainly: "The ancient festival of Samhain, the first day of Winter is traditionally kept on 1 November, the Feast of All Saints, and the vigil of this day, Oíche Shamhna, Hallow E'en, Hollantide, is celebrated all over Ireland with feasting, merrymaking and divination."[^1]
 
-Almost everything happened on the eve rather than the day. That follows the Irish reckoning of time, which Dáithí Ó hÓgáin sums up as "the Celtic belief that the night comes before the day."[^6] The day started at sundown, not sunrise.
+Almost everything happened on the eve rather than the day. That follows the Irish reckoning of time, which Dáithí Ó hÓgáin sums up as "the Celtic belief that the night comes before the day."[4] The day started at sundown, not sunrise.
 
 ## What the day marked
 
@@ -40,7 +40,7 @@ Samhain closed the farming year. Danaher describes the point where everything ha
 
 It was the settling day too. "Everyone has debts at Hallow E'en," runs the proverb Danaher quotes; wages, rents and the hire of grazing and tillage were all squared up.[^1]
 
-The medieval tales put the big gatherings on the same date. Ronald Hutton calls it "an ideal moment for the convention of the year's most important tribal assemblies," and the *feis* of Samhain is a favorite setting in the early Irish stories.[^8]
+The medieval tales put the big gatherings on the same date. Ronald Hutton calls it "an ideal moment for the convention of the year's most important tribal assemblies," and the *feis* of Samhain is a favorite setting in the early Irish stories.[^6]
 
 What people did on the night, from the colcannon to the ring in the brack, is in the [folk customs of Samhain](/samhain-folk-customs). If you mark it with a reading, there's a [Samhain tarot spread](/free-tarot-spreads/samhain-tarot-spread) here too.
 
@@ -59,7 +59,6 @@ As Halloween, and under its own name: Irish calls the night Oíche Shamhna and t
 [^1]: *[The Year in Ireland](https://bookshop.org/a/84772/9781856350938){:target="_blank" rel="noopener noreferrer"}* by Kevin Danaher
 [^2]: "[Samhain](https://www.teanglann.ie/en/fgb/Samhain){:target="_blank" rel="noopener noreferrer"}," *Foclóir Gaeilge–Béarla* (Ó Dónaill), Teanglann.ie
 [^3]: Ronald Hutton, "[The Celtic New Year and Feast of the Dead](https://doi.org/10.1080/0015587X.2023.2282282){:target="_blank" rel="noopener noreferrer"}," *Folklore* 135, no. 1
-[^5]: Hutton, "The Celtic New Year and Feast of the Dead,"
-[^6]: *[The Sacred Isle: Belief and Religion in Pre-Christian Ireland](https://bookshop.org/a/84772/9780851158563){:target="_blank" rel="noopener noreferrer"}* by Dáithí Ó hÓgáin
-[^7]: Lisa L. Spangenberg, "[What is Samain or Samhain?](https://www.digitalmedievalist.com/opinionated-celtic-faqs/samain/){:target="_blank" rel="noopener noreferrer"}," Celtic Studies Resources
-[^8]: *[The Stations of the Sun: A History of the Ritual Year in Britain](https://bookshop.org/a/84772/9780192854483){:target="_blank" rel="noopener noreferrer"}* by Ronald Hutton
+[^4]: *[The Sacred Isle: Belief and Religion in Pre-Christian Ireland](https://bookshop.org/a/84772/9780851158563){:target="_blank" rel="noopener noreferrer"}* by Dáithí Ó hÓgáin
+[^5]:[What is Samain or Samhain?](https://www.digitalmedievalist.com/opinionated-celtic-faqs/samain/){:target="_blank" rel="noopener noreferrer"}
+[^6]: *[The Stations of the Sun: A History of the Ritual Year in Britain](https://bookshop.org/a/84772/9780192854483){:target="_blank" rel="noopener noreferrer"}* by Ronald Hutton
