@@ -29,7 +29,6 @@ url: "https://juniperdivination.com" # the base hostname & protocol for your sit
 
 plugins:
   - jekyll-coffeescript
-  - jekyll-seo-tag
   - jekyll-sitemap
 
 spread_evergreen:

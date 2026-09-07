@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Irish Folklore & Celtic Mythology: 20+ Research-Based Guides"
-short-description: Irish and Celtic folklore from primary sources:\ the four mythological cycles, ogham divination, Bealtaine and Imbolc customs, and Celtic Reconstructionism explained.
+short-description: "Irish and Celtic folklore from primary sources: the four mythological cycles, ogham divination, Bealtaine and Imbolc customs, and Celtic Reconstructionism explained."
 categories: Irish folklore, Celtic mythology, Irish mythology, four cycles of Irish mythology, Tuatha Dé Danann, Celtic Reconstructionism, ogham, ogham divination, Bealtaine, Imbolc, Samhain, Irish folk customs, the evil eye, St Brigid's cross, Irish folk magic, Fenian Cycle, Ulster Cycle, Mythological Cycle, Cycle of the Kings, Cú Chulainn
 permalink: /irish
 ---

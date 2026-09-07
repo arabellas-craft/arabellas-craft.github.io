@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Articles | Juniper Divination and Witchery | Tarot Readings | Online Tarot Card Reading
-short-description: Explore a treasure trove of articles at Juniper Divination, where mystical wisdom meets modern living. Uncover the secrets of tarot card meanings, explore diverse divination practices, and discover spiritual guidance for your journey.
+title: "All Articles: Irish Folklore, Divination & Witchcraft Guides"
+short-description: "Every article on Juniper Divination: Irish folklore and mythology, divination and cartomancy, chaos magic and witchcraft."
 permalink: /articles/
 ---
 

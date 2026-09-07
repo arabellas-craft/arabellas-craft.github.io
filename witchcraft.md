@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Witchcraft & Chaos Magic: Sigils, Gnosis & Beginner Guides"
-short-description: Research-grounded chaos magic and witchcraft guides:\ how to make sigils, reach gnosis, shift paradigms, plus vetted beginner resources and moon ritual ideas.
+short-description: "Research-grounded chaos magic and witchcraft guides: how to make sigils, reach gnosis, shift paradigms, plus vetted beginner resources and moon ritual ideas."
 categories: witchcraft for beginners, chaos magic, how to make a sigil, sigils, gnosis, paradigm shifting, belief as a tool, chaos magic glossary, Austin Osman Spare, Peter Carroll, history of chaos magic, full moon ritual, new moon ritual, witchcraft books, witchcraft resources, beginner witch
 permalink: /witchcraft
 ---
