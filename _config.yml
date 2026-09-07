@@ -30,6 +30,7 @@ url: "https://juniperdivination.com" # the base hostname & protocol for your sit
 plugins:
   - jekyll-coffeescript
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 spread_evergreen:
   - /free-tarot-spreads/how-should-I-decide-3-card-tarot-spread         

@@ -5,7 +5,7 @@ name: Scheduled Rebuild
 # How it works:
 #   - The workflow runs once a day (UTC) on a cron.
 #   - Before doing anything, it checks today's date against REBUILD_DATES.
-#   - If today is on the list, it triggers a Pages rebuild. Otherwise it
+#   - If today is on the list, it dispatches jekyll.yml. Otherwise it
 #     exits cleanly with no rebuild.
 #   - Manual runs from the Actions tab always rebuild, regardless of date.
 #
@@ -26,10 +26,11 @@ on:
     - cron: '30 14 * * *'
   workflow_dispatch:
 
-# The default GITHUB_TOKEN is read-only on most scopes. Triggering a Pages
-# build (POST /repos/{owner}/{repo}/pages/builds) requires pages: write.
+# Dispatches the jekyll.yml build workflow. The dispatch API needs actions:
+# write. workflow_dispatch is one of the two events that still create a run
+# when fired with the default GITHUB_TOKEN, so no PAT is needed.
 permissions:
-  pages: write
+  actions: write
 
 jobs:
   build:
@@ -66,7 +67,7 @@ jobs:
             echo "proceed=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Trigger GitHub Pages rebuild
+      - name: Trigger site rebuild
         if: steps.check.outputs.proceed == 'true'
         run: |
           curl -L --fail-with-body \
@@ -74,4 +75,5 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
-            "https://api.github.com/repos/${{ github.repository }}/pages/builds"
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/jekyll.yml/dispatches" \
+            -d '{"ref":"main"}'

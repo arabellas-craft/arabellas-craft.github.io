@@ -1,0 +1,60 @@
+name: Build and deploy site
+
+# Builds the site with Bundler-resolved gems and deploys it to GitHub Pages.
+#
+# Replaces the legacy Pages build. The legacy build ignored the Gemfile and
+# used the github-pages gem (Jekyll 3.10); this builds with the Jekyll version
+# pinned in the Gemfile and allows plugins outside the GitHub Pages allowlist —
+# which is what makes jekyll-last-modified-at possible.
+#
+# fetch-depth: 0 is REQUIRED. jekyll-last-modified-at reads each file's last
+# commit date. With a shallow clone every file resolves to the single fetched
+# commit, so every page would report the same dateModified.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Let a running deploy finish rather than cancelling it mid-publish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

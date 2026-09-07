@@ -47,6 +47,8 @@
     "copyrightNotice": "\u00a9 Juniper Divination. Licensed CC BY-NC-SA 4.0."
   },
   "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+{% if page.last_modified_at %}  "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+{% endif %}
   "isPartOf": {
     "@type": "WebSite",
     "name": "Juniper Divination",
