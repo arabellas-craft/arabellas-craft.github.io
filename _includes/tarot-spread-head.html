@@ -28,36 +28,32 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "HowTo",
+  "@type": "WebPage",
   "name": {{ page.title | jsonify }},
   "description": {{ page.short-description | jsonify }},
-  "image": "{{ site.url }}/assets/img/free-tarot-spread/{{ page.img }}",
-  "step": [
-    {
-      "@type": "HowToStep",
-      "name": "Prepare your space",
-      "text": "Find a quiet place where you won't be interrupted. Have your tarot deck, this spread guide, and something to write with nearby."
+  "image": {
+    "@type": "ImageObject",
+    "contentUrl": "{{ site.url }}/assets/img/free-tarot-spread/{{ page.img }}",
+    "url": "{{ site.url }}/assets/img/free-tarot-spread/{{ page.img }}",
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "creator": {
+      "@type": "Organization",
+      "name": "Juniper Divination",
+      "url": "{{ site.url }}"
     },
-    {
-      "@type": "HowToStep",
-      "name": "Clarify your question",
-      "text": "Before you shuffle, form a clear question or intention. Open-ended questions tend to produce more useful readings than yes/no ones."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Shuffle and draw",
-      "text": "Shuffle your deck while holding your question in mind. When you feel ready, draw the cards and lay them face down in the spread positions shown in this guide."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Read each position",
-      "text": "Turn over one card at a time and read it in the context of its position. Use the position descriptions in this guide to interpret what each card is showing you."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Record your reading",
-      "text": "Write down the cards you drew and your interpretation. Readings often make more sense over the following days, so having a record is useful."
-    }
-  ]
+    "creditText": "Juniper Divination",
+    "copyrightNotice": "\u00a9 Juniper Divination. Licensed CC BY-NC-SA 4.0."
+  },
+  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Juniper Divination",
+    "url": "{{ site.url }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Juniper Divination",
+    "url": "{{ site.url }}"
+  }
 }
 </script>
