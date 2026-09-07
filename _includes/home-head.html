@@ -11,12 +11,16 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ page.title }}</title>
+{% if page.short-description %}<meta name="description" content="{{ page.short-description | escape }}">{% endif %}
 <link rel="canonical" href="{{ page.url | absolute_url }}">
-<meta property="og:title" content="{{ page.title }}">
-<meta property="og:description" content="{{page.short-description}}">
+<meta property="og:title" content="{{ page.title | escape }}">
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="Juniper Divination">
+{% if page.short-description %}<meta property="og:description" content="{{ page.short-description | escape }}">{% endif %}
 <meta name="keywords" content="{{ page.categories }}">
 <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/og-image.jpg">
-<meta name="robots" content="index, follow">
+<meta name="robots" content="index, follow, max-image-preview:large">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="English">
 <meta name="facebook-domain-verification" content="lxbqwocdkuyqcmaipulabnkrgdpg9w" />

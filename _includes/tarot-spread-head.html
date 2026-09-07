@@ -11,13 +11,16 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ page.title }}</title>
+<meta name="description" content="{{ page.short-description | escape }}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
-<meta property="og:title" content="{{ page.title }} - Free online tarot spreads">
-<meta property="og:type" content="website" />
-<meta property="og:description" content="{{page.short-description}}">
+<meta property="og:title" content="{{ page.title | escape }} - Free online tarot spreads">
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="Juniper Divination">
+<meta property="og:description" content="{{ page.short-description | escape }}">
 <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/free-tarot-spread/thumbs/{{page.img}}"> 
 <meta name="keywords" content="{{ page.categories }}">
-<meta name="robots" content="follow, index">
+<meta name="robots" content="index, follow, max-image-preview:large">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="English">
 <meta name="facebook-domain-verification" content="lxbqwocdkuyqcmaipulabnkrgdpg9w" />
