@@ -5,7 +5,7 @@ date: 2023-10-25 10:51:01 -0700
 category: Holidays
 tag: tarot-spread
 categories: Halloween Tarot Spread, Spiritual energies, Ancestral guidance, Beyond the veil, Winter wisdom, Tarot reading for Halloween, Connecting with the spiritual realm, Halloween divination, Insights for the upcoming season, Communing with ancestors, Unveiling hidden truths, Ethereal forces in tarot, Guidance for the present and future, Navigating the winter season with tarot, Seekers' spiritual journey on Halloween
-short-description: This Halloween tarot spread is a hauntingly insightful tool that delves into the depths of the spiritual realm, bridging the gap between the living and the departed. Each card drawn during this mystical reading serves as a portal to uncover the hidden truths and timeless wisdom that linger beyond the veil.
+short-description: "A 4-card Halloween tarot spread: what's at work beyond the veil, two cards of ancestral guidance, and what the coming winter holds."
 img: "samhain-tarot-card-reading.jpg"
 img-text: "Halloween Tarot Spread"
 permalink: free-tarot-spreads/halloween-tarot-spread

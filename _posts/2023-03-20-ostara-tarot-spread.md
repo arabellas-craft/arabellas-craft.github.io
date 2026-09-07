@@ -5,7 +5,7 @@ date: 2023-03-20 10:51:01 -0700
 category: Holidays
 tag: tarot-spread
 categories: Spring Equinox Tarot Spread, Tarot Reading for Spring Equinox, Seasonal Tarot Layout, Tarot Cards for Spring Renewal, Equinox Ritual with Tarot, Spring Equinox Divination, Online Spring Tarot Reading, Celebrate the Equinox with Tarot, Balance and Renewal Tarot Spread, Springtime Tarot Insights
-short-description: Discover the power of new energy and alignment with the Ostara Tarot Spread. Unveil the opportunities ready for growth, gain insights on how your life aligns with this new potential, and explore what beautiful manifestations will emerge from these beginnings.
+short-description: "A 4-card Ostara tarot spread for the spring equinox: the seed of what's starting, two cards on what supports or blocks it, and what blooms."
 img: spring-equinox-ostara-tarot-spread-23.jpg
 img-text: Embrace New Beginnings and Growth with the Ostara Tarot Spread
 permalink: free-tarot-spreads/spring-equinox-ostara-tarot-spread

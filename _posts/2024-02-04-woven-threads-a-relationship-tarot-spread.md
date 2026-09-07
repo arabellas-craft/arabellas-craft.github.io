@@ -5,7 +5,7 @@ date: 2024-02-04 10:51:01 -0700
 category: Love and Relationships
 tag: tarot-spread
 categories: relationship tarot spread, future relationship tarot spread, love tarot, tarot for love, tarot insights, relationship guidance, love guidance, future love, tarot readings, occult, witchcraft
-short-description: Uncover obstacles to attracting love, gain insights with clarifying cards, and find the way forward in your romantic journey through this powerful love tarot reading. Build connections with precision and embrace a fulfilling love life.
+short-description: "A 4-card relationship tarot spread built on tapestry making: what sparked the connection, what each of you brings, the patterns that repeat, and where it's heading."
 img: woven-threads-a-tarot-spread-for-relationships.jpg
 img-text: A divination tool for attracting love, using a seven-card tarot spread with guidance on overcoming obstacles and building connections
 permalink: free-tarot-spreads/woven-threads-a-tarot-spread-for-relationships

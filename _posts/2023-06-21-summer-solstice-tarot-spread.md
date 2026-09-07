@@ -5,7 +5,7 @@ date: 2023-06-21 10:51:01 -0700
 category: Holidays
 tag: tarot-spread
 categories: Summer Solstice Tarot Spread, Tarot Reading for Summer Solstice, Solar Energy Tarot Layout, Tarot Cards for Summer Celebrations, Seasonal Tarot Spread, Midsummer Tarot Divination, Summer Solstice Ritual with Tarot, Online Summer Solstice Tarot Reading, Tarot Insights for Solar Power, Embrace Summer's Energy with Tarot
-short-description: Harness the transformative energy of the Summer Solstice with our specialized tarot spread. Uncover what the sun illuminates in your life, the key focus of your personal growth this season, and the insights you need to harvest and embrace as you bask in the light of this transformative time.
+short-description: "A 5-card tarot spread for the summer solstice, reading what the sun is lighting up, where your energy belongs this season, and what's ready to harvest."
 img: "summer-solstice-tarot-spread.jpg"
 img-text: Embrace the Radiance of the Summer Solstice with the Summer Solstice Tarot Spread
 permalink: free-tarot-spreads/summer-solstice-tarot-spread

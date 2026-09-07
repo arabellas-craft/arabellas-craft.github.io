@@ -4,7 +4,7 @@ title: Samhain Tarot Spread
 date: 2021-10-31 10:51:01 -0700
 category: Holidays
 tag: tarot-spread
-short-description: Explore the transformative energies of the Samhain Tarot Spread, designed to provide insights into the upcoming year's changes, letting go of the past, embracing wisdom, and nurturing rebirth. Discover the guiding forces that will support you through the darkness of the winter season.
+short-description: "A 5-card Samhain tarot spread for the turn into winter: what's changing, what to let go of, what wisdom carries forward, and what's ready to be reborn."
 img: samhain-tarot-spread.jpg
 img-text:  Embrace Transformation and Renewal with the Samhain Tarot Spread
 permalink: free-tarot-spreads/samhain-tarot-spread

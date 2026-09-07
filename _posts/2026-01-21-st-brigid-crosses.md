@@ -4,7 +4,7 @@ title: "St. Brigid's Crosses: How to Make Them, Types, and Protection"
 date: 2026-01-21 12:51:01 -0700
 tag: article
 topic: irish
-short-description: "Learn Irish St. Brigid's Day customs for the home. Stocktaking winter supplies, festive suppers, offerings for the saint, and work prohibitions on February 1st."
+short-description: "St. Brigid's crosses (cros Bríde) by region: the diamond, four-legged, interlaced, and Latin forms, how each was made, and what to do with last year's cross."
 categories: St. Brigid's Day, Irish folklore, Imbolc, Irish traditions, February 1st, Dúchas archives, Irish folk customs, Brigid goddess, Irish quarter days, threshold rituals, folk magic Ireland,
 img: "st-brigids-cross.webp"
 permalink: st-brigids-day-crosses

@@ -4,7 +4,7 @@ title: What Do I Need to Know Tarot Spread
 date: 2022-09-01 10:51:01 -0700
 category: Simple
 tag: tarot-spread
-short-description: Seek clarity and understanding with this transformative "What Do I Need to Know?" tarot spread. Discover your true feelings about the situation, gain a more accurate perspective, and uncover the steps needed to move forward with confidence and purpose.
+short-description: "A 4-card tarot spread for when you don't know what to ask: how you actually feel, how accurate your read is, what you're missing, and what to do next."
 img: what-do-i-need-to-know-tarot-spread.jpg
 img-text: Find Clarity and Insight with the Question Tarot - What Do I Need to Know? Tarot Spread
 permalink: free-tarot-spreads/what-do-i-need-to-know-tarot-spread

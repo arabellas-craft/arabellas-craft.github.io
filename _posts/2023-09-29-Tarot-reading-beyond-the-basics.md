@@ -4,7 +4,7 @@ title: "How to Read Patterns in Tarot Spreads: Beyond Individual Card Meanings"
 date: 2023-06-29 10:51:01 -0700
 tag: article
 topic: divination
-short-description: "Move beyond memorizing card meanings. Learn to read patterns in tarot spreads like repeating suits, numbers, and imagery. Advanced techniques for interpreting how cards interact, not just what they mean individually. For advanced beginner and intermediate readers."
+short-description: "Suits, numbers, repeated imagery, reversals, and the balance of major to minor arcana all carry meaning across a spread. How to read the cards against each other."
 categories: Tarot cards, Tarot card symbolism, Tarot card imagery, Tarot card interpretation, Tarot meanings, Tarot symbolism guide, Tarot card secrets, Tarot reading, Tarot beginner's guide, Tarot symbolism explained, Tarot card insights, Juniper Divination Tarot, Tarot symbolism and imagery, Understanding Tarot cards, Tarot card interpretation tips, Tarot card insights for beginners, Tarot card study, Tarot card symbolism deciphered, Unlocking Tarot meanings, Tarot symbolism exploration
 img: "learn-to-read-tarot/learn-to-read-tarot.jpg"
 img-text: "Two tarot cards"

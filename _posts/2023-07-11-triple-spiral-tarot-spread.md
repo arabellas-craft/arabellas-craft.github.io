@@ -5,9 +5,9 @@ date: 2023-07-11 10:51:01 -0700
 category: Simple
 tag: tarot-spread
 categories: Triple Spiral Tarot Spread, Tarot Reading with Triple Spiral Layout, Spiral Symbolism in Tarot, Triple Spiral Guidance, Tarot Cards for Spiritual Growth, Triple Spiral Divination, Online Tarot Reading with Spirals, Sacred Geometry in Tarot, Triple Spiral Ritual, Personalized Triple Spiral Tarot Insights
-short-description: Delve into a comprehensive understanding of your physical, emotional, and spiritual well-being with the Triple Spiral Spread by Earth Sea Sky Tarot. Discover insights on your physical health, emotional focus, and spiritual knowledge, fostering a balanced and harmonious connection to the elements within and around you.
+short-description: "A 3-card Celtic triskele tarot spread reading earth, sea, and sky: your footing in the physical world, your emotional currents, and where your head is."
 img: triple-spiral-tarot-spread.jpg
-img-text: Embrace Holistic Guidance with the Earth Sea Sky Tarot's Triple Spiral Spread
+img-text: "A 3-card Celtic triskele tarot spread reading earth, sea, and sky: your footing in the physical world, your emotional currents, and where your head is."
 permalink: free-tarot-spreads/triple-spiral-tarot-spread
 ---
 This Triple Spiral Tarot Spread, also known as a Triskele Tarot Spread, is a concise yet powerful three-card layout that delves into the interconnected realms of earth, sea, and sky. Inspired by the ancient Celtic symbol of the triple spiral, this spread invites exploration of your inner and outer worlds, offering profound insights into your current path and potential for growth.
