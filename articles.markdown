@@ -3,8 +3,9 @@ layout: default
 title: "All Articles: Irish Folklore, Divination & Witchcraft Guides"
 short-description: "Every article on Juniper Divination: Irish folklore and mythology, divination and cartomancy, chaos magic and witchcraft."
 permalink: /articles/
+breadcrumb: "Articles"
+page-type: CollectionPage
 ---
-
 <div class="article-list">
 {% for post in site.posts %}
   {% if post.layout == "article" %}

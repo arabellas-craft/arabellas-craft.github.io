@@ -4,30 +4,11 @@ title: "Free Beginner Tarot & Oracle Card Spreads - Simple Layouts for New Reade
 permalink: /free-tarot-spreads/beginner/
 categories: Beginner tarot spread, free tarot spread for beginners, simple tarot spread, 3 card tarot spread, easy tarot spread, daily tarot spread, tarot for beginners, beginner oracle card spread, free oracle card spread, oracle card spread for beginners, simple oracle spread
 short-description: "Free beginner tarot and oracle card spreads: simple 3-card layouts, daily check-ins, and decision-making spreads for readers who are still learning the cards."
+breadcrumb: "Beginner"
+breadcrumb-parent-name: "Free Tarot Spreads"
+breadcrumb-parent-url: "/free-tarot-spreads/"
+page-type: CollectionPage
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "CollectionPage",
-      "name": {{ page.title | jsonify }},
-      "description": {{ page.short-description | jsonify }},
-      "url": "{{ site.url }}{{ page.url }}"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
-        { "@type": "ListItem", "position": 2, "name": "Free Tarot Spreads", "item": "{{ site.url }}/free-tarot-spreads/" },
-        { "@type": "ListItem", "position": 3, "name": {{ page.title | split: " |" | first | jsonify }}, "item": "{{ site.url }}{{ page.url }}" }
-      ]
-    }
-  ]
-}
-</script>
-
 {% assign count = site.posts | where: "category", "Simple" | size %}
 
 # Free Beginner Tarot & Oracle Card Spreads

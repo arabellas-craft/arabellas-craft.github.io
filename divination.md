@@ -4,6 +4,10 @@ title: "Divination & Card Reading: Tarot, Cartomancy & Beginner Guides"
 short-description: Beginner-friendly divination guides covering tarot, playing cards, Lenormand, tea leaves, and bibliomancy, plus how to choose a method and ask better questions.
 categories: divination methods, card divination, cartomancy, tarot for beginners, playing card divination, Lenormand, La Sibylle des Salons, oracle cards, tea leaf reading, tasseography, bibliomancy, how to choose a divination method, combining divination methods, asking better tarot questions, household divination
 permalink: /divination
+breadcrumb: "Divination"
+breadcrumb-parent-name: "Articles"
+breadcrumb-parent-url: "/articles/"
+page-type: CollectionPage
 ---
 <h1>Divination &amp; Card Reading</h1>
 

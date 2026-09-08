@@ -1,0 +1,43 @@
+# Breadcrumb lookups for JSON-LD BreadcrumbList in the head includes.
+# article_topics keys match front-matter `topic:` on layout: article posts.
+# spread_categories keys match front-matter `category:` on layout: free-tarot-spread posts.
+
+article_topics:
+  irish:
+    label: "Irish Folklore & Magic"
+    url: "/irish"
+  divination:
+    label: "Divination"
+    url: "/divination"
+  witchcraft:
+    label: "Witchcraft"
+    url: "/witchcraft"
+
+spread_categories:
+  "Simple":
+    label: "Beginner"
+    url: "/free-tarot-spreads/beginner/"
+  "Insight":
+    label: "Shadow Work"
+    url: "/free-tarot-spreads/shadow-work/"
+  "Holidays":
+    label: "Sabbats & Seasonal"
+    url: "/free-tarot-spreads/seasonal/"
+  "Love and Relationships":
+    label: "Love & Relationships"
+    url: "/free-tarot-spreads/love/"
+  "Lunar":
+    label: "Moon Phases"
+    url: "/free-tarot-spreads/moon-phases/"
+  "Celtic":
+    label: "Celtic Mythology"
+    url: "/free-tarot-spreads/celtic-mythology/"
+  "Healing and Health":
+    label: "Healing & Grounding"
+    url: "/free-tarot-spreads/healing/"
+  "Spirit Communication":
+    label: "Ancestral & Spirit Work"
+    url: "/free-tarot-spreads/spirit-work/"
+  "Work and Career":
+    label: "Career"
+    url: "/free-tarot-spreads/career/"

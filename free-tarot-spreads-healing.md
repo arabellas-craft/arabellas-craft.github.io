@@ -4,30 +4,11 @@ title: "Free Healing & Grounding Tarot & Oracle Card Spreads | Juniper Divinatio
 permalink: /free-tarot-spreads/healing/
 categories: Healing tarot spread, grounding tarot spread, emotional healing tarot, tarot for anxiety, tarot for overwhelm, free healing tarot spread, healing oracle card spread, grounding oracle spread, oracle card spread for anxiety, free healing oracle spread
 short-description: Free tarot and oracle card spreads for emotional healing and grounding, useful when you feel scattered, overwhelmed, or are working through something difficult.
+breadcrumb: "Healing & Grounding"
+breadcrumb-parent-name: "Free Tarot Spreads"
+breadcrumb-parent-url: "/free-tarot-spreads/"
+page-type: CollectionPage
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "CollectionPage",
-      "name": {{ page.title | jsonify }},
-      "description": {{ page.short-description | jsonify }},
-      "url": "{{ site.url }}{{ page.url }}"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
-        { "@type": "ListItem", "position": 2, "name": "Free Tarot Spreads", "item": "{{ site.url }}/free-tarot-spreads/" },
-        { "@type": "ListItem", "position": 3, "name": {{ page.title | split: " |" | first | jsonify }}, "item": "{{ site.url }}{{ page.url }}" }
-      ]
-    }
-  ]
-}
-</script>
-
 {% assign count = site.posts | where: "category", "Healing and Health" | size %}
 
 # Free Healing & Grounding Tarot & Oracle Card Spreads

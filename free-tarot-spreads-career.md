@@ -4,30 +4,11 @@ title: "Free Career Tarot Spread - Professional Direction Reading | Juniper Divi
 permalink: /free-tarot-spreads/career/
 categories: Career tarot spread, work tarot spread, professional tarot reading, tarot for career decisions, job tarot spread, free career tarot spread, career oracle card spread, oracle spread for work decisions, oracle card career reading
 short-description: "Free career tarot and oracle card spreads for major professional decisions: direction, strengths, obstacles, and next steps clearly laid out."
+breadcrumb: "Career"
+breadcrumb-parent-name: "Free Tarot Spreads"
+breadcrumb-parent-url: "/free-tarot-spreads/"
+page-type: CollectionPage
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "CollectionPage",
-      "name": {{ page.title | jsonify }},
-      "description": {{ page.short-description | jsonify }},
-      "url": "{{ site.url }}{{ page.url }}"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
-        { "@type": "ListItem", "position": 2, "name": "Free Tarot Spreads", "item": "{{ site.url }}/free-tarot-spreads/" },
-        { "@type": "ListItem", "position": 3, "name": {{ page.title | split: " |" | first | jsonify }}, "item": "{{ site.url }}{{ page.url }}" }
-      ]
-    }
-  ]
-}
-</script>
-
 {% assign count = site.posts | where: "category", "Work and Career" | size %}
 
 # Free Career Tarot Spreads

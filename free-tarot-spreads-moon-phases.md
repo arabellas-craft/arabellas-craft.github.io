@@ -4,30 +4,11 @@ title: "Free Moon Phase Tarot & Oracle Card Spreads - Lunar Cycle Readings | Jun
 permalink: /free-tarot-spreads/moon-phases/
 categories: Moon phase tarot spread, full moon tarot spread, new moon tarot spread, lunar tarot spread, dark moon tarot, waxing moon tarot, free lunar tarot spread, moon phase oracle spread, full moon oracle card spread, new moon oracle spread, lunar oracle card spread
 short-description: Free moon phase tarot and oracle card spreads for the full moon, new moon, dark moon, waxing moon, and month-ahead planning. No lunar practice required to use them.
+breadcrumb: "Moon Phases"
+breadcrumb-parent-name: "Free Tarot Spreads"
+breadcrumb-parent-url: "/free-tarot-spreads/"
+page-type: CollectionPage
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "CollectionPage",
-      "name": {{ page.title | jsonify }},
-      "description": {{ page.short-description | jsonify }},
-      "url": "{{ site.url }}{{ page.url }}"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
-        { "@type": "ListItem", "position": 2, "name": "Free Tarot Spreads", "item": "{{ site.url }}/free-tarot-spreads/" },
-        { "@type": "ListItem", "position": 3, "name": {{ page.title | split: " |" | first | jsonify }}, "item": "{{ site.url }}{{ page.url }}" }
-      ]
-    }
-  ]
-}
-</script>
-
 {% assign count = site.posts | where: "category", "Lunar" | size %}
 
 # Free Moon Phase Tarot & Oracle Card Spreads

@@ -4,30 +4,11 @@ title: "Free Love & Relationship Tarot & Oracle Card Spreads | Juniper Divinatio
 permalink: /free-tarot-spreads/love/
 categories: Love tarot spread, relationship tarot spread, free love tarot spread, tarot for relationships, tarot for dating, tarot for couples, self-love tarot spread, love oracle card spread, relationship oracle spread, oracle card spread for love, free oracle love spread
 short-description: Free love and relationship tarot and oracle card spreads for romantic partnerships, dating, decision-making in relationships, and self-love readings.
+breadcrumb: "Love & Relationships"
+breadcrumb-parent-name: "Free Tarot Spreads"
+breadcrumb-parent-url: "/free-tarot-spreads/"
+page-type: CollectionPage
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "CollectionPage",
-      "name": {{ page.title | jsonify }},
-      "description": {{ page.short-description | jsonify }},
-      "url": "{{ site.url }}{{ page.url }}"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
-        { "@type": "ListItem", "position": 2, "name": "Free Tarot Spreads", "item": "{{ site.url }}/free-tarot-spreads/" },
-        { "@type": "ListItem", "position": 3, "name": {{ page.title | split: " |" | first | jsonify }}, "item": "{{ site.url }}{{ page.url }}" }
-      ]
-    }
-  ]
-}
-</script>
-
 {% assign count = site.posts | where: "category", "Love and Relationships" | size %}
 
 # Free Love & Relationship Tarot & Oracle Card Spreads

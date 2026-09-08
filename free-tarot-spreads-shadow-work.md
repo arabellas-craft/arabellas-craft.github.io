@@ -4,30 +4,11 @@ title: "Free Shadow Work Tarot & Oracle Card Spreads - Self-Discovery Layouts | 
 permalink: /free-tarot-spreads/shadow-work/
 categories: Shadow work tarot spread, self-discovery tarot spread, inner work tarot, tarot for shadow work, psychological tarot spread, free shadow work tarot, shadow work oracle spread, oracle card shadow work spread, self-discovery oracle spread, free oracle card shadow work
 short-description: Free shadow work tarot and oracle card spreads for examining unconscious patterns, emotional blocks, and inner conflict. Includes a beginner-friendly option.
+breadcrumb: "Shadow Work"
+breadcrumb-parent-name: "Free Tarot Spreads"
+breadcrumb-parent-url: "/free-tarot-spreads/"
+page-type: CollectionPage
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "CollectionPage",
-      "name": {{ page.title | jsonify }},
-      "description": {{ page.short-description | jsonify }},
-      "url": "{{ site.url }}{{ page.url }}"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
-        { "@type": "ListItem", "position": 2, "name": "Free Tarot Spreads", "item": "{{ site.url }}/free-tarot-spreads/" },
-        { "@type": "ListItem", "position": 3, "name": {{ page.title | split: " |" | first | jsonify }}, "item": "{{ site.url }}{{ page.url }}" }
-      ]
-    }
-  ]
-}
-</script>
-
 {% assign count = site.posts | where: "category", "Insight" | size %}
 
 # Free Shadow Work Tarot & Oracle Card Spreads

@@ -4,30 +4,11 @@ title: "Free Sabbat & Seasonal Tarot Spreads - Celtic Wheel of the Year | Junipe
 permalink: /free-tarot-spreads/seasonal/
 categories: Sabbat tarot spread, seasonal tarot spread, Samhain tarot spread, Imbolc tarot spread, Beltane tarot spread, Celtic wheel of the year tarot, free seasonal tarot spread, pagan tarot spread, sabbat oracle card spread, seasonal oracle spread, pagan oracle spread, Samhain oracle spread, Imbolc oracle spread
 short-description: "Free sabbat and seasonal tarot and oracle card spreads tied to the Celtic calendar: Samhain, Imbolc, Bealtaine, solstices, equinoxes, and more."
+breadcrumb: "Sabbats & Seasonal"
+breadcrumb-parent-name: "Free Tarot Spreads"
+breadcrumb-parent-url: "/free-tarot-spreads/"
+page-type: CollectionPage
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "CollectionPage",
-      "name": {{ page.title | jsonify }},
-      "description": {{ page.short-description | jsonify }},
-      "url": "{{ site.url }}{{ page.url }}"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
-        { "@type": "ListItem", "position": 2, "name": "Free Tarot Spreads", "item": "{{ site.url }}/free-tarot-spreads/" },
-        { "@type": "ListItem", "position": 3, "name": {{ page.title | split: " |" | first | jsonify }}, "item": "{{ site.url }}{{ page.url }}" }
-      ]
-    }
-  ]
-}
-</script>
-
 {% assign count = site.posts | where: "category", "Holidays" | size %}
 
 # Free Sabbat & Seasonal Tarot Spreads

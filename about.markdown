@@ -4,8 +4,8 @@ title: About Juniper Divination | Folklore-Rooted Divination & Witchcraft
 short-description: I'm Arabella, a folklore researcher and multi-method diviner. Juniper Divination runs on reader tips and zine sales. Here's what's on the site and how to help keep it free.
 categories: folklore divination, tarot reader, tea leaf reading, ogham divination, celtic reconstructionism, chaos magic, irish folklore, playing card divination, queer witch, independent divination practice
 permalink: /about/
+breadcrumb: "About"
 ---
-
 I'm Arabella. I read cards, tea leaves, dice, books and bones, and I've been at it for over a decade. Most of my working time now goes to archives and primary sources on regional folk practice. Juniper Divination is where that research lives.
 
 ## How I Work

@@ -4,30 +4,11 @@ title: "Free Ancestral & Spirit Work Tarot Spreads | Juniper Divination"
 permalink: /free-tarot-spreads/spirit-work/
 categories: Ancestral tarot spread, spirit guide tarot spread, ancestor tarot reading, Samhain spirit communication tarot, Beltane tarot spread, free spirit work tarot, ancestral oracle card spread, spirit work oracle spread, ancestor oracle reading, oracle card spread for spirit work
 short-description: Free tarot and oracle card spreads for ancestral connection and spirit work, grounded in Irish folk practice rather than generic spirit guide frameworks.
+breadcrumb: "Ancestral & Spirit Work"
+breadcrumb-parent-name: "Free Tarot Spreads"
+breadcrumb-parent-url: "/free-tarot-spreads/"
+page-type: CollectionPage
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "CollectionPage",
-      "name": {{ page.title | jsonify }},
-      "description": {{ page.short-description | jsonify }},
-      "url": "{{ site.url }}{{ page.url }}"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
-        { "@type": "ListItem", "position": 2, "name": "Free Tarot Spreads", "item": "{{ site.url }}/free-tarot-spreads/" },
-        { "@type": "ListItem", "position": 3, "name": {{ page.title | split: " |" | first | jsonify }}, "item": "{{ site.url }}{{ page.url }}" }
-      ]
-    }
-  ]
-}
-</script>
-
 {% assign count = site.posts | where: "category", "Spirit Communication" | size %}
 
 # Free Ancestral & Spirit Work Tarot Spreads

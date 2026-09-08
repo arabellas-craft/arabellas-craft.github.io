@@ -4,8 +4,9 @@ title: "Free Tarot & Oracle Card Spreads: 50+ Layouts by Category"
 permalink: /free-tarot-spreads/
 categories: Free tarot spreads, Tarot spread ideas, Oracle card spreads, Oracle card spread ideas, Tarot card reading, Divination tools, Tarot card interpretations, Tarot guidance, Tarot card spreads, Online tarot readings, Tarot for beginners, Daily tarot guidance, Tarot card meanings, Free oracle spreads
 short-description: 50+ free tarot spread ideas organized by situation — beginners, shadow work, moon phases, love, sabbats, and Celtic mythology. All layouts work with oracle decks too. No sign-ups, no paywalls.
+breadcrumb: "Free Tarot Spreads"
+page-type: CollectionPage
 ---
-
 {% assign total_spreads = site.posts | where: "layout", "free-tarot-spread" | size %}
 {% assign love_count = site.posts | where: "category", "Love and Relationships" | size %}
 {% assign seasonal_count = site.posts | where: "category", "Holidays" | size %}
