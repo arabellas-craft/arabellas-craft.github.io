@@ -6,7 +6,9 @@ vendor
 .DS_Store
 **/.DS_Store
 **/**/.DS_Store
-Gemfile.lock
+# Gemfile.lock is tracked on purpose: the Actions build runs bundler in
+# deployment (frozen) mode, which requires a committed lockfile that
+# matches the Gemfile and includes the x86_64-linux platform.
 assets/img/.DS_Store
 
 # Tumblr auto-publisher
