@@ -14,7 +14,7 @@ Samhain (pronounced [SAH-win](https://www.teanglann.ie/en/fuaim/Samhain){:target
 
 The word does double duty in modern Irish, because samhain is also the name of the month of November: Mí na Samhna is November, Lá Samhna is November 1st, and Oíche Shamhna is what English calls Halloween.[^2]
 
-You'll also read that Samhain was the Celtic New Year, that the veil between worlds thinned that night, and that the Church put All Saints' Day on November 1st to cover it up. Each of those has a history behind it, and it's rarely the history you're given. [Five claims about Samhain and where they come from](/halloween-origins-samhain-claims) traces them. <!-- This article stays with the plainer questions, and the [folk customs](/samhain-folk-customs) and [divination games](/samhain-divination-games) have articles of their own. -->
+You'll also read that Samhain was the Celtic New Year, that the veil between worlds thinned that night, and that the Church put All Saints' Day on November 1st to cover it up. Each of those has a history behind it, and it's rarely the history you're given. [Five claims about Samhain and where they come from](/halloween-origins-samhain-claims) traces them. This article stays with the plainer questions, and the [folk customs](/samhain-folk-customs) and [divination games](/samhain-divination-games) have articles of their own.
 
 ## What the name means
 
