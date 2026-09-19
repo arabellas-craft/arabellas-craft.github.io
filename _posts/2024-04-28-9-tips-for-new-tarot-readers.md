@@ -64,7 +64,7 @@ The guidebook's meanings are just one interpretation. After you've pulled a card
 
 ## 7. Settle into a short routine before you read
 
-A routine gets your question clear and your mind on the cards. Clear the table, shuffle a set number of times, and say your question out loud or write it at the top of the page. Some people light a candle. Others take a few slow breaths. There's a longer checklist in [6 tips to prepare for your tarot reading](/6-Tips-to-Prepare-for-Your-Tarot-Card-Reading/).
+A routine gets your question clear and your mind on the cards. Clear the table, shuffle a set number of times, and say your question out loud or write it at the top of the page. Some people light a candle. Others take a few slow breaths.
 
 Spend most of your prep time on the question. Open questions get fuller answers, and there are [four guidelines for asking better tarot questions](/good-questions-for-tarot-readings/) if you get stuck. Tarot is bad at yes or no questions, so if that's what you're asking, [try a method built for them](/yes-or-no-tarot).
 
