@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "Samhain Folk Customs: What an Irish Hallow Eve Looked Like"
+title: "Irish Halloween Traditions: How Samhain Night Was Kept at Home"
 date: 2026-09-16 07:00:01 -0700
 tag: article
 topic: irish
-short-description: "How Oíche Shamhna was kept in Irish homes, recorded from the households themselves: colcannon and boxty, snap-apple and ducking, guisers and pranks, and the house rules about water, doors, going out and blackberries."
+short-description: "Irish Halloween traditions as the households themselves recorded them: colcannon and boxty, snap-apple and ducking, guisers and pranks, and the house rules about water, doors, going out and blackberries."
 categories: samhain, irish folklore, oíche shamhna, halloween history, halloween traditions, folk customs, folk traditions, irish history, irish mythology, celtic folklore, irish paganism, gaelic polytheism, folk catholicism, all souls day, hallowe'en, historyblr, witchblr, paganism, folk magic, pagan
 img: samhain-folk-customs.jpg
 permalink: /samhain-folk-customs
