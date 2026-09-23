@@ -90,8 +90,8 @@ If these spreads have been useful, you can [support me on Ko-fi](https://ko-fi.c
 </div>
 <br><br>
 
-<h2><a href="/free-tarot-spreads/seasonal/">Sabbat & Seasonal Tarot Spreads</a></h2>
-<p>{{ seasonal_count }} spreads tied to the Celtic calendar and seasonal turning points (Samhain, Imbolc, Bealtaine, Lughnasadh, solstices, equinoxes). Each includes both the Irish and Celtic framing and a secular version so you can use it however fits your practice.</p>
+<h2><a href="/free-tarot-spreads/seasonal/">Sabbat & Holiday Tarot Spreads</a></h2>
+<p>{{ seasonal_count }} spreads for the four Irish festivals (Samhain, Imbolc, Bealtaine, Lughnasadh), the solstices and equinoxes, and Halloween, Thanksgiving, and New Year.</p>
 <div class="gallery tarot-gallery">
 {% for post in site.posts %}
   {% if post.category == 'Holidays' %} 
