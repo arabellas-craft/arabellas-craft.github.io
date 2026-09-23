@@ -45,7 +45,7 @@ Household divination isn't "worse than" expensive tools. It's often *better* for
 
 **What you need:** Three regular dice (from any board game)
 
-**The history:** People have been reading dice for thousands of years. Ancient Greeks, Romans, and Egyptians all did it. Then it came back as a Victorian parlor game.
+**The history:** People have thrown dice and knucklebones for answers for about 2,000 years. At Greek shrines, you threw knucklebones and looked up your answer on a list.[^1] In the Roman period, towns in what is now southwestern Turkey carved those answer lists into stone.[^1] A British fortune-telling book from around 1860 teaches the three-dice method: shake the dice, throw them into a chalk circle, and look up the total.[^2]
 
 **How it works:** Roll three dice while thinking about your question. Then look up what the total number means. Different numbers tell you things about love, work, money, and life events.
 
@@ -65,7 +65,7 @@ Household divination isn't "worse than" expensive tools. It's often *better* for
 
 **What you need:** Normal 52-card playing deck
 
-**The history:** Playing card divination actually came before modern tarot. It started in 14th-century Europe. Through the 1800s, most professional fortune tellers preferred playing cards because everyone had them and they weren't seen as weird to own.
+**The history:** Playing cards reached Europe in the 1370s.[^3] People were telling fortunes with them by 1538, when a Spanish writer listed card reading among the superstitions he condemned.[^4] That's about 200 years before the first record of anyone reading tarot cards for divination.[^5] The oldest English how-to book on card fortune-telling came out in 1729.[^4]
 
 **How it works:** Each suit in a playing card deck matches an area of life, just like tarot suits:
 - **Hearts** = Emotions, relationships, love (like Cups in tarot)
@@ -93,7 +93,7 @@ Every card from Ace to King has a specific meaning. That's 52 cards giving you a
 
 **What you need:** Loose leaf tea, light-colored teacup (white or cream works best)
 
-**The history:** Tea leaf reading started in the 1600s when tea became popular in Europe. By the Victorian era, it was a favorite activity—both social fun and divination. It mixes Middle Eastern coffee ground reading with European tea culture.
+**The history:** Tea reached Europe in the early 1600s and Britain in the 1650s.[^6] Reading what's left in the cup is older than that: coffee fortune-telling shows up in Ottoman palaces in the 1500s.[^7] Tea leaf reading took off in Britain in the late 1800s as a parlour game, and many of the classic symbol meanings date from then.[^7]
 
 **How it works:** After you drink your tea, swirl the leftover liquid and leaves three times. Flip the cup onto a saucer. Then read the patterns and shapes left by the tea leaves. The rim of the cup shows what's happening now. The sides show the near future. The bottom shows what's further away.
 
@@ -113,7 +113,7 @@ Every card from Ace to King has a specific meaning. That's 52 cards giving you a
 
 **What you need:** Any book you like (poetry, novels, philosophy, sacred texts)
 
-**The history:** Bibliomancy is one of the oldest forms of divination. Ancient Romans did it with written texts. Medieval Christians opened the Bible at random for guidance. Writers, philosophers, and poets have always turned to books when they need clarity.
+**The history:** Romans opened the poet Virgil at random for answers. The emperor Hadrian is said to have landed on lines he read as a sign he'd succeed Trajan.[^8] Christians did the same with the Bible. Saint Augustine opened a New Testament at random and took the first passage he saw as his answer, and medieval church councils condemned the practice again and again.[^8]
 
 **How it works:** Think about your question. Open a book to a random page. Read the passage your eye lands on. The text gives you symbolic guidance for your situation. Advanced practitioners use multiple passages like tarot spreads for complicated questions.
 
@@ -213,3 +213,14 @@ You already have everything you need to begin:
 Divination isn't about the tools. It's about making space for your intuition to talk to you in a language you understand. Whether that language uses dice, cards, tea leaves, or book passages doesn't matter. What matters is listening.
 
 The most powerful divination tool you own can't be bought. It's your intuition. It's been with you all along.
+
+---
+
+[^1]: "[Throwing dice to generate oracles in Roman times](https://www.roger-pearse.com/weblog/2021/07/07/throwing-dice-to-generate-oracles-in-roman-times/){:target="_blank" rel="noopener noreferrer"}" by Roger Pearse. Pearse quotes Pausanias on the knucklebone oracle at Bura and the oracle inscriptions of Lycia.
+[^2]: *[The Gipsy Fortune Teller](https://www.gutenberg.org/ebooks/53870){:target="_blank" rel="noopener noreferrer"}* by W. Parker, "The art of Telling Fortunes by Dice"
+[^3]: [Playing card](https://en.wikipedia.org/wiki/Playing_card){:target="_blank" rel="noopener noreferrer"}
+[^4]: [Cartomancy, Oracle and Divination Cards](https://www.wopc.co.uk/tarot/divination/){:target="_blank" rel="noopener noreferrer"}. The 1538 source is Pedro Ciruelo's *Reprobación de las supersticiones y hechicerías*; the 1729 book is *Dr. Flamstead's and Mr. Patridge's New Fortune-Book*.
+[^5]: [Tarot](https://en.wikipedia.org/wiki/Tarot){:target="_blank" rel="noopener noreferrer"}
+[^6]: [History of tea](https://en.wikipedia.org/wiki/History_of_tea){:target="_blank" rel="noopener noreferrer"}
+[^7]: [Tasseography](https://en.wikipedia.org/wiki/Tasseography){:target="_blank" rel="noopener noreferrer"}
+[^8]: "[Sortes Homericae, Vergilianae, Biblicae](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sortes-homericae-vergilianae-biblicae){:target="_blank" rel="noopener noreferrer"}," *New Catholic Encyclopedia*

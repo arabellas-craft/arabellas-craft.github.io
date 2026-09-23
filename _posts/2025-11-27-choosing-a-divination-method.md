@@ -19,7 +19,7 @@ Want to start reading cards or tea leaves but don't know where to begin? You don
 
 **Time needed:** 15-30 minutes
 
-**Learning curve:** Moderate. You'll learn 78 card meanings, but illustrated decks make this easier because you can read the pictures. The Rider-Waite-Smith deck is designed for visual interpretation.
+**Learning curve:** Moderate. You'll learn 78 card meanings, but illustrated decks make this easier because you can read the pictures. In the Rider-Waite-Smith deck, the Minor Arcana cards show illustrated scenes, where most earlier decks used simple suit designs.[^1]
 
 **Cost to start:** $25-60 for a deck ([Rider-Waite-Smith](https://bookshop.org/a/84772/9780913866139){:target="_blank" rel="noopener noreferrer"} is the beginner standard), or start with an at-home [printable version of the deck](https://ko-fi.com/s/5f1138f832?utm_source=website){:target="_blank" rel="noopener noreferrer"} for $1.99
 
@@ -39,7 +39,7 @@ Want to start reading cards or tea leaves but don't know where to begin? You don
 
 **Cost to start:** $0 if you own cards
 
-**Try it if:** You want tarot-style depth but prefer working with familiar objects. Playing card divination has centuries of history behind it.
+**Try it if:** You want tarot-style depth but prefer working with familiar objects. People have told fortunes with playing cards since at least 1538.[^2]
 
 **Guide available:** [Shuffle, Draw, Discover: Read Your Fate with Playing Cards](https://ko-fi.com/s/95f9c29692?utm_source=website){:target="_blank" rel="noopener noreferrer"} for 99¢
 
@@ -61,7 +61,7 @@ Want to start reading cards or tea leaves but don't know where to begin? You don
 
 ## 4. Dice Divination
 
-**What it is:** Roll three six-sided dice into a circle. Add up the numbers. Look up what that total means. The system comes from Victorian fortune-telling traditions.
+**What it is:** Roll three six-sided dice into a circle. Add up the numbers. Look up what that total means. The method appears in a British fortune-telling book from around 1860.[^3]
 
 **Best for:** Fast answers to specific questions. Works well for yes/no decisions or when you need quick guidance.
 
@@ -79,7 +79,7 @@ Want to start reading cards or tea leaves but don't know where to begin? You don
 
 ## 5. Bibliomancy
 
-**What it is:** Hold your question in mind, open a book to a random page, read the passage. The words provide perspective on your situation. Ancient practice used with sacred texts, poetry, and philosophy.
+**What it is:** Hold your question in mind, open a book to a random page, read the passage. The words provide perspective on your situation. Romans did it with the poet Virgil, and Christians did it with the Bible.[^4]
 
 **Best for:** People who think in words and love books. Works especially well for questions about meaning and direction rather than practical details.
 
@@ -162,3 +162,10 @@ I wrote complete guides for five methods:
 All five guides cost under $7 total at [ko-fi/juniperdivination](https://ko-fi.com/juniperdivination?utm_source=website){:target="_blank" rel="noopener noreferrer"}
 
 The best divination method is whichever one you'll use. Pick what calls to you. You can learn others later. Each method teaches something different about reading symbols and trusting your instincts.
+
+---
+
+[^1]: [Rider–Waite Tarot](https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_Tarot){:target="_blank" rel="noopener noreferrer"}
+[^2]: [Cartomancy, Oracle and Divination Cards](https://www.wopc.co.uk/tarot/divination/){:target="_blank" rel="noopener noreferrer"}. The 1538 source is Pedro Ciruelo's *Reprobación de las supersticiones y hechicerías*.
+[^3]: *[The Gipsy Fortune Teller](https://www.gutenberg.org/ebooks/53870){:target="_blank" rel="noopener noreferrer"}* by W. Parker, "The art of Telling Fortunes by Dice"
+[^4]: "[Sortes Homericae, Vergilianae, Biblicae](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sortes-homericae-vergilianae-biblicae){:target="_blank" rel="noopener noreferrer"}," *New Catholic Encyclopedia*
