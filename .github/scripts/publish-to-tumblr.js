@@ -111,9 +111,63 @@ async function parsePost(filePath) {
 }
 
 
+// The Ko-fi callout include, rebuilt for Tumblr: plain markdown (Tumblr drops
+// the wrapper div and inline styles) with utm_source=tumblr so clicks from
+// Tumblr are attributed. Copy and link come from the include itself, so edits
+// there carry over.
+async function loadTumblrKofiCallout() {
+  const repoRoot = path.resolve(__dirname, '../../');
+  const includePath = path.resolve(repoRoot, '_includes/article-kofi-callout.html');
+  try {
+    const html = await fs.readFile(includePath, 'utf8');
+    const text = (html.match(/<p>([\s\S]*?)<\/p>/) || [])[1];
+    const href = (html.match(/href=['"]([^'"]+)['"]/) || [])[1];
+    const alt = (html.match(/alt=['"]([^'"]+)['"]/) || [])[1] || 'Donate at ko-fi.com';
+    if (!text || !href) {
+      console.warn(`  Ko-fi callout not found in ${includePath}; leaving it out`);
+      return '';
+    }
+    const message = text
+      .replace(/<br\s*\/?>/gi, ' ')
+      .replace(/<[^>]+>/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    const url = href.replace(/utm_source=[^&]*/, 'utm_source=tumblr');
+    return `${message}\n\n[${alt}](${url})`;
+  } catch (error) {
+    console.warn(`  Could not read Ko-fi callout (${error.message}); leaving it out`);
+    return '';
+  }
+}
+
+// Tumblr's markdown renderer doesn't know Jekyll/Kramdown extensions, so
+// anything below would show up as literal text in the draft.
+function sanitizeForTumblr(markdown, kofiCallout = '') {
+  return markdown
+    // Ko-fi callout include: swap in the Tumblr version
+    .replace(/\{%-?\s*include\s+article-kofi-callout\.html\s*-?%\}/g, kofiCallout)
+    // Ko-fi links written into the article body are tagged for the website
+    .replace(/(https:\/\/ko-fi\.com\/[^\s)"']*?)utm_source=website/g, '$1utm_source=tumblr')
+    // Liquid comment blocks: drop the block and its contents
+    .replace(/\{%-?\s*comment\s*-?%\}[\s\S]*?\{%-?\s*endcomment\s*-?%\}/g, '')
+    // Other Liquid tags: {% include ... %}, {% assign ... %}, etc.
+    .replace(/\{%[\s\S]*?%\}/g, '')
+    // Liquid output: {{ ... }}
+    .replace(/\{\{[\s\S]*?\}\}/g, '')
+    // Kramdown attribute lists and extensions:
+    // {:target="_blank" rel="noopener noreferrer"}, {:.timeline}, {: #id}, {::options}
+    .replace(/\{:[^}\n]*\}/g, '')
+    // Root-relative links and images would resolve against tumblr.com
+    .replace(/\]\(\//g, `](${config.siteUrl}/`)
+    // Collapse blank-line runs left where whole lines were removed
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
 // Create Tumblr post for 'article' layout
 async function createArticlePost(client, post) {
   const { frontMatter, body } = post;
+  const kofiCallout = await loadTumblrKofiCallout();
 
   // Use categories (comma-separated string) or tag field
   const tags = frontMatter.categories || frontMatter.tag || '';
@@ -127,7 +181,7 @@ async function createArticlePost(client, post) {
     type: 'text',
     state: 'draft',
     title: frontMatter.title || 'Untitled',
-    body: body,
+    body: sanitizeForTumblr(body, kofiCallout),
     format: 'markdown',
     tags: tags,
     source_url: permalink
