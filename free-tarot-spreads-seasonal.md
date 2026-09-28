@@ -15,7 +15,7 @@ page-type: CollectionPage
 
 This is the largest category in the collection, with {{ count }} spreads. There are spreads for the four Irish festivals that open each season (Samhain, Imbolc, Bealtaine, and Lughnasadh), for the solstices and equinoxes, and for Halloween, Thanksgiving, and New Year.
 
-The four festivals are the old Irish calendar. Adding the solstices and equinoxes to make an eight-part Wheel of the Year is a modern arrangement that many Pagans now keep.
+The four festivals are the old Irish calendar. Adding the solstices and equinoxes to make an [eight-part Wheel of the Year](/irish-pagan-holidays) is a modern arrangement that many Pagans now keep.
 
 The year-ahead spread is useful at any new year turning point, January 1st, Samhain, or your birthday, and is one of the most-used spreads in the collection.
 

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Irish Pagan Holidays: The Four Gaelic Festivals and the Celtic Wheel of the Year"
-date: 2026-09-22 07:00:01 -0700
+date: 2026-09-27 07:00:01 -0700
 tag: article
 topic: irish
 short-description: "The Irish year opened each season with a festival: Samhain, Imbolc, Bealtaine and Lúnasa. A guide to the Gaelic calendar, what Ireland did at midsummer and midwinter, and where the eight-festival Wheel of the Year came from."
