@@ -12,7 +12,7 @@ permalink: /celtic-reconstructionism-mythology
 
 ---
 
-Celtic Reconstructionism starts with a claim that sounds simple: the gods are real, distinct beings, and the primary way to know them is through the historical record. That claim has practical consequences that separate CR from most modern pagan approaches to the same material.
+Celtic Reconstructionism starts with a claim that sounds simple: the gods are real, distinct beings, and the primary way to know them is through the historical record. That claim has practical consequences that separate CR from most modern pagan approaches to the same material. If you're new to CR, [start with the basics](/celtic-reconstructionism-introduction-guide).
 
 ## Lore First
 
@@ -28,7 +28,7 @@ Most modern pagan traditions treat the gods as archetypes: aspects of a larger d
 
 You can't build a CR practice by pulling a Celtic deity name from a list and pairing it with Wiccan or ceremonial magic ritual structures. The theological and cultural context is part of what you're working with.[^1]
 
-CR also resists pan-Celtic practice, treating Irish, Welsh, and Gaulish material as interchangeable because they're all "Celtic." The traditions are related but distinct. Irish CR works with Irish sources and Irish context.[^1]
+CR also resists pan-Celtic practice, treating Irish, Welsh, and Gaulish material as interchangeable because they're all "Celtic." The traditions are related but distinct. Irish CR works with Irish sources and Irish context.[^1] The intro guide covers [how CR differs from Wicca and neo-paganism](/celtic-reconstructionism-introduction-guide#how-cr-differs-from-wicca-and-neo-paganism) more broadly.
 
 {% include article-kofi-callout.html %}
 
