@@ -39,7 +39,7 @@ Search the Dúchas Schools' Collection for All Souls' Night and you'll find doze
 A Cork account gives the date:
 > "All Souls' Night is really the 'eve' of November 2nd... They believed that the Poor Souls used to leave Purgatory that night and roam the world asking prayers of friends."[^9]
 
-Search the same collection for Halloween and you mostly get games. Apples on a string, the three saucers a blindfolded player picks from, the ring in the brack, cabbage, colcannon, watching which way the wind blows. Most of the Halloween accounts I read don't mention the dead at all, and the Irish-language ones for Oíche Shamhna are mostly fairy stories rather than human ghosts.
+Search the same collection for Halloween and you mostly get [games](/samhain-divination-games). Apples on a string, the three saucers a blindfolded player picks from, the ring in the brack, cabbage, colcannon, watching which way the wind blows. Most of the Halloween accounts I read don't mention the dead at all, and the Irish-language ones for Oíche Shamhna are mostly fairy stories rather than human ghosts.
 
 That's not universal. A Galway account puts the dead on Halloween:
 > "at midnight on hallowee'n the souls in Purgatory were released and before entering Heaven they returned to their earthly haunts. In many parts of the country bread and water are left on the hearth in case some poor souls would be hungry."[^10]
@@ -75,7 +75,7 @@ The Irish new-year customs that do survive in the folk record are on January 1st
 
 ## The Disguises: The Custom Is Recorded, and It Was About Charity
 
-People did go masked from door to door at Halloween. Guising, as it's called, is well documented. But the masks went with begging, and the begging was for the souls in Purgatory, so this was a charity custom before it was anything to do with hiding from spirits.
+People did go masked from door to door at Halloween. [Guising](/samhain-folk-customs), as it's called, is well documented. But the masks went with begging, and the begging was for the souls in Purgatory, so this was a charity custom before it was anything to do with hiding from spirits.
 
 Davis argues that the giveaway isn't the mask but what goes with it: "the determining factor in disguise may not be masquerade itself but the action of begging which almost invariably accompanies it."[^7] Going door to door at this season was tied to alms for the souls in purgatory. That's the same purgatory the Holy Souls come out of in the Dúchas accounts above. Charity counted as penance, and giving in secret counted for more, which is a reason to cover your face. Davis describes Halloween in the early modern sources as "a communal celebration in which the duties of the rich to the poor are conscientiously discharged."[^7]
 

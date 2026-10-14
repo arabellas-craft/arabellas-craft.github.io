@@ -70,7 +70,7 @@ The Dúchas Schools' Collection is full of folk divination practices that were d
 
 Most of these games can be played with every day household items. These games were played in a full room, out loud, with everyone leaning in to watch, and the answers were only ever as serious as the company made them.
 
-If you'd rather ask the questions with a deck than a saucer, there's a [Samhain tarot spread](/free-tarot-spreads/samhain-tarot-spread) for the turn into winter, and [Parting the Veil](/free-tarot-spreads/parting-the-veil-tarot-spread) if what you want is to sit with someone you've lost. The rest of this series covers [what Samhain is](/what-is-samhain), [where the popular claims came from](/halloween-origins-samhain-claims), and [the folk customs of the night itself](/samhain-folk-customs).
+If you'd rather ask the questions with a deck than a saucer, there's a [Samhain tarot spread](/free-tarot-spreads/samhain-tarot-spread) for the turn into winter, and [Parting the Veil](/free-tarot-spreads/parting-the-veil-tarot-spread) if what you want is to sit with someone you've lost. The rest of this series covers [what Samhain is](/what-is-samhain), [where the popular claims came from](/halloween-origins-samhain-claims), and [the folk customs of the night itself](/samhain-folk-customs). For Samhain's place in the Irish year, see [the four Gaelic festivals](/irish-pagan-holidays).
 
 ---
 

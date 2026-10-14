@@ -10,7 +10,7 @@ img: what-is-samhain.jpg
 permalink: /what-is-samhain
 ---
 
-Samhain (pronounced [SAH-win](https://www.teanglann.ie/en/fuaim/Samhain){:target="_blank" rel="noopener noreferrer"}) is the Irish festival of the first day of winter, celebrated on November 1st. The celebrating starts the evening before, on Oíche Shamhna (pronounced [EE-huh HOW-nuh](https://www.teanglann.ie/en/fuaim/O%C3%ADche_Shamhna){:target="_blank" rel="noopener noreferrer"}), October 31st.[^1] It's one of the four quarter days of the Irish year, along with [Imbolc](/st-brigids-day-crosses), [Bealtaine](/irish-bealtaine-traditions) and [Lúnasa](/what-is-lughnasadh).
+Samhain (pronounced [SAH-win](https://www.teanglann.ie/en/fuaim/Samhain){:target="_blank" rel="noopener noreferrer"}) is the Irish festival of the first day of winter, celebrated on November 1st. The celebrating starts the evening before, on Oíche Shamhna (pronounced [EE-huh HOW-nuh](https://www.teanglann.ie/en/fuaim/O%C3%ADche_Shamhna){:target="_blank" rel="noopener noreferrer"}), October 31st.[^1] It's one of the [four quarter days of the Irish year](/irish-pagan-holidays), along with [Imbolc](/st-brigids-day-crosses), [Bealtaine](/irish-bealtaine-traditions) and [Lúnasa](/what-is-lughnasadh).
 
 The word does double duty in modern Irish, because samhain is also the name of the month of November: Mí na Samhna is November, Lá Samhna is November 1st, and Oíche Shamhna is what English calls Halloween.[^2]
 
@@ -32,7 +32,7 @@ While the meaning of the word likely has something to do with summer, scholars d
 
 The date is fixed: November 1st, every year, with no moon phase or equinox involved. Kevin Danaher's survey of the Irish calendar year puts it plainly: "The ancient festival of Samhain, the first day of Winter is traditionally kept on 1 November, the Feast of All Saints, and the vigil of this day, Oíche Shamhna, Hallow E'en, Hollantide, is celebrated all over Ireland with feasting, merrymaking and divination."[^1]
 
-Almost everything happened on the eve rather than the day. That follows the Irish reckoning of time, which Dáithí Ó hÓgáin sums up as "the Celtic belief that the night comes before the day."[4] The day started at sundown, not sunrise.
+Almost everything happened on the eve rather than the day. That follows the Irish reckoning of time, which Dáithí Ó hÓgáin sums up as "the Celtic belief that the night comes before the day."[^4] The day started at sundown, not sunrise.
 
 ## What the day marked
 
@@ -40,7 +40,7 @@ Samhain closed the farming year. Danaher describes the point where everything ha
 
 It was the settling day too. "Everyone has debts at Hallow E'en," runs the proverb Danaher quotes; wages, rents and the hire of grazing and tillage were all squared up.[^1]
 
-The medieval tales put the big gatherings on the same date. Ronald Hutton calls it "an ideal moment for the convention of the year's most important tribal assemblies," and the *feis* of Samhain is a favorite setting in the early Irish stories.[^6]
+The medieval tales put the big gatherings on the same date. Ronald Hutton calls it "an ideal moment for the convention of the year's most important tribal assemblies," and the *feis* of Samhain is a favorite setting in the early Irish stories.[^6] In the [Fenian Cycle](/irish-mythology-fenian-cycle), Fionn mac Cumhaill wins the leadership of the Fianna at Tara on Samhain, by defeating Aillen mac Midgna, who had burned the hall every Samhain for years.
 
 What people did on the night, from the colcannon to the ring in the brack, is in the [folk customs of Samhain](/samhain-folk-customs). If you mark it with a reading, there's a [Samhain tarot spread](/free-tarot-spreads/samhain-tarot-spread) here too.
 

@@ -18,7 +18,7 @@ Irish communities also lit bonfires at midsummer and made Christmas the high poi
 
 The medieval tale *Tochmarc Emire*, "The Wooing of Emer," names all four festivals in a version written down in the eleventh or twelfth century, and gives a brief description of each.[^3]
 
-**Samhain** (pronounced [SAH-win](https://www.teanglann.ie/en/fuaim/Samhain){:target="_blank" rel="noopener noreferrer"}), November 1st, is "Samhain, when the summer goes to its rest."[^1] It opened winter and closed the farmer's year: the harvest was in, and the cattle came down from the summer pastures to the fields near the house.[^2] See [What is Samhain?](/what-is-samhain) and [Irish Halloween traditions](/samhain-folk-customs).
+**Samhain** (pronounced [SAH-win](https://www.teanglann.ie/en/fuaim/Samhain){:target="_blank" rel="noopener noreferrer"}), November 1st, is "Samhain, when the summer goes to its rest."[^1] It opened winter and closed the farmer's year: the harvest was in, and the cattle came down from the summer pastures to the fields near the house.[^2] See [What is Samhain?](/what-is-samhain), [Irish Halloween traditions](/samhain-folk-customs) and [the night's fortune-telling games](/samhain-divination-games).
 
 **Imbolc** (pronounced IM-olk), February 1st, is "Imbolc, when the ewes are milked at spring's beginning."[^1] That's the medieval name. In the folk record the day is St. Brigid's Day, Lá Fhéile Bríde (pronounced [law AY-luh BREE-juh](https://www.teanglann.ie/en/fuaim/L%C3%A1_Fh%C3%A9ile_Br%C3%ADde){:target="_blank" rel="noopener noreferrer"}), the first day of spring and of the farmer's working year.[^2] See [preparing the home for Imbolc](/st-brigids-day-preparing-home) and [St. Brigid's crosses](/st-brigids-day-crosses).
 

@@ -75,7 +75,7 @@ Blackberries weren't eaten after Hallow Eve, and in many places haws and sloes w
 
 Most of these customs are still very accessible. Make colcannon or boxty for dinner, and set the first plate aside if you want to. Hang an apple on a string, or fill a basin for bobbing. Leave a light in the window or a glass of water on the table for the people you've lost. And leave the blackberries on the bush after the 31st.
 
-The rest of this series covers [what Samhain is](/what-is-samhain), [where the popular claims came from](/halloween-origins-samhain-claims), and [the fortune-telling games of the night](/samhain-divination-games).
+The rest of this series covers [what Samhain is](/what-is-samhain), [where the popular claims came from](/halloween-origins-samhain-claims), and [the fortune-telling games of the night](/samhain-divination-games). For Samhain's place in the Irish year, see [the four Gaelic festivals](/irish-pagan-holidays), and if you want to sit with someone you've lost, there's the [Parting the Veil](/free-tarot-spreads/parting-the-veil-tarot-spread) tarot spread.
 
 ---
 
