@@ -19,6 +19,8 @@ The four festivals are the old Irish calendar. Adding the solstices and equinoxe
 
 The year-ahead spread is useful at any new year turning point, January 1st, Samhain, or your birthday, and is one of the most-used spreads in the collection.
 
+For Samhain there are three: the [Samhain spread](/free-tarot-spreads/samhain-tarot-spread) for the turn into winter, the [Halloween spread](/free-tarot-spreads/halloween-tarot-spread) for Hallow Eve and the family dead, and [Parting the Veil](/free-tarot-spreads/parting-the-veil-tarot-spread) for one person you've lost. [What is Samhain?](/what-is-samhain) covers the festival itself.
+
 ← [Back to all free tarot spreads](/free-tarot-spreads/)
 
 <br>

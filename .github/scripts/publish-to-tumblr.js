@@ -140,9 +140,24 @@ async function loadTumblrKofiCallout() {
   }
 }
 
+// Tag a juniperdivination.com URL so Tumblr traffic shows up in GA4.
+// Keeps any #anchor at the end and leaves other utm_ params alone if present.
+function addTumblrUtm(url, campaign) {
+  if (!url || !url.startsWith(config.siteUrl) || /[?&]utm_source=/.test(url)) return url;
+  const [base, hash] = url.split('#');
+  const sep = base.includes('?') ? '&' : '?';
+  const utm = `utm_source=tumblr&utm_medium=social&utm_campaign=${encodeURIComponent(campaign || 'tumblr')}`;
+  return `${base}${sep}${utm}${hash !== undefined ? '#' + hash : ''}`;
+}
+
+// Campaign name = last segment of the permalink, e.g. "samhain-folk-customs"
+function campaignFromPermalink(permalink) {
+  return (permalink || '').replace(/\/+$/, '').split('/').pop() || 'tumblr';
+}
+
 // Tumblr's markdown renderer doesn't know Jekyll/Kramdown extensions, so
 // anything below would show up as literal text in the draft.
-function sanitizeForTumblr(markdown, kofiCallout = '') {
+function sanitizeForTumblr(markdown, kofiCallout = '', campaign = 'tumblr') {
   return markdown
     // Ko-fi callout include: swap in the Tumblr version
     .replace(/\{%-?\s*include\s+article-kofi-callout\.html\s*-?%\}/g, kofiCallout)
@@ -159,6 +174,9 @@ function sanitizeForTumblr(markdown, kofiCallout = '') {
     .replace(/\{:[^}\n]*\}/g, '')
     // Root-relative links and images would resolve against tumblr.com
     .replace(/\]\(\//g, `](${config.siteUrl}/`)
+    // Site links get Tumblr UTM tags
+    .replace(/\]\((https:\/\/juniperdivination\.com[^\s)]*)\)/g,
+      (m, url) => `](${addTumblrUtm(url, campaign)})`)
     // Collapse blank-line runs left where whole lines were removed
     .replace(/\n{3,}/g, '\n\n')
     .trim();
@@ -174,14 +192,16 @@ async function createArticlePost(client, post) {
 
   // Construct permalink (strip leading slash if present to avoid double slashes)
   const permalink = frontMatter.permalink
-    ? `${config.siteUrl}/${frontMatter.permalink.replace(/^\//, '')}`
+    ? addTumblrUtm(
+        `${config.siteUrl}/${frontMatter.permalink.replace(/^\//, '')}`,
+        campaignFromPermalink(frontMatter.permalink))
     : null;
 
   const postData = {
     type: 'text',
     state: 'draft',
     title: frontMatter.title || 'Untitled',
-    body: sanitizeForTumblr(body, kofiCallout),
+    body: sanitizeForTumblr(body, kofiCallout, campaignFromPermalink(frontMatter.permalink)),
     format: 'markdown',
     tags: tags,
     source_url: permalink
@@ -229,7 +249,9 @@ async function createTarotSpreadPost(client, post) {
 
   // Construct permalink (strip leading slash if present to avoid double slashes)
   const permalink = frontMatter.permalink
-    ? `${config.siteUrl}/${frontMatter.permalink.replace(/^\//, '')}`
+    ? addTumblrUtm(
+        `${config.siteUrl}/${frontMatter.permalink.replace(/^\//, '')}`,
+        campaignFromPermalink(frontMatter.permalink))
     : null;
 
   // Create caption with description and link
