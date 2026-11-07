@@ -91,6 +91,8 @@ Want to start reading cards or tea leaves but don't know where to begin? You don
 
 **Try it if:** You're a reader who connects deeply with written words. The best books for bibliomancy have layered meanings you can read multiple ways.
 
+**Free guide:** [Bibliomancy: divination with books you already own](/bibliomancy-book-divination) walks through the method step by step.
+
 **eBook available:** [Bibliomancy: The Complete Guide](https://ko-fi.com/s/71bb6a9240?utm_source=website){:target="_blank" rel="noopener noreferrer"} for $1.99
 
 ## 6. Charm Casting
