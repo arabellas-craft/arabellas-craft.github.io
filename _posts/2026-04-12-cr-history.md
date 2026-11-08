@@ -6,7 +6,7 @@ tag: article
 topic: irish
 short-description: "Celtic Reconstructionism didn't come from ancient tradition. Here's how it actually began: 1980s pagan gatherings, BBS forums, and decades of shared scholarship."
 categories: celtic reconstructionism, celtic paganism, celtic folklore, irish paganism, gaelic polytheism, pagan history, history of modern paganism, gaol naofa, erynn rowan laurie, CR FAQ, pagan reconstructionism, celtic mythology
-img: celtic-reconstructionism.jpg
+img: celtic-reconstructionism-1200.jpg
 permalink: /celtic-reconstructionism-history
 ---
 

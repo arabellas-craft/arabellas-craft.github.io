@@ -1,13 +1,13 @@
 ---
 layout: free-tarot-spread
-title: Career Path Tarot Spread - 7 Cards to Find Your Professional Direction
+title: Career Path Tarot Spread - 4 Cards to Find Your Professional Direction
 date: 2024-05-12 11:32:01 -0700
 category: Work and Career
 tag: tarot-spread
 categories: career tarot spread, tarot spread for job, find your path and calling, career goals tarot, facing challenges career tarot
-short-description: Discover your ideal career path with this 7-card tarot spread. Get clarity on your strengths, hidden obstacles, and next career steps. Includes detailed interpretation guide for each position.
+short-description: Find your career path with this 4-card tarot spread. Get clarity on your strengths, hidden obstacles, and next career steps. Includes an interpretation guide for each position.
 img: career-path-tarot-spread-7-cards.jpg
-img-text: Seven card tarot spread layout for career path guidance showing numbered card positions
+img-text: Four-card career path tarot spread on a forest stairway, with numbered card positions and their questions
 permalink: free-tarot-spreads/finding-your-career-path-job-tarot-card-spread
 ---
 

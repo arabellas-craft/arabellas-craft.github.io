@@ -114,8 +114,6 @@ Depends on your construction. Some fade without attention, some persist, some go
 
 Chaos magic often treats them as egregores or archetypes you can work with as tools.
 
-Learn [servitor creation techniques](#servitor-article).
-
 ### Paradigm / Paradigm Shifting
 
 Paradigm shifting means temporarily and fully adopting entire belief systems as tools, then setting them aside when you're done.

@@ -6,8 +6,8 @@ tag: article
 topic: irish
 short-description: "Celtic Reconstructionism treats Irish mythology as the record of a living theology, not a menu of archetypes. How CR uses primary sources, UPG, reciprocity, and sovereignty theology to ground practice."
 categories: celtic reconstructionism, CR paganism, irish reconstructionism, what is celtic reconstructionism, mythology in celtic reconstructionism, mythology vs theology, lore first paganism, primary sources celtic, lebor gabala erenn, cath maige tuired, paganachd, CR FAQ, hard polytheism, irish polytheism, gaelic polytheism, archetypes vs gods, archetypal vs hard polytheist, jungian archetypes paganism, celtic gods not archetypes, unverified personal gnosis, UPG paganism, lore vs UPG, reciprocity paganism, offerings irish gods, votive offerings celtic, hospitality irish paganism, sovereignty goddess, sovereignty theology, ériu goddess, the morrigan sovereignty, the dagda, irish mythology, celtic mythology, did the greeks believe in their myths, paul veyne mythology, marie-louise sjoestedt, proinsias mac cana, erynn rowan laurie, CR vs wicca, CR vs neopaganism, pan-celtic problem, irish diaspora paganism
-img: celtic-reconstructionism.jpg
-img-text:
+img: celtic-reconstructionism-1200.jpg
+img-text: "Repeating pattern of Celtic triple spirals in teal and green on black"
 permalink: /celtic-reconstructionism-mythology
 
 ---
