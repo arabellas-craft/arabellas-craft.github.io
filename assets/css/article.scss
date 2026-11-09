@@ -5,8 +5,50 @@
 @import 'colors';
 @import 'general';
 
+// Readability: darker teal for text (5.0:1 on $white; $blue is 2.85:1).
+// Keep $blue for borders, rules and underlines.
+$blue-text: #475b60;
+$grey-text: #575a5c; // 4.85:1 on $white
+
+// Keep wide children (tables, footnote backlinks) from stretching the grid.
+body {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.button {
+  background: $blue-text;
+}
+
+a.fancy,
+.article-list .article .read-more {
+  color: $blue-text;
+}
+
 article {
-  
+  width: 100%;
+  max-width: 36rem; // ~63 characters per line at 20px Open Sans
+  justify-self: center;
+
+  p,
+  li {
+    line-height: 1.6;
+  }
+
+  p {
+    padding-bottom: 1.4em;
+  }
+
+  table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    margin-bottom: 2rem;
+  }
+
+  td {
+    padding: 0.5rem 0.75rem;
+  }
+
   .article-list {
     grid-template-columns: 1fr;
   }
@@ -34,7 +76,7 @@ article {
   }
 
   h1.title {
-    font-size: clamp(2.25rem, 4.5vw, 3.5rem);
+    font-size: clamp(2rem, 1.5rem + 2vw, 2.5rem);
     line-height: 1.15;
     color: $black;
     letter-spacing: -0.015em;
@@ -42,7 +84,16 @@ article {
   }
 
   h2 {
-    padding-top: 4rem;
+    font-size: clamp(1.625rem, 1.2rem + 1.5vw, 2rem);
+    padding-top: 3rem;
+    margin-bottom: 0.5rem;
+    overflow-wrap: anywhere;
+  }
+
+  h3 {
+    padding-top: 2rem;
+    margin-bottom: 0.25rem;
+    overflow-wrap: anywhere;
   }
 
   img {
@@ -102,13 +153,13 @@ article {
   }
 
   blockquote {
-    font-family: 'Playfair Display', serif;
-    font-style: italic;
-    font-size: 1.3rem;
-    line-height: 1.55;
-    margin: 2.5rem 0;
-    padding: 0 0 0 1.5rem;
-    border-left: 2px solid $blue;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin: 0.25rem 0 2rem;
+    padding: 0 0 0 1.25rem;
+    border-left: 3px solid $blue;
     p {
       margin: 0 0 0.75rem;
       padding-bottom: 0;
@@ -120,7 +171,7 @@ article {
       font-family: 'Open Sans', sans-serif;
       font-style: normal;
       font-size: 1rem;
-      color: rgba($color: $black, $alpha: .5);
+      color: $grey-text;
       letter-spacing: 0.02em;
       padding-left: 0;
       &::before {
@@ -130,13 +181,20 @@ article {
     }
   }
 
-  cite, sup {
+  cite {
     font-size: 1rem;
     vertical-align: super;
   }
 
+  sup {
+    font-size: 0.75em;
+    line-height: 0;
+    vertical-align: super;
+  }
+
   sup a {
-    font-size: 1rem;
+    font-size: inherit;
+    padding: 0.25em 0.15em; // bigger tap target
   }
 
   .tarot-spread {
@@ -153,6 +211,7 @@ article {
       p {
         padding-bottom: 0;
         font-size: 1rem;
+        overflow-wrap: anywhere; // lets long ↩ backlink runs wrap
       }
     }
   }
@@ -179,10 +238,10 @@ aside {
   }
 
   .label {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: $blue;
+    color: $blue-text;
     margin: 0 0 1rem;
     font-weight: 600;
   }
@@ -194,7 +253,7 @@ aside {
       margin-bottom: 0.75rem;
       a, button {
         text-decoration: none;
-        font-size: 0.8rem;
+        font-size: 0.9rem;
       }
       button {
         background: none;
@@ -212,6 +271,16 @@ aside {
 }
 
 @media (max-width: 1224px) {
+  body {
+    grid-template-columns: minmax(0, 1fr);
+    padding: 0.5rem 1.25rem;
+  }
+
+  main,
+  article {
+    padding: 0;
+  }
+
   aside {
     &.toc {
       display: none;
@@ -221,6 +290,9 @@ aside {
       grid-column: 1/-1;
       margin-top: 0;
       position: static;
+      width: 100%;
+      max-width: 36rem;
+      justify-self: center;
     }
     ol {
       flex-direction: row;
