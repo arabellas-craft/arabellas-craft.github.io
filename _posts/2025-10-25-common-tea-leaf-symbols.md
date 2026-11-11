@@ -21,129 +21,237 @@ Two things shape every meaning below: where the symbol sits in the cup, and what
 
 Animals are the symbols most readers spot first, because a few specks of tea are enough to suggest a wing, a tail, or a pair of ears.
 
-**Bat** warns of false friends or a plan built on shaky ground. Look at what sits nearby before you commit to it.
+### Bat
 
-**Bee** brings good news, busy activity, and social success. A cluster of bees points to a gathering or a community effort that pays off.
+A bat warns of false friends or a plan built on shaky ground. Look at what sits nearby before you commit to it.
 
-**Bird** is one of the most common shapes, and one of the most welcome. Birds carry news and messages. A bird in flight means news is on its way; a bird at rest means it has arrived or is close. Direction matters: a bird facing the handle brings the news to you, while a bird facing away means you'll be the one sharing it.
+### Bee
 
-**Butterfly** signals transformation and change, along with social events and fleeting pleasures. Like the insect itself, the symbol reminds you that some lovely things are meant to be brief.
+A bee brings good news, busy activity, and social success. A cluster of bees points to a gathering or a community effort that pays off.
 
-**Cat** slips in with independence, intuition, and a little mystery. Where a dog points to loyalty from others, a cat asks you to trust your own path and pay attention to what stays hidden. Older tea-leaf traditions give it a sharper edge too: deceit, or a jealous friend you shouldn't fully trust.
+### Bird
 
-**Dog** is loyalty made visible: a true friend has your back, or soon will. Personal history matters here. If you grew up wary of dogs, or recently lost one, the symbol carries that feeling too.
+A bird is one of the most common shapes, and one of the most welcome. Birds carry news and messages. A bird in flight means news is on its way; a bird at rest means it has arrived or is close. Direction matters: a bird facing the handle brings the news to you, while a bird facing away means you'll be the one sharing it.
 
-**Dove** is peace, reconciliation, and gentle love. It often shows up when a conflict is ready to settle.
+### Butterfly
 
-**Elephant** stands for strength, patience, and steady wisdom. It's a lucky symbol, and a reminder that slow, deliberate progress holds.
+A butterfly signals transformation and change, along with social events and fleeting pleasures. Like the insect itself, the symbol reminds you that some lovely things are meant to be brief.
 
-**Fish** swim through the cup carrying abundance and hidden knowledge. They point to opportunities under the surface or intuition you haven't fully tapped. Several fish multiply the theme: more chances, or more to navigate.
+### Cat
 
-**Fox** asks for cleverness and a little caution. It can flag someone acting with hidden motives, or a situation where wit serves you better than force.
+A cat slips in with independence, intuition, and a little mystery. Where a dog points to loyalty from others, a cat asks you to trust your own path and pay attention to what stays hidden. Older tea-leaf traditions give it a sharper edge too: deceit, or a jealous friend you shouldn't fully trust.
 
-**Horse** means movement and energy. A galloping horse brings fast news or a strong new drive; a horse's head alone can point to a loyal companion or lover.
+### Dog
 
-**Owl** carries wisdom and watchfulness, with an edge of warning. It suggests looking closely before acting, and guarding what should stay private.
+A dog is loyalty made visible: a true friend has your back, or soon will. Personal history matters here. If you grew up wary of dogs, or recently lost one, the symbol carries that feeling too.
 
-**Rabbit** speaks to timidity, fertility, and quick change. It can nudge you toward courage, or mark a phase where you'd rather retreat than confront.
+### Dove
 
-**Snake** is transformation and renewal, the shedding of an old skin. In older traditions it also warns of an enemy or hidden trouble, so read it against what surrounds it.
+A dove is peace, reconciliation, and gentle love. It often shows up when a conflict is ready to settle.
 
-**Spider** rewards patience and steady work. It points to persistence paying off, a web of useful connections, and often money on the way.
+### Elephant
+
+An elephant stands for strength, patience, and steady wisdom. It's a lucky symbol, and a reminder that slow, deliberate progress holds.
+
+### Fish
+
+Fish swim through the cup carrying abundance and hidden knowledge. They point to opportunities under the surface or intuition you haven't fully tapped. Several fish multiply the theme: more chances, or more to navigate.
+
+### Fox
+
+A fox asks for cleverness and a little caution. It can flag someone acting with hidden motives, or a situation where wit serves you better than force.
+
+### Horse
+
+A horse means movement and energy. A galloping horse brings fast news or a strong new drive; a horse's head alone can point to a loyal companion or lover.
+
+### Owl
+
+An owl carries wisdom and watchfulness, with an edge of warning. It suggests looking closely before acting, and guarding what should stay private.
+
+### Rabbit
+
+A rabbit speaks to timidity, fertility, and quick change. It can nudge you toward courage, or mark a phase where you'd rather retreat than confront.
+
+### Snake
+
+A snake is transformation and renewal, the shedding of an old skin. In older traditions it also warns of an enemy or hidden trouble, so read it against what surrounds it.
+
+### Spider
+
+A spider rewards patience and steady work. It points to persistence paying off, a web of useful connections, and often money on the way.
 
 ## Nature and Sky Symbols
 
 These are the slow, background symbols: foundations, weather, and the sky overhead. They tend to describe long-running situations rather than quick events.
 
-**Cloud** muddies the water. It means doubt, uncertainty, or a stretch where clarity hasn't arrived. Clouds also soften whatever sits near them, dimming a bright symbol or gentling a harsh one.
+### Cloud
 
-**Flower** bursts in with joy, romance, and temporary beauty. A flower near the rim means you're in a blooming phase right now; several flowers mean your social life is in full spring.
+A cloud muddies the water. It means doubt, uncertainty, or a stretch where clarity hasn't arrived. Clouds also soften whatever sits near them, dimming a bright symbol or gentling a harsh one.
 
-**Hill** is a modest obstacle, the kind you can clearly see over. A row of hills points to a series of small challenges rather than one large one.
+### Flower
 
-**Leaf** is new life and growth, a fresh chapter opening. Many leaves scattered through the cup suggest prosperity and good news building.
+A flower bursts in with joy, romance, and temporary beauty. A flower near the rim means you're in a blooming phase right now; several flowers mean your social life is in full spring.
 
-**Moon** speaks to intuition, the unconscious, and romance. A full moon points to something reaching fulfillment; a faint or partial moon hints at a phase still forming.
+### Hill
 
-**Mountain** offers a choice of reading: obstacle or achievement. Position and your gut decide. A mountain in your path is a challenge ahead; one you've just passed is something already conquered.
+A hill is a modest obstacle, the kind you can clearly see over. A row of hills points to a series of small challenges rather than one large one.
 
-**Star** is hope and guidance, a point of light to steer by. It marks good fortune, aspiration, and dreams worth reaching for.
+### Leaf
 
-**Sun** is happiness, vitality, and success out in the open. It's one of the most positive marks in the cup, and it warms the symbols around it.
+A leaf is new life and growth, a fresh chapter opening. Many leaves scattered through the cup suggest prosperity and good news building.
 
-**Tree** is roots and stability, your foundation and your growth. A strong, clear tree suggests solid ground; a bare or broken one points to family strain or feeling unrooted.
+### Moon
 
-**Water and waves** trace the movement of emotion and intuition. Rolling waves mean feelings in motion; still water suggests a calm you can trust.
+The moon speaks to intuition, the unconscious, and romance. A full moon points to something reaching fulfillment; a faint or partial moon hints at a phase still forming.
+
+### Mountain
+
+A mountain offers a choice of reading: obstacle or achievement. Position and your gut decide. A mountain in your path is a challenge ahead; one you've just passed is something already conquered.
+
+### Star
+
+A star is hope and guidance, a point of light to steer by. It marks good fortune, aspiration, and dreams worth reaching for.
+
+### Sun
+
+The sun is happiness, vitality, and success out in the open. It's one of the most positive marks in the cup, and it warms the symbols around it.
+
+### Tree
+
+A tree is roots and stability, your foundation and your growth. A strong, clear tree suggests solid ground; a bare or broken one points to family strain or feeling unrooted.
+
+### Water and Waves
+
+Water and waves trace the movement of emotion and intuition. Rolling waves mean feelings in motion; still water suggests a calm you can trust.
 
 ## Object Symbols
 
 Objects are the tools and thresholds of a reading: things made, used, and crossed. They often describe practical matters, decisions, and turning points.
 
-**Anchor** is stability, rest, and success that holds. Near the rim it points to a safe arrival or a steady footing in work or love; clouded or at the bottom, it can mean you feel weighed down.
+### Anchor
 
-**Bell** announces news. A clear, single bell brings good tidings; two bells suggest celebration. Bells surrounded by clouds may carry news that arrives muddled.
+An anchor is stability, rest, and success that holds. Near the rim it points to a safe arrival or a steady footing in work or love; clouded or at the bottom, it can mean you feel weighed down.
 
-**Boat or ship** is a journey, a discovery, or a welcome visit. It often means good fortune reaching you from a distance.
+### Bell
 
-**Book** holds knowledge. An open book means good news and information within reach; a closed book points to secrets, or an answer that needs research before it appears.
+A bell announces news. A clear, single bell brings good tidings; two bells suggest celebration. Bells surrounded by clouds may carry news that arrives muddled.
 
-**Candle** is insight, learning, and help from others. It suggests understanding arriving, or a person willing to light the way.
+### Boat or Ship
 
-**Clock** makes a matter time-sensitive. It can urge you to act, mark a deadline, or gently flag health and rest.
+A boat or ship is a journey, a discovery, or a welcome visit. It often means good fortune reaching you from a distance.
 
-**Coin** points to money and improving finances. Small round dots clustered together carry the same meaning, often a sum arriving in pieces.
+### Book
 
-**Cup** is reward and harmony, something offered to you: love, recognition, or a kindness returned.
+A book holds knowledge. An open book means good news and information within reach; a closed book points to secrets, or an answer that needs research before it appears.
 
-**House** represents home, security, and your sense of self. Changes to the house, whether damage, building, or moving, reflect shifts in how grounded you feel.
+### Candle
 
-**Key** unlocks things: opportunity, access, a solution, or a secret revealed. It shows up when something closed is ready to open.
+A candle is insight, learning, and help from others. It suggests understanding arriving, or a person willing to light the way.
 
-**Ladder** is progress made in steps. It points to advancement, a climb toward a goal, or the rise and fall of your fortunes depending on which way it leans.
+### Clock
 
-**Ring** points to marriage and committed relationships above all. It can also mark any situation coming full circle, a bond sealed or renewed. A broken ring points to a promise or engagement that didn't hold.
+A clock makes a matter time-sensitive. It can urge you to act, mark a deadline, or gently flag health and rest.
 
-**Scissors** cut. They mean separation, a clean break, or a decision that ends one thing to begin another. Scissors remind you that a clean cut heals better than a slow tear.
+### Coin
+
+A coin points to money and improving finances. Small round dots clustered together carry the same meaning, often a sum arriving in pieces.
+
+### Cup
+
+A cup is reward and harmony, something offered to you: love, recognition, or a kindness returned.
+
+### House
+
+A house represents home, security, and your sense of self. Changes to the house, whether damage, building, or moving, reflect shifts in how grounded you feel.
+
+### Key
+
+A key unlocks things: opportunity, access, a solution, or a secret revealed. It shows up when something closed is ready to open.
+
+### Ladder
+
+A ladder is progress made in steps. It points to advancement, a climb toward a goal, or the rise and fall of your fortunes depending on which way it leans.
+
+### Ring
+
+A ring points to marriage and committed relationships above all. It can also mark any situation coming full circle, a bond sealed or renewed. A broken ring points to a promise or engagement that didn't hold.
+
+### Scissors
+
+Scissors cut. They mean separation, a clean break, or a decision that ends one thing to begin another. Scissors remind you that a clean cut heals better than a slow tear.
 
 ## People and Body Symbols
 
 Figures and body parts describe relationships, the people around you, and where you stand among them. A figure near the handle sits close to you; one across the cup stands at a distance.
 
-**Child** is a new beginning, a fresh project, or a lighter, more open phase. It carries innocence and the energy of starting over.
+### Child
 
-**Eye** asks for awareness. It means looking carefully, staying alert, and understanding a situation fully before you decide.
+A child is a new beginning, a fresh project, or a lighter, more open phase. It carries innocence and the energy of starting over.
 
-**Foot or feet** mark a decision to move: a change of direction, a step taken, a journey already underway.
+### Eye
 
-**Hand** is friendship and help, offered or needed. The direction it points, and what it reaches toward, shades the meaning.
+An eye asks for awareness. It means looking carefully, staying alert, and understanding a situation fully before you decide.
 
-**Heart** is love and the matters closest to you. A clear heart points to trust and a strong bond; a heart beside another symbol colors that symbol romantically.
+### Foot or Feet
 
-**Kneeling figure** is a moment of surrender or request: humility, a plea for help, or a turning point where you yield rather than push. Read who or what the figure kneels toward, since that often names the source of the pressure or the relief.
+Feet mark a decision to move: a change of direction, a step taken, a journey already underway.
 
-**Person or figures** stand for the people in your life. Their size, clarity, and distance from the handle tell you how close they are and how much weight they carry right now.
+### Hand
+
+A hand is friendship and help, offered or needed. The direction it points, and what it reaches toward, shades the meaning.
+
+### Heart
+
+A heart is love and the matters closest to you. A clear heart points to trust and a strong bond; a heart beside another symbol colors that symbol romantically.
+
+### Kneeling Figure
+
+A kneeling figure is a moment of surrender or request: humility, a plea for help, or a turning point where you yield rather than push. Read who or what the figure kneels toward, since that often names the source of the pressure or the relief.
+
+### Person or Figures
+
+Figures stand for the people in your life. Their size, clarity, and distance from the handle tell you how close they are and how much weight they carry right now.
 
 ## Shape, Line, and Mark Symbols
 
 When tea leaves don't form a clear picture, they still speak through shapes, lines, and scattered marks. These are the abstract layer of the language, and they often tie the other symbols together.
 
-**Arrow** is news or a message, and the direction of energy. An arrow pointing down traditionally warns of disappointing news; pointing up or toward you, it carries momentum.
+### Arrow
 
-**Circle** means completion, wholeness, and cycles coming around. It also stands for protection, like a boundary drawn around what matters. A clear circle suggests success; a broken one, a plan not yet whole.
+An arrow is news or a message, and the direction of energy. An arrow pointing down traditionally warns of disappointing news; pointing up or toward you, it carries momentum.
 
-**Cross** marks a burden, a delay, or a crossroads where a choice is required. In some traditions it also offers protection, so weigh it against the symbols nearby.
+### Circle
 
-**Dots and dashes** are money and emphasis. A run of dots near another symbol strengthens it; on their own, they often point to small sums or a series of quick events.
+A circle means completion, wholeness, and cycles coming around. It also stands for protection, like a boundary drawn around what matters. A clear circle suggests success; a broken one, a plan not yet whole.
 
-**Line** traces a path. A straight line means a direct route and clear thinking; a wavy line means an indirect path or emotional turbulence; a broken line points to an interrupted journey.
+### Cross
 
-**Road or path** is a choice of direction and the way forward. A forked road marks a decision; a long, clear road suggests an open route with few obstacles.
+A cross marks a burden, a delay, or a crossroads where a choice is required. In some traditions it also offers protection, so weigh it against the symbols nearby.
 
-**Square** is protection and security, a safe and steady space. Read as a restriction, though, it can mean feeling boxed in or held back.
+### Dots and Dashes
 
-**Triangle** is directional. Pointing up, it means rising energy: luck, money, or success on the way. Pointing down, it means energy draining: losses or a downward turn.
+Dots and dashes are money and emphasis. A run of dots near another symbol strengthens it; on their own, they often point to small sums or a series of quick events.
 
-**Letters and numbers** stand for initials, dates, and timing. The letter M might name a person, or stand in for mother or marriage; the number 3 might mean three days, weeks, or months. Context and intuition decide.
+### Line
+
+A line traces a path. A straight line means a direct route and clear thinking; a wavy line means an indirect path or emotional turbulence; a broken line points to an interrupted journey.
+
+### Road or Path
+
+A road or path is a choice of direction and the way forward. A forked road marks a decision; a long, clear road suggests an open route with few obstacles.
+
+### Square
+
+A square is protection and security, a safe and steady space. Read as a restriction, though, it can mean feeling boxed in or held back.
+
+### Triangle
+
+A triangle is directional. Pointing up, it means rising energy: luck, money, or success on the way. Pointing down, it means energy draining: losses or a downward turn.
+
+### Letters and Numbers
+
+Letters and numbers stand for initials, dates, and timing. The letter M might name a person, or stand in for mother or marriage; the number 3 might mean three days, weeks, or months. Context and intuition decide.
 
 {% include article-kofi-callout.html %}
 

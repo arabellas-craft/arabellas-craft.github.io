@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Unleash Your Inner Magpie: Why a Unique Tarot Deck Can Spark Extraordinary Reading"
+title: "Magpie Tarot Deck: How to Build Your Own From Several Decks"
 date: 2024-02-03 10:51:01 -0700
 tag: article
 topic: divination

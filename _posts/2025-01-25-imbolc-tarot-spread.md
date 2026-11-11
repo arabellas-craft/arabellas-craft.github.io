@@ -16,7 +16,7 @@ When winter feels endless, our ancestors knew something we often forget - spring
 Imbolc (also spelled Imbolg) falls on February 1st or 2nd. The name comes from the Old Irish "i mbolg" meaning "in the belly" - referring to pregnant ewes carrying spring lambs. For ancient Irish, this was a powerful sign that winter's grip was loosening.
 The festival honors Brigid, a goddess so beloved she became Saint Brigid when Christianity came to Ireland.
 
-People would light candles and sacred fires to welcome the growing sunlight. They also made Brigid's crosses from rushes to protect their homes and encourage spring's return.
+People would light candles and sacred fires to welcome the growing sunlight. They also made [Brigid's crosses](/st-brigids-day-crosses) from rushes to protect their homes and encourage spring's return.
 
 ## How to Use This Spread
 **First: Set Your Space**

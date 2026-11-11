@@ -28,7 +28,7 @@ Most modern pagan traditions treat the gods as archetypes: aspects of a larger d
 
 You can't build a CR practice by pulling a Celtic deity name from a list and pairing it with Wiccan or ceremonial magic ritual structures. The theological and cultural context is part of what you're working with.[^1]
 
-CR also resists pan-Celtic practice, treating Irish, Welsh, and Gaulish material as interchangeable because they're all "Celtic." The traditions are related but distinct. Irish CR works with Irish sources and Irish context.[^1] The intro guide covers [how CR differs from Wicca and neo-paganism](/celtic-reconstructionism-introduction-guide#how-cr-differs-from-wicca-and-neo-paganism) more broadly.
+CR also resists pan-Celtic practice, treating Irish, Welsh, and Gaulish material as interchangeable because they're all "Celtic." The traditions are related but distinct. Irish CR works with Irish sources and Irish context.[^1] The intro guide covers [how CR differs from Wicca and neo-paganism](/celtic-reconstructionism-introduction-guide#how-cr-differs-from-wicca-and-celtic-neopaganism) more broadly.
 
 {% include article-kofi-callout.html %}
 

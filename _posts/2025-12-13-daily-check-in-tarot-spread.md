@@ -4,7 +4,7 @@ title: "Daily Check-In Tarot Spread: A Simple 3-Card Morning Reading"
 date: 2025-12-13 11:32:01 -0700
 category: Simple
 tag: tarot-spread
-short-description: Start your day with intention using this simple 3-card daily tarot spread. Perfect for beginners—no special tools or experience required, just your deck and a few minutes.
+short-description: "A 3-card morning tarot spread: your energy right now, what will help today, and what to be mindful of. Takes five minutes and works with any deck."
 img: daily-check-in-tarot-spread.jpg
 img-text: "Daily Check-In Tarot Spread layout showing three card positions: 1. My energy right now, 2. What will help me today, 3. What to be mindful of. Simple morning tarot reading for daily guidance."
 permalink: free-tarot-spreads/daily-check-in-tarot-spread

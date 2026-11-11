@@ -52,6 +52,8 @@ The most common token was placing a cake or pieces of bread and butter on the wi
 
 Often a sheaf of corn was put beside the cake as refreshment for the saint's favorite white cow which accompanied her on her rounds. Others laid a bundle of straw or fresh rushes on the threshold, on which the saint might kneel to bless the house, or on which she might wipe her feet before entering.
 
+The most widespread custom of the Eve was making a [St. Brigid's cross](/st-brigids-day-crosses) from straw or rushes and hanging it in the house, byre, and stable.
+
 Regional variations were common. In County Donegal the offering frequently was a dish of porridge. Many households in County Mayo stuck the handle of the butter churn into the ground and placed the cake for the saint on its flat top. In County Antrim and other parts of the north, a table was set in the kitchen with food as for a guest, and when the time for the saint's visit had passed, the first poor person who came the way was invited to eat the food.
 
 ## Bringing Live Fish Into the House
