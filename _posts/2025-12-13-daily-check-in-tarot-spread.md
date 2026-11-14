@@ -75,6 +75,7 @@ Once daily check-ins become routine, you might want to expand your practice:
 - Try [this alternative three-card daily spread](https://juniperdivination.com/free-tarot-spreads/3-card-daily-tarot-spread) that focuses on what to know, what action to take, and what to release
 - Use the [New Moon spread](https://juniperdivination.com/free-tarot-spreads/new-moon-month-ahead-tarot-spread) at the start of each lunar cycle for longer-term reflection
 - Explore [shadow work spreads](https://juniperdivination.com/free-tarot-spreads/emotional-healing-shadow-work-tarot-spread) when you're ready to dig into deeper emotional patterns
+- Use the [Quick Decision spread](https://juniperdivination.com/free-tarot-spreads/quick-decision-tarot-spread) when a choice between two options comes up
 - Browse [all free tarot spreads](https://juniperdivination.com/free-tarot-spreads/) for specific situations and questions
 
 You can also experiment with different divination systems. [Playing card divination](https://juniperdivination.com/playing-card-divination-unveiling-its-roots-and-history) offers the same accessibility with a standard deck of cards, and the skills transfer directly to tarot reading.

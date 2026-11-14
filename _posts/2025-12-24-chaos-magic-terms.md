@@ -158,7 +158,7 @@ You might use Christian prayer for emotional comfort. Norse runes for protection
 
 You're not claiming to be Christian, Norse Heathen, and Jungian psychologist simultaneously. You're using each framework when it's the best tool for that specific job.
 
-Explore the [philosophy behind belief-as-tool](/chaos-magic-belief-as-tool) and learn [practical paradigm shifting techniques](#paradigm-article).
+Explore the [philosophy behind belief-as-tool](/chaos-magic-belief-as-tool) and learn [practical paradigm shifting techniques](/chaos-magic-paradigm-shifting).
 
 ### Sigil
 
