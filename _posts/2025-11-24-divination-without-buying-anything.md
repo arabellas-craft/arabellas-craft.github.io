@@ -124,9 +124,9 @@ Every card from Ace to King has a specific meaning. That's 52 cards giving you a
 - Nothing to buy or memorize
 - Natural for processing complicated feelings or big questions
 
-**Getting Started:** My [bibliomancy ebook](https://ko-fi.com/s/71bb6a9240){:target="_blank" rel="noopener noreferrer"} teaches a four-step method that makes any passage readable as divination. Includes how to choose books, advanced three-passage spreads, fixing confusing readings, and real examples.
+**Getting Started:** My [bibliomancy ebook](https://ko-fi.com/s/71bb6a9240){:target="_blank" rel="noopener noreferrer"} teaches a four-pass method for interpreting passages. Includes how to choose books, advanced three-passage spreads, fixing confusing readings, and real examples.
 
-**[Get the complete bibliomancy guide for $1.99](https://ko-fi.com/s/71bb6a9240){:target="_blank" rel="noopener noreferrer"}**
+**[Get the complete bibliomancy guide for 99¢](https://ko-fi.com/s/71bb6a9240){:target="_blank" rel="noopener noreferrer"}**
 
 ---
 
@@ -204,7 +204,7 @@ You already have everything you need to begin:
 
 **[Tea Leaf Reading Guide - $0.99](https://ko-fi.com/s/16c793f6af){:target="_blank" rel="noopener noreferrer"}** → Reading techniques, symbol dictionary, rituals
 
-**[Bibliomancy eBook - $1.99](https://ko-fi.com/s/71bb6a9240){:target="_blank" rel="noopener noreferrer"}** → Four-step method, advanced spreads, book selection guide
+**[Bibliomancy eBook - 99¢](https://ko-fi.com/s/71bb6a9240){:target="_blank" rel="noopener noreferrer"}** → Four-pass interpretation method, three-passage spreads, book selection guide
 
 **Get all four complete guides for under $5 total.** Each is a PDF or epub file you download instantly. Start practicing within the hour.
 
