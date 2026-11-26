@@ -303,3 +303,56 @@ aside {
     order: 2;
   }
 }
+
+// Book entries: cover floats left and the text wraps around it (recommendation pages)
+.book-entry {
+  display: flow-root; // contains the floated cover
+  padding: 1.5rem 0;
+  border-bottom: 1px solid rgba($blue, 0.5);
+
+  // kramdown wraps the cover <img> in a <p>; float that wrapper
+  > p:first-child {
+    float: left;
+    margin: 0.35rem 1.5rem 0.75rem 0;
+    padding-bottom: 0;
+  }
+
+  img.book-cover {
+    width: 180px;
+    height: auto;
+    margin: 0;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba($black, 0.25);
+  }
+
+  // YouTube stills are 16:9, so they get more width than a book cover
+  img.book-cover.media-wide {
+    width: 240px;
+  }
+
+  // Article h3s carry 2rem of padding-top; drop it so the title lines up with the cover
+  h3 {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  p:last-child {
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 700px) {
+  .book-entry {
+    > p:first-child {
+      margin-right: 1rem;
+    }
+
+    img.book-cover {
+      width: 120px;
+    }
+
+    img.book-cover.media-wide {
+      width: 160px;
+    }
+  }
+}

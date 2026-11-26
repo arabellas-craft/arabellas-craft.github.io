@@ -25,7 +25,7 @@ Cattle are wealth. The *Táin Bó Cúailnge* (Cattle Raid of Cooley) is a war fo
 
 The Otherworld stays close. Heroes can be lured into it. Gods visit the human world, sometimes in disguise. Cú Chulainn is half-divine; his father is Lugh (most of the time), the same god who led the Tuatha Dé at the Second Battle of Moytura. The Morrígan appears repeatedly across the cycle, sometimes as a crow, sometimes as a washer at a ford prophesying death.
 
-A long-running scholarly debate runs through all of this: how much of the picture preserves real Iron Age Celtic culture, and how much was constructed by medieval scribes? J.P. Mallory's *[In Search of the Irish Dreamtime](https://bookshop.org/a/84772/9780500052181){:target="_blank" rel="noopener noreferrer"}* is a fairly accessible investigation of this question. The short answer is that the cycle is a composite, with archaic-looking features sitting alongside clearly medieval ones.
+A long-running scholarly debate runs through all of this: how much of the picture preserves real Iron Age Celtic culture, and how much was constructed by medieval scribes? J.P. Mallory's *[In Search of the Irish Dreamtime](https://bookshop.org/a/84772/9780500051849){:target="_blank" rel="noopener noreferrer"}* is a fairly accessible investigation of this question. The short answer is that the cycle is a composite, with archaic-looking features sitting alongside clearly medieval ones.
 
 ## The manuscript layer, briefly
 
@@ -128,5 +128,5 @@ The [Fenian Cycle](/irish-mythology-fenian-cycle) is up next. The shift between 
 
 ---
 
-[^1]: J.P. Mallory, *[In Search of the Irish Dreamtime: Archaeology and Early Irish Literature](https://bookshop.org/a/84772/9780500052181){:target="_blank" rel="noopener noreferrer"}* (Thames & Hudson, 2016).
+[^1]: J.P. Mallory, *[In Search of the Irish Dreamtime: Archaeology and Early Irish Literature](https://bookshop.org/a/84772/9780500051849){:target="_blank" rel="noopener noreferrer"}* (Thames & Hudson, 2016).
 [^2]: Mark Williams, *[Ireland's Immortals: A History of the Gods of Irish Myth](https://bookshop.org/a/84772/9780691183046){:target="_blank" rel="noopener noreferrer"}* (Princeton University Press, 2016).

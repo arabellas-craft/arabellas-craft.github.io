@@ -58,7 +58,7 @@ Reread your notes after a month. You'll see which cards keep showing up for you 
 
 ## 6. Use the guidebook as a starting point
 
-The little booklet that comes with most decks gives a few words per card. That's enough to get you started and not much more. For fuller standard meanings, Rachel Pollack's *[78 Degrees of Wisdom](https://bookshop.org/a/84772/9781578636655)* is on my [recommended reading list](/recommendations/).
+The little booklet that comes with most decks gives a few words per card. That's enough to get you started and not much more. For fuller standard meanings, Rachel Pollack's *[78 Degrees of Wisdom](https://bookshop.org/a/84772/9781578636655)* is on my [list of tarot books for beginners](/tarot-books-for-beginners).
 
 The guidebook's meanings are just one interpretation. After you've pulled a card a dozen times, your journal notes will often tell you more than the guidebook does. When the book and your read disagree, write both down and see which one holds up.
 
