@@ -13,7 +13,7 @@ permalink: /ogham-an-introduction
 
 In this article, I will provide you with an introduction to Ogham, exploring its history, meanings, and its use in divination. Whether you're a beginner or already intrigued by this mystical script and divinatory system, this guide will help you gain a better understanding of Ogham and how it can enrich your spiritual journey.
 
-# What is ogham?
+## What is ogham?
 Ogham (pronounced OH-mm) is a writing system that dates from the 4th century CE that was used to write Primitive Irish and is used today as both a writing and magical and divinatory system. Each letter in the Ogham alphabet is called a fid (pronounced fee) and a group of letters is called a feda (pronounced fed-ah).
 
 Ogham feda are composed of a series of straight lines, typically inscribed vertically or horizontally on a surface. These lines are grouped into clusters, each representing a specific letter or character
@@ -30,38 +30,38 @@ As a quick aside: Often when people have heard of ogham it’s through Robert Gr
 
 {% include article-kofi-callout.html %}
 
-# What do the ogham letters look like?
+## What do the ogham letters look like?
 The ogham letters are formed by tally marks that come off of a central line. They are generally read from bottom to top when the text is arranged vertically (as it often is on stone inscriptions) or from left to right if it is arranged horizontally.
 
 ![](/assets/img/article/ogham-alphabet.jpg)
 
-# Where did ogham come from?
+## Where did ogham come from?
 There are 2 main theories on where ogham comes from. The first is that ogham was created by the Irish to be a written language that could not be understood by Latin speakers (primarily for political. religious, and military purposes).
 
 The other mainstream theory is that the ogham was invented by early Irish Christians because the Irish language was difficult to write in the Latin alphabet.
 
 There is also an older theory that ogham was invented by Druids in Gaul which has since been discredited as it has since been shown that ogham was almost certainly created for writing primitive Irish.
 
-# What are ogham's mythical origins?
+## What are ogham's mythical origins?
 [The Book of Invasions](https://en.wikipedia.org/wiki/Lebor_Gab%C3%A1la_%C3%89renn){:target="_blank" rel="noopener noreferrer"} and [The Scholar’s Primer](https://en.wikipedia.org/wiki/Auraicept_na_n-%C3%89ces){:target="_blank" rel="noopener noreferrer"} both have similar stories about the invention of ogham that relate to the Tower of Babel (see [this episode](https://www.constantpodcast.com/episodes/babble-on){:target="_blank" rel="noopener noreferrer"} of The Constant podcast for more context around this).
 
 In this version of the story, a (fictional) Irish king sends out a group of scholars shortly after the fall of the Tower of Babel to try and reconstruct our previously shared language that the Christian God had destroyed. Those scholars take the best part of each new language that they find and mix them all together and create the Irish language/recreate the original language before the fall of the Tower of Babel and the ogham writing system with each fed being named after one of the scholars who helped reconstruct the language.
 
 However The Scholar's Primer contains a second creation story and it tells us that the god Ogma, a God known for his skills in speech and poetry, invented the ogham to warn the God Lugh that his wife would be stolen away to the Otherworld unless he protected her with birch.
 
-# What are ogham's uses today?
+## What are ogham's uses today?
 Today ogham is primarily used in Pagan circles as a writing and divinatory system. The bríatharogaim and associated lists for each letter are generally used as a guide to the letter’s divinatory meaning. The main reference cited for ogham as a divinatory tool is a brief mention in The Wooing of Etaine but not much information is given on how exactly the ogham was used other than it involving yew wands with the ogham written on them, but reading methods tend to vary from practitioner to practitioner.
 
-# Where can I learn more about ogham?
-## Books
+## Where can I learn more about ogham?
+### Books
 [Ogam: Weaving Word Wisdom by Erynn Rowan Laurie](https://bookshop.org/a/84772/9781905713028){:target="_blank" rel="noopener noreferrer"}
 
 [Ogham: The Secret Language of the Druids by Robert Lee Ellison](https://www.goodreads.com/book/show/6898902-ogham){:target="_blank" rel="noopener noreferrer"}
 
-## Courses
+### Courses
 [3 Truths About Ogham](https://irishpaganschool.com/p/ogham-truth){:target="_blank" rel="noopener noreferrer"} (Free!)
 
-## Primary sources
+### Primary sources
 [The Ogham Tract](https://www.maryjones.us/ctexts/ogham.html){:target="_blank" rel="noopener noreferrer"}
 
 Ogham is a unique and enchanting script that carries profound historical and spiritual significance. I hope that this guide has introduced you to its history, meanings, and its potential for divination. Whether you're drawn to its mystical allure or wish to deepen your understanding of Irish culture, Ogham has much to offer.
