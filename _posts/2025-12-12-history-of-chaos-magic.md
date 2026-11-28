@@ -43,7 +43,7 @@ He followed *Liber Null* with *Psychonaut* in 1982, and the two were republished
 
 Together with Ray Sherwin, Carroll co-founded the Illuminates of Thanateros (IOT) in 1978. He later founded Arcanorium College, an online school for occultism that he ran until his death.
 
-Carroll died on 22 April 2026, at age 72. The community he helped build has been processing his loss in r/chaosmagick, r/occult, and on his own site at Specularium. His writing on sigils, gnosis, and paradigm-shifting remains the practical foundation of the practice, Much of what's on this site descends from his work in one way or another.
+Carroll died on 22 April 2026, at age 72. The community he helped build has been processing his loss in r/chaosmagick, r/occult, and on his own site at Specularium. His writing on sigils, [gnosis](/gnosis-techniques-chaos-magic), and paradigm-shifting remains the practical foundation of the practice, Much of what's on this site descends from his work in one way or another.
 
 ## Ray Sherwin
 

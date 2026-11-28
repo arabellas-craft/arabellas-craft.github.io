@@ -87,7 +87,7 @@ As you explore chaos magic, you'll encounter a handful of key ideas. I'll cover 
 
 **Belief as a tool:** The foundational concept. Rather than asking "Is this true?" chaos magic asks "Is this useful?" You can adopt a belief system for a specific working and release it afterward.
 
-**Gnosis:** Altered states of consciousness that power magical work. These states can be achieved through meditation, breathwork, exhaustion, ecstatic dancing, or other methods. Gnosis is less about what you're thinking and more about shifting how your mind is operating.
+**[Gnosis](/gnosis-techniques-chaos-magic):** Altered states of consciousness that power magical work. These states can be achieved through meditation, breathwork, exhaustion, ecstatic dancing, or other methods. Gnosis is less about what you're thinking and more about shifting how your mind is operating.
 
 **Sigils:** Probably the most well-known chaos magic technique, although it predates chaos magic. A sigil is a symbol you create from a statement of intention, then charge through gnosis and release. It's simple enough for complete beginners but remains useful for experienced practitioners.
 
