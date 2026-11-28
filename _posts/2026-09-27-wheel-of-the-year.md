@@ -20,7 +20,7 @@ The medieval tale *Tochmarc Emire*, "The Wooing of Emer," names all four festiva
 
 **Samhain** (pronounced [SAH-win](https://www.teanglann.ie/en/fuaim/Samhain){:target="_blank" rel="noopener noreferrer"}), November 1st, is "Samhain, when the summer goes to its rest."[^1] It opened winter and closed the farmer's year: the harvest was in, and the cattle came down from the summer pastures to the fields near the house.[^2] See [What is Samhain?](/what-is-samhain), [Irish Halloween traditions](/samhain-folk-customs) and [the night's fortune-telling games](/samhain-divination-games).
 
-**Imbolc** (pronounced IM-olk), February 1st, is "Imbolc, when the ewes are milked at spring's beginning."[^1] That's the medieval name. In the folk record the day is St. Brigid's Day, Lá Fhéile Bríde (pronounced [law AY-luh BREE-juh](https://www.teanglann.ie/en/fuaim/L%C3%A1_Fh%C3%A9ile_Br%C3%ADde){:target="_blank" rel="noopener noreferrer"}), the first day of spring and of the farmer's working year.[^2] See [preparing the home for Imbolc](/st-brigids-day-preparing-home) and [St. Brigid's crosses](/st-brigids-day-crosses).
+**Imbolc** (pronounced IM-olk), February 1st, is "Imbolc, when the ewes are milked at spring's beginning."[^1] That's the medieval name. In the folk record the day is St. Brigid's Day, Lá Fhéile Bríde (pronounced [law AY-luh BREE-juh](https://www.teanglann.ie/en/fuaim/L%C3%A1_Fh%C3%A9ile_Br%C3%ADde){:target="_blank" rel="noopener noreferrer"}), the first day of spring and of the farmer's working year.[^2] See [preparing the home for Imbolc](/st-brigids-day-preparing-home), [St. Brigid's crosses](/st-brigids-day-crosses) and [an Imbolc tarot spread](/free-tarot-spreads/imbolc-tarot-spread-2025-ancient-celtic-fire-festival).
 
 **Bealtaine** (pronounced [BYAL-tin-uh](https://www.teanglann.ie/en/fuaim/Bealtaine){:target="_blank" rel="noopener noreferrer"}), May 1st, is "Beltine at the summer's beginning."[^1] It was a gale day, when half a year's rent fell due, and hiring fairs were held where farm workers found their next place. The cattle went out to the summer grazing.[^2] See [Irish folk customs for Bealtaine](/irish-bealtaine-traditions) and [the history of modern Beltane traditions](/history-of-modern-beltane-traditions).
 
@@ -34,7 +34,7 @@ Each festival is the first day of a season, so the solstices and equinoxes land 
 
 You'll also see the four festivals called "cross-quarter days." Modern pagan writers count the solstices and equinoxes as the quarters and the four festivals as the "cross-quarter" days between them.[^6] In the Irish calendar the four festivals are the quarter days themselves.[^1]
 
-## What Ireland did at the solstices and equinoxes
+## What Ireland did at midsummer and the equinoxes
 
 **Midsummer** was one of the biggest nights of the Irish year. Bonfires were lit on St. John's Eve, June 23rd, and Kevin Danaher records communal midsummer fires in every county.[^2] A Galway school collection from the 1930s:
 
@@ -42,11 +42,13 @@ You'll also see the four festivals called "cross-quarter days." Modern pagan wri
 
 The custom wasn't only Irish: Hutton finds the same bonfires across England, Wales and Lowland Scotland, "with complete irrelevance to boundaries between Celtic areas and others."[^1]
 
-**Midwinter**: at the winter solstice the rising sun shines through an opening above the entrance of Newgrange, a passage tomb built before 3000 BCE, and down the passage into its inner chamber.[^1][^8] Archaeologist Michael O'Kelly first saw it there in 1967, after local people told him the sun used to reach the chamber. He had rebuilt the opening during the excavation, and how closely it matches the original is debated.[^8]
+**The equinoxes** had no Irish festival of their own. Lady Day, March 25th, was a Church holy day and, until 1752, the start of the legal year, but Danaher says "it had little effect on popular tradition."[^2] Michaelmas, September 29th, came in with Anglo-Norman law.[^2] Across northern Europe, Hutton finds no festival recorded at the spring equinox before Easter, and the autumn one "even less evident."[^9]
+
+## Midwinter in Ireland
+
+At the winter solstice the rising sun shines through an opening above the entrance of Newgrange, a passage tomb built before 3000 BCE, and down the passage into its inner chamber.[^1][^8] Archaeologist Michael O'Kelly first saw it there in 1967, after local people told him the sun used to reach the chamber. He had rebuilt the opening during the excavation, and how closely it matches the original is debated.[^8]
 
 The folk calendar's midwinter was Christmas, the most important of the Christian feasts to Irish people, running to Little Christmas on January 6th. Irish speakers called that Nollaig na mBan, "Women's Christmas."[^2] A medieval Irish text has the high king Brian Boru holding court "from great Christmas to little Christmas."[^1] [Lá Coille](/irish-new-year-folk-magic-la-coille) covers the New Year customs in between.
-
-**The equinoxes** had no Irish festival of their own. Lady Day, March 25th, was a Church holy day and, until 1752, the start of the legal year, but Danaher says "it had little effect on popular tradition."[^2] Michaelmas, September 29th, came in with Anglo-Norman law.[^2] Across northern Europe, Hutton finds no festival recorded at the spring equinox before Easter, and the autumn one "even less evident."[^9]
 
 ## Where the eight-festival Wheel of the Year came from
 
