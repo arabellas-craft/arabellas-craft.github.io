@@ -95,7 +95,7 @@ Multiple cards of stability (Tens, Fours, Empress) might indicate you're in a so
 
 **Pay attention to suits**
 
-All Cups: You're processing emotions, and self-love means honoring feelings rather than rushing past them.
+All Cups: You're [processing emotions](/free-tarot-spreads/emotional-clarity-tarot-spread), and self-love means honoring feelings rather than rushing past them.
 
 All Swords: Your mind is the battlefield. Self-love might mean questioning the thoughts you've accepted as truth.
 
